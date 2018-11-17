@@ -1,0 +1,135 @@
+chain of responsibility
+职责链模式：	
+			使多个对象都有机会处理请求，从而避免请求的发送者和接收者之间的耦合关系。将这个对象连成一条链，并沿着这条链传递该请求，直到有一个对象处理它为止。
+
+
+
+
+
+
+
+abstract class Handler
+{
+	protected Handle successor;
+	public void SetSuccessor(Handler successor)
+	{
+		this.successor = successor;
+	}
+	public abstract void HandleRequest(int request);
+}
+
+class concretHandler1 : Handler
+{
+	public override void HandleRequest(int request)
+	{
+		if ( request > 0 and request < 10)
+		{
+			Console.write("{0} deal with {1} ",this.GetType().Name,request)
+		}
+		else if (successor != null)
+		{
+			successor.HandleRequest(request);
+		}	
+	}
+}
+
+class concretHandler2 : Handler
+{
+	public override void HandleRequest(int request)
+	{
+		if ( request > 10 and request < 20)
+		{
+			Console.write("{0} deal with {1} ",this.GetType().Name,request)
+		}
+		else if (successor != null)
+		{
+			successor.HandleRequest(request);
+		}	
+	}
+}
+
+class concretHandler3 : Handler
+{
+	public override void HandleRequest(int request)
+	{
+		if ( request > 20 and request < 30)
+		{
+			Console.write("{0} deal with {1} ",this.GetType().Name,request)
+		}
+		else if (successor != null)
+		{
+			successor.HandleRequest(request);
+		}	
+	}
+}
+
+static void main(string[] args)
+{
+	Handle h1 = new concretHandle1();
+	Handle h2 = new concretHandle2();
+	Handle h3 = new concretHandle3();
+	h1.SetSuccessor(h2);
+	h2.SetSuccessor(h3);
+	int[] requests = {2,5,14,22,18,3,27,20};
+	foreach (int request in requests)
+	{
+		h1.HandleRequest(request);
+	}
+	Console.Read();
+}
+
+
+
+###########################################################################
+#!/usr/bin/python
+#
+#duty line
+#
+
+class Handler(object):
+
+	def __init__(self,successor=''):
+		self.successor = successor
+
+	def SetSuccessor(self,successor):
+
+		self.successor = successor
+
+	def HandleRequest(self,request):
+		pass
+
+class croncreatHandle1(Handler):
+
+	def HandleRequest(self,request):
+		if request>0 and request <10:
+			print "request is %s" % request
+		elif self.successor:
+			self.successor.HandleRequest(request)
+
+class croncreatHandle2(Handler):
+
+	def HandleRequest(self,request):
+		if request>=10 and request <20:
+			print "request is %s" % request
+		elif self.successor:
+			self.successor.HandleRequest(request)
+
+class croncreatHandle3(Handler):
+
+	def HandleRequest(self,request):
+		if request>=20 and request <30:
+			print "request is %s" % request
+		elif self.successor:
+			self.successor.HandleRequest(request)
+
+if __name__ == '__main__':
+
+	h1 = croncreatHandle1()
+	h2 = croncreatHandle2()
+	h3 = croncreatHandle3()
+	h1.SetSuccessor(h2)
+	h2.SetSuccessor(h3)
+	requests = [2,5,14,22,18,3,27,20]
+	for request in requests:
+		h1.HandleRequest(request)
+
