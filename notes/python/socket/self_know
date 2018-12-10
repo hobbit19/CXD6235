@@ -1,0 +1,8 @@
+
+
+
+accept() -- accept a connection, returning new socket and client address
+
+			接受连接并返回（conn,address）,其中conn是新的套接字对象，可以用来接收和发送数据。address是连接客户端的地址。
+
+　　		接收TCP 客户的连接（阻塞式）等待连接的到来

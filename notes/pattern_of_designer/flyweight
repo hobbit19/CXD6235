@@ -1,0 +1,120 @@
+享元模式 （flyweight)	运用共享技术有效地支持大量细粒度的对象。
+
+
+
+
+abstract class Flyweight
+{
+	public abstract void Operation(int extrinsicstate);
+}
+
+class ConcreteFlyweight : Flyweight
+{
+	public override void Operation(int extrinsicstate)
+	{
+		Console.WriteLines("concrete Flyweight:"+extrinsicstate);
+	}
+}
+class UnshareconcreteFlyweight : Flyweight
+{
+	public override void Operation(int extrinsicstate)
+	{
+		Console.WriteLines("unshared concrete Flyweight:"+extrinsicstate);
+	}
+}
+
+class FlyweightFactory
+{
+	private Hashtable flyweights = new Hashtable();
+	public FlyweightFactory()
+	{
+
+	}
+	public Flyweight GetFlyweight(string keys)
+	{
+		if (!flyweights.ContainKeys[keys])
+		{
+			flyweights.add(keys,new ConcreteFlyweight());
+		}
+		
+		return ((Flyweight)flyweights[keys]);
+	}
+	public int GetFlyweightCount()
+	{
+		return flyweights.Count;
+	}
+}
+static void main(string[] args)
+{
+	int extrinsicstate = 22;
+	FlyweightFactory f = new FlyweightFactory();
+	Flyweight fx = f.GetFlyweight("X");
+	fx.Operation(--extrinsicstate);
+
+	Flyweight fy = f.GetFlyweight("Y");
+	fy.Operation(--extrinsicstate);
+	
+	Flyweight fz = f.GetFlyweight("Z");
+	fz.Operation(--extrinsicstate);
+
+	UnshareconcreteFlyweight uf = new UnshareconcreteFlyweight();
+	uf.Operation(--extrinsicstate);
+	
+	Console.Read();
+}
+
+#############################################################################################################
+#!/usr/bin/python
+#
+#flyweight test
+#
+
+
+class Flyweight(object):
+
+	def Operation(self,extricstate):
+		pass
+
+class ConcreteFlyweight(Flyweight):
+
+	def Operation(self,extricstate):
+		print "Concrete Flyweight:%s" % extricstate
+
+class UnsharedFlyweight(Flyweight):
+
+	def Operation(self,extricstate):
+		print "Unshared Flyweight:%s" % extricstate
+
+class FlyweightFactory(object):
+	
+	def __init__(self,flyweights={}):
+		self.flyweights = flyweights
+	
+	def GetFlyweight(self,keys):
+		if not keys in self.flyweights.keys():
+			self.flyweights[keys] = ConcreteFlyweight()
+		return self.flyweights[keys]
+	def GetFlyweightCount(self):
+		return len(self.flyweights)
+
+if __name__ == '__main__':
+
+	f = FlyweightFactory()
+
+	fx = f.GetFlyweight("X")
+	fx.Operation("--extricstate")
+
+	fy = f.GetFlyweight("Y")
+	fy.Operation("--extricstate")
+
+	fz = f.GetFlyweight("Z")
+	fz.Operation("--extricstate")
+
+	uf = UnsharedFlyweight()
+	uf.Operation("--extricstate")
+
+	print f.GetFlyweightCount()
+	
+	fa = f.GetFlyweight("Z")
+
+	print f.GetFlyweightCount()

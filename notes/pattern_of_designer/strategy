@@ -1,0 +1,106 @@
+策略模式	（strategy）
+		它定义了算法家族，分别封装起来，让它们之间可以互相替换，此模式让算法的变化，不会影响到使用策略的客户。
+	
+
+
+	
+
+
+
+abstract class Strategy
+{
+	public abstract void AlgorithmInterface();
+}
+class ConcreteStrategyA : Strategy
+{
+	public override void AlgorithmInterface()
+	{
+		Console.WriteLine("ConcreteStrategyA");
+	}
+}
+class ConcreteStrategyB : Strategy
+{
+	public override void AlgorithmInterface()
+	{
+		Console.WriteLine("ConcreteStrategyB");
+	}
+}
+class ConcreteStrategyC : Strategy
+{
+	public override void AlgorithmInterface()
+	{
+		Console.WriteLine("ConcreteStrategyC");
+	}
+}
+
+class Context
+{
+	Strategy strategy;
+	public Context(Strategy strategy)
+	{
+		this.strategy = strategy;
+	}
+	public void ContextInterface()
+	{
+		strategy.AlgorithmInterface();
+	}
+}
+
+static void Main(string[] args)
+{
+	Context context;
+	context = new Context(new ConcreteStrategyA());
+	context.ContextInterface();
+	
+	context = new Context(new ConcreteStrategyB());
+	context.ContextInterface();
+
+	context = new Context(new ConcreteStrategyC());
+	context.ContextInterface();
+	
+	Console.Read();
+}
+
+
+########################################################################
+#!/usr/bin/python
+#
+#strategy test
+#
+
+class Strategy(object):
+
+	def AlgorithmInterface(self):
+		pass
+
+class ConcreteStrategyA(Strategy):
+
+	def AlgorithmInterface(self):
+		print "in ConcreteStrategyA"
+class ConcreteStrategyB(Strategy):
+
+	def AlgorithmInterface(self):
+		print "in ConcreteStrategyB"
+
+class ConcreteStrategyC(Strategy):
+
+	def AlgorithmInterface(self):
+		print "in ConcreteStrategyC"
+
+class Context(object):
+
+	def __init__(self,strategy):
+		self.strategy = strategy
+	def ContextInterface(self):
+		self.strategy.AlgorithmInterface()
+
+if __name__ == '__main__':
+
+	context = Context(ConcreteStrategyA())
+	context.ContextInterface()
+
+	context = Context(ConcreteStrategyB())
+	context.ContextInterface()
+
+	context = Context(ConcreteStrategyC())
+	context.ContextInterface()

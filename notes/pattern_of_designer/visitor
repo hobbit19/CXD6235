@@ -1,0 +1,156 @@
+访问者模式 （visitor)
+
+	表示一个作用于某对象结构中的各元素的操作。它使你可以在不改变各元素的类的前提下定义作用于这些元素的新操作。
+
+
+
+
+abstract class Visitor
+{
+	public abstract void VisitConcreteElementA(ConcreteElementA concreteElementA);
+	public abstract void VisitConcreteElementB(ConcreteElementB concreteElementB);
+}
+
+class ConcreteVisitor1 : Vistor
+{
+	public void VisitConcreteElementA(ConcreteElementA concreteElementA)
+	{
+		Console.WriteLine("{0} has been visited by {1}",concreteElementA.GetType().Name,this.GetType().Name);
+	}
+	public void VisitConcreteElementB(ConcreteElementB concreteElementB)
+	{
+		Console.WriteLine("{0} has been visited by {1}",concreteElementB.GetType().Name,this.GetType().Name);
+	}
+}
+class ConcreteVisitor2 : Vistor
+{
+	public void VisitConcreteElementA(ConcreteElementA concreteElementA)
+	{
+		Console.WriteLine("{0} has been visited by {1}",concreteElementA.GetType().Name,this.GetType().Name);
+	}
+	public void VisitConcreteElementB(ConcreteElementB concreteElementB)
+	{
+		Console.WriteLine("{0} has been visited by {1}",concreteElementB.GetType().Name,this.GetType().Name);
+	}
+}
+
+
+abstract class Element
+{
+	public abstract void Accept(Visitor visitor);
+}
+
+
+class ConcreteElementA : Element
+{
+	public void Accept(Visitor visitor)
+	{
+		visitor.VisitConcreteElementA(this);
+	}
+	public void OperationA()
+	{}
+}
+
+class ConcreteElementB : Element
+{
+	public void Accept(Visitor visitor)
+	{
+		visitor.VisitConcreteElementB(this);
+	}
+	public void OperationB()
+	{}
+}
+
+class ObjectStructure
+{
+	private IList<Element> elements = new List<Element>();
+	public void Attach(Element element)
+	{
+		elements.Add(element);
+	}
+	public void Detach(Element element)
+	{
+		elements.Remove(element);
+	}
+	public void Accept(Visitor visitor)
+	{
+		foreach e in elements
+		{
+			e.Accept(visitor);
+		}
+	}
+}
+
+static void Main(string[] args)
+{
+	ObjectStructure o = ObjectStructure();
+	o.Attach(new ConcreteElementA());
+	o.Attach(new ConcreteElementB());
+	ConcreteVisitor1 v1 = new ConcreteVisitor1();
+	ConcreteVisitor2 v2 = new ConcreteVisitor2();
+	o.Accept(v1);
+	o.Accept(v2);
+
+	Console.Read();
+}
+
+################################################################################
+#!/usr/bin/python
+#
+#visitor mode
+#
+
+class Visitor(object):
+	
+	def visiteConcreteElementA(self,ConcreteElementA):
+		pass
+	def visiteConcreteElementB(self,ConcreteElementB):
+		pass
+class ConcreteVisitorA(Visitor):
+	def visiteConcreteElementA(self,ConcreteElementA):
+		print "%s is visited by %s"%(ConcreteElementA,self)	
+	def visiteConcreteElementB(self,ConcreteElementB):
+		print "%s is visited by %s"%(ConcreteElementB,self)
+class ConcreteVisitorB(Visitor):
+	def visiteConcreteElementA(self,ConcreteElementA):
+		print "%s is visited by %s"%(ConcreteElementA,self)	
+	def visiteConcreteElementB(self,ConcreteElementB):
+		print "%s is visited by %s"%(ConcreteElementB,self)
+class Element(object):
+	
+	def accept(self,visitor):
+		pass
+	def operation(self):
+		pass
+class ConcreteElementA(Element):
+	
+	def accept(self,visitor):
+		visitor.visiteConcreteElementA(self)
+class ConcreteElementB(Element):
+	
+	def accept(self,visitor):
+		visitor.visiteConcreteElementB(self)
+class ObjectStructure(object):
+	def __init__(self):
+		self.elements = []
+	def Attach(self,element):
+		self.elements.append(element)
+	def Detach(self,element):
+		self.elements.remove(element)
+	def accept(self,visitor):
+		for element in self.elements:
+			element.accept(visitor)
+
+if __name__ == '__main__':
+
+	o = ObjectStructure()
+	a = ConcreteElementA()
+	o.Attach(a)
+	b = ConcreteElementB()
+	o.Attach(b)
+	v1 = ConcreteVisitorA()
+	o.accept(v1)
+	v2 = ConcreteVisitorB()
+	o.accept(v2)
+
+

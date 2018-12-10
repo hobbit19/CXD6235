@@ -1,0 +1,1611 @@
+深入理解gradle编译-Android基础篇
+
+导读
+
+Gradle基于Groovy的特定领域语言（DSL）编写的一种自动化建构工具，Groovy作为一种高级语言由Java代码实现，本文将对Gradle一些常见问题进行一一介绍：
+
+    理解Gradle与android app之间的关系，以及Gradle需要构建的build文件。
+    在Android Studio中执行Gradle命令。
+    在Android app添加java库文件。
+    将eclipse工程导入Eclipse ADT工程
+    如何为一个APK文件进行数字签名
+
+1.Android Gradle基础
+
+android应用程序使用开源工具Gradle构建。Gradle一种艺术API，非常容易的支持定制，并且在java世界有着广泛的应用。Android为了实现编译、打包等，开发者开发了Android插件为Gradle添加了一系列的新特征，特别是在构建Android app上的应用，包括：构建类型、多样化、签名配置、库文件工程等等功能。
+1.1 Android Gradle构建文件
+
+在我们使用Android Studio工具开发Android应用的时候，当创建一个新的Android工程，默认的Gradle构建文件包括了setting.gradle, build.gradle和app/build.gradle。具体位置如图所示。
+
+Gradle构建文件分布
+
+[--> setting.gradle]
+
+include ':app'
+
+[--> build.gradle]
+
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.5.0+'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+其实原始的Gradle默认情况下并不包含Android功能。Google为Gradle提供了Android插件，允许用户很容易的配置android工程编译脚本。编译脚本(buildscript)在编译工程的根目录，构建文件(build.gradle)用来告知Gradle去哪里下载对应的插件。
+
+从上面列出的代码中我们可以看到插件的默认下载是从jcenter中，意味着jcenter就是当前的目标库。虽然jcenter仓库是当前默认的，但是其它的仓库也是支持的，尤其是mavenCenteral()作为maven的远端默认仓库。JCenter仓库的所有内容通过一个CDN经由HTTPS连接传输，速度也是很快的。
+
+上面代码中的allprojects部分表示当前的根目录工程和所属的子工程默认情况下都使用jcenter()远端仓库用来支持java库的依赖。
+
+Gradle允许用户定义很多任务（tasks），并插入到有向无环图（directed acyclic graph，DAG）中，Gradle通过DAG来解析任务之间的依赖关系。在上面代码中一个clean任务已经添加到根目录的构建文件中。其中的type: Delete表示依赖Gradle中定制已有的Delete任务。在这种情况下，该任务会移除在工程根目录下的构建目录（也就是build目录）。
+
+app作为项目工程的module，内部需要包含build.gradle来支持module编译，接下来来看一下app目录下的build.gradle。
+
+[--> app/build.gradle]
+
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.kousenit.myandroidapp"
+        minSdkVersion 19
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'),
+            'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.3.0'
+}
+
+这部分的代码功能并非由Gradle工具提供，是由Android插件构建系统提供，通过加入android标签，允许android块使用DSL(Domin Specific Language)编写配置。
+
+dependencies部分包含了三行。
+
+    第一行使用fileTree做依赖，表示所有在libs目录下的以.jar为后缀名的文件添加到编译路径中。
+    第二行告诉Gradle去下载版本为4.12的JUnit并为其添加命名testCompile。依赖着JUnit类将在src/androidTest/java路径下生效，用来增加测试单元（本文没有介绍测试）。
+    第三行告诉Gradle添加appcompat-v7，版本为23.3.0，从JCenter支持库中获取。
+
+1.2 默认配置
+
+[--> app/build.gradle]
+
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.kousenit.myandroidapp"
+        minSdkVersion 19
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+在build.gradle文件的顶部添加Android应用程序插件。Module(模块)编译文件通过apply plugin: 'com.android.application'，加载应用程序插件，从而使Gradle DSL支持android标签。
+
+android DSL使用模块方式嵌入。必须指出编译目标版本（compileSdkVersion）和编译工具版本（buildToolsVersion）。两个值尽量跟进较近的版本，而非老版本，因为新版本会修复老版本工具含的一些bug。
+属性	解释
+applicationId 	应用的包名，该值必须唯一
+minSdkVersion 	应用支持的最小Android SDk版本
+targetSdkVersion 	应用目标版本，Android studio会根据当前版本提示相应的警告信息
+versionCode 	用一个整数表示当前app的版本，用以升级使用
+versionName 	用一个字符表示当前app版本名称，用以升级使用
+
+转到Gradle之后，minSdkVersion和buildToolsVersion属性被指定，这两个属性和Android Manifest中的<uses-sdk>标签属性内容一致。Android Manifest中的<uses-sdk>标签已经被取消，如若值仍然存在在Manifest中，值将被Gradle中的值覆盖。
+
+Project Structure view in Android Studio
+
+Project Structure view in Android Studio
+1.3 使用命令行执行Gradle脚本
+
+从命令行需要用户提供Gradle wrapper或者安装Gradle并直接运行。
+
+[gradle-wrapper.properties]
+
+#Thu Sep 22 19:09:25 CST 2016
+distributionBase=GRADLE_USER_HOME
+distributionPath=wrapper/dists
+zipStoreBase=GRADLE_USER_HOME
+zipStorePath=wrapper/dists
+distributionUrl=https\://services.gradle.org/distributions/gradle-2.14.1-all.zip
+
+其中distributionUrl属性表示wrapper包将要下载和安装gradle-2.14.1版本。在第一次执行结束之后，Gradle目标将被缓存在zipStorePath文件夹，在zipStoreBase目录之下。以后每次构建将直接使用缓存的版本构建任务。
+
+命令非常简单：
+
+./gradlew build
+
+最后输出的apk在app/build/outputs/apk目录下。我们也可以执行多任务通过空格：
+
+./gradlew lint assembleDebug
+
+其中查看依赖树通过：
+
+./gradlew anDep
+
+取消编译任务： ./gradlew pro
+
+如果不想使用编译build.gradle文件，使用-b切换编译脚本文件：
+
+./gradlew -b app.gradle
+
+1.4 在android Studio上执行编译脚本
+
+如何在Android Studio环境下，执行编译任务?当我们创建Android工程后，Android Studio会为多个工程脚本生成Gradle构建文件。IDE提供了Gradle任务列表的可视化视图，如下图所示：
+
+IDE上执行编译脚本
+
+Gradle提供了很多分类，像android, build, install和other。执行某一个任务的时候只需要双击具体的名称，在Gradle窗口中。每次运行一个特殊的task，运行配置就会被创建并存储在Run Configurations菜单下，所以再次运行的时候可以在这里选择。
+
+Running Gradle inside Android Studio Android studio提供了Gradle Console输出相应的编译信息。
+1.5 为项目工程增加依赖库
+
+默认情况下，Android应用包含了两个gradle文件：一个在根目录下，一个在应用目录下。在应用目录下的gradle脚本需要增加依赖：
+
+[app/build.gradle]
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.3.0'
+}
+
+每一个依赖关系表示了一个配置。Android工程的依赖包含了编译、运行、测试编译、测试运行。完整的依赖包含三个部分：group, name, 和version信息。插件可以增加额外的配置信息，也能够定义自己的信息。完整的信息如下：
+
+testCompile group: 'junit', name: 'junit', version: '4.12'
+
+简写为：
+
+testCompile 'junit:junit:4.12'
+
+版本简写：
+
+testCompile 'junit:junit:4.+'
+
+如果你想配置相应的文件，可通过files和fileTree增加依赖：
+
+dependencies {
+    compile files('libs/a.jar', 'libs/b.jar')
+    compile fileTree(dir: 'libs', include: '*.jar')
+}
+
+syncnow
+
+传递依赖：
+
+./gradlew androidDependencies
+
+Gradle默认情况下是开始网络检查依赖库的，如果有特殊需求需要关闭，采用transitive标志关闭网络请求：
+
+dependencies {
+    runtime group: 'com.squareup.retrofit2', name: 'retrofit', version: '2.0.1', transitive: false
+}
+
+将transitive标志改成false会阻止依赖的下载。所以如果需要的话必须加载自己的本地。如果希望模块是jar文件，写法如下：
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.4.4[@jar](https://my.oschina.net/u/1767170)'
+    compile group: 'org.codehaus.groovy', name: 'groovy-all',version: '2.4.4', ext: 'jar'
+}
+
+1.6 为android studio增加依赖库
+
+有经验的开发者可以很轻松的编辑build.gradle文件，而不需要借助IDE的帮助。但是IDE也给出了相应的编辑视图。
+
+打开File->Project Structure，选择相应的modules即可对build.gradle进行编辑。如下图所示：
+
+Project Structure UI
+
+    选择Porperties选项卡，可以查看Compile SDK Version 和 Build Tools Version等信息。
+    选择Dependencies选项卡，可以查看依赖的库、工程等信息。
+
+Dependencies tab in Project Structure
+
+其中Dependencies选项卡中的Scope行允许用户配置依赖库是提供到apk中，还是只是编译的时候依赖：
+
+    Compile
+    Provided
+    APK
+    Test compile
+    Debug compile
+    Release compile
+
+1.7 配置仓库
+
+在Gradle的dependencies是怎么样精准的找到相应的依赖的呢？通过在repositories配置的，所有的dependencies都会去找到相应的依赖，才可以正常编译。默认仓库为JCenter。注意当前使用HTTPS连接。
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+一些Maven库也可以通过URL添加，如下例添加一个maven库：
+
+repositories {
+    maven {
+        url 'http://repo.spring.io/milestone'
+    }
+}
+
+密码保护仓库可以使用credentials模块来表示，通过用户名和密码的校验来获取依赖仓库，代码如下所示：
+
+repositories {
+    maven {
+    credentials {
+        username 'username'
+        password 'password'
+    }
+    url 'http://repo.mycompany.com/maven2'
+    }
+}
+
+也可以将用户名和密码值移到gradle.properties文件中。Ivy和local仓库语法类似，参考下例：
+
+repositories {
+    ivy {
+        url 'http://my.ivy.repo'
+    }
+}
+
+当使用本地文件，可以通过flatDir语法来创建仓库,。如下例所示：
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+使用flatDir是使用files或是fileTree方案的一种替代，fileTree需要指定路径，就不再需要指定flatDir本地文件，但是aar文件依赖的时候需要指定本地库，使用flatDir标签。当我们为应用程序构建添加很多仓库。Gradle轮询每一个仓库，直到解析完毕所有的依赖，找到所有依赖，否则会报出错误。
+2.项目工程导入与发布
+2.1 设置工程属性
+
+当你想为工程添加外部属性或者是硬编码值的时候，可以使用ext标签来添加。要从编译文件中删除它们并放入到gradle.properties文件中，或者通过命令行使用-P标志设置。
+
+Gradle构建文件(build.gradle)支持属性定义，使用ext关键字，使用“ext”作为“extra”简写。这使得变量定义非常方便。这些属性可以硬编码到build.gradle文件，如下代码所示：
+
+ext {
+    AAVersion = '4.0-SNAPSHOT' // change this to your desired version
+}
+task printProperties << {
+    println AAVersion
+}
+
+使用ext是常规Groovy语法的应用，意味着类型化AAVersion为String类型，该变量通过printProperties任务打印。在构建文件中，使用def关键字实现本地变量声明，而且只有当前构建文件可以使用。如果不加def关键字，变量可以在工程中使用，工程及子工程都是可以使用的。
+
+def AAVersion = '4.0-SNAPSHOT'
+
+task printProperties << {
+    println AAVersion
+}
+
+对于我们依赖的仓库，有时候需要校验用户身份，就需要我们输入用户名和密码，此时也许你希望删除在build.gradle构建文件中的实际值，考虑到Maven库中的登录凭证，如下所示：
+
+repositories {
+    maven {
+        url 'http://repo.mycompany.com/maven2'
+        credentials {
+            username 'user'
+            password 'password'
+        }
+    }
+}
+
+这里不希望保留真实的用户名和密码值在build.gradle构建文件中，添加它们到工程根目录下的gradle.properties文件中，如下所示：
+
+[--> gradle.properties]
+
+login='user'
+pass='my_long_and_highly_complex_password'
+
+这样credentials部分可以通过变量值来替代，如下：
+
+repositories {
+    maven {
+        url 'http://repo.mycompany.com/maven2'
+        credentials {
+            username login
+            password pass
+        }
+    }
+}
+
+这里可以通过命令行设置对应是属性值，使用-P参数：
+
+gradle -Plogin=me -Ppassword=this_is_my_password assembleDebug
+
+具体演示如下所示“
+
+ext {
+    // 检测工程属性是否存在
+    if (!project.hasProperty('user')) {
+        user = 'user_from_build_file'
+    }
+    if (!project.hasProperty('pass')) {
+        pass = 'pass_from_build_file'
+    }
+}
+task printProperties() {
+    doLast {
+        // 打印属性
+        println "username=$user"
+        println "password=$pass"
+    }
+}
+
+执行printProperties任务可以打印相应的属性，不需要任何外部配置，这需要在ext块设置相应的值。打印如下：
+
+> ./gradlew printProperties
+:app:printProperties
+username=user_from_build_file
+password=pass_from_build_file
+
+增加相应的-P标志后：
+
+> ./gradlew -Puser=user_from_pflag -Ppass=pass_from_pflag printProperties
+:app:printProperties
+username=user_from_pflag
+password=pass_from_pflag
+
+结合"extra"块，属性文件和命令行标志足以满足我们的需求。
+2.2 将Eclipse ADT程序移植到Android Studio
+
+将Eclipse ADT程序移植到Android Studio中，将其变成Gradle目录结构，具体如下所示：
+
+Android Studio welcome page showing the import project option
+
+在Eclipse ADT工程中，老的目录结构为res, src和AndroidManifest.xml所有直接在root目录下。导入过程中会将其老的工程变成新的目录结构。在构建文件build.gradle中建立dependencise依赖关系，具体log信息如下：
+
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+Bugs:
+
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
+
+其中ProGuard文件被推荐使用，其余的变化就是文件目录的调整变动。顶层生成的gradle.build文件和创建一个新的工程是一样的。
+
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.5.0+'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+App如下的构建文件build.gradle，如下代码，如果需要额外的jar库还需要增加dependencies模块。
+
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 17
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.example.tips"
+        minSdkVersion 8
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'),
+            'proguard-rules.txt'
+        }
+    }
+}
+
+最后生成的settings.gradle文件，显示了当前app工程包含的module目录。
+
+include ':app'
+
+其中AndroidManifest.xml文件没有任何改动。
+2.3 使用Gradle输出Eclipse ADT工程目录结构
+
+Android开发工具（ADT）的Eclipse插件，是构建Android工程主要的IDE。Gradle构建在2013引入。ADT的项目现在已经启用，Android Studio是目前支持的IDE，但遗留项目仍然存在。ADT插件可以生成Gradle构建文件，基于当前的目录结构和依赖。
+
+注意：上一节中介绍从ADT到Android Studio的import过程。export过程不在被推荐
+
+依赖于老的目录结构不再被推荐，这里介绍只是做一下简单说明，练习中我们可以使用。Gradle提供了sourceSet映射，下面展示了如果在Gradle中对老的目录结构进行映射。
+
+在Eclipse ADT结构中，所有的源代码在一个目录中src，在工程的根目录。资源在res文件夹总，也放在根目录中。Android的manifest.xml文件也在根目录下。所有的这些在新的目录结构中都已经变化。那么我们如何通过gradle映射原始的目录结构呢？
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion "17.0.0"
+    defaultConfig {
+        minSdkVersion 10
+        targetSdkVersion 17
+    }
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aild.ext.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+
+        // Move the tests to tests/java, tests/res, etc...
+        instrumentTest.setRoot('tests')
+        // Move the build types to build-types/<type>
+        // For instance, build-types/debug/java, ...
+        // This moves them out of them default location under src/<type>/...
+        // which would conflict with src/ being used by the main source set.
+        // Adding new build types or product flavors should be accompanied
+        // by a similar customization.
+
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+}
+
+2.4 更新最新版本的Gradle
+
+Android Studio包含了Gradle构件库。当我们创建一个新的android应用的时候，IDE自动为Linux系统生成gradlew脚本，为Window系统生成gradlew.bat脚本。这些包装语法允许我们不安装任何东西直接使用gradle。然而，包装的语法会为我们下载相应版本的Gradle。
+
+当项目已经持续了一段时间，但是，Gradle定期发布了新的版本。你也许希望更新当前工程的Gradle版本，譬如性能原因（希望更快）或是一些新特性需要添加到工程中。实现这些，有两种选择：
+
+    在根目录的build.gradle中修改依赖，编译的时候会主动拉取版本的gradle，并使用其编译。
+    直接编辑gradle-wrapper.properties的distributionUrl的值。
+
+第一种改动是在build.gradle，修改其dependencies中的classpath，gradle会自动到相应的jcenter()代码库中拉取当前对应版本的gradle，相应修改如下所示：
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.5.0+'
+    }
+}
+
+第二种是通过更改gradle-wrapper.properties的distributionUrl的值来更改gradle版本，如下代码所示：
+
+distributionBase=GRADLE_USER_HOME
+distributionPath=wrapper/dists
+zipStoreBase=GRADLE_USER_HOME
+zipStorePath=wrapper/dists
+distributionUrl=https\://services.gradle.org/distributions/gradle-2.14.1-all.zip
+
+当然第一种方案是首选的方案。
+2.5 工程之间共享配置
+
+当我们想为多个module设置相同的配置时候，在顶层的Gradle build文件中，使用allprojects和subprojects进程声明。当我们在Android Studio创建一个新的Android工程后，IDE创建两个build.gradle，一个在顶层一个在module app中。在顶层的build.gradle文件有一个标签叫做allprojects，如下所示：
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+标签来自Gradle DSL，因此可以为工程下所有gradle模块工作，而不仅仅是android工程。allprojects属性来自Gradle API，是org.gradle.api.Project类的一个属性。这个属性包含当前工程和所有子工程。还有一个属性subprojects只允许子工程使用。
+
+通过allprojects集合我们可以为每一个工程设置通用属性，默认情况是根目录工程和app module。这样我们可以无需重复的为每一个module设置仓库，因为我们可以全局设置。
+
+使用subprojects模块替换方案。例如，如果我们有多个Android库工程，每一个工程的构建脚本中都需要加入apply plugin: 'com.android.library'。如果工程中都是Android库工程，你可以去掉重复的声明，直接在顶层加入subprojects声明，实现子工程共享属性。
+
+subprojects {
+    apply plugin: 'com.android.library'
+}
+
+额外考虑
+
+当我们查看Gradle DSL参考文档的时候，在介绍allprojects的地方，会发现allprojects使用了org.gradle.api.Action作为了参数。
+
+void allprojects(Action<? super Project> action)
+
+方法中调用executes执行所有Action，调用subprojects. Action<T> 执行，这里就不再介绍了。
+2.6 为一个APK签名
+
+Android APK在发布前都需要进行数字签名。默认情况下Android会为我们签一个debug的数字签名，使用本地带的一个key。我们也可以通过keytool命令签名。debug密钥库存储在用户设备中中，在我们home文件夹中，命名为.android。默认密钥库名称为debug.keystore，并且密钥密码为android。
+
+keytool -list -keystore debug.keystore
+
+输入密钥库口令:("android")
+
+密钥库类型: JKS
+密钥库提供方: SUN  悦德财富：https://www.yuedecaifu.com
+
+您的密钥库包含 1 个条目
+
+androiddebugkey, 2016-9-28, PrivateKeyEntry,
+证书指纹 (SHA1): 6A:A8:B7:B6:A6:AA:73:BD:EE:9D:31:96:68:21:47:A3:FA:2C:23:2B
+
+keystore类型为JKS，代表了Java的KeyStore，使用了公私钥机制。Java支持其他类型JCEKS（Java Cryptography Extensions KeyStore），用来做共享密钥，但是没用用在Android应用上。
+
+当我们生成debug的APK的时候，安装在设备和模拟器上是否需要证书呢？答案是肯定的，android为我们提供了通用证书（keystore），使用androiddbugkey作为序列用来给所有的debug apk提供签名。如果一个app没有签名，是不能发布的，这就要求我们必须使用证书对其进行签名。证书使用keytool工具生成。生成方法如下：
+
+keytool -genkey -v -keystore myapp.keystore -alias my_alias -keyalg RSA -keysize 2048 -validity 10000 
+
+具体需要输入内容，按要求输入即可。生成证书之后怎样在每次运行的时候进行签名呢？配置如下所示：
+
+android {
+    // ... other sections ...
+    signingConfigs {
+        release {
+            keyAlias 'my_alias'
+            keyPassword 'password'
+            storeFile file('/Users/kousen/keystores/myapp.keystore')
+            storePassword 'password'
+        }
+    }
+}
+
+你也可能不想将密码放入到构建文件中。幸运的是，你可以放入到gradle.properties文件中或者在命令行中设置。
+
+在DSL文档中，signingConfigs模块是由signingConfig类进行实例化的同时也表示了signingConfig类实例，具体属性参考如下：
+属性	解释
+keyAlias 	keytool中生成证书的时候的随机值
+keyPassword 	在签名过程中所需要的密钥
+storeFile 	keystore证书在磁盘中的位置
+storePassword 	keystore证书的密码
+
+同时也需要在buildTypes的release中加入签名过程，具体如下所示：
+
+android {
+    // ... other sections ...
+    buildTypes {
+        release {
+            // ... other settings ...
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
+2.7 借助Android Studio为一个APK签名
+
+当你想通过Android Studio配置签名，并生成相应的签名后的APK该如何呢？Android Studio提供了生成keystore的方法：Build → Generate Signed APK选项：
+
+Generate Signed APK pop-up
+
+点击“Create new…”，弹出生成keystore的信息填写页，填写相应的信息即可：
+
+New Key Store pop-up
+
+如果你选择一个已经存在的keystore，输入相应的密钥和随机序列可以直接使用该keystore，如下图所示：
+
+Using an existing keystore
+
+posted on 2016-10-17 14:52 王晓九 阅读(...) 评论(...) 编辑 收藏 
+
+
+Gradle命令：
+常用命令：
+
+gradle明明一般是./gradlew +参数， gradlew代表 gradle wrapper，意思是gradle的一层包装，大家可以理解为在这个项目本地就封装了gradle，即gradle wrapper， 在gradle/wrapper/gralde-wrapper.properties文件中声明了它指向的目录和版本。只要下载成功即可用grdlew wrapper的命令代替全局的gradle命令。
+
+    ./gradlew -v 版本号
+    ./gradlew clean 清除app目录下的build文件夹
+    ./gradlew build 检查依赖并编译打包
+    ./gradlew tasks 列出所有task
+
+这里注意的是 ./gradlew build 命令把debug、release环境的包都打出来，如果正式发布只需要打Release的包，该怎么办呢，下面介绍一个很有用的命令 assemble， 如：
+
+    ./gradlew assembleDebug 编译并打Debug包
+    ./gradlew assembleRelease 编译并打Release的包
+
+除此之外，assemble还可以和productFlavors结合使用：
+
+    ./gradlew installRelease Release模式打包并安装
+    ./gradlew uninstallRelease 卸载Release模式包
+
+加入自定义参数：
+
+比如我们想根据不同的参数来进行不用的编译配置，可以在./gradlew中加入自定义参数。
+
+    ./gradlew assembleDebug -Pcustom=true
+
+就可以在build.gradle中使用下面代码来判断：
+
+if (project.hasProperty('custom')){
+
+}
+
+    1
+    2
+    3
+
+assemble结合Build Variants来创建task
+
+assemble 还能和 Product Flavor 结合创建新的任务，其实 assemble 是和 Build Variants 一起结合使用的，而 Build Variants = Build Type + Product Flavor，举个例子大家就明白了：
+如果我们想打包 wandoujia 渠道的release版本，执行如下命令就好了：
+
+    ./gradlew assembleWandoujiaRelease
+
+如果我们只打wandoujia渠道版本，则：
+
+    ./gradlew assembleWandoujia
+
+此命令会生成wandoujia渠道的Release和Debug版本
+同理我想打全部Release版本：
+
+    ./gradlew assembleRelease
+
+这条命令会把Product Flavor下的所有渠道的Release版本都打出来。
+总之，assemble 命令创建task有如下用法：
+
+    assemble<Variant Name>： 允许直接构建一个Variant版本，例如assembleFlavor1Debug。
+    assemble<Build Type Name>： 允许构建指定Build Type的所有APK，例如assembleDebug将会构建Flavor1Debug和Flavor2Debug两个Variant版本。
+    assemble<Product Flavor Name>： 允许构建指定flavor的所有APK，例如assembleFlavor1将会构建Flavor1Debug和Flavor1Release两个Variant版本。
+
+Gradle配置：
+
+Gradle构建脚本 build.gradle
+Gradle属性文件 gradle.properties
+Gradle设置文件 settings.gradle
+build.gradle
+
+先看整个项目的gradle配置文件：
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.3.0'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+    17
+
+内容主要包含了两个方面：一个是声明仓库的源，这里可以看到是指明的jcenter(), 之前版本则是mavenCentral(), jcenter可以理解成是一个新的中央远程仓库，兼容maven中心仓库，而且性能更优。
+另一个是声明了android gradle plugin的版本，android studio 1.0正式版必须要求支持gradle plugin 1.0的版本
+
+某个Moudle的gradle配置文件：
+buildscript
+
+buildscript {
+    repositories {
+        maven { url 'http://*********' }
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.3.1'
+    }
+}
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+
+    buildscript{}设置脚本的运行环境。
+    repositories{}支持java依赖库管理，用于项目依赖。
+    dependencies{}依赖包的定义。支持maven/ivy，远程，本地库，也支持单文件。如果前面定义了repositories{}maven 库，则使用maven的依赖库，使用时只需要按照用类似于com.android.tools.build:gradle:0.4，gradle 就会自动的往远程库下载相应的依赖。
+
+apply
+
+//声明引用 com.android.application 插件，那么这个模块就是一个Android应用程序
+apply plugin: 'com.android.application'
+
+    1
+    2
+
+    apply plugin:声明引用插件的类型。如果是库的话就加
+
+apply plugin: 'com.android.library'
+
+    1
+
+    apply from：表示引用其他的配置文件，比如 apply from:"config.gradle"
+
+android
+
+这个是 Android 插件引入的 Script blocks，想深入了解的话看我后面的博客。
+
+android {
+    // 编译SDK的版本
+    compileSdkVersion 22
+    // build tools的版本
+    buildToolsVersion "23.0.1"
+
+    //aapt配置
+    aaptOptions {
+        //不用压缩的文件
+        noCompress 'pak', 'dat', 'bin', 'notice'
+        //打包时候要忽略的文件
+        ignoreAssetsPattern "!.svn:!.git"
+        //分包
+        multiDexEnabled true
+        //--extra-packages是为资源文件设置别名：意思是通过该应用包名+R，com.android.test1.R和com.android.test2.R都可以访问到资源
+        additionalParameters '--extra-packages', 'com.android.test1','--extra-packages','com.android.test2'
+    }
+
+    //默认配置
+    defaultConfig {
+        //应用的包名
+        applicationId "com.example.heqiang.androiddemo"
+        minSdkVersion 21
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+
+    //编译配置
+    compileOptions {
+        // java版本
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+    //源文件目录设置
+    sourceSets {
+        main {
+             //jni lib的位置
+             jniLibs.srcDirs = jniLibs.srcDirs << 'src/jniLibs'
+             //定义多个资源文件夹,这种情况下，两个资源文件夹具有相同优先级，即如果一个资源在两个文件夹都声明了，合并会报错。
+             res.srcDirs = ['src/main/res', 'src/main/res2']
+             //指定多个源文件目录
+             java.srcDirs = ['src/main/java', 'src/main/aidl']
+        }
+    }
+
+    //签名配置
+    signingConfigs {
+        debug {
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+            storeFile file('keystore/debug.keystore')
+            storePassword 'android'
+        }
+    }
+
+    buildTypes {
+        //release版本配置
+        release {
+            debuggable false
+            // 是否进行混淆
+            minifyEnabled true
+            //去除没有用到的资源文件，要求minifyEnabled为true才生效
+            shrinkResources true
+            // 混淆文件的位置
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.debug
+            //ndk的一些相关配置，也可以放到defaultConfig里面。
+            //指定要ndk需要兼容的架构(这样其他依赖包里mips,x86,arm-v8之类的so会被过滤掉)
+            ndk {
+                abiFilter "armeabi"
+            }
+        }
+        //debug版本配置
+        debug {
+            debuggable true
+            // 是否进行混淆
+            minifyEnabled false
+            //去除没有用到的资源文件，要求minifyEnabled为true才生效
+            shrinkResources true
+            // 混淆文件的位置
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.debug
+            //ndk的一些相关配置，也可以放到defaultConfig里面。
+            //指定要ndk需要兼容的架构(这样其他依赖包里mips,x86,arm-v8之类的so会被过滤掉)
+            ndk {
+                abiFilter "armeabi"
+            }
+        }
+    }
+    // lint配置 
+    lintOptions {
+      //移除lint检查的error
+      abortOnError false
+      //禁止掉某些lint检查
+      disable 'NewApi'
+    }
+}
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+    17
+    18
+    19
+    20
+    21
+    22
+    23
+    24
+    25
+    26
+    27
+    28
+    29
+    30
+    31
+    32
+    33
+    34
+    35
+    36
+    37
+    38
+    39
+    40
+    41
+    42
+    43
+    44
+    45
+    46
+    47
+    48
+    49
+    50
+    51
+    52
+    53
+    54
+    55
+    56
+    57
+    58
+    59
+    60
+    61
+    62
+    63
+    64
+    65
+    66
+    67
+    68
+    69
+    70
+    71
+    72
+    73
+    74
+    75
+    76
+    77
+    78
+    79
+    80
+    81
+    82
+    83
+    84
+    85
+    86
+    87
+    88
+    89
+    90
+    91
+    92
+    93
+    94
+    95
+    96
+    97
+    98
+    99
+
+android{}设置编译android项目的参数，构建android项目的所有配置都写在这里。
+除了上面写的，在android{}块中可以包含以下直接配置项：
+
+    productFlavors{ } 产品风格配置，ProductFlavor类型
+    testOptions{ } 测试配置，TestOptions类型
+    dexOptions{ } dex配置，DexOptions类型
+    packagingOptions{ } PackagingOptions类型
+    jacoco{ } JacocoExtension类型。 用于设定 jacoco版本
+    splits{ } Splits类型。
+
+几点说明：
+
+    文件开头apply plugin是最新gradle版本的写法，以前的写法是apply plugin: 'android', 如果还是以前的写法，请改正过来。
+    minifyEnabled也是最新的语法，很早之前是runProguard,这个也需要更新下。
+    proguardFiles这部分有两段，前一部分代表系统默认的android程序的混淆文件，该文件已经包含了基本的混淆声明，免去了我们很多事，这个文件的目录在 sdk目录/tools/proguard/proguard-android.txt , 后一部分是我们项目里的自定义的混淆文件，目录就在 app/proguard-rules.txt , 如果你用Studio 1.0创建的新项目默认生成的文件名是 proguard-rules.pro , 这个名字没关系，在这个文件里你可以声明一些第三方依赖的一些混淆规则。最终混淆的结果是这两部分文件共同作用的。
+    aaptOptions更多介绍 http://blog.csdn.net/heqiangflytosky/article/details/51009123
+
+变量的引用
+
+比如在gradle的某个地方想使用版本号，可以使用下面的方法：
+
+def getVersionCode() {
+    int code = android.defaultConfig.versionCode
+    return code
+}
+
+    1
+    2
+    3
+    4
+
+repositories
+
+repositories {
+    flatDir {
+        //本地jar依赖包路径
+        dirs '../../../../main/libs'
+    }
+}
+
+    1
+    2
+    3
+    4
+    5
+    6
+
+dependencies
+
+dependencies {
+        compile files('libs/android-support-v4.jar')
+        //在flatDir.dirs下面找依赖的aar
+        compile (name:'ui', ext:'aar')
+        // 编译extras目录下的ShimmerAndroid模块
+        // 使用transitive属性设置为false来排除所有的传递依赖，默认为true
+        compile project(':extras:ShimmerAndroid'){
+            transitive = false
+        }
+        // 编译CommonSDK模块，但是去掉此模块中对com.android.support的依赖，防止重复依赖报错
+        compile (project(':CommonSDK')) { exclude group: "com.android.support" }
+        provided fileTree(dir: 'src/android5/libs', include: ['*.jar'])
+        provided 'com.android.support:support-v4:21.0.3'
+        provided project(':main-host')
+        //通用使用exclude排除support-compat模块的依赖
+        compile ('com.jakewharton:butterknife:8.5.1'){
+            exclude module: 'support-compat'
+        }
+
+        // gradle 3.0以后版本支持的写法
+        implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+        api 'com.android.support:design:26.1.0'
+}
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+    17
+    18
+    19
+    20
+    21
+    22
+    23
+
+    compile和provided
+    compile表示编译时提供并打包进apk。
+    implementation 和 api
+    implementation 会将依赖隐藏在内部而不对外公开，就是说使用 implementation 的依赖不会传递。比如：一个项目中app模块依赖A模块，A模块使用 implementation 来依赖 fastjson ，那么app里面如果不添加依赖的话就不能直接引用fastjson。
+    api 和以前的 compile 是一样的。
+    exclude 防止重复依赖，后面会重点介绍
+    transitive 排除所有的传递依赖，后面会重点介绍
+    include
+
+CommonSDK模块的定义可以参考settings.gradle
+其他的介绍可以参考 依赖库管理。
+几点说明
+
+    看到上面的两个一模一样的repositories和dependencies了吗？他们的作用是不一样的，在buildscript里面的那个是插件初始化环境用的，用于设定插件的下载仓库，而外面的这个是设定工程依赖的一些模块和远程library的下载仓库的。
+
+settings.gradle
+
+这个文件是全局的项目配置文件，里面主要声明一些需要加入gradle的module。
+一般在setting.gradle中主要是调用include方法，导入工程下的各个子模块。
+那我们在setting.gradle里面还能写什么呢？因为setting.gradle对应的是gradle中的Settings对象，那查下Settings的文档（https://docs.gradle.org/current/dsl/org.gradle.api.initialization.Settings.html），看下它都有哪些方法，哪些属性，就知道在setting.gradle能写什么了；
+
+include ':AndroidDemo'
+
+include ':CommonSDK'
+project(':CommonSDK').projectDir = new File(settingsDir, '../../CommonSDK/')
+
+    1
+    2
+    3
+    4
+
+include调用后，生成了一个名为:CommonSDK的Project对象，project(':CommonSDK')取出这个对象，设置Project的 projectDir属性。projectDir哪里来的？请看Project类的文档。
+gradle.properties
+
+可以在 gradle.properties 文件中配置一些变量，这些变量在这个工程下的所有module的build.gradle文件里都可以使用。这样就可以把一些共用的变量放到这里，这样后面修改的时候就可以只修改这个变量，不用各个模块都要修改了。
+比如我们在 gradle.properties SDK 版本以及应用的版本号：
+
+MIN_SDK_VERSION=21
+TARGET_SDK_VERSION=22
+VERSION_CODE=200100
+VERSION_NAME=2.1.0
+RX_ANDROID_VERSION=1.2.0
+
+    1
+    2
+    3
+    4
+    5
+
+那么在 build.gradle 中可以通过project进行获取或者 "${RX_ANDROID_VERSION}" 引用：
+
+    defaultConfig {
+        applicationId "com.example.heqiang.testsomething"
+        minSdkVersion project.MIN_SDK_VERSION as int
+        targetSdkVersion project.TARGET_SDK_VERSION as int
+        versionCode project.VERSION_CODE as int
+        versionName project.VERSION_NAME
+        /*
+        * as int 关键字是用来进行类型转换的，因为从配置里面读取出来的默认是字符串
+        *还可以使用 versionCode Integer.parseInt(project.VERSION_CODE)
+        * */
+    }
+// 还可以这样用
+dependencies {
+    compile "io.reactivex:rxandroid:${RX_ANDROID_VERSION}"
+    compile "io.reactivex:rxjava:${RX_JAVA_VERSION}"
+}    
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+
+或者在 gradle.properties 中添加：
+
+systemProp.versionName=1.0.0
+systemProp.versionCode=100
+
+    1
+    2
+
+可以通过 System.properties进行引用：
+
+def code = System.properties['versionCode']
+def name = System.properties['versionName']
+
+    1
+    2
+
+调试
+
+我们在进行一些配置的时候可能需要知道一些变量的值，这时候可以在 build.gradle 中添加打印进行调试，比如：
+
+    defaultConfig {
+        applicationId "com.example.hq.testsomething"
+        minSdkVersion project.MIN_SDK_VERSION as int
+        targetSdkVersion project.TARGET_SDK_VERSION as int
+        versionCode project.VERSION_CODE as int
+        versionName project.VERSION_NAME
+
+        println('** build versionName=' + versionName)
+    }
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+
+在 Gradle Console 中就可以看到打印：
+
+** build versionName=2.1.0
+
+    1
+
+依赖库管理
+本地依赖
+
+dependencies {
+    //单文件依赖
+        compile files('libs/android-support-v4.jar')
+    //某个文件夹下面全部依赖
+        compile fileTree(dir: 'src/android6/libs', include: ['*.jar'])
+        compile (name:'ui', ext:'aar')
+    compile (project(':CommonSDK')) { exclude group: "com.android.support" }
+        provided fileTree(dir: 'src/android5/libs', include: ['*.jar'])
+        provided 'com.android.support:support-v4:21.0.3'
+        provided project(':main-host')
+}
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+
+远程依赖
+
+gradle同时支持maven，ivy，以maven作为例子：
+
+repositories { 
+ //从中央库里面获取依赖
+ mavenCentral() 
+ //或者使用指定的本地maven 库
+ maven{ 
+  url "file://F:/githubrepo/releases" 
+ }
+ //或者使用指定的远程maven库
+ maven{ 
+  url "https://github.com/youxiachai/youxiachai-mvn-repo/raw/master/releases" 
+ } 
+} 
+
+dependencies { 
+ //应用格式: packageName:artifactId:version 
+ compile 'com.google.android:support-v4:r13' 
+}
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+    17
+
+项目依赖
+
+对于项目依赖android library的话，在这里需要使用gradle mulit project机制。
+Mulit project设置是gradle约定的一种格式，如果需要编译某个项目之前，要先编译另外一个项目的时候，就需要用到。结构如下（来自于官方文档）：
+
+MyProject/ 
+| settings.gradle 
+ + app/ 
+| build.gradle 
+ + libraries/ 
+  + lib1/ 
+   | build.gradle 
+  + lib2/ 
+   | build.gradle
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+
+需要在workplace目录下面创建settings.gradle 的文件，然后在里面写上：
+
+include ':app', ':libraries:lib1', ':libraries:lib2' 
+
+    1
+
+例如：
+
+include ':AndroidDemo'
+
+include ':CommonSDK'
+project(':CommonSDK').projectDir = new File(settingsDir, '../../CommonSDK/')
+
+    1
+    2
+    3
+    4
+
+如此，gradle mutil project 就设置完毕。
+对于app project如果需要应用libraries目录下的lib1，只需要在app project的build.gradle文件里的依赖中这么写：
+
+compile project(':libraries:lib1')
+
+    1
+
+类似前面的
+
+provided project(':main-host')
+
+    1
+
+即可完成，写完以后可以用gradle dependencies可以检查依赖状况
+Gradle依赖的统一管理
+
+我们可以在项目的根目录创建一个gradle配置文件config.gradle，内容如下：
+
+ext{
+    android=[
+            compileSdkVersion: 22,
+            buildToolsVersion: "23.0.1",
+            minSdkVersion: 21,
+            targetSdkVersion: 22,
+            versionCode: 1,
+            versionName: "1.0"
+    ]
+    dependencies=[
+            compile:'com.android.support:support-v4:21.0.3',
+            compile: (project(':CommonSDK')) { exclude group: "com.android.support" },
+            provided: fileTree(dir: 'src/android5/libs', include: ['*.jar']),
+            provided: project(':main-host')
+    ]
+}
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+
+targetSdkVersion的版本还有依赖库的版本升级都在这里进行统一管理，所有的module以及主项目都从这里同意读取就可以了。
+在build.gradle文件中加入：
+
+apply from:"config.gradle"
+
+    1
+
+意思是所有的子项目或者所有的modules都可以从这个配置文件中读取内容。
+android节点读取ext中android对应项，dependencies读取dependencies对应项，如果配置有变化就可以只在config.gradle中修改，是不是很方便进行配置的管理呢？
+检查依赖报告
+
+运行命令./gradlew <projectname>:dependencies --configuration compile （projectname为settings.gradle里面配置的各个project，如果没有配置，直接运行./gradlew dependencies --configuration compile），会把依赖树会打印出来，依赖树显示了你 build 脚本声明的顶级依赖和它们的传递依赖：
+gradle-dependencies
+仔细观察你会发现有些传递依赖标注了*号，表示这个依赖被忽略了，这是因为其他顶级依赖中也依赖了这个传递的依赖，Gradle会自动分析下载最合适的依赖。
+排除传递依赖
+
+Gradle允许你完全控制传递依赖，你可以选择排除全部的传递依赖也可以排除指定的依赖。
+
+    exclude：前面已经介绍过，可以设置不编译指定的模块，排除指定模块的依赖。后的参数有group和module，可以分别单独使用，会排除所有匹配项。
+
+        // 编译CommonSDK模块，但是去掉此模块中对com.android.support的依赖，防止重复依赖报错
+        compile (project(':CommonSDK')) { exclude group: "com.android.support" }
+        compile ('com.jakewharton:butterknife:8.5.1'){
+            exclude module: 'support-compat'
+            exclude group: 'com.android.**.***', module: '***-***'
+        }
+
+    1
+    2
+    3
+    4
+    5
+    6
+
+    transitive：前面已经介绍过，用于自动处理子依赖项，默认为true，gradle自动添加子依赖项。设置为false排除所有的传递依赖，可以用来解决一些依赖冲突的问题，比如一些 Error:java.io.IOException: Duplicate zip entry 报错。
+
+        // 使用transitive属性设置为false来排除所有的传递依赖
+        compile project(':extras:ShimmerAndroid'){
+            transitive = false
+        }
+
+    1
+    2
+    3
+    4
+
+    force：强制设置某个模块的版本。
+
+    configurations.all{
+        resolutionStrategy{
+            force'org.hamcrest:hamcrest-core:1.3'
+        }
+    }
+
+    1
+    2
+    3
+    4
+    5
+
+这样，应用中对org.hamcrest:hamcrest-core 依赖就会变成1.3版本。
+动态版本声明
+
+如果你想使用一个依赖的最新版本，你可以使用latest.integration，比如声明 Cargo Ant tasks的最新版本，你可以这样写org.codehaus .cargo:cargo-ant:latest-integration，你也可以用一个+号来动态的声明：
+
+dependencies {
+    //依赖最新的1.x版本
+    compile "org.codehaus.cargo:cargo-ant:1.+"
+}
+
+    1
+    2
+    3
+    4
+
+然后在依赖树里面可以清晰的看到选择了哪个版本：
+
+\--- org.codehaus.cargo:cargo-ant:1.+ -> 1.3.1
+
+    1
+
+http://www.open-open.com/lib/view/open1431391503529.html
+http://www.jianshu.com/p/429733dbbc34
+多渠道打包:
+
+主要借助
+
+android {
+    productFlavors{
+    ……
+    }
+}
+
+    1
+    2
+    3
+    4
+    5
+
+来实现。
+网上多是类似友盟的配置，copy过来：
+http://blog.csdn.net/maosidiaoxian/article/details/42000913
+https://segmentfault.com/a/1190000004050697
+在AndroidManifest.xml里面写上：
+
+<meta-data
+    android:name="UMENG_CHANNEL"
+    android:value="Channel_ID" />
+
+    1
+    2
+    3
+
+里面的Channel_ID就是渠道标示。我们的目标就是在编译的时候这个值能够自动变化。
+
+android {  
+    productFlavors {
+        xiaomi {
+            manifestPlaceholders = [UMENG_CHANNEL_VALUE: "xiaomi"]
+        }
+        _360 {
+            manifestPlaceholders = [UMENG_CHANNEL_VALUE: "_360"]
+        }
+        baidu {
+            manifestPlaceholders = [UMENG_CHANNEL_VALUE: "baidu"]
+        }
+        wandoujia {
+            manifestPlaceholders = [UMENG_CHANNEL_VALUE: "wandoujia"]
+        }
+    }  
+}
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+
+或者批量修改
+
+android {  
+    productFlavors {
+        xiaomi {}
+        _360 {}
+        baidu {}
+        wandoujia {}
+    }  
+
+    productFlavors.all { 
+        flavor -> flavor.manifestPlaceholders = [UMENG_CHANNEL_VALUE: name] 
+    }
+}
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+
+然后用 ./gradlew assembleRelease 这条命令会把Product Flavor下的所有渠道的Release版本都打出来。
+assemble<Product Flavor Name>： 允许构建指定flavor的所有APK，例如assembleFlavor1将会构建Flavor1Debug和Flavor1Release两个Variant版本。
+在上面当中，我们也可以指定一个默认的渠道名，如果需要的话。指定默认的值是在defaultConfig节点当中添加如下内容：
+
+manifestPlaceholders = [ CHANNEL_NAME:"Unspecified"]  
+
+    1
+
+这里的Unspecified换成你实际上的默认的渠道名。
+使用manifestPlaceholders的这种配置，同样适用于manifest的其他配置。比如你需要在不同渠道发布的apk里面，指定不同的启动Activity。比如在豌豆荚里面发布的，启动的Activity显示的是豌豆荚首发的界面，应用宝里面启动的是应用宝首发的界面（哈哈，有点坏），你就可以对你的activity的值使用 {activity_name}的方式，然后在productFlavors里面配置这个{activity_name}的值。
+
+另外这里记录一个 productFlavors 和 applicationId 关系的小知识。
+参考文档
+每个 Android 应用均有一个唯一的应用 ID，我们可以在通过 productFlavors 构建的应用变体中配置不同的应用 ID。
+
+android {
+    defaultConfig {
+        applicationId "com.example.myapp"
+    }
+    productFlavors {
+        free {
+            applicationIdSuffix ".free"
+        }
+        pro {
+            applicationIdSuffix ".pro"
+        }
+    }
+}
+
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+
+这样，“免费”的 applicationId 就变为“com.example.myapp.free”。
+--------------------- 
+作者：寒江蓑笠 
+来源：CSDN 
+原文：https://blog.csdn.net/heqiangflytosky/article/details/50853268 
+版权声明：本文为博主原创文章，转载请附上博文链接！

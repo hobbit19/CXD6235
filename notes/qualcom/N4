@@ -1,3 +1,11 @@
 暗码
 N4
 *#*#46368676#*#*
+
+
+ adb shell
+generic:/ $ su
+generic:/ # setprop sys.usb.config "default,diag,serial_cdev,rmnet,dpl,adb"
+
+
+[Google送测报告][Edison][5008Y_EEA]

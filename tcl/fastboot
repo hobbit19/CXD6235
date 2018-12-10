@@ -1,0 +1,20 @@
+1. 采用 dint的Userdebug + ROM 的system.img，采用Teleweb 刷机的形式，由于现在的 Daily版本不是 ROOT 的版本，这样的混刷是无法开机的，经验证，在Benz，还是Guass，这样的混刷，均无法开机，主要原因是无法避开 Verify
+
+2. 采用 fastboot 可以开机，已经采用对应的版本在 Banz 与 guass 上面验证过。
+
+采用fastboot 刷机为了bypass Verrify，需要下如下的命令
+
+fastboot flash vbmeta vbmeta.img --disable-verification 
+
+目前采用的是AVB 2.0，与之前的有些差异，即Fasstboo刷机前 
+
+A. adb reboot bootloader
+
+B. fastboot flash vbmeta vbmeta.img --disable-verification 
+
+C. fastboot flash system system.img 
+
+后续需要清理 data 分区 
+
+vbmeta.img 请采用下载的版本的 vbmeta.img 
+

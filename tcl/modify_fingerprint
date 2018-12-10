@@ -1,0 +1,30 @@
+
+项目编译出来的文件夹里面有两个文件 vendor  system 里面均有一个build.prop
+临时修改build.prop里面的fingerprint 属性
+在通过执行./makeperso/tools/build_image.py 里面分别修改system.img,vendor.img的东西可以修改CTS相关的fingerprint
+
+int@int-110:/local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/vendor$ grep finger build.prop 
+ro.vendor.build.fingerprint=TCL/5008Y_EEA/Edison:8.1.0/O11019/vBV1L_new-0:user/release-keys
+
+
+./makeperso/tools/build_image.py  /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/vendor /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/obj/PACKAGING/vendor_intermediates/vendor_image_info.txt /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/vendor.img /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/system
+
+
+int@int-110:/local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/system$ grep finger build.prop 
+# Do not try to parse description, fingerprint, or thumbprint
+ro.build.fingerprint=TCL/5008Y_EEA/Edison:8.1.0/O11019/vBV1L_new-0:user/release-keys
+
+./makeperso/tools/build_image.py  /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/system /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/obj/PACKAGING/systemimage_intermediates/system_image_info.txt /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/system.img /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/system
+
+
+
+int@int-110:/local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205$ grep build_image.py makePerso.log 
+[ INFO 2018-12-06 20:33:08,678 fileName: jrd_build_image.py lineNo: 14 funcName: change_system_ver ] 
+[ INFO 2018-12-06 20:37:48,634 fileName: jrd_build_image.py lineNo: 22 funcName: generate_logo_image ] Generate a logo.bin from the pictures
+[ INFO 2018-12-06 20:37:48,634 fileName: jrd_build_image.py lineNo: 25 funcName: generate_logo_image ] /bin/bash ./makeperso/build/common/update_logo.sh hd720 /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205 mtk6737_wimdata_ng/wcustores/Edison/logo /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/common/jrdResAssetsCustdb
+[ INFO 2018-12-06 20:37:59,688 fileName: jrd_build_image.py lineNo: 27 funcName: generate_logo_image ] 
+[ INFO 2018-12-06 20:40:14,726 fileName: jrd_build_image.py lineNo: 193 funcName: generate_system_image ] Now start to generate system image ... 
+[ INFO 2018-12-06 20:40:14,727 fileName: jrd_build_image.py lineNo: 215 funcName: generate_system_image ] build images=[./makeperso/tools/build_image.py  /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/system /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/obj/PACKAGING/systemimage_intermediates/system_image_info.txt /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/system.img /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/system]
+[ INFO 2018-12-06 20:43:29,745 fileName: jrd_build_image.py lineNo: 193 funcName: generate_system_image ] Now start to generate vendor image ... 
+[ INFO 2018-12-06 20:43:29,745 fileName: jrd_build_image.py lineNo: 215 funcName: generate_system_image ] build images=[./makeperso/tools/build_image.py  /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/vendor /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/obj/PACKAGING/vendor_intermediates/vendor_image_info.txt /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/vendor.img /local/black/Edison-black/vBV1L-black-BV1L_2BL2_xiaodan.cheng_20181205/out/target/product/Edison/system]
+[ INFO 2018-12-06 20:43:35,998 fileName: jrd_build_image.py lineNo: 297 funcName: check_whitespace ] Check filename contains whitespace in system image ...

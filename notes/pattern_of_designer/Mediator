@@ -1,0 +1,145 @@
+中介者模式（Mediator)	
+
+		用一个中介对象来封装一系列的对象交互。中介者使各对象不需要显示地相互引用，从而使其耦合松散，而且可以独立地改变它们之间的交互。
+
+
+
+abstract class Mediator
+{
+	public abstract void Send(string message,Colleague colleague);
+}
+
+abstract class Colleague
+{
+	protected Mediator mediator;
+	public Colleague(Mediator mediator)
+	{
+		this.mediator = mediator;
+	}
+}
+
+class ConcreteMediator : Mediator
+{
+	private ConcreteColleague1 colleague1;
+	private ConcreteColleague2 colleague2;
+	public ConcreteColleague1 colleague1
+	{
+		set { colleague1 = value; }	
+	}
+	public ConcreteColleague2 colleague2
+	{
+		set { colleague2 = value; }
+	} 
+	public override void Send(string message,Colleague colleague)
+	{
+		if (colleague == colleague1)
+		{
+			colleague2.Notify(message);
+		}
+		else
+		{
+			colleague1.Notify(message);
+		}
+	}
+}
+
+class ConcreteColleague1 : Colleague
+{
+	public ConcreteColleague1(Mediator mediator) : base(mediator)
+	{
+		
+	}
+	public void Send(string message)
+	{
+		mediator.Send(message,this);
+	}
+	public void Notify(string message)
+	{
+		Console.WriteLine("colleage 1 get message:"+ message);
+	}
+}
+
+class ConcreteColleague2 : Colleague
+{
+	public ConcreteColleague2(Mediator mediator) : base(mediator)
+	{
+		
+	}
+	public void Send(string message)
+	{
+		mediator.Send(message,this);
+	}
+	public void Notify(string message)
+	{
+		Console.WriteLine("colleage 2 get message:"+ message);
+	}
+}
+
+static void Main(string[] args)
+{
+	ConcreteMediator m = new ConcreteMediator();
+	
+	ConcreteColleague1 c1 = new ConcreteColleague1(m);
+	ConcreteColleague2 c2 = new ConcreteColleague2(m);
+
+	c1.Send("Do you have lunch?");
+	c2.Send("Not yet.");
+
+	Console.Read();
+
+}
+
+###########################################################################################
+
+#!/usr/bin/python
+#
+#mediator test
+#
+
+class Mediator(object):
+
+	def Send(self,message):
+		pass
+
+class Colleague(object):
+	
+	def __init__(self,mediator):
+		self.mediator = mediator
+
+class ConcreteColleague1(Colleague):
+
+	def Send(self,message):
+		self.mediator.Send(message,self)
+	def Notify(self,message):
+		print "ConcreteColleague1 have recieve message:%s" % message
+
+class ConcreteColleague2(Colleague):
+
+	def Send(self,message):
+		self.mediator.Send(message,self)
+	def Notify(self,message):
+		print "ConcreteColleague2 have recieve message:%s" % message
+
+class ConcreteMediator(Mediator):
+
+	def __init__(self):
+		self.colleague_list = []
+	def Setcolleague_list(self,colleague_list):
+		self.colleague_list = colleague_list
+	def Send(self,message,colleague):
+		if colleague in self.colleague_list:
+			for num in xrange(len(self.colleague_list)):
+				if self.colleague_list[num] == colleague:
+					self.colleague_list[(num+1) % len(self.colleague_list)].Notify(message)
+
+if __name__ == '__main__':
+
+	m =  ConcreteMediator()
+	c1 = ConcreteColleague1(m)
+	c2 = ConcreteColleague2(m)
+	m.Setcolleague_list([c1,c2])
+	c1.Send("Do you have lunch?")
+	c2.Send("Not yet.Would you like to go with me?")
+	
+		
+

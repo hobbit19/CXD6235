@@ -1,0 +1,57 @@
+解释器模式（interpreter）
+给定一种语言，定义它的文法的一种表示，并定义一个解释器，这个解释器使用该表示来解释语言中的句子。
+
+
+
+
+abstract class AbstractExpression
+{
+	public abstract void Interpret(Context context);
+}
+
+class TerminalExpression : AbstractExpression
+{
+	public override void Interpret(Context context)
+	{
+		Console.WriteLine("Terminal Expression context");
+	}
+}
+
+class NonTerminalExpression : AbstractExpression
+{
+	public override void Interpret(Context context)
+	{
+		Console.WriteLine("None Terminal Expression context");
+	}
+}
+
+class Context
+{
+	private string input;
+	public string input
+	{
+		get { return input;}
+		set { input = value;}
+	}
+	private string output;
+	public string output
+	{
+		get { return output; }
+		set { output = value; }
+	}
+}
+
+static void main(string[] args)
+{
+	Context context = new Context();
+	IList<AbstractExpression> list = new List<AbstractExpression>();
+	list.add(new TerminalExpression());
+	list.add(new NonTerminalExpression());
+	list.add(new TerminalExpression());
+	list.add(new TerminalExpression());
+	foreach (AbstractExpression exp in list)
+	{
+		exp.Interpret(context);
+	}
+	Console.Read();
+}
