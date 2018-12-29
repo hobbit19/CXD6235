@@ -1,0 +1,27 @@
+virturalenv
+
+建立虚环境
+#virtualenv cxd
+New python executable in cxd/bin/python
+Installing setuptools, pip...done.
+
+
+在虚环境下安装组件
+
+./cxd/bin/pip install tornado
+
+在虚环境运行python 程序
+
+./cxd/bin/python xxxx.py
+
+也可以用activate命令启动虚环境，之后不必再显示地调用虚环境bin文件中的命令
+
+user@swd:/home/swd3/MTK_PATH$ source ./cxd/bin/activate
+(cxd)user@swd:/home/swd3/MTK_PATH$ 
+
+用deactivate命令可以退出用activate进入的虚环境
+
+user@swd:/home/swd3/MTK_PATH$ source ./cxd/bin/activate
+(cxd)user@swd:/home/swd3/MTK_PATH$ deactivate 
+user@swd:/home/swd3/MTK_PATH$ 
+

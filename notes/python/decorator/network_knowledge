@@ -1,0 +1,533 @@
+类的函数装饰器
+
+#!/usr/bin/python
+#
+#
+#
+def Haha(clz):
+	clz.__str__ = lambda s:"Haha"
+	return clz
+
+@Haha
+class Widget(object):
+	"class Widget"
+
+if __name__ == "__main__":
+
+	w = Widget()
+	print w
+
+
+函数的函数装饰器
+
+#!/usr/bin/python
+#
+#decorator
+#
+
+#-*-coding: utf-8 -*-
+import functools
+def log_cost_time(func):
+	@functools.wraps(func)
+	def wrapped(*args,**kwargs):
+		import time
+		begin = time.time()
+		try:
+			return func(*args,**kwargs)
+		finally:
+			print 'func %s cost %s' % (func.__name__, time.time()-begin)
+	return wrapped
+#
+@log_cost_time
+def complex_func(num):
+	ret = 0
+	for i in xrange(num):
+		ret+=i*i
+	return ret
+
+#complex_func = log_cost_time(complex_func)
+
+if __name__ == '__main__':
+
+	print complex_func(100000)
+	print complex_func.__name__
+
+函数的类装饰器
+
+class Foo(object):
+    def __init__(self):
+        pass
+
+    def __call__(self,func):
+        def _call(*args,**kw):
+            print 'class decorator runing'
+            return func(*args,**kw)
+         return _call
+
+class Bar(object):
+    @Foor()
+    def bar(self,test,ids):
+        print 'bar'
+
+Bar().bar('aa','ids')
+
+
+
+深入理解python中的闭包和装饰器
+
+下面小编就为大家带来一篇深入理解python中的闭包和装饰器。小编觉得挺不错的，现在就分享给大家，也给大家做个参考。一起跟随小编过来看看吧
+
+python中的闭包从表现形式上定义（解释）为：如果在一个内部函数里，对在外部作用域（但不是在全局作用域）的变量进行引用，那么内部函数就被认为是闭包(closure)。
+以下说明主要针对 python2.7，其他版本可能存在差异。
+也许直接看定义并不太能明白，下面我们先来看一下什么叫做内部函数：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+def wai_hanshu(canshu_1):
+ 
+  def nei_hanshu(canshu_2): # 我在函数内部有定义了一个函数
+    return canshu_1*canshu_2
+ 
+  return nei_hanshu  # 我将内部函数返回出去
+ 
+a = wai_hanshu(123)   # 此时 canshu_1 = 123
+print a
+print a(321)  # canshu_2 = 321
+
+
+我在函数里面有嵌套了一个函数，当我向外层函数传递一变量的之后，并赋值给 a ，我们发现 a 变成了一个函数对象，而我再次为这个函数对象传参的时候，又获得了内部函数的返回值。我们知道，按照作用域的原则来说，我们在全局作用域是不能访问局部作 用域的。但是，这里通过讨巧的方法访问到了内部函数。。
+下面我们继续看一个例子：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+def wai_hanshu():
+  a = []
+  def nei_hanshu(canshu):
+    a.append(canshu)
+    return a
+ 
+  return nei_hanshu
+ 
+a = wai_hanshu()
+print a(123)
+print a(321)
+
+
+可以看出函数位于外部函数中的列表 a 竟然改变了。要知道为什么，就要先知道什么是python的命名空间，而命名空间就是作用域表现的原因，这里我简要说明一下。
+引入命名空间的主要原因还是为了避免变量冲突，因为python中的模块众多，模块中又有函数，类等，它们都要使用到变量。但如果每次都要注意不和 其他变量名冲突，那就太麻烦了，开发人员应该专注于自己的问题，而不是考虑别人写的程序中用到了什么变量，所以python引入了命名空间。命名空间分为 模块层，模块内又分为全局作用域和局部作用域，用一个图来表示的话：
+
+模块之间命名空间不同，而里面还有全局作用域和局部作用域，局部作用域之前还能嵌套，这样就能保证变量名不冲突了。这里顺便补充一下，可以通过 __name__ 属性获取命名空间的名字：
+
+主文件的命名空间是叫做 '__main__'，而模块的命名空间就是模块名。
+作用域的诞生，是因为当python在寻找一个变量的时候，首先会在当前的命名空间中寻找，如果当前命名空间中没有，就到上一级的命名空间中找，以此类推，如果最后都没找到，则触发变量没找到的异常。
+我们之前一直说：全局作用域无法访问局部作用域，而局部作用域能够访问全局作用域就这这个原因。而当我在局部作用域创建了一个和外面同名的变量时，python在找这个变量的时候首先会在当前作用域中找，找到了，就不继续往上一级找了。
+在早期的python版本时，局部作用域是不能访问其他的局部作用域的，只能访问全局的，而现在的版本都是依次向上一级找，这里就提一下。
+也就是因为这个特性，我们可以在内部函数中访问外部函数中的变量，这也就是所谓的闭包了。
+注意：这里要做好对象之间的区分，例如：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+def wai_hanshu():
+  a = []
+  def nei_hanshu(canshu):
+    a.append(canshu)
+    return a
+ 
+  return nei_hanshu
+ 
+a = wai_hanshu()  # 我创建了一个对象
+b = wai_hanshu()  # 我又创建了一个对象
+print a
+print b
+print a(123)
+print b(321)
+
+
+在这里，我们虽然都是操作 wai_hanshu 中的变量，但是 a 和 b 完全是两个对象，它们所在的内存空间也是不同的，所以里面的数据也是独立的。要注意不要搞混。
+装饰器
+其实装饰器就是在闭包的基础上多进行了几步，看代码：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+def zsq(func): # 装饰函数
+  def nei():
+    print '我在传入的函数执行之前做一些操作'
+    func() # 执行函数
+    print '我在目标函数执行后再做一些事情'
+  return nei
+ 
+def login():  # 被装饰函数
+  print '我进行了登录功能'
+ 
+login = zsq(login)  # 我将被装饰的函数传入装饰函数中，并覆盖了原函数的入口
+ 
+login()   # 此时执行的就是被装饰后的函数了
+
+
+在看这段代码的时候，要知道几件事：
+1.函数的参数传递的其实是引用，而不是值。
+2.函数名也是一个变量，所以可以重新赋值。
+3.赋值操作的时候，先执行等号右边的。
+只有明白了上面这些事之后，再结合一下代码，应该就能明白什么是装饰器了。所谓装饰器就是在闭包的基础上传递了一个函数，然后覆盖原来函数的执行入 口，以后调用这个函数的时候，就可以额外实现一些功能了。装饰器的存在主要是为了不修改原函数的代码，也不修改其他调用这个函数的代码，就能实现功能的拓 展。
+而python觉得让你每次都进行重命名操作实在太不方便，于是就给出了一个便利的写法：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+def zsq(func):
+  def nei():
+    print '我在传入的函数执行之前做一些操作'
+    func() # 执行函数
+    print '我在目标函数执行后再做一些事情'
+  return nei
+ 
+@zsq  # 自动将其下面的函数作为参数传到装饰函数中去
+def login():
+  print '我进行了登录功能'
+ 
+ 
+login()
+
+
+这些小便利也叫做python的语法糖，你可能在很多地方见过这个说法。
+带参数的装饰器：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+def zsq(a):
+  print '我是装饰器的参数', a
+  def nei(func):
+    print '我在传入的函数执行之前做一些操作'
+    func() # 执行函数
+    print '我在目标函数执行后再做一些事情'
+  return nei
+ 
+ 
+@zsq('123')
+def login():
+  print '我进行了登录功能'
+
+
+相当于： login = zsq(123)(login) ，所以在这里没有调用就执行了。
+装饰器的嵌套：
+这里就不完整写个例子了：
+?
+1
+2
+3
+4
+@deco1(deco_arg) 
+@deco2
+def func(): 
+  pass
+
+相当于： func = deco1(deco_arg)(deco2(func)) 
+也就是从上到下的嵌套了。
+
+
+编写类装饰器
+类装饰器类似于函数装饰器的概念，但它应用于类，它们可以用于管理类自身，或者用来拦截实例创建调用以管理实例。
+-------------------------------------------------------------------------------------------------------------------------------------
+单体类
+由于类装饰器可以拦截实例创建调用，所以它们可以用来管理一个类的所有实例，或者扩展这些实例的接口。
+下面的类装饰器实现了传统的单体编码模式，即最多只有一个类的一个实例存在。
+[python] view plain copy
+instances = {} # 全局变量，管理实例  
+def getInstance(aClass, *args):  
+    if aClass not in instances:  
+        instances[aClass] = aClass(*args)  
+    return instances[aClass]     #每一个类只能存在一个实例  
+  
+def singleton(aClass):  
+    def onCall(*args):  
+        return getInstance(aClass,*args)  
+    return onCall  
+为了使用它，装饰用来强化单体模型的类：
+[python] view plain copy
+@singleton        # Person = singleton(Person)  
+class Person:  
+    def __init__(self,name,hours,rate):  
+        self.name = name  
+        self.hours = hours  
+        self.rate = rate  
+    def pay(self):  
+        return self.hours * self.rate  
+ 
+@singleton        # Spam = singleton(Spam)  
+class Spam:  
+    def __init__(self,val):  
+        self.attr = val  
+          
+bob = Person('Bob',40,10)  
+print(bob.name,bob.pay())  
+  
+sue = Person('Sue',50,20)  
+print(sue.name,sue.pay())  
+  
+X = Spam(42)  
+Y = Spam(99)  
+print(X.attr,Y.attr)  
+现在，当Person或Spam类稍后用来创建一个实例的时候，装饰器提供的包装逻辑层把实例构建调用指向了onCall，它反过来调用getInstance，以针对每个类管理并分享一个单个实例，而不管进行了多少次构建调用。
+程序输出如下：
+[python] view plain copy
+Bob 400  
+Bob 400  
+42 42  
+在这里，我们使用全局的字典instances来保存实例，还有一个更好的解决方案就是使用Python3中的nonlocal关键字，它可以为每个类提供一个封闭的作用域，如下：
+[python] view plain copy
+def singleton(aClass):  
+    instance = None  
+    def onCall(*args):  
+        nonlocal instance  
+        if instance == None:  
+            instance = aClass(*args)  
+        return instance  
+    return onCall  
+当然，我们也可以用类来编写这个装饰器——如下代码对每个类使用一个实例，而不是使用一个封闭作用域或全局表：
+[python] view plain copy
+class singleton:  
+    def __init__(self,aClass):  
+        self.aClass = aClass  
+        self.instance = None  
+    def __call__(self,*args):  
+        if self.instance == None:  
+            self.instance = self.aClass(*args)  
+        return self.instance  
+-------------------------------------------------------------------------------------------------------------------------------------
+跟踪对象接口
+类装饰器的另一个常用场景是每个产生实例的接口。类装饰器基本上可以在实例上安装一个包装器逻辑层，来以某种方式管理其对接口的访问。
+前面，我们知道可以用__getattr__运算符重载方法作为包装嵌入到实例的整个对象接口的方法，以便实现委托编码模式。__getattr__用于拦截未定义的属性名的访问。如下例子所示：
+[python] view plain copy
+class Wrapper:  
+    def __init__(self,obj):  
+        self.wrapped = obj  
+    def __getattr__(self,attrname):  
+        print('Trace:',attrname)  
+        return getattr(self.wrapped,attrname)  
+  
+      
+>>> x = Wrapper([1,2,3])  
+>>> x.append(4)  
+Trace: append  
+>>> x.wrapped  
+[1, 2, 3, 4]  
+>>>  
+>>> x = Wrapper({'a':1,'b':2})  
+>>> list(x.keys())  
+Trace: keys  
+['b', 'a']  
+在这段代码中，Wrapper类拦截了对任何包装对象的属性的访问，打印出一条跟踪信息，并且使用内置函数getattr来终止对包装对象的请求。
+
+类装饰器为编写这种__getattr__技术来包装一个完整接口提供了一个替代的、方便的方法。如下：
+[python] view plain copy
+def Tracer(aClass):  
+    class Wrapper:  
+        def __init__(self,*args,**kargs):  
+            self.fetches = 0  
+            self.wrapped = aClass(*args,**kargs)  
+        def __getattr__(self,attrname):  
+            print('Trace:'+attrname)  
+            self.fetches += 1  
+            return getattr(self.wrapped,attrname)  
+    return Wrapper  
+ 
+@Tracer  
+class Spam:  
+    def display(self):  
+        print('Spam!'*8)  
+ 
+@Tracer  
+class Person:  
+    def __init__(self,name,hours,rate):  
+        self.name = name  
+        self.hours = hours  
+        self.rate = rate  
+    def pay(self):  
+        return self.hours * self.rate  
+  
+food = Spam()  
+food.display()  
+print([food.fetches])  
+  
+bob = Person('Bob',40,50)  
+print(bob.name)  
+print(bob.pay())  
+  
+print('')  
+sue = Person('Sue',rate=100,hours = 60)  
+print(sue.name)  
+print(sue.pay())  
+  
+print(bob.name)  
+print(bob.pay())  
+print([bob.fetches,sue.fetches])  
+通过拦截实例创建调用，这里的类装饰器允许我们跟踪整个对象接口，例如，对其任何属性的访问。
+
+Spam和Person类的实例上的属性获取都会调用Wrapper类中的__getattr__逻辑，由于food和bob确实都是Wrapper的实例，得益于装饰器的实例创建调用重定向，输出如下：
+[python] view plain copy
+Trace:display  
+Spam!Spam!Spam!Spam!Spam!Spam!Spam!Spam!  
+[1]  
+Trace:name  
+Bob  
+Trace:pay  
+2000  
+  
+Trace:name  
+Sue  
+Trace:pay  
+6000  
+Trace:name  
+Bob  
+Trace:pay  
+2000  
+[4, 2]  
+========================================================================================
+示例：实现私有属性
+如下的类装饰器实现了一个用于类实例属性的Private声明，也就是说，属性存储在一个实例上，或者从其一个类继承而来。不接受从装饰的类的外部对这样的属性的获取和修改访问，但是，仍然允许类自身在其方法中自由地访问那些名称。类似于Java中的private属性。
+[python] view plain copy
+traceMe = False  
+def trace(*args):  
+    if traceMe:  
+        print('['+ ' '.join(map(str,args))+ ']')  
+  
+def Private(*privates):  
+    def onDecorator(aClass):  
+        class onInstance:  
+            def __init__(self,*args,**kargs):  
+                self.wrapped = aClass(*args,**kargs)  
+            def __getattr__(self,attr):  
+                trace('get:',attr)  
+                if attr in privates:  
+                    raise TypeError('private attribute fetch:'+attr)  
+                else:  
+                    return getattr(self.wrapped,attr)  
+            def __setattr__(self,attr,value):  
+                trace('set:',attr,value)  
+                if attr == 'wrapped': # 这里捕捉对wrapped的赋值  
+                    self.__dict__[attr] = value  
+                elif attr in privates:  
+                    raise TypeError('private attribute change:'+attr)  
+                else: # 这里捕捉对wrapped.attr的赋值  
+                    setattr(self.wrapped,attr,value)  
+        return onInstance  
+    return onDecorator  
+  
+if __name__ == '__main__':  
+    traceMe = True  
+ 
+    @Private('data','size')  
+    class Doubler:  
+        def __init__(self,label,start):  
+            self.label = label  
+            self.data = start  
+        def size(self):  
+            return len(self.data)  
+        def double(self):  
+            for i in range(self.size()):  
+                self.data[i] = self.data[i] * 2  
+        def display(self):  
+            print('%s => %s'%(self.label,self.data))  
+  
+    X = Doubler('X is',[1,2,3])  
+    Y = Doubler('Y is',[-10,-20,-30])  
+  
+    print(X.label)  
+    X.display()  
+    X.double()  
+    X.display()  
+  
+    print(Y.label)  
+    Y.display()  
+    Y.double()  
+    Y.label = 'Spam'  
+    Y.display()  
+  
+    # 这些访问都会引发异常  
+    """  
+    print(X.size())  
+    print(X.data)  
+  
+    X.data = [1,1,1]  
+    X.size = lambda S:0  
+    print(Y.data)  
+    print(Y.size())  
+这个示例运用了装饰器参数等语法，稍微有些复杂，运行结果如下：
+[python] view plain copy
+[set: wrapped <__main__.Doubler object at 0x03421F10>]  
+[set: wrapped <__main__.Doubler object at 0x031B7470>]  
+[get: label]  
+X is  
+[get: display]  
+X is => [1, 2, 3]  
+[get: double]  
+[get: display]  
+X is => [2, 4, 6]  
+[get: label]  
+Y is  
+[get: display]  
+Y is => [-10, -20, -30]  
+[get: double]  
+[set: label Spam]  
+[get: display]  
+Spam => [-20, -40, -60]  

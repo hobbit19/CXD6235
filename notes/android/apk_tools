@@ -25,3 +25,15 @@ dex2jar classes.dex -> ./classes-dex2jar.jar
 
 jd-gui
 http://jd.benow.ca/
+
+个人总结
+base.apk
+1.  apktool d -f base.apk
+
+	apktool d -f apk路径+文件名.apk -o 反编译后文件输出路径
+
+2.	mv base.apk base.zip
+
+3.	unzip base.zip
+
+4.	d2j-dex2jar.sh classes.dex

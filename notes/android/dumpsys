@@ -1,0 +1,12 @@
+dumpsys
+
+dumpsys window
+
+
+adb shell dumpsys cpuinfo 显示cpu使用情况
+
+adb shell dumpsys battery 显示battery状态
+
+
+
+

@@ -1,0 +1,60 @@
+infinitive parameter
+
+
+*args **kwargs
+
+不确定有多少参数
+*args	仅有value
+**kwargs  是一个键值对 （key,value）
+
+*args表示任何多个无名参数，它是一个tuple
+
+**kwargs表示关键字参数，它是一个dict
+
+>>> def fun_var_args(*args):
+	for value in args:
+		print "another arg:",value
+
+		
+>>> fun_var_args(1,"two",3,"five",7)
+another arg: 1
+another arg: two
+another arg: 3
+another arg: five
+another arg: 7
+>>> 
+
+
+>>> def fun_var_kwargs(**kwargs):
+	for key in kwargs:
+		print "another keyword args: %s ==== %s" %(key,kwargs[key])
+
+		
+>>> fun_var_kwargs(farg=1,myarg2="two",myargs=3,tea='kws',my=9)
+another keyword args: tea ==== kws
+another keyword args: farg ==== 1
+another keyword args: my ==== 9
+another keyword args: myarg2 ==== two
+another keyword args: myargs ==== 3
+>>> 
+
+>>> def fun_var_args_kwargs(*args,**kwargs):
+	for value in args:
+		print "another arg:",value
+	for key in kwargs:
+		print "another keyword args: %s ==== %s" %(key,kwargs[key])
+
+		
+>>> fun_var_args_kwargs(1,"two",3,'five',7,9,myarg1=1,myarg2="two",myargs=7,myargs5='',test=9)
+another arg: 1
+another arg: two
+another arg: 3
+another arg: five
+another arg: 7
+another arg: 9
+another keyword args: test ==== 9
+another keyword args: myargs5 ==== 
+another keyword args: myarg1 ==== 1
+another keyword args: myarg2 ==== two
+another keyword args: myargs ==== 7
+>>> 

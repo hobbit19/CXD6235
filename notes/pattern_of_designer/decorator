@@ -1,0 +1,72 @@
+装饰模式	decorator
+
+		动态地给一个对象添加一些额外的职责，就增加功能来说，装饰模式比子类更加灵活。
+
+
+
+abstract class Component
+{
+	public abstract void Operation();
+}
+
+class ConcreteComponent : Component
+{
+	public override void Operation()
+	{
+		Console.WriteLine("Concrete Operation");
+	}
+}
+
+abstract class Decorator : Component
+{
+	protected Component component;
+	public void SetComponet(Component component)
+	{
+		this.component =  component;
+	}
+	public override Operation()
+	{
+		if (component != null)
+		{
+			component.Operation();
+		}
+	}
+}
+
+class ConcreteDecoratorA : Decorator
+{
+	private string addedState;
+	public override Operation()
+	{
+		base.Operation();
+		addedState = "New State"
+		Console.WriteLine("Concrete Decorator A Operation");
+	}
+}
+
+class ConcreteDecoratorB : Decorator
+{
+	public override Operation()
+	{
+		base.Operation();
+		AddedBehavior();
+		Console.WriteLine("Concrete Decorator B Operation");
+	}
+	private void AddedBehavior()
+	{
+		
+	}
+}
+
+static void Main(string[] args)
+{
+	ConcreteComponent c = new ConcreteComponent();
+	ConcreteDecoratorA d1 = new ConcreteDecoratorA();
+	ConcreteDecoratorB d2 = new ConcreteDecoratorB();
+	
+	d1.SetComponent(c);
+	d2.SetComponent(d1);
+	d2.Operation();
+
+	Console.Read();
+}

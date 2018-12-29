@@ -1,0 +1,40 @@
+self know
+
+	origin(x)是之前的函数
+
+	before(k)，after(t)时后续增加的功能。
+
+	利用closeure设计装饰函数如下：
+
+
+def orgin(x):
+
+	print "origin"
+
+
+令func=origin
+
+那么内函数为：
+
+def inner(*args,**kwargs)
+	before(k)
+	func(*args,**kwargs)
+	after(t)
+
+
+再加外部函数壳
+
+
+则为：
+
+def decorator(func,k,t):
+
+	def inner(*args,**kwargs):
+		before(k)
+		func(*args,**kwargs)
+		after(t)
+	return inner
+
+调用
+
+fun = decorator(origin,k,t)(x)

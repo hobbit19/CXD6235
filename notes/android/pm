@@ -7,7 +7,7 @@ pm list instrumentation [-f] [TARGET-PACKAGE]
 pm list features
 pm list libraries
 pm list users
-pm path PACKAGE
+pm path PACKAGE 显示package在手机里面的安装路径
 pm dump PACKAGE
 pm install [-l] [-r] [-t] [-i INSTALLER_PACKAGE_NAME] [-s] [-f]
 [--algo <algorithm name> --key <key-in-hex> --iv <IV-i
