@@ -1,0 +1,1 @@
+aapt dumpsys xmltree GooglePackageInstaller.apk AndroidManifest.xml | grep version

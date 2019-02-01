@@ -3,3 +3,14 @@ P10028696
 	中文：1、刚刷完机或者恢复出厂后，Google play store已登录Google账户；
 	2、进入Google play store后，进入my apps&games；
 	3、Google play stores闪退到主界面；-->NOK
+
+
+	正常行为，GMS更新导致Play Store退出。log如下：
+
+
+12-28 19:33:19.095 1178 1227 I ActivityManager: Force stopping com.google.android.gms appid=10005 user=-1: installPackageLI
+
+
+12-28 19:34:35.331 1178 1252 I ActivityManager: Force stopping com.google.android.gms appid=10005 user=0: pkg removed
+12-28 19:34:35.395 1178 1252 I ActivityManager: Killing 2781:com.android.vending/u0a26 (adj 0): stop com.google.android.gms
+12-28 19:34:35.395 1178 1252 I am_kill : [0,2781,com.android.vending,0,stop com.google.android.gms]

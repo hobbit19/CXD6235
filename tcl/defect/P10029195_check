@@ -1,0 +1,9 @@
+P10029195
+
+	1、Drive已登录Google 账户；
+	2、进入Drive，点击Accessibility Menu-Lock Screen；
+	3、手机灭屏，按power键亮屏，解锁后是Drive进入界面；
+	4、Drive一直无任何反应，随后跳出“Drive is not responding”-->NOK
+
+http://HZ.gerrit.tclcom.com:8081/#change,243725
+http://HZ.gerrit.tclcom.com:80/gitweb.cgi?p=TCTROM/tcl.git;a=commit;h=5941187fca47a0554d2d98a49c9f6c4270a85ab4

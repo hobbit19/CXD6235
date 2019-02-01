@@ -38,3 +38,5 @@ def decorator(func,k,t):
 调用
 
 fun = decorator(origin,k,t)(x)
+
+before(k),after(t)均作为装饰用的。所以在设计的时候，对于原有功能函数，如果要某些简单的功能，在不修改原有功能函数的基础上，增加装饰函数可以实现这个需求。

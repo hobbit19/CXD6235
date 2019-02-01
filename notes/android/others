@@ -1,0 +1,84 @@
+other
+
+screencap
+
+截图命令
+
+adb shell screencap -p /sdcard/screen.png
+
+    截屏，保存至 sdcard 目录
+
+screenrecord
+
+4.4 新增的录制命令
+
+adb shell screenrecord sdcard/record.mp4
+
+    执行命令后操作手机，ctrl + c 结束录制，录制结果保存至 sdcard
+
+uiautomator
+
+执行 UI automation tests ， 获取当前界面的控件信息
+
+    runtest：executes UI automation tests RunTestCommand.java
+
+    dump：获取控件信息，DumpCommand.java
+
+[xuxu:~]$ adb shell uiautomator dump   
+UI hierchary dumped to: /storage/emulated/legacy/window_dump.xml
+
+    不加 [file] 选项时，默认存放在 sdcard 下
+
+ime
+
+输入法，Ime.java
+
+[xuxu:~]$ adb shell ime list -s                           
+com.google.android.inputmethod.pinyin/.PinyinIME
+com.baidu.input_mi/.ImeService
+
+    列出设备上的输入法
+
+[xuxu:~]$ adb shell ime set com.baidu.input_mi/.ImeService
+Input method com.baidu.input_mi/.ImeService selected    
+
+    选择输入法
+
+wm
+
+Wm.java
+
+[xuxu:~]$ adb shell wm size
+Physical size: 1080x1920  
+
+    获取设备分辨率
+
+monkey
+
+请参考 Android Monkey 的用法
+settings
+
+Settings.java，请参考 探究下 Android4.2 中新增的 settings 命令
+dumpsys
+
+请参考 android 中 dumpsys 命令使用
+log
+
+这个命令很有意思，可以在 logcat 里面打印你设定的信息，具体用途自己思考！
+
+adb shell log -p d -t xuxu "test adb shell log"
+
+    -p：优先级，-t：tag，标签，后面加上 message
+
+[xuxu:~]$ adb logcat -v time -s xuxu               
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+05-15 13:57:10.286 D/xuxu    (12646): test adb shell log  
+
+getprop
+
+查看 Android 设备的参数信息，只运行 adb shell getprop，结果以 key : value 键值对的形式显示，如要获取某个 key 的值：
+
+adb shell getprop ro.build.version.sdk
+
+    获取设备的 sdk 版本

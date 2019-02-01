@@ -1,0 +1,31 @@
+ 查看帮助信息
+
+>adb shell service
+Usage: service [-h|-?]
+　　　　service list
+            service check SERVICE
+            service call SERVICE CODE [i32 INT | s16 STR] ...
+Options:
+            i32: Write the integer INT into the send parcel.
+            s16: Write the UTF-16 string STR into the send parcel.
+
+ 
+
+查看Service列表
+
+>adb shell service list
+Found 1 services:
+0 phone: [com.android.internal.telephony.ITelephony]
+
+ 
+
+检查Service是否存在
+
+>adb shell service check phone
+Service phone: found
+
+ 
+
+使用Service
+
+>adb shell service call phone 2 s16 "10086"

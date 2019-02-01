@@ -1,0 +1,40 @@
+input
+
+
+
+这个命令可以向 Android 设备发送按键事件，其源码 Input.java
+
+    input text , 发送文本内容，不能发送中文
+
+    adb shell input text test123456
+
+        前提先将键盘设置为英文键盘
+
+    input keyevent , 发送按键事件，KeyEvent.java
+
+    adb shell input keyevent KEYCODE_HOME
+
+        模拟按下 Home 键 ，源码里面有定义：
+
+        public static final int KEYCODE_HOME = 3;
+
+        因此可以将命令中的 KEYCODE_HOME 替换为 3
+
+    input tap , 对屏幕发送一个触摸事件
+
+    adb shell input tap 500 500
+
+        点击屏幕上坐标为 500 500 的位置
+
+    input swipe , 滑动事件
+
+    adb shell input swipe 900 500 100 500
+
+        从右往左滑动屏幕
+
+        如果版本不低于 4.4 , 可以模拟长按事件
+
+    adb shell input swipe 500 500 501 501 2000
+
+        其实就是在小的距离内，在较长的持续时间内进行滑动，最后表现出来的结果就是长按动作
+
