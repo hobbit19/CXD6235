@@ -1,0 +1,10 @@
+P10040476
+
+	DEFECTDESCRIPTION:
+When device has both gmail account and exchange account added, device ask to verify last gmail account on device when performing factory reset through exchange account.
+EXPECTEDBEHAVIOUR:
+When device has both gmail account and exchange account added, device must not ask to verify last gmail account on device when performing factory reset through exchange account.
+REPRODUCINGPROCEDURES:
+device has both gmail account and exchange account added
+2.performing factory reset through exchange account.
+device ask to verify last gmail account on device->KO

@@ -1,0 +1,10 @@
+build command
+
+	
+	LATAM  modem
+
+	python vendor/jrdcom/tool/qcn/qcn.py msm8937_64 ./ LATIM
+
+
+
+modem 配置文件msm8937_64/isdm_sys_makefile.plf

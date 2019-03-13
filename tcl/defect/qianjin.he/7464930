@@ -1,0 +1,9 @@
+7464930
+
+	1.Open Google, turn screen to landscape mode.
+2.Say "OK google"--> KO1:Google FC with no prompt.
+3.Repeated step1-2--> KO2:Google FC with prompt "Google keeps stopping".
+Note:
+1.对比机Google pixel-->Google(v9.21.6.21)，同样操作不会FC，成功进入Google assistant。
+2.Gauss P 上将Google 版本通过Play store升级到 v9.27.3.21 也还是FC。
+3.已添加ADB log 到附件。

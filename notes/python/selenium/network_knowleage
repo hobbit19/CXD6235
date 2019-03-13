@@ -1447,3 +1447,583 @@ private boolean isElementPresent(By by){
         return false; 
         } 
 }
+
+
+ python+selenium文件上传
+
+1、input标签类元素文件上传
+
+先定位到文件上传元素id，再使用方法send_keys(文件路径)
+
+
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+__author__ = 'zuoanvip'
+
+#上传过程一般要打开一个系统的windows窗口，从窗口选择本地文件添加。所以一般会卡在如何操作本地window窗口。解决的方法很简单，只需要定位到上传按钮，然后通过send_keys添加本地文件路径即可
+from selenium import webdriver
+import  os
+import time
+
+driver = webdriver.Firefox()
+
+#打开上传页面
+file_path = 'file:///'+os.path.abspath()
+driver.get(file_path)
+
+#定位上传按钮，添加本地文件
+driver.find_element_by_name('file').send_keys('D:\\selenium_use_case\upload_file.text')
+
+time.sleep(5)
+
+==========================================================
+
+upload_file.html
+
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<title>upload_file</title>
+<script type="text/javascript" async=""
+src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrapcombined.min.css"
+rel="stylesheet" />
+<script type="text/javascript">
+</script>
+</head>
+<body>
+<div class="row-fluid">
+<div class="span6 well">
+<h3>upload_file</h3>
+<input type="file" name="file" />
+</div>
+</div>
+</body>
+<script src="http://netdna.bootstrapcdn.com/twitterbootstrap/2.3.2/js/bootstrap.min.js"></script>
+</html>
+
+
+2、非input标签
+
+备注：非input标签的文件上传，就不适用于此方法了，需要借助autoit工具或者SendKeys第三方库。
+
+3、使用sendkeys库实现文件上传
+
+首先安装库：pip install sendkeys
+
+实现上传：首先定位到上传按钮并点击按钮弹出os框
+
+其次SendKeys.SendKeys(file)    #参数为上传文件路径
+        SendKeys.SendKeys('{ENTER}')  #参数为ENTER表示键盘enter建
+
+
+
+ selenium+python实现附件上传
+
+对于web页面的上传功能一般有两类实现方式：一类是将本地文件的路径作为一个值放在input标签中，通过form表单将这个值提交给服务器；另一个类是插件上传，一般基于flash/javascript或者Ajax等技术实现上传功能。
+
+一.input标签
+
+input标签可以直接通过send_keys()方法上传附件，具体方法可百度。以下重点说明基于Autolt实现上传的方法。
+
+
+有四种方法：
+
+    autoIT，借助外力，我们去调用其生成的au3或exe文件。
+    Python pywin32库，识别对话框句柄，进而操作
+    SendKeys库
+    keybd_event，跟3类似，不过是模拟按键，ctrl+a，ctrl+c， ctrl+v…
+
+
+二.基于Autolt实现上传
+
+1.下载并安装Autolt。官方网站：https://www.autoitscript.com/site/
+
+ 
+
+2.安装成功后打开AutoIt Windows Info工具。鼠标点击Finder Tool变成扇叶指针，按住鼠标左键拖动到待识别的控件（文件名），获取控件信息。获得的文件名信息，其中Basic Window info中Title为“打开”，Class是“#32770”；Basic Control info中Class是“Edti”,instance是“1”
+
+ 
+
+3.获取打开按钮的控件信息，方法同步骤2，记录获取到的信息
+
+4.打开SciTE Script Editor编辑器，根据获取到的控件信息，编写脚本
+
+WinWait（）设置5秒用于等待上传窗口的显示
+ControlFocus（）把输入焦点定位到上传文本框中
+ControlSetText（）输入文件路径
+sleep 等待上传时间，单位毫秒
+ControllClick()点击打开按钮，开始上传
+
+5.脚本编写完成后，可通过Tools-->GO运行脚本，运行正常，将其保存为.au3格式
+
+6.打开Compile Script to.ext工具，将步骤5中生成的文件转换为exe可执行文件。
+
+ 生成如下文件
+
+7.通过自动化测试脚本调用up.exe文件
+
+#打开上传窗口
+driver.find_element_by_xpath("//*[@id='filePicker']").click()
+#调用up.exe文件
+os.system("C:\Users\guorf\Desktop\up.exe")
+
+
+
+selenium+python上传文件操作
+2018年01月08日 15:35:55 xiaguo郭霞 阅读数：6502
+
+上传过程一般要打开一个本地窗口，从窗口选择本地文件添加。selenium webdriver只要定位上传按钮，通过send_keys添加本地文件路径就可以了，绝对路径和相对路径都可以
+
+1、操作文件上传例子：
+
+upload_file.html
+
+<html> 
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /> 
+<title>upload_file</title> 
+<script type="text/javascript" async=""
+src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js ">
+</script> 
+<link 
+href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstra p-combined.min.css" rel="stylesheet" />
+ <script type="text/javascript">
+ </script> 
+ </head> 
+ <body> 
+ <div class="row-fluid"> 
+ <div class="span6 well"> 
+ <h3>upload_file</h3>
+ <input type="file" name="file" />
+ </div> 
+ </div> 
+ </body>
+ <script 
+ src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap. min.js"></script> 
+ </html>
+
+    通过浏览器打开，得到下面界面：
+
+操作上传脚本：
+
+#coding = utf-8
+from selenium import webdriver
+import time,os
+
+driver = webdriver.Chrome("C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe")
+driver.implicitly_wait(8)
+
+file_path = os.path.abspath('upload_file.html')#脚本与upload_file.html在同一个目录
+driver.get(file_path)
+
+time.sleep(5)
+
+driver.find_element_by_name('file').send_keys('F:\\1.log')#定位上传按钮，添加本地文件
+time.sleep(3)
+print(driver.title)  #把页面的title打印出来
+
+driver.quit()
+
+2、下拉框处理
+
+操作下拉框例子：
+
+   drop_down.html
+
+<html> 
+   <body> 
+   <select id="ShippingMethod" onchange="updateShipping(options[selectedIndex]);" name="ShippingMethod"> 
+   <option value="12.51">UPS Next Day Air ==> $12.51</option> 
+   <option value="11.61">UPS Next Day Air Saver ==> $11.61</option> 
+   <option value="10.69">UPS 3 Day Select ==> $10.69</option> 
+   <option value="9.03">UPS 2nd Day Air ==> $9.03</option> 
+   <option value="8.34">UPS Ground ==> $8.34</option> 
+   <option value="9.25">USPS Priority Mail Insured ==> $9.25</option> 
+   <option value="7.45">USPS Priority Mail ==> $7.45</option> <option value="3.20" selected="">USPS First Class ==> $3.20</option>
+   </select> 
+   </body> 
+</html
+
+   通过浏览器打开：
+
+通过脚本选择下拉列表里的$10.69
+
+#-*-coding=utf-8
+from selenium import  webdriver
+
+import os,time
+driver = webdriver.Chrome("C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe")
+
+driver.set_window_size(480,800)
+time.sleep(3)
+file_path = os.path.abspath('drop_down.html')
+driver.get(file_path)
+time.sleep(2)
+#先定位到下拉框
+m = driver.find_element_by_id('ShippingMethod')
+m.click()
+time.sleep(3)
+#再点击下拉框下的选项
+m.find_element_by_xpath('//option[@value="10.69"]').click()
+time.sleep(3)
+
+driver.quit()
+
+
+3、对话框的处理
+
+   有些弹出的对话框，我们可以通过判断是否为当前窗口的方式进行操作
+
+from time import sleep
+import os
+import selenium.webdriver.support.ui as ui
+
+driver = webdriver.Chrome('C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe')
+driver.get('https://www.baidu.com')
+
+nowhandle = driver.current_window_handle #获得当前窗口
+
+allhandles = driver.window_handles
+for handle in allhandles:
+    if handle!=nowhandle: #比较当前窗口是不是原先的窗口
+        driver.switch_to_window(handle) #获得当前窗口的句柄
+        driver.find_element_by_class_name('xxxx').click() #在当前窗口操作
+driver.switch_to_window(nowhandle) #回到原先的窗口
+
+
+
+
+首先，我们要区分出上传按钮的种类，大体上可以分为两种，一种是input框，另外一种就比较复杂，通过js、flash等实现，标签非input
+
+我们分别对这两种进行分析：
+
+1.input标签
+
+众所周知，input标签是可以直接send_keys的，这里也不例外，来看代码示例：
+
+示例网址:http://www.sahitest.com/demo/php/fileUpload.htm 
+
+代码：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+    
+# -*- coding: utf-8 -*-
+from selenium import webdriver
+ 
+driver = webdriver.Firefox()
+driver.get('http://sahitest.com/demo/php/fileUpload.htm')
+upload = driver.find_element_by_id('file')
+upload.send_keys('d:\\baidu.py') # send_keys
+print upload.get_attribute('value') # check value
+ 
+driver.quit()
+
+结果：
+
+baidu.py
+
+很明显，对于input上传，直接send_keys是最简单的解决方案。
+
+2.非input型上传
+
+接下来难度要升级了，对于那些不是input框实现的上传怎么办，这种上传千奇百怪，有用a标签的，有用div的，有用button的，有用object的，我们没有办法通过直接在网页上处理掉这些上传，唯一的办法就是打开OS弹框，去处理弹框。
+
+问题又来了，OS弹框涉及的层面已经不是selenium能解决的了，怎么办？很简单，用OS层面的操作去处理呗，到这里我们基本找到了问题的处理方法。
+
+大体上有以下几种解决方案：
+ 1.autoIT，借助外力，我们去调用其生成的au3或exe文件。
+ 2.Python pywin32库，识别对话框句柄，进而操作
+ 3.SendKeys库
+ 4.keybd_event，跟3类似，不过是模拟按键，ctrl+a，ctrl+c， ctrl+v… 
+
+目前我只知道以上四种办法，有其他方法的请留言告诉我，让我学习一下。
+
+我们依次看一下：
+
+1. autoIT
+
+关于autoIT上传以及参数化的方法我已经在另一篇博文中讲过了，请参见selenium之 autoit命令行参数 。这里不再赘述。
+
+2.win32gui
+
+废话不多说，上代码先：
+
+示例网址:http://www.sahitest.com/demo/php/fileUpload.htm 
+
+代码：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+    
+# -*- coding: utf-8 -*-
+from selenium import webdriver
+import win32gui
+import win32con
+import time
+ 
+dr = webdriver.Firefox()
+dr.get('http://sahitest.com/demo/php/fileUpload.htm')
+upload = dr.find_element_by_id('file')
+upload.click()
+time.sleep(1)
+ 
+# win32gui
+dialog = win32gui.FindWindow('#32770', u'文件上传') # 对话框
+ComboBoxEx32 = win32gui.FindWindowEx(dialog, 0, 'ComboBoxEx32', None) 
+ComboBox = win32gui.FindWindowEx(ComboBoxEx32, 0, 'ComboBox', None)
+Edit = win32gui.FindWindowEx(ComboBox, 0, 'Edit', None) # 上面三句依次寻找对象，直到找到输入框Edit对象的句柄
+button = win32gui.FindWindowEx(dialog, 0, 'Button', None) # 确定按钮Button
+ 
+win32gui.SendMessage(Edit, win32con.WM_SETTEXT, None, 'd:\\baidu.py') # 往输入框输入绝对地址
+win32gui.SendMessage(dialog, win32con.WM_COMMAND, 1, button) # 按button
+ 
+print upload.get_attribute('value')
+dr.quit()
+
+结果：
+
+baidu.py
+
+在这里你需要一个非常重要的小工具：Spy++，百度一下有很多，当然你也可以用autoIT自带的工具，不过没有这个好用，建议去下一个吧。
+
+而且，你得安装pywin32的库，你可以到这里找到对应你Python版本的库，注意32位还是64位一定要和你安装的Python版本对应。
+
+安装完成之后在【开始菜单Python的文件夹】里看到PyWin32的文档【Python for Windows Documentation】，你能从中找到对应的方法API。
+
+简单介绍几个用到的：
+
+win32gui.FindWindow(lpClassName=None, lpWindowName=None):
+ •自顶层窗口开始寻找匹配条件的窗口，并返回这个窗口的句柄。
+ •lpClassName：类名，在Spy++里能够看到
+ •lpWindowName：窗口名，标题栏上能看到的名字
+ •代码示例里我们用来寻找上传窗口，你可以只用其中的一个，用classname定位容易被其他东西干扰，用windowname定位不稳定，不同的上传对话框可能window_name不同，怎么定位取决于你的情况。 
+
+win32gui.FindWindowEx(hwndParent=0, hwndChildAfter=0, lpszClass=None, lpszWindow=None)
+ •搜索类名和窗体名匹配的窗体，并返回这个窗体的句柄。找不到就返回0。
+ •hwndParent：若不为0，则搜索句柄为hwndParent窗体的子窗体。
+ •hwndChildAfter：若不为0，则按照z-index的顺序从hwndChildAfter向后开始搜索子窗体，否则从第一个子窗体开始搜索。
+ •lpClassName：字符型，是窗体的类名，这个可以在Spy++里找到。
+ •lpWindowName：字符型，是窗口名，也就是标题栏上你能看见的那个标题。
+ •代码示例里我们用来层层寻找输入框和寻找确定按钮 
+
+win32gui.SendMessage(hWnd, Msg, wParam, lParam)
+ •hWnd：整型，接收消息的窗体句柄
+ •Msg：整型，要发送的消息，这些消息都是windows预先定义好的，可以参见系统定义消息（System-Defined Messages）
+ •wParam：整型，消息的wParam参数
+ •lParam：整型，消息的lParam参数
+ •代码示例里我们用来向输入框输入文件地址以及点击确定按钮 
+
+至于win32api模块以及其他的方法，这里不进行更多描述，想要了解的自行百度或看pywin32文档。
+
+3.SendKeys
+
+首先要安装SendKeys库，可以用pip安装
+
+pip install SendKeys 
+
+代码示例：
+
+示例网址:http://www.sahitest.com/demo/php/fileUpload.htm 
+
+代码：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+    
+# -*- coding: utf-8 -*-
+from selenium import webdriver
+import win32gui
+import win32con
+import time
+ 
+dr = webdriver.Firefox()
+dr.get('http://sahitest.com/demo/php/fileUpload.htm')
+upload = dr.find_element_by_id('file')
+upload.click()
+time.sleep(1)
+ 
+# SendKeys
+SendKeys.SendKeys('D:\\baidu.py') # 发送文件地址
+SendKeys.SendKeys("{ENTER}") # 发送回车键
+ 
+print upload.get_attribute('value')
+dr.quit()
+
+结果：
+
+baidu.py
+
+通过SendKeys库可以直接向焦点里输入信息，不过要注意在打开窗口是略微加一点等待时间，否则容易第一个字母send不进去（或者你可以在地址之前加一个无用字符），不过我觉得这种方法很不稳定，不推荐。
+
+4.keybd_event
+
+win32api提供了一个keybd_event()方法模拟按键，不过此方法比较麻烦，也不稳定，所以很不推荐，下面给出部分代码示例，如果想要研究，自己百度去学习吧。
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+    
+# 先找一个input框，输入想要上传的文件的地址，剪切到剪贴板 
+video.send_keys('C:\\Users\\Administrator\\Pictures\\04b20919fc78baf41fc993fd8ee2c5c9.jpg')
+video.send_keys(Keys.CONTROL, 'a') # selenium的send_keys（ctrl+a）
+video.send_keys(Keys.CONTROL, 'x') # (ctrl+x)
+driver.find_element_by_id('uploadImage').click() # 点击上传按钮，打开上传框
+ 
+# 粘贴（ctrl + v）
+win32api.keybd_event(17, 0, 0, 0) # 按下按键 ctrl
+win32api.keybd_event(86, 0, 0, 0) # 按下按键 v
+win32api.keybd_event(86, 0, win32con.KEYEVENTF_KEYUP, 0) # 升起按键 v
+win32api.keybd_event(17, 0, win32con.KEYEVENTF_KEYUP, 0) # 升起按键 ctrl
+time.sleep(1)
+ 
+# 回车（enter）
+win32api.keybd_event(13, 0, 0, 0) # 按下按键 enter
+win32api.keybd_event(13, 0, win32con.KEYEVENTF_KEYUP, 0) # 升起按键 enter
+ 
+...
+
+是不是很麻烦，当然，你甚至可以用按键把整个路径输入进去，不过，我想没人愿意这么做的。而且在此过程中你不能随意移动鼠标，不能使用剪贴板，太不稳定了，所以非常不建议你用这种办法。。
+
+3.多文件上传
+
+接下来还有一种情况值得我们考虑，那就是多文件上传。如何上传多个文件，当然我们还是往输入框里输入文件路径，所以唯一要搞清楚的就是多文件上传时，文件路径是怎么写的。
+
+我来告诉你吧，多文件上传就是在文件路径框里用引号括起单个路径，然后用逗号隔开多个路径，就是这么简单，例如：
+“D:\a.txt” “D:\b.txt”
+但需要注意的是：只有多个文件在同一路径下，才能这样用，否则是会失败的（下面的写法是不可以的）：
+“C:\a.txt” “D:\b.txt” 
+
+接下里找一个例子试试：
+
+示例网址：http://www.sucaijiayuan.com/api/demo.php?url=/demo/20150128-1 
+
+代码：
+?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+    
+# -*- coding: utf-8 -*-
+ 
+from selenium import webdriver
+import win32gui
+import win32con
+import time
+ 
+dr = webdriver.Firefox()
+dr.get('http://www.sucaijiayuan.com/api/demo.php?url=/demo/20150128-1')
+ 
+dr.switch_to.frame('iframe') # 一定要注意frame
+dr.find_element_by_class_name('filePicker').click()
+time.sleep(1)
+ 
+dialog = win32gui.FindWindow('#32770', None)
+ComboBoxEx32 = win32gui.FindWindowEx(dialog, 0, 'ComboBoxEx32', None)
+ComboBox = win32gui.FindWindowEx(ComboBoxEx32, 0, 'ComboBox', None)
+Edit = win32gui.FindWindowEx(ComboBox, 0, 'Edit', None)
+button = win32gui.FindWindowEx(dialog, 0, 'Button', None)
+ 
+# 跟上面示例的代码是一样的，只是这里传入的参数不同，如果愿意可以写一个上传函数把上传功能封装起来
+win32gui.SendMessage(Edit, win32con.WM_SETTEXT, 0, '"d:\\baidu.py" "d:\\upload.py" "d:\\1.html"')
+win32gui.SendMessage(dialog, win32con.WM_COMMAND, 1, button)
+ 
+ 
+print dr.find_element_by_id('status_info').text
+dr.quit()
+
+结果：
+
+选中3张文件，共1.17KB。
+
+可见，多文件上传并没有那么复杂，也很简单，唯一的区别就是输入的参数不同而已。autoIT也可以实现，有兴趣可以自己试试。
+
+而且我们可以发现一点，就是上面的这个窗口的代码跟之前示例中的基本是一样，说明我们可以把上传的部分抽出来，写一个函数，这样每次要上传，直接去调用函数，传入参数即可。
+
+看，上传其实很好处理。

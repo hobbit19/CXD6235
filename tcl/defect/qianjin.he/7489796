@@ -1,0 +1,8 @@
+7489796
+
+	1、Login Google account-Google will auto-update
+2、After updated->Enter Settings->Security & Location->Smart Lock->Voice Match-KO
+(无解锁功能，是一个新功能：锁定屏幕下通过语音获取咨讯)
+EXPECTED BEHAVIOUR:
+If Google removed this function:Unlock with Voice Match,this function:Voice Match should not exist in Smart Lock menu
+(如果Google移除了通过语音识别解锁手机的功能，那么Smart Lock中就不应该存在这个功能选项，或者是Google后续会将此功能更新回来？)

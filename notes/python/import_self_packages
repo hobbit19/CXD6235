@@ -1,0 +1,130 @@
+import
+
+
+python引入导入自定义模块和外部文件
+
+参考：http://blog.csdn.net/devil_2009/article/details/15816237
+
+ 
+
+项目中想使用以前的代码，或者什么样的需求致使你需要导入外部的包
+
+如果是web 下，比如说django ，那么你新建一个app，把你需要导入的说用东东，都写到这个app中，然后在setting中的app也配上基本就ok了
+
+如果是本地代码，可以有几种方式，
+
+1、这种最简单，也可能最不实用，将你的外部文件放到跟需要调用外部文件的文件同一个包下，同一目录
+
+folder
+
+------toinvoke.py
+
+------tobeinvoded.py
+
+这样在toinvoke.py 中引入
+
+import toveinvoked 或 from tobeinvoked import *
+
+即可
+
+2、你的其他文件不是单个文件，或者不能如上所说放到同一目录下，而是在不同目录中，子目录
+
+folder
+
+------tobeinvodedA.py
+
+------tobeinvodedB.py
+
+------tobeinvodedC.py
+
+toinvoke.py
+
+这种情况，现在folder 下新建一个__init__.py 的空文件，此时的folder不再是一个普通的文件夹，而是一个包 package,现在像这样
+
+folder #文件夹 现在的性质为一个python包package 
+
+------__init__.py
+
+------tobeinvoded.py
+
+------tobeinvodedA.py
+
+------tobeinvodedB.py
+
+------tobeinvodedC.py
+
+toinvoke.py
+
+这样在toinvoke.py 中引入
+
+import folder.toveinvoked 或 from folder.tobeinvoked import *
+
+即可
+
+3、同理，如果是如下的情况,folderB中的模块要调用folderA中的模块，方法同上，有什么改变，你已经知道了
+
+ 
+
+folderA 
+
+------tobeinvoded.py
+
+------tobeinvodedA.py
+
+------tobeinvodedB.py
+
+------tobeinvodedC.py
+
+ 
+
+folderB 
+
+--------toinvoke.py
+
+ 
+
+这样在toinvoke.py 中引入
+
+ 
+
+import folder.toveinvoked 或 from folder.tobeinvoked import *
+
+即可
+
+4、将要被调用的代码拷贝到$PYTHONHOME$\Lib\site-packages 下面，这个就跟Eclipse插件安装差不多
+
+ 
+
+5、在$PYTHONHOME$\Lib\site-packages 下面新建一个.pth文件,比如说是MyPackage.pth,里面的内容是你的包的绝对路径比如：E:/PythonPrj
+
+那么，在E:/PythonPrj下的所有包都可以按照包所在的相对路径引入，这个跟Eclipse插件安装的link 方式差不多
+
+6、跟上面的差不多，也可以加个环境变量，这个就不多说了
+
+ 
+
+总结、看看Python的包搜索路径
+
+Python会在以下路径中搜索它想要寻找的模块：
+
+1. 程序所在的文件夹
+
+2. 标准库的安装路径
+
+3. 操作系统环境变量PYTHONPATH所包含的路径
+
+ 
+
+将自定义库的路径添加到Python的库路径中去，有如下两种方法：
+
+1. 动态的添加库路径。在程序运行过程中修改sys.path的值，添加自己的库路径
+
+import sys
+
+sys.path.append(r'your_path') 
+
+2. 在Python安装目录下的\Lib\site-packages文件夹中建立一个.pth文件，内容为自己写的库路径。示例如下
+
+E:\\work\\Python\\http
+
+E:\\work\\Python\\logging

@@ -1,0 +1,58 @@
+7473858
+
+	谷歌短信出现强退，请帮忙检查以下异常日志，见附件，时间点： 2019-03-01 14:47:38
+========================================
+2019-03-01 14:47:38 system_app_crash (text, 3362 bytes)
+Process: com.google.android.apps.messaging
+PID: 20217
+Flags: 0x38cbbe45
+Package: com.google.android.apps.messaging v37052240 (3.7.052 (axebeak_RC27_alldpi.arm64-v8a.phone))
+Foreground: Yes
+Build: TCL/5053Y/Gauss:8.1.0/OPM1.171019.026/v3F1R-0:user/release-keys
+
+java.lang.NullPointerException: @AutoFactory method argument is null but is not marked @Nullable. Argument index: 1
+at cpz.a(SourceFile:2)
+at cpz.a(SourceFile:4)
+at dci.a(SourceFile:3)
+at com.google.android.apps.messaging.ui.conversation.ConversationActivity.a_(SourceFile:284)
+at foh.V(SourceFile:327)
+at foh.r_(SourceFile:324)
+at com.google.android.apps.messaging.ui.conversation.ConversationActivity.onBackPressed(SourceFile:123)
+at android.app.Activity.onKeyUp(Activity.java:2994)
+at android.view.KeyEvent.dispatch(KeyEvent.java:2723)
+at zj.a(SourceFile:14)
+at tk.dispatchKeyEvent(SourceFile:16)
+at acz.dispatchKeyEvent(SourceFile:69)
+at ajg.dispatchKeyEvent(SourceFile:4)
+at adn.dispatchKeyEvent(SourceFile:4)
+at ajg.dispatchKeyEvent(SourceFile:4)
+at com.android.internal.policy.DecorView.dispatchKeyEvent(DecorView.java:370)
+at android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:4759)
+at android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:4631)
+at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4162)
+at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:4215)
+at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:4181)
+at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:4308)
+at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:4189)
+at android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:4365)
+at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4162)
+at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:4215)
+at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:4181)
+at android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:4189)
+at android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4162)
+at android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:4215)
+at android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:4181)
+at android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:4341)
+at android.view.ViewRootImpl$ImeInputStage.onFinishedInputEvent(ViewRootImpl.java:4502)
+at android.view.inputmethod.InputMethodManager$PendingEvent.run(InputMethodManager.java:2435)
+at android.view.inputmethod.InputMethodManager.invokeFinishedInputEventCallback(InputMethodManager.java:1998)
+at android.view.inputmethod.InputMethodManager.finishedInputEvent(InputMethodManager.java:1989)
+at android.view.inputmethod.InputMethodManager$ImeInputEventSender.onInputEventFinished(InputMethodManager.java:2412)
+at android.view.InputEventSender.dispatchInputEventFinished(InputEventSender.java:141)
+at android.os.MessageQueue.nativePollOnce(Native Method)
+at android.os.MessageQueue.next(MessageQueue.java:325)
+at android.os.Looper.loop(Looper.java:142)
+at android.app.ActivityThread.main(ActivityThread.java:6606)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:820)
