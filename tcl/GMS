@@ -2,4 +2,23 @@ GMS
 
 	GMS集成
 
+	Videos --》 VideosGoogle
+
+	OobConfig --》 	去掉
 	
+
+
+
+	ifeq ($(wildcard vendor/jrdcom/build/common/jrd_build_perso.mk), )
+
+	ifeq ($(strip $(TCT_FEATURE_PERSO_SUPPORT)),yes)
+
+
+ifeq ($(strip $(TCT_FEATURE_PERSO_SUPPORT)),yes)
+    PRODUCT_PACKAGES += GoogleDialer       
+endif
+
+
+ifeq ($(strip $(TCT_ENABLE_MINI_INT)),yes)
+    PRODUCT_PACKAGES += GoogleDialer       
+endif

@@ -1,0 +1,16 @@
+photos as default app
+7604859
+
+int@int-68:/local/black/Morgan3G-black/v9K3X-black-xiaodan.cheng_20190408/vendor/tct/aio_custom/resources/permissions$ git diff
+diff --git a/resources/permissions/pathlist_common.xml b/resources/permissions/pathlist_common.xml
+index 468702a..c5bec24 100644
+--- a/resources/permissions/pathlist_common.xml
++++ b/resources/permissions/pathlist_common.xml
+@@ -34,4 +34,7 @@
+   <path dir="/oem/priv-app/Contenedor" ecid="13334020,33334020" />
+   <path dir="/oem/priv-app/FacebookAmericaMovil" ecid="13334020,33334020" />
+   <!-- [TCT ROM][FCM]end Added by xiaowen.guan for 7433517 7433552 7433559 on 4/4/2019 -->
++  <!-- start modify by xiaodan.cheng for defect 7604859 -->
++  <excludepath dir="/system/priv-app/TctGallery" ecid="33334020,13334020" />
++  <!-- end modify by xiaodan.cheng for defect 7604859 -->
+ </pathlist>

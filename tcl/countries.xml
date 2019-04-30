@@ -1,0 +1,154 @@
+<countries>
+<!--
+	<country name="" mcc=""></country>
+-->
+	<country name="Albania" mcc="276"></country>
+	<country name="Algeria" mcc="603"></country>
+	<country name="Angola" mcc="631,112"></country> <!-- MEA: mcc="631" APAC mcc="112"-->
+	<country name="Antigua and Barbuda" mcc="344"></country>
+	<country name="Argentina" mcc="722"></country>
+	<country name="Armenia" mcc="283"></country>
+	<country name="Aruba" mcc="363"></country>
+	<country name="Australia" mcc="505"></country>
+	<country name="Azerbaijan" mcc="400"></country>
+	<country name="The Bahamas" mcc="364"></country>
+	<country name="Bahrain" mcc="426"></country>
+	<country name="Bangladesh" mcc="470"></country>
+	<country name="Belarus" mcc="257"></country>
+	<country name="Belize" mcc="702"></country>
+	<country name="Benin" mcc="616"></country>
+	<country name="Bolivia" mcc="736"></country>
+	<country name="Bosnia and Herzegovina" mcc="218"></country>
+	<country name="Botswana" mcc="652"></country>
+	<country name="Brazil" mcc="724"></country>
+	<country name="Burkina Faso" mcc="613"></country>
+	<country name="Cambodia" mcc="456"></country>
+	<country name="Cameroon" mcc="624"></country>
+	<country name="Canada" mcc="302"></country>
+	<country name="Cape Verde" mcc="625"></country>
+	<country name="Chile" mcc="730"></country>
+	<country name="Colombia" mcc="732"></country>
+	<country name="Costa Rica" mcc="712"></country>
+	<country name="Côte d'Ivoire" mcc="612"></country>
+	<country name="Cuba" mcc="368"></country>
+	<country name="Dominican Republic" mcc="370"></country>
+	<country name="Ecuador" mcc="740"></country>
+	<country name="Egypt" mcc="602"></country>
+	<country name="El Salvador" mcc="706"></country>
+	<country name="Fiji" mcc="542"></country>
+	<country name="Gabon" mcc="628"></country>
+	<country name="Ghana" mcc="620"></country>
+	<country name="Guatemala" mcc="704"></country>
+	<country name="Guinea-Bissau" mcc="632"></country>
+	<country name="Haiti" mcc="372"></country>
+	<country name="Honduras" mcc="708"></country>
+	<country name="Hong Kong" mcc="454"></country>
+	<country name="India" mcc="405,404"></country>
+	<country name="Indonesia" mcc="510"></country>
+	<country name="Iran" mcc=""></country>
+	<country name="Israel" mcc="425"></country>
+	<country name="Jamaica" mcc="338"></country>
+	<country name="Japan" mcc="031,440"></country>
+	<country name="Jordan" mcc="416"></country>
+	<country name="Kazakhstan" mcc=""></country>
+	<country name="Kenya" mcc="639"></country>
+	<country name="Kuwait" mcc="419"></country>
+	<country name="Kyrgyzstan" mcc="437"></country>
+	<country name="Laos" mcc="457"></country>
+	<country name="Lebanon" mcc="415"></country>
+	<country name="Macau" mcc=""></country>
+	<country name="Republic of Macedonia" mcc="294"></country>
+	<country name="Malaysia" mcc="502"></country>
+	<country name="Mali" mcc="610"></country>
+	<country name="Mauritius" mcc="617"></country>
+	<country name="Mexico" mcc="334"></country>
+	<country name="Moldova" mcc="259"></country>
+	<country name="Morocco" mcc="604"></country>
+	<country name="Mozambique" mcc="643"></country>
+	<country name="Myanmar" mcc="414"></country>
+	<country name="Namibia" mcc="649"></country>
+	<country name="Nepal" mcc="429"></country>
+	<country name="Netherlands Antilles" mcc="362"></country>
+	<country name="New Zealand" mcc="530"></country>
+	<country name="Nicaragua" mcc="710"></country>
+	<country name="Niger" mcc="614"></country>
+	<country name="Nigeria" mcc="621"></country>
+	<country name="Oman" mcc="422"></country>
+	<country name="Pakistan" mcc="410"></country>
+	<country name="Panama" mcc="714"></country>
+	<country name="Papua New Guinea" mcc="537"></country>
+	<country name="Paraguay" mcc="744"></country>
+	<country name="Peru" mcc="716"></country>
+	<country name="Philippines" mcc="515"></country>
+	<country name="Qatar" mcc="427"></country>
+	<country name="Russia" mcc="250"></country>
+	<country name="Rwanda" mcc="635"></country>
+	<country name="Saudi Arabia" mcc="420"></country>
+	<country name="Senegal" mcc="608"></country>
+	<country name="Serbia" mcc="220"></country>
+	<country name="Singapore" mcc="525"></country>
+	<country name="South Africa" mcc="655"></country>
+	<country name="South Korea" mcc="450"></country>
+	<country name="Sri Lanka" mcc="413"></country>
+	<country name="Switzerland" mcc="228"></country>
+	<country name="Taiwan" mcc="111,466"></country>
+	<country name="Tajikistan" mcc="436"></country>
+	<country name="Tanzania" mcc="640"></country>
+	<country name="Thailand" mcc="520,901"></country>
+	<country name="Togo" mcc="615"></country>
+	<country name="Trinidad and Tobago" mcc="374"></country>
+	<country name="Tunisia" mcc="605"></country>
+	<country name="Turkey" mcc="286"></country>
+	<country name="Turkmenistan" mcc="438"></country>
+	<country name="Uganda" mcc="641"></country>
+	<country name="Ukraine" mcc="255"></country>
+	<country name="United Arab Emirates" mcc="424"></country>
+	<country name="United States" mcc="310,311,312,313"></country>
+	<country name="Uruguay" mcc="748"></country>
+	<country name="Uzbekistan" mcc="434"></country>
+	<country name="Venezuela" mcc="734"></country>
+	<country name="Vietnam" mcc="452"></country>
+	<country name="Yemen" mcc="421"></country>
+	<country name="Zambia" mcc="645"></country>
+	<country name="Zimbabwe" mcc="648"></country>
+	<country name="Rest of the World" mcc=""></country>
+	<country name="Restricted Countries" mcc=""></country>
+	<country name="China" mcc="460"></country>
+	<country name="North Korea" mcc=""></country>
+	<country name="Sudan" mcc="634"></country>
+	<country name="Syria" mcc=""></country>
+	<!-- EU -->
+	<country name="Austria" mcc="232"></country>
+	<country name="Belgium" mcc="206"></country>
+	<country name="Bulgaria" mcc="284"></country>
+	<country name="Croatia" mcc="219"></country>
+	<country name="Cyprus" mcc="280"></country>
+	<country name="Czech Republic" mcc="230"></country>
+	<country name="Denmark" mcc="238"></country>
+	<country name="Estonia" mcc="248"></country>
+	<country name="Finland" mcc="244"></country>
+	<country name="France" mcc="208"></country>
+	<country name="Germany" mcc="262"></country>
+	<country name="Greece" mcc="202"></country>
+	<country name="Hungary" mcc="216"></country>
+	<country name="Iceland" mcc="274"></country>
+	<country name="Republic of Ireland" mcc=""></country>
+	<country name="Italy" mcc="222,901"></country>
+	<country name="Latvia" mcc="247"></country>
+	<country name="Liechtenstein" mcc="295"></country>
+	<country name="Lithuania" mcc="246"></country>
+	<country name="Luxembourg" mcc="270"></country>
+	<country name="Malta" mcc="278"></country>
+	<country name="Netherlands" mcc="204"></country>
+	<country name="Norway" mcc="242"></country>
+	<country name="Poland" mcc="260"></country>
+	<country name="Portugal" mcc="268"></country>
+	<country name="Romania" mcc="226"></country>
+	<country name="Slovakia" mcc="231"></country>
+	<country name="Slovenia" mcc="293"></country>
+	<country name="Spain" mcc="214"></country>
+	<country name="Sweden" mcc="240"></country>
+	<country name="United Kingdom" mcc="234"></country>
+	
+
+</countries>

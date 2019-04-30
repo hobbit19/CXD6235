@@ -1,0 +1,30 @@
+xml.dom.minidom
+
+DOMTree = xml.dom.minidom.parse("/home/swd3/CXD/sourcecode/test/country.xml")		解析xml文件获得一个document文件对象
+
+DOMTree	===>	<xml.dom.minidom.Document instance at 0x2ccb5a8>
+
+DOMTree.documentElement 	===>		data
+
+DOMTree.documentElement.nodeName 	data
+
+Document	
+
+	Countrys = DOMTree.documentElement.getElementsByTagName("country") 			获取所有子TAG为country的所有DOM对象，返回为一个list	
+
+	
+	Country.hasAttribute("name")								判断是否有属性
+
+	Country.getAttribute("name") 								获取属性值，如果没有该属性，返回	none
+
+
+	ranks = Country.getElementsByTagName('rank')						获取子层tag name为ranks的所有DOM对象
+
+	rank.childNodes	===》		[<DOM Text node "u'4'">]				返回一个list,里面是DOM对象的子节点，包括所有子DOM与Text对象，
+
+	text =rank.childNodes[0]
+	text.data											返回text里面的data
+
+neighbors = DOMTree.documentElement.getElementsByTagName("neighbor")
+neighbors[0].attributes.items()	==>	(key,value)						返回所以属性及其对应的值
+neighbors[0].attributes		==》	dict							包含属性字典的部分功能，length,keys,values,items

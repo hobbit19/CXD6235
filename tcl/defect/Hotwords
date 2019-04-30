@@ -1,0 +1,9 @@
+Hotwords
+
+
+	必须集成Google hotword. （需要DSP基线支持，目前只有Go项目不支持）
+1. 长按home键，登陆Google账号，点击next，进入Google search/Google assistant
+2. 进入Google search->setting->voice->voice match，打开access with voice match菜单。
+3. 再次按home键，进入default home screen。对着手机喊“OK Google” 2. access with voice match菜单存在
+3. Google search/Google assistant被唤醒
+

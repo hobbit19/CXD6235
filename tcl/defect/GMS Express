@@ -1,0 +1,105 @@
+GMS Express
+
+
+	1.apk:
+	      参考最新的Express 文档
+
+	2.feature:
+
+		com.google.android.feature.GMSEXPRESS_BUILD
+
+		com.google.android.feature.GMSEXPRESS_PLUS_BUILD
+
+
+
+feature检查：
+
+$ adb shell pm list features | grep com.google.android.feature.GMSEXPRESS_BUILD
+feature:com.google.android.feature.GMSEXPRESS_BUILD
+
+参考提交记录：
+
+http://10.92.32.45:8081/#/c/228133/
+http://10.92.32.45:8081/#/c/228134/
+
+diff 信息
+
+mtk6762_wimdata_ng/wprocedures / jrdhz/isdm_sys_makefile.plf
+
+<VAR>
+<SIMPLE_VAR>
+<SDMID>FASTPASS_FEATURE_REQ</SDMID>
+<C_TYPE>AsciiString</C_TYPE>
+<C_NAME>fastpass_feature_req</C_NAME>
+<ARRAY>NOT_ARRAY</ARRAY>
+<METATYPE>Byte,0,1</METATYPE>
+<IS_CUSTO>0</IS_CUSTO>
+<VALUE>1</VALUE>
+<FEATURE>SystemProperty</FEATURE>
+<DESC>
+[FR/PR]:7063960
+[Function]:this SDMID is indicated that if feature com.google.android.feature.GMSEXPRESS_BUILD is needed, "1" is yes, and "0" is no
+[Value]:no
+[Special C]:no
+</DESC>
+</SIMPLE_VAR>
+</VAR>
+
+
+
+mtk6762_wimdata_ng/wprocedures / k62v1_32_bsp/APK_config_to_etc_sysconfig/fastpass.xml
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- These are configurations that must exist on all GMS devices. -->
+<config>
+
+    <!-- GmsCore must always have network access for GCM and other things. -->
+    <!--  add by xiaoying 6371297 -->
+    <feature name ="com.google.android.feature.GMSEXPRESS_BUILD" />
+</config>
+
+
+
+mtk6762_wimdata_ng/wprocedures / k62v1_32_bsp/isdm_sys_makefile.plf
+
+<VAR>
+<SIMPLE_VAR>
+<SDMID>FASTPASS_FEATURE_REQ</SDMID>
+<C_TYPE>AsciiString</C_TYPE>
+<C_NAME>fastpass_feature_req</C_NAME>
+<ARRAY>NOT_ARRAY</ARRAY>
+<METATYPE>Byte,0,1</METATYPE>
+<IS_CUSTO>1</IS_CUSTO>
+<VALUE>1</VALUE>
+<FEATURE>SystemProperty</FEATURE>
+<DESC>
+[FR/PR]:7063960
+[Function]:this SDMID is indicated that if feature com.google.android.feature.GMSEXPRESS_BUILD is needed, "1" is yes, and "0" is no
+[Value]:no
+[Special C]:no
+</DESC>
+</SIMPLE_VAR>
+</VAR>
+
+
+build/makeperso/jrd_build_media.py
+
+def prepare_fastpass_Feature(jrd_out_system):
+	log.info("now building the feature com.google.android.feature.GMSEXPRESS_PLUS_BUILD for russia perso ...")
+	fastpass_file_name = jrd_out_system + '/etc/sysconfig/fastpass.xml'
+	if os.path.exists(fastpass_file_name):
+		cmd ='rm -rf '+fastpass_file_name
+		(status,output) = commands.getstatusoutput(cmd)
+		if status != 0:
+			log.error("rm fastpass_file_name failed")
+			sys.exit(-1)
+		else:
+			log.info("rm fastpass_file_name succeed")
+
+build/makeperso/makePerso.py
+
+	FASTPASS_FEATURE_REQ = read_variable_from_makefile( 'FASTPASS_FEATURE_REQ', JRD_CUSTOM_RES + '/jrd_build_properties.mk' )
+	if FASTPASS_FEATURE_REQ.find("0") !=-1 :
+		prepare_fastpass_Feature(JRD_OUT_SYSTEM)
