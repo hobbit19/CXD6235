@@ -92,3 +92,106 @@ index 8b832c6..21da464 100755
 +# Begin added by xiaodan.cheng for task 7592699 on 2019/03/29
 +PRODUCT_PROPERTY_OVERRIDES += ro.com.google.acsa=true
 +# End added by xiaodan.cheng for task 7592699 on 2019/03/29
+
+
+
+
+
+
+Morgan 4G 
+
+	int@CS-75:/local/build/Morgan4G-release/v1BAX/frameworks/base/telephony/java/android/telephony$ git diff
+		diff --git a/telephony/java/android/telephony/CarrierConfigManager.java b/telephony/java/android/telephony/CarrierConfigManager.java
+		index da39f4a..7d9b909 100755
+		--- a/telephony/java/android/telephony/CarrierConfigManager.java
+		+++ b/telephony/java/android/telephony/CarrierConfigManager.java
+		@@ -2995,7 +2995,9 @@ public class CarrierConfigManager {
+		                 });
+		         sDefaults.putStringArray(KEY_GSM_ROAMING_NETWORKS_STRING_ARRAY, null);
+		         sDefaults.putStringArray(KEY_GSM_NONROAMING_NETWORKS_STRING_ARRAY, null);
+		-        sDefaults.putString(KEY_CONFIG_IMS_PACKAGE_OVERRIDE_STRING, null);
+		+        //[TCTROM][RCS]Begin modify by zhensen.su For Google RCS requirement for task7438565 on 20190215
+		+        sDefaults.putString(KEY_CONFIG_IMS_PACKAGE_OVERRIDE_STRING, "com.google.android.ims");
+		+        //[TCTROM][RCS]End modify by zhensen.su For Google RCS requirement for task7438565 on 20190215
+		         sDefaults.putStringArray(KEY_CDMA_ROAMING_NETWORKS_STRING_ARRAY, null);
+		         sDefaults.putStringArray(KEY_CDMA_NONROAMING_NETWORKS_STRING_ARRAY, null);
+		         sDefaults.putStringArray(KEY_DIAL_STRING_REPLACE_STRING_ARRAY, null);
+
+	int@CS-75:/local/build/Morgan4G-release/v1BAX/packages/apps/CarrierConfig/res/xml$ git diff
+		diff --git a/res/xml/vendor.xml b/res/xml/vendor.xml
+		index 58a87d8..e3111c3 100644
+		--- a/res/xml/vendor.xml
+		+++ b/res/xml/vendor.xml
+		@@ -3,4 +3,11 @@
+		      filtering rules are the same as those in carrier_config*.xml files. This
+		      file is read after any specific config file from the assets folder, so it
+		      must use explicit filters for MCC ad MNC if that is desired. -->
+		-<carrier_config_list />
+		+<carrier_config_list>
+		+     <!--[TCTROM][RCS]Begin modify by zhensen.su For Google RCS requirement for task7438565 on 20190131 -->
+		+     <carrier_config>
+		+          <string name="config_ims_package_override_string">com.google.android.ims</string>
+		+     </carrier_config>
+		+     <!--[TCTROM][RCS]Ends modify by zhensen.su For Google RCS requirement for task7438565 on 20190131 -->
+		+</carrier_config_list>
+
+	int@CS-75:/local/build/Morgan4G-release/v1BAX/device/mediateksample/k61v1_32_bsp_hdp$ git diff
+		diff --git a/full_k61v1_32_bsp_hdp.mk b/full_k61v1_32_bsp_hdp.mk
+		index 0d6f2a7..7c86b8a 100644
+		--- a/full_k61v1_32_bsp_hdp.mk
+		+++ b/full_k61v1_32_bsp_hdp.mk
+		@@ -49,3 +49,6 @@ TRUSTY_PROJECT ?= k61v1_32_bsp_hdp
+		 PRODUCT_OEM_PROPERTIES := ro.oem.tag
+		 PRODUCT_OEM_PROPERTIES += ro.oem.build_id
+		 # [TCT-ROM][FCM]Begin modified by yi.fan for XR7635114 on 20190419
+		+#[TCTROM][RCS]Begin modify by xiaodan.cheng For Google RCS requirement on 20190523
+		+PRODUCT_PROPERTY_OVERRIDES += ro.com.google.acsa=true
+		+#[TCTROM][RCS]End modify by xiaodan.cheng For Google RCS requirement  on 20190523
+
+ROM 3.0
+	mediatek
+
+	diff --git a/device/mediateksample/k61v1_32_bsp_hdp/full_k61v1_32_bsp_hdp.mk b/device/mediateksample/k61v1_32_bsp_hdp/full_k61v1_32_bsp_hdp.mk
+		index 065ca89..f364bb8 100644
+		--- a/device/mediateksample/k61v1_32_bsp_hdp/full_k61v1_32_bsp_hdp.mk
+		+++ b/device/mediateksample/k61v1_32_bsp_hdp/full_k61v1_32_bsp_hdp.mk
+		@@ -104,3 +104,6 @@ TRUSTY_PROJECT ?= k61v1_32_bsp_hdp
+		 PRODUCT_OEM_PROPERTIES := ro.oem.tag
+		 PRODUCT_OEM_PROPERTIES += ro.oem.build_id
+		 # [TCT-ROM][FCM]Begin modified by yi.fan for XR7635114 on 20190520
+		+#[TCTROM][RCS]Begin modify by xiaodan.cheng For Google RCS requirement on 20190523
+		+PRODUCT_PROPERTY_OVERRIDES += ro.com.google.acsa=true
+		+#[TCTROM][RCS]End modify by xiaodan.cheng For Google RCS requirement  on 20190523
+	diff --git a/frameworks/base/telephony/java/android/telephony/CarrierConfigManager.java b/frameworks/base/telephony/java/android/telephony/CarrierConfigManager.java
+		index 09e8ee4..e5d4228 100755
+		--- a/frameworks/base/telephony/java/android/telephony/CarrierConfigManager.java
+		+++ b/frameworks/base/telephony/java/android/telephony/CarrierConfigManager.java
+		@@ -3142,7 +3142,9 @@ public class CarrierConfigManager {
+		                 });
+		         sDefaults.putStringArray(KEY_GSM_ROAMING_NETWORKS_STRING_ARRAY, null);
+		         sDefaults.putStringArray(KEY_GSM_NONROAMING_NETWORKS_STRING_ARRAY, null);
+		-        sDefaults.putString(KEY_CONFIG_IMS_PACKAGE_OVERRIDE_STRING, null);
+		+        //[TCTROM][RCS]Begin modify by zhensen.su For Google RCS requirement for task7438565 on 20190215
+		+        sDefaults.putString(KEY_CONFIG_IMS_PACKAGE_OVERRIDE_STRING, "com.google.android.ims");
+		+        //[TCTROM][RCS]End modify by zhensen.su For Google RCS requirement for task7438565 on 20190215
+		         sDefaults.putStringArray(KEY_CDMA_ROAMING_NETWORKS_STRING_ARRAY, null);
+		         sDefaults.putStringArray(KEY_CDMA_NONROAMING_NETWORKS_STRING_ARRAY, null);
+		         sDefaults.putStringArray(KEY_DIAL_STRING_REPLACE_STRING_ARRAY, null);
+
+	aosp
+	
+	diff --git a/frameworks/base/telephony/java/android/telephony/CarrierConfigManager.java b/frameworks/base/telephony/java/android/telephony/CarrierConfigManager.java
+		index 6cb9b53..3150237 100644
+		--- a/frameworks/base/telephony/java/android/telephony/CarrierConfigManager.java
+		+++ b/frameworks/base/telephony/java/android/telephony/CarrierConfigManager.java
+		@@ -3195,7 +3195,9 @@ public class CarrierConfigManager {
+		                 });
+		         sDefaults.putStringArray(KEY_GSM_ROAMING_NETWORKS_STRING_ARRAY, null);
+		         sDefaults.putStringArray(KEY_GSM_NONROAMING_NETWORKS_STRING_ARRAY, null);
+		-        sDefaults.putString(KEY_CONFIG_IMS_PACKAGE_OVERRIDE_STRING, null);
+		+        //[TCTROM][RCS]Begin modify by zhensen.su For Google RCS requirement for task7438565 on 20190215
+		+        sDefaults.putString(KEY_CONFIG_IMS_PACKAGE_OVERRIDE_STRING, "com.google.android.ims");
+		+        //[TCTROM][RCS]End modify by zhensen.su For Google RCS requirement for task7438565 on 20190215
+		         sDefaults.putStringArray(KEY_CDMA_ROAMING_NETWORKS_STRING_ARRAY, null);
+		         sDefaults.putStringArray(KEY_CDMA_NONROAMING_NETWORKS_STRING_ARRAY, null);
+		         sDefaults.putStringArray(KEY_DIAL_STRING_REPLACE_STRING_ARRAY, null);

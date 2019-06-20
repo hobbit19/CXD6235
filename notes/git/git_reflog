@@ -1,0 +1,26 @@
+git reflog
+
+	引用记录（reflog) 记录非裸版本库中分支头的改变。每次对引用的更新，包括对HEAD的，引用日志都会更新以记录这些引用发生了哪些变化。通过reflog来回溯你的分支操作。
+
+	一些会更新引用日志的基本操作包括：
+
+		复制
+		推送
+		执行新提交
+		修改或创建分支
+		变基操作
+		重置操作
+
+	默认情况下，引用日志在非裸版本库中是启用的，在裸版本库中是禁用的。引用日志是有配置选项core.logAllRefUpdates控制的。
+
+
+	git reflog show  或者  git reflog
+
+
+
+	reflog 都存储在.git/logs 目录下。
+	.git/logs/HEAD 文件包含HEAD 值的历史记录
+	.git/logs/refs 包含所有引用的历史记录，其中也包括stash
+	.git/logs/refs/heads 包含分支头的历史记录。
+
+	在reflog 中存储的所有信息，特别是.git/logs目录下的一切内容，归根结底还是临时的、不重要的。抛弃.git/logs目录或关闭reflog不会损坏Git的内部数据结构。

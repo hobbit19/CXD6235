@@ -1,0 +1,3 @@
+sign
+
+	java -jar signapk.jar security/platform.x509.pem security/platform.pk8 xxxx.apk xxxxx.apk

@@ -22,3 +22,7 @@ endif
 ifeq ($(strip $(TCT_ENABLE_MINI_INT)),yes)
     PRODUCT_PACKAGES += GoogleDialer       
 endif
+
+
+
+git clone -b qt-gms-190307.002 --single-branch --depth 1 persistent-HYPERLINK "https://partner-android.googlesource.com/platform/vendor/partner_gms%20./partner_gms"https://partner-android.googlesource.com/platform/vendor/partner_gms ./partner_gms

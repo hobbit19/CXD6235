@@ -1,0 +1,9 @@
+Zero Touch
+
+	1 OobConfig 已经配置进optional GMS apk
+	1. 定制值   
+	<!-- Package name for the device provisioning package. -->
+    <string name="config_deviceProvisioningPackage"></string>
+
+	2. overlay   mtk6737_wimdata_ng/wprocedures/Edison/APK_config_to_etc_sysconfig/
+

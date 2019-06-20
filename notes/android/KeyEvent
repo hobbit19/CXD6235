@@ -1,0 +1,123 @@
+Android原生的KeyEvent事件有200多个，但是如果随便使用这些事件，上层的处理逻辑就会出问题，比如丢事件或者逻辑混乱，那么如何添加一套自己的KeyEvent事件呢？
+
+待我娓娓道来：
+
+这次添加的是一个需要底层input设备上报的双击事件。
+
+先从framework说起：
+
+--- a/frameworks/base/api/current.txt
++++ b/frameworks/base/api/current.txt
+@@ -26771,6 +26771,7 @@ package android.view {
+field public static final int KEYCODE_CTRL_LEFT = 113; // 0x71
+field public static final int KEYCODE_CTRL_RIGHT = 114; // 0x72
+field public static final int KEYCODE_D = 32; // 0x20
++ field public static final int KEYCODE_DCLICK = 752; // 0x2f0
+field public static final int KEYCODE_DEL = 67; // 0x43
+field public static final int KEYCODE_DPAD_CENTER = 23; // 0x17
+field public static final int KEYCODE_DPAD_DOWN = 20; // 0x14
+
+这一步是修改系统API文件，跟执行make update-api 一个结果，但是我习惯自己编辑修改此文件。
+
+
+第二步：
+
+--- a/frameworks/base/core/java/android/view/KeyEvent.java
++++ b/frameworks/base/core/java/android/view/KeyEvent.java
+@@ -664,9 +664,11 @@ public class KeyEvent extends InputEvent implements Parcelable {
+* @hide
+*/
+public static final int KEYCODE_GALLERY = 228;
++
++ public static final int KEYCODE_DCLICK = 752;
+
+- private static final int LAST_KEYCODE = KEYCODE_GALLERY;
++ private static final int LAST_KEYCODE = KEYCODE_DCLICK;
+
+// NOTE: If you add a new keycode here you must also add it to:
+// isSystem()
+@@ -917,6 +919,7 @@ public class KeyEvent extends InputEvent implements Parcelable {
+names.append(KEYCODE_IME_TOGGLE, "KEYCODE_IME_TOGGLE");
+names.append(KEYCODE_MESSAGING, "KEYCODE_MESSAGING");
+names.append(KEYCODE_GALLERY, "KEYCODE_GALLERY");
++ names.append(KEYCODE_DCLICK, "KEYCODE_DCLICK");
+};
+KeyEvent类中添加事件。
+
+
+第三步：
+
+--- a/frameworks/base/core/res/res/values/attrs.xml
++++ b/frameworks/base/core/res/res/values/attrs.xml
+@@ -1567,6 +1567,7 @@
+<enum name="KEYCODE_BRIGHTNESS_DOWN" value="220" />
+<enum name="KEYCODE_BRIGHTNESS_UP" value="221" />
+<enum name="KEYCODE_MEDIA_AUDIO_TRACK" value="222" />
++ <enum name="KEYCODE_DCLICK" value="752" />
+</attr>
+
+系统属性源xml文件添加键值value。
+
+
+第四步：
+
+--- a/frameworks/base/policy/src/com/android/internal/policy/impl/PhoneWindowManager.java
++++ b/frameworks/base/policy/src/com/android/internal/policy/impl/PhoneWindowManager.java
+@@ -4547,6 +4547,7 @@ public class PhoneWindowManager implements WindowManagerPolicy {
+}
+}
+case KeyEvent.KEYCODE_HEADSETHOOK:
++ case KeyEvent.KEYCODE_DCLICK:
+case KeyEvent.KEYCODE_MUTE:
+case KeyEvent.KEYCODE_MEDIA_STOP:
+case KeyEvent.KEYCODE_MEDIA_NEXT:
+
+修改WindowManager类，此处的目的是将该事件以MEDIA_BUTTON事件的形式广播给app端。
+
+
+第五步：
+
+--- a/frameworks/native/include/android/keycodes.h
++++ b/frameworks/native/include/android/keycodes.h
+@@ -273,6 +273,7 @@ enum {
+AKEYCODE_IME_TOGGLE = 226,
+AKEYCODE_MESSAGING = 227,
+AKEYCODE_GALLERY = 228,
++ AKEYCODE_DCLICK = 752,
+/// @}
+添加至native层的头文件。
+
+
+第六步：
+
+--- a/frameworks/native/libs/input/Input.cpp
++++ b/frameworks/native/libs/input/Input.cpp
+@@ -71,6 +71,7 @@ bool KeyEvent::hasDefaultAction(int32_t keyCode) {
+case AKEYCODE_BRIGHTNESS_DOWN:
+case AKEYCODE_BRIGHTNESS_UP:
+case AKEYCODE_MEDIA_AUDIO_TRACK:
++ case AKEYCODE_DCLICK:
+return true;
+}
+
+@@ -117,6 +118,7 @@ bool KeyEvent::isSystemKey(int32_t keyCode) {
+case AKEYCODE_IME_TOGGLE:
+case AKEYCODE_MESSAGING:
+case AKEYCODE_GALLERY:
++ case AKEYCODE_DCLICK:
+/// @}
+return true;
+}
+将该事件添加至系统按键中。
+
+
+第七步：就是修改内核层面的input头文件等，或者说直接report相应的键值即可。
+
+
+
+需要此功能添加的，可以效法添加，看下效果。。。
+--------------------- 
+作者：凯文的内存 
+来源：CSDN 
+原文：https://blog.csdn.net/dkbdkbdkb/article/details/53667216 
+版权声明：本文为博主原创文章，转载请附上博文链接！

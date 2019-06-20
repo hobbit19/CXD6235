@@ -1,0 +1,5 @@
+img
+	fdisk test.img
+	mount -o loop test.img /mnt/test
+
+	sudo mount -o loop,offset=16384 test.img /mnt/

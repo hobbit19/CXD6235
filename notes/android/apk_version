@@ -1,1 +1,7 @@
+apk version
+
 aapt dumpsys xmltree GooglePackageInstaller.apk AndroidManifest.xml | grep version
+
+package name
+
+aapt dumpsys xmltree Photos_arm64.apk AndroidManifest.xml | grep package= | awk -F '\"' '{print $2}'

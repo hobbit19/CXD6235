@@ -96,9 +96,6 @@ index 224fcb2..756e9b5 100644
 	   <java-symbol type="dimen" name="subtitle_corner_radius" />
 
 	diff --git a/services/core/java/com/android/server/webkit/SystemImpl.java b/services/core/java/com/android/server/webkit/SystemImpl.java
-
-	import android.os.SystemProperties;
-
 	index 4aa2b37..8b487dd 100644 (file)
 	--- a/services/core/java/com/android/server/webkit/SystemImpl.java
 	+++ b/services/core/java/com/android/server/webkit/SystemImpl.java
@@ -220,168 +217,76 @@ frameworks/base
 
 ROM 3.0
 
-	
-	
-	
-
-	int@CS-75:/local/build/Morgan4G-release/v1BAC-X-APAC/vendor/partner_gms$ git status
-		HEAD detached at 4d933fc
-		Untracked files:
-		  (use "git add <file>..." to include in what will be committed)
-
-			etc/Android.mk
-			products/webview_overlay/
-
-		nothing added to commit but untracked files present (use "git add" to track)
-	int@CS-75:/local/build/Morgan4G-release/v1BAC-X-APAC/vendor/partner_gms$ cat etc/Android.mk
-		LOCAL_PATH := $(call my-dir)
-		include $(CLEAR_VARS)
-		LOCAL_MODULE := EEA_search_chrome.xml
-		LOCAL_MODULE_TAGS := optional
-		LOCAL_MODULE_CLASS := ETC
-		LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_EEA/etc/sysconfig
-		LOCAL_SRC_FILES := sysconfig/$(LOCAL_MODULE)
-		include $(BUILD_PREBUILT)
-
-
-	int@CS-75:/local/build/Morgan4G-release/v1BAC-X-APAC/device/mediateksample/k61v1_32_bsp_hdp$ git diff
-		diff --git a/full_k61v1_32_bsp_hdp.mk b/full_k61v1_32_bsp_hdp.mk
-		index 0d6f2a7..ea703ea 100644
-		--- a/full_k61v1_32_bsp_hdp.mk
-		+++ b/full_k61v1_32_bsp_hdp.mk
-		@@ -49,3 +49,5 @@ TRUSTY_PROJECT ?= k61v1_32_bsp_hdp
-		 PRODUCT_OEM_PROPERTIES := ro.oem.tag
-		 PRODUCT_OEM_PROPERTIES += ro.oem.build_id
-		 # [TCT-ROM][FCM]Begin modified by yi.fan for XR7635114 on 20190419
-		+
-		+PRODUCT_PACKAGES += eea_search_chrome.xml
-
-	
+int@CS-75:/local/build/Morgan4G-release/v1BAX/frameworks/base/core/res/res/values$ git diff
+	diff --git a/config/hiddenapi-greylist-max-o.txt b/config/hiddenapi-greylist-max-o.txt
+	index d9c1cd0..c761bee 100644
+	--- a/config/hiddenapi-greylist-max-o.txt
+	+++ b/config/hiddenapi-greylist-max-o.txt
+	@@ -103793,6 +103793,7 @@ Lcom/android/internal/R$xml;->autotext:I
+	 Lcom/android/internal/R$xml;->bookmarks:I
+	 Lcom/android/internal/R$xml;->color_extraction:I
+	 Lcom/android/internal/R$xml;->config_webview_packages:I
+	+Lcom/android/internal/R$xml;->config_webview_packages_eea:I
+	 Lcom/android/internal/R$xml;->default_zen_mode_config:I
+	 Lcom/android/internal/R$xml;->global_keys:I
+	 Lcom/android/internal/R$xml;->password_kbd_numeric:I
+	diff --git a/core/res/res/values/symbols.xml b/core/res/res/values/symbols.xml
+	index 924b036..f9aca8b 100644
+	--- a/core/res/res/values/symbols.xml
+	+++ b/core/res/res/values/symbols.xml
+	@@ -2401,6 +2401,7 @@
+	   <java-symbol type="string" name="websearch" />
+	   <java-symbol type="drawable" name="ic_media_video_poster" />
+	   <java-symbol type="xml" name="config_webview_packages" />
+	+  <java-symbol type="xml" name="config_webview_packages_eea" />
+	 
+	   <!-- From SubtitleView -->
+	   <java-symbol type="dimen" name="subtitle_corner_radius" />
 
 
-ROM 2.0
+	diff --git a/services/core/java/com/android/server/webkit/SystemImpl.java b/services/core/java/com/android/server/webkit/SystemImpl.java
+	index a9a6b19..b550108 100644
+	--- a/services/core/java/com/android/server/webkit/SystemImpl.java
+	+++ b/services/core/java/com/android/server/webkit/SystemImpl.java
+	@@ -76,8 +76,15 @@ public class SystemImpl implements SystemInterface {
+	         XmlResourceParser parser = null;
+	         List<WebViewProviderInfo> webViewProviders = new ArrayList<WebViewProviderInfo>();
+	         try {
+	-            parser = AppGlobals.getInitialApplication().getResources().getXml(
+	-                    com.android.internal.R.xml.config_webview_packages);
+	+            //[GMS EEA]Begin added by ying-chen for Task 7777026 on 2019/05/15
+	+            Log.d(TAG, "ro.boot.subvariant:" + SystemProperties.get("ro.boot.subvariant", ""));
+	+            if (SystemProperties.get("ro.boot.subvariant", "").equals("eea")){
+	+               parser = AppGlobals.getInitialApplication().getResources().getXml(com.android.internal.R.xml.config_webview_packages_eea);
+	+            }
+	+            else{
+	+                parser = AppGlobals.getInitialApplication().getResources().getXml(com.android.internal.R.xml.config_webview_packages);
+	+            }
+	+            //[GMS EEA]End  added by ying-chen for Task 7777026 on 2019/05/15
+	             XmlUtils.beginDocument(parser, TAG_START);
+	             while(true) {
+	                 XmlUtils.nextElement(parser);
 
-	int@CS-75:/local/build/ROM-release/vM10X_ROMBaseCode/frameworks/base/config$ git diff
-		diff --git a/config/hiddenapi-private-dex.txt b/config/hiddenapi-private-dex.txt
-		index 2c48655..8a59d63 100644
-		--- a/config/hiddenapi-private-dex.txt
-		+++ b/config/hiddenapi-private-dex.txt
-		@@ -119706,6 +119706,7 @@ Lcom/android/internal/R$xml;->autotext:I
-		 Lcom/android/internal/R$xml;->bookmarks:I
-		 Lcom/android/internal/R$xml;->color_extraction:I
-		 Lcom/android/internal/R$xml;->config_webview_packages:I
-		+Lcom/android/internal/R$xml;->config_webview_packages_eea:I
-		 Lcom/android/internal/R$xml;->default_zen_mode_config:I
-		 Lcom/android/internal/R$xml;->global_keys:I
-		 Lcom/android/internal/R$xml;->password_kbd_numeric:I
-		diff --git a/core/res/res/values/symbols.xml b/core/res/res/values/symbols.xml
-		index 74f1cb3..931bb2c 100644
-		--- a/core/res/res/values/symbols.xml
-		+++ b/core/res/res/values/symbols.xml
-		@@ -2292,6 +2292,9 @@
-		   <java-symbol type="string" name="websearch" />
-		   <java-symbol type="drawable" name="ic_media_video_poster" />
-		   <java-symbol type="xml" name="config_webview_packages" />
-		+  <!-- [TCT-ROM][GMS EEA]Begin modified by ying-chen for XR 7777026  on 2019.05.15 -->
-		+  <java-symbol type="xml" name="config_webview_packages_eea" />
-		+  <!-- [TCT-ROM][GMS EEA]End modified by ying-chen for XR 7777026  on 2019.05.15 -->
-		 
-		   <!-- From SubtitleView -->
-		   <java-symbol type="dimen" name="subtitle_corner_radius" />
-		diff --git a/services/core/java/com/android/server/webkit/SystemImpl.java b/services/core/java/com/android/server/webkit/SystemImpl.java
-		index 4aa2b37..6016da9 100644
-		--- a/services/core/java/com/android/server/webkit/SystemImpl.java
-		+++ b/services/core/java/com/android/server/webkit/SystemImpl.java
-		@@ -31,6 +31,7 @@ import android.os.Build;
-		 import android.os.RemoteException;
-		 import android.os.UserHandle;
-		 import android.os.UserManager;
-		+import android.os.SystemProperties;
-		 import android.provider.Settings.Global;
-		 import android.provider.Settings;
-		 import android.util.AndroidRuntimeException;
-		@@ -81,8 +81,14 @@ public class SystemImpl implements SystemInterface {
-		         XmlResourceParser parser = null;
-		         List<WebViewProviderInfo> webViewProviders = new ArrayList<WebViewProviderInfo>();
-		         try {
-		-            parser = AppGlobals.getInitialApplication().getResources().getXml(
-		-                    com.android.internal.R.xml.config_webview_packages);
-		+            //[GMS EEA]Begin added by ying-chen for Task 7777026 on 2019/05/15
-		+            Log.d(TAG, "ro.boot.subvariant:" + SystemProperties.get("ro.boot.subvariant", ""));
-		+            if (SystemProperties.get("ro.boot.subvariant", "").equals("eea")){
-		+                parser = AppGlobals.getInitialApplication().getResources().getXml(com.android.internal.R.xml.config_webview_packages_eea);
-		+            }else{
-		+                parser = AppGlobals.getInitialApplication().getResources().getXml(com.android.internal.R.xml.config_webview_packages);
-		+            }
-		+            //[GMS EEA]End  added by ying-chen for Task 7777026 on 2019/05/15
-		             XmlUtils.beginDocument(parser, TAG_START);
-		             while(true) {
-		                 XmlUtils.nextElement(parser);
-
-	int@CS-75:/local/build/ROM-release/vM10X_ROMBaseCode/device/mediatek/sepolicy/bsp$ git diff
-		diff --git a/non_plat/system_server.te b/non_plat/system_server.te
-		index fc3cd26..f13ab77 100644
-		--- a/non_plat/system_server.te
-		+++ b/non_plat/system_server.te
-		@@ -219,3 +219,5 @@ userdebug_or_eng('
-		 allow system_server debugfs_tracing_debug:file { read open };
-		 ')
-		 
-		+# Add by TCTHZ.ying-chen, 05/15/2019, 7777026, for system_server tct_default_prop for EEA
-		+allow system_server tct_default_prop:file { read getattr open };
-
-	int@CS-75:/local/build/ROM-release/vM10X_ROMBaseCode/build/make$ git diff
-		diff --git a/core/Makefile b/core/Makefile
-		index 59f8768..9201c0b 100644
-		--- a/core/Makefile
-		+++ b/core/Makefile
-		@@ -1652,6 +1652,9 @@ ifeq ($(TCT_OEM_BUILD),1)
-		 
-		 UC = $(shell tr '[:lower:]' '[:upper:]' <<< "$(1)")
-		 
-		+INTERNAL_OEMIMAGE_FILES := \
-		+    $(filter $(TARGET_OUT_OEM)/%,$(ALL_DEFAULT_INSTALLED_MODULES))
-		+
-		 define build-oemimage-target
-		   $(hide) PATH=$(foreach p,$(INTERNAL_USERIMAGES_BINARY_PATHS),$(p):)$$PATH \
-		       ./build/tools/releasetools/build_image.py \
-		@@ -1707,7 +1710,7 @@ $(OEM_$(2)_VERITY_IMAGE) : $(MKEXTUSERIMG) $(MAKE_EXT4FS) $(3)/oem_image_info.tx
-		 endef
-		 
-		 .PHONY: oem_images
-		-oem_images: $(OEM_VARIANT_IMAGES) $(VERITY_SIGNER) $(INSTALLED_DEVICE_PROP_FILES)
-		+oem_images: $(OEM_VARIANT_IMAGES) $(VERITY_SIGNER) $(INSTALLED_DEVICE_PROP_FILES) $(INTERNAL_OEMIMAGE_FILES)
-		 
-		 droid: oem_images
+int@CS-75:/local/build/Morgan4G-release/v1BAX/vendor/partner_gms$ cat etc/Android.mk
+	LOCAL_PATH := $(call my-dir)
+	include $(CLEAR_VARS)
+	LOCAL_MODULE := eea_search_chrome.xml
+	LOCAL_MODULE_TAGS := optional
+	LOCAL_MODULE_CLASS := ETC
+	LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_eea/etc/sysconfig
+	LOCAL_SRC_FILES := sysconfig/$(LOCAL_MODULE)
+	include $(BUILD_PREBUILT)
 
 
-	int@CS-75:/local/build/ROM-release/vM10X_ROMBaseCode/device/mediateksample/a5x$ git diff
-		diff --git a/full_a5x.mk b/full_a5x.mk
-		index 57b1290..9c764fc 100644
-		--- a/full_a5x.mk
-		+++ b/full_a5x.mk
-		@@ -52,3 +52,4 @@ LK_PROJECT ?= a5x
-		 TRUSTY_PROJECT ?= a5x
-		 #Added by yangao.chen to get traceability info for D7352301 on 2019-02-22
-		 PRODUCT_PACKAGES += gettraceability
-		+PRODUCT_PACKAGES += eea_search_chrome.xml
-
-	int@CS-75:/local/build/ROM-release/vM10X_ROMBaseCode/vendor/partner_gms$ git status
-		Not currently on any branch.
-		Untracked files:
-		  (use "git add <file>..." to include in what will be committed)
-
-			etc/Android.mk
-			products/webview_overlay/frameworks/base/core/res/res/xml/config_webview_packages_eea.xml
-
-		nothing added to commit but untracked files present (use "git add" to track)
-	int@CS-75:/local/build/ROM-release/vM10X_ROMBaseCode/vendor/partner_gms$ cat etc/Android.mk
-		LOCAL_PATH := $(call my-dir)
-		include $(CLEAR_VARS)
-		LOCAL_MODULE := eea_search_chrome.xml
-		LOCAL_MODULE_TAGS := optional
-		LOCAL_MODULE_CLASS := ETC
-		LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_eea/etc/sysconfig
-		LOCAL_SRC_FILES := sysconfig/$(LOCAL_MODULE)
-		include $(BUILD_PREBUILT)
+int@CS-75:/local/build/Morgan4G-release/v1BAX/device/mediateksample/k61v1_32_bsp_hdp$ git diff
+	diff --git a/full_k61v1_32_bsp_hdp.mk b/full_k61v1_32_bsp_hdp.mk
+	index 0d6f2a7..ea703ea 100644
+	--- a/full_k61v1_32_bsp_hdp.mk
+	+++ b/full_k61v1_32_bsp_hdp.mk
+	@@ -49,3 +49,5 @@ TRUSTY_PROJECT ?= k61v1_32_bsp_hdp
+	 PRODUCT_OEM_PROPERTIES := ro.oem.tag
+	 PRODUCT_OEM_PROPERTIES += ro.oem.build_id
+	 # [TCT-ROM][FCM]Begin modified by yi.fan for XR7635114 on 20190419
+	+
+	+PRODUCT_PACKAGES += eea_search_chrome.xml
 

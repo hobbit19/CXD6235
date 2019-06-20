@@ -1,0 +1,94 @@
+RCSA需求
+
+	参考6926141
+
+mtk6737_wimdata_ng/wprocedures.git/Edison/plf/isdm_Jrdshared.plf
+--- a/Edison/plf/isdm_Jrdshared.plf
++++ b/Edison/plf/isdm_Jrdshared.plf
+@@ -23,6 +23,7 @@
+ <HISTORY>2018-04-16: added def_tctperf_power_save by xi.peng for XR6209033</HISTORY>
+ <HISTORY>2018-06-23: added def_framework_softap_ssid,def_framework_wifi_ap_ssid,def_wifi_direct_name by yucheng.luo for XR6496562</HISTORY>
+ <HISTORY>2018-08-13: modified def_framework_softap_ssid,def_framework_wifi_ap_ssid,def_wifi_direct_name by yucheng.luo for XR6749228</HISTORY>
++<HISTORY>2018-08-30: Add def_sms_application by guoqi.zou for XR6926141</HISTORY>
+ </TABLE_HISTORY>
+ 
+ <MOD>
+@@ -446,6 +447,25 @@ Optional: User can input the string to be the new SSID(Less than 32 characters)<
+ </SIMPLE_VAR>
+ </VAR>
+ 
++<VAR>
++<SIMPLE_VAR>
++<SDMID>def_sms_application</SDMID>
++<C_NAME>def_sms_application</C_NAME>
++<C_TYPE>AsciiString</C_TYPE>
++<ARRAY>NOT_ARRAY</ARRAY>
++<METATYPE>AsciiString,64</METATYPE>
++<IS_CUSTO>1</IS_CUSTO>
++<FEATURE>framework-res</FEATURE>
++<DESC>
++     [FR/PR]:XR6926141
++     [Function]:This item defines the package name of default message application.
++     [Value]: com.android.mms: tct message, com.google.android.apps.messaging: Google Android message
++     [default value]:com.google.android.apps.messaging
++</DESC>
++<VALUE>"com.google.android.apps.messaging"</VALUE>
++</SIMPLE_VAR>
++</VAR>
++
+ </TABLE_VAR>
+ </SDM_AREA>
+ </MOD>
+
+vendor/mediatek/proprietary/packages/apps/CarrierConfig/res/xml/vendor.xml
+--- a/res/xml/vendor.xml
++++ b/res/xml/vendor.xml
+@@ -102,4 +102,9 @@
+     <carrier_config  mcc="311" mnc="180">
+         <boolean name="mtk_rtt_advaced_features_support_bool" value="true" />
+     </carrier_config>
++    <!-- Begin added by guoqi.zou for XR6926141 on 2018/08/30 -->
++    <carrier_config>
++        <string name="config_ims_package_override_string">com.google.android.ims</string>
++    </carrier_config>
++    <!-- End added by guoqi.zou for XR6926141 on 2018/08/30 -->
+
+device/mediateksample/Edison/device.mk
+--- a/device.mk
++++ b/device.mk
+@@ -303,3 +303,7 @@ PRODUCT_PROPERTY_OVERRIDES += ro.boot.vr=0
+ # Begin added by ying-chen for FR6215064 on 20180425
+ PRODUCT_PROPERTY_OVERRIDES += ro.product.first_api_level=27                                                            
+ # End added by ying-chen for FR6215064 on 20180425
++
++# Begin added by guoqi.zou for XR6926141 on 2018/08/30
++PRODUCT_PROPERTY_OVERRIDES += ro.com.google.acsa=true
++# End added by guoqi.zou for XR6926141 on 2018/08/30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+user@swd:/home/swd3/project/pixi4-4c-go/device/mediateksample/k80hd_bsp_fwv_512m$ git diff
+diff --git a/device.mk b/device.mk
+index 8b832c6..21da464 100755
+--- a/device.mk
++++ b/device.mk
+@@ -214,3 +214,7 @@ ifeq ($(strip $(TCT_FEATURE_TCTDATAHUB_SUPPORT)),yes)
+ PRODUCT_PROPERTY_OVERRIDES += persist.datahub.support=1
+ endif
+ #[TCT-ROM][datahub]End added by qian.zhu on 2018/12/04
++
++# Begin added by xiaodan.cheng for task 7592699 on 2019/03/29
++PRODUCT_PROPERTY_OVERRIDES += ro.com.google.acsa=true
++# End added by xiaodan.cheng for task 7592699 on 2019/03/29

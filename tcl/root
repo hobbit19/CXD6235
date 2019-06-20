@@ -1,0 +1,12 @@
+root
+
+
+adb reboot-bootloader
+
+fastboot flash vbmeta '/home/swd3/MTK_PATH/vbmeta.img' --disable-verification
+fastboot reboot
+adb root
+adb remount
+adb shell
+adb push '/local/project/morgan3G/vendor/tct/aio_custom/resources/permissions/pathlist_common.xml' /system/aio_custom/etc/pathlist.xml
+adb reboot

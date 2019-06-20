@@ -103,3 +103,41 @@ build/makeperso/makePerso.py
 	FASTPASS_FEATURE_REQ = read_variable_from_makefile( 'FASTPASS_FEATURE_REQ', JRD_CUSTOM_RES + '/jrd_build_properties.mk' )
 	if FASTPASS_FEATURE_REQ.find("0") !=-1 :
 		prepare_fastpass_Feature(JRD_OUT_SYSTEM)
+
+
+
+FCM venice
+
+	vendor/partner_gms
+		diff --git a/products/gms.mk b/products/gms.mk
+		index 42f41f1..9a0c4db 100755
+		--- a/products/gms.mk
+		+++ b/products/gms.mk
+		@@ -54,6 +54,12 @@ PRODUCT_COPY_FILES += \
+		     $(ANDROID_PARTNER_GMS_HOME)/etc/sysconfig/google.xml:system/etc/sysconfig/google.xml \
+		     $(ANDROID_PARTNER_GMS_HOME)/etc/sysconfig/google-hiddenapi-package-whitelist.xml:system/etc/sysconfig/google-hiddenapi-package-whitelist.xml
+		 
+		+#copy files in FCM 
+		+ifeq ($(strip $(TCT_ENABLE_FCM)), 1)
+		+    PRODUCT_COPY_FILES += \
+		+        $(ANDROID_PARTNER_GMS_HOME)/etc/sysconfig/fastpass.xml:system/etc/sysconfig/fastpass.xml
+		+endif
+		+
+		 # GMS mandatory application packages
+		 PRODUCT_PACKAGES += \
+		     Chrome \
+
+
+     etc/sysconfig/fastpass.xml
+
+
+    vendor/partner_gms$ cat etc/sysconfig/fastpass.xml
+		<?xml version="1.0" encoding="utf-8"?>
+
+		<!-- These are configurations that must exist on all GMS devices. -->
+		<config>
+
+		    <!-- GmsCore must always have network access for GCM and other things. -->
+		    <!--  add by xiaoying 6371297 -->
+		    <feature name ="com.google.android.feature.GMSEXPRESS_BUILD" />
+		</config>

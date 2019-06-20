@@ -1,0 +1,75 @@
+stash
+
+	本质：
+		# 。。。 常规开发过程中断 。。
+		#创建一个新分支来保存状态
+		$git checkout -b saved_state
+		$git commit -a -m "Save state"
+
+		#回到之前的分支进行更新
+		$git checkout master
+
+		#编辑紧急修复
+		$git commite -a -m "Fix something."
+
+		#恢复保存的状态到工作目录
+		$git checkout saved_state
+		$git reset --soft HEAD^
+
+		#。。。 继续之前我们离开时工作。。。
+
+		如果你决定在弹出存储之后执行git push 命令，记住，只有完整且已提交的工作才会被推送。
+		没必要担心那些未完成或未提交的工作，也没必要担心会推送你stash的内容：stash是个纯本地的概念。
+
+
+
+
+
+基本操作步骤：
+
+1.git stash save "WIP:DOING real work on my stuff"			
+													--include-untracked 储存未被跟踪的文件以及余下的修改
+													--all 将收集所有未跟踪的文件以及在.gitignore 和exclude中明确忽略的文件
+
+
+
+
+2.进行其他无关操作
+
+
+
+3.git stash pop
+
+
+其他；
+
+
+在一个pop操作成功后，Git会自动将储藏状态栈中保存的状态删除。也就是说，一旦应用，储藏的状态将会丢弃。然而，当需要解决冲突时，git将不会自动丢弃状态，以防止你想要尝试不同的方法或者还原到不同的提交。一旦你清理了合并冲突并希望继续，你就应该使用git stash drop来将状态从储藏栈中删除。
+
+
+
+git stash show 显示储藏堆栈
+
+
+
+git stash show -p stash@{0} 	显示stash某个存储状态
+
+
+
+git stash list 显示储藏堆栈列表
+
+
+稍微高级的操作：
+
+	stash之后又有更多的提交，分支也渐渐偏离之前stash的提交状态。虽然stash的内容是可用的，但是它没有干净地应用到当前主分支。
+	此时能用新分支来包含那些stash的变更。
+
+	$git reset --hard master
+
+	$git stash branch mod
+
+	$git commit -a -m "Stuff from the stash"
+
+	$git checkout master
+
+	$git merge mod

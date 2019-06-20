@@ -1,0 +1,133 @@
+dump
+
+
+
+Android Breakpad dmp文件转文本文件
+
+		得到DMP文件，必须转成文本文件才能看崩溃调用栈，转化过程方法如下：
+		一、前提条件：
+		1、得到*.dmp文件
+		2、得到对应的代码obj路径下的*.so文件
+		3、我自己是在Linux(CentOS 6.5)下测试的，实在不知道在win7下怎么做
+
+
+		二、生成转换工具
+		1、下载BreakPad源代码
+		命令行输入：svn checkout http://google-breakpad.googlecode.com/svn/trunk/ google-breakpad-read-only
+
+		2、编译工具
+		①进入代码路径
+		cd google-breakpad-read-only/
+
+
+		②配置环境
+		./configure 
+
+
+		③编译工具
+		make
+
+
+		3、看看以下工具是否存在：
+		google-breakpad-read-only/src/tools/linux/dump_syms/dump_syms
+		google-breakpad-read-only/src/processor/minidump_stackwalk
+
+
+
+
+		三、把dmp文件转为txt文件：
+		1、建立一个空文件夹，里面放进四个必要文件
+		minidump_stackwalk
+		dump_syms
+		dd3023f-f8bd-37c3-46e78f56-151901b1.dmp（假设的dmp文件）
+		libgame.so(dmp文件对应的代码obj路径里的so文件）
+
+
+		2、准备symbols：
+		①导出symbols文件
+		./dump_syms libgame.so > libgame.so.sym
+
+
+		②建立symbols文件夹
+		创建文件夹 symbols/libgame.so/2D1C163A1347A1190B26F10560E926CE0
+		后面那个一堆乱数字是前一步生成的“libgame.so.sym”文件的第一行复制出来的
+
+
+		③复制libgame.so.sym到新文件夹中，最终它的路径：
+		symbols/libgame.so/2D1C163A1347A1190B26F10560E926CE0/libgame.so.sym
+
+
+		四、导出文本信息：
+		1、返回到第三步建立的那个文件夹的根部，执行
+		./minidump_stackwalk dd3023f-f8bd-37c3-46e78f56-151901b1.dmp symbols/ > DmpInfo20140228.txt
+
+
+		2、查看新文件“DmpInfo20140228.txt”里面就有崩溃文本信息
+
+
+可供参考的shell脚本
+
+#!/bin/bash
+
+#[usage]
+#将本脚本、dump_sys、minidump_stackwalk放在同级目录下，并创建libs文件夹，所有动态库放到libs文件夹内
+#./dump2txt.sh [dmp文件路径] [生成的txt文件路径]
+
+LIBRARY_DIRECTORY="libs"
+LIBRARY_EXTENDNAME=".sym"
+LIBRARY_KEYPOS=3
+
+Check()
+{
+    if [ $# -ne 2 ];then
+        echo please input two param,the first param is the dmp file path,the second param is txt file path
+        exit
+    fi
+
+    if [ ! -f "$1" ]; then
+        echo $1 is not exsit
+        exit
+    fi
+}
+
+DealLibrary()
+{
+    if [ ! -f "$LIBRARY_DIRECTORY/$1" ]; then
+        echo $LIBRARY_DIRECTORY/$1 is not exsit
+        return
+    fi
+
+    SYM_NAME=$1$LIBRARY_EXTENDNAME
+    ./dump_syms libs/$1 > $SYM_NAME
+    
+    cat $SYM_NAME | while read line
+    do
+        LIBRARY_CODE=$line
+        ARR=($LIBRARY_CODE)
+        LIBRARY_CODE="${ARR[$LIBRARY_KEYPOS]}"
+        mkdir -p symbols/$1/$LIBRARY_CODE
+        mv $SYM_NAME symbols/$1/$LIBRARY_CODE
+        break
+    done
+}
+
+Main()
+{
+    #检查参数 $1:dmp文件路径;$2:生成的txt文件的路径
+    Check $1 $2
+    echo "start convert "$1" to "$2"...."
+
+    #创建解析dmp文件相关的目录以及文件
+    rm -rf symbols
+    for file in $LIBRARY_DIRECTORY/*
+    do
+        DealLibrary ${file:5}
+    done
+
+    #生成txt文件
+    ./minidump_stackwalk $1 symbols/ > $2
+    echo $2 is generated!!!!
+}
+Main $1 $2
+
+

@@ -1,0 +1,8 @@
+git add commites
+
+git pull jgs HEAD:
+git reset --hard e2468b59d53979930b7c250f1ee8c8826c61f6ad
+git cherry-pick eb98d733e450028af5769ffd3e358fc7e034947a
+git branch -b tmp
+git push jgs tmp:morgan3g-v9k44-tmp
+git log
