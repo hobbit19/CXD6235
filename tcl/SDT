@@ -1,5 +1,9 @@
 SDT
 
-	
+	repo init -u git@10.92.32.10:genericapp/manifest -m pl2_rel1.xml
+
+	repo sync SDT --no-tag -c
 
 	/home/swd3/android/android-studio3.2/gradle/gradle-4.6/bin/gradle clean aR
+
+	
