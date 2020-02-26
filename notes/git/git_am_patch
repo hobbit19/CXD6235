@@ -1,0 +1,14 @@
+git am patch
+
+
+1. 格式化打patch
+git format-patch -1 9467a8c35d24e06f921c878d957d4287ef890c5d
+
+2.先检查patch文件：
+git apply --stat /home/swd3/cts/GMS/Q/0001-comment-add-patch-of-permission-controller.patch
+
+3.检查能否应用成功
+git apply --check /home/swd3/cts/GMS/Q/0001-comment-add-patch-of-permission-controller.patch
+
+4.打补丁：
+git am /home/swd3/cts/GMS/Q/0001-comment-add-patch-of-permission-controller.patch

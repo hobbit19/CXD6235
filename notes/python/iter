@@ -1,0 +1,40 @@
+iter
+
+
+class Fibs:
+
+	def __init__(self):
+		self.a = 0
+		self.b = 1
+	def next(self):
+		self.a,self.b = self.b,self.a+self.b
+		return self.a
+	def __iter__(self):
+		return self
+
+>>> fibs = Fibs()
+>>> for f in fibs:
+...     if f> 10000:
+...             print f
+...             break
+... 
+10946
+
+注意，这个类初始化仅进行了一次。
+
+后面再执行迭代，会重之前的结果之后继续迭代。
+
+>>> for f in fibs:
+...     print f
+...     if f> 100000:
+...             break
+... 
+17711
+28657
+46368
+75025
+121393
+
+
+
+所以，要注意是否需要重新初始化。

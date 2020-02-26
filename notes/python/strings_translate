@@ -1,0 +1,10 @@
+strings translate
+
+	translate 类似replace ，但是仅能处理单个字符，而且可以同时处理多个字符，有时候效率比replace 要高得多
+
+	from string import maketrans
+
+	转换表包含替换Assii 码256 字符 的字符串
+	table = maketrans('cs','kz')
+
+	'this is an incredible test'.translate(table)

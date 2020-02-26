@@ -1,4 +1,36 @@
 Zero Touch
+	
+
+	edison: 351727100200420		         AE
+	 
+	Tokyo: 351547110000010   5029D					4F1Y_zero_touch_20191119
+
+	Venice  351927110200028  5048Y_EEA
+
+	Gauss P: 353299101202456  5053Y_EEA   3H27+93
+
+	Tokyo_lite :352608110200411  5007U EEA  
+
+	T1_lite :  353467110210360               TCL/T770H/T1_LITE
+
+	T1 Q   :	357522100206392				TCL/T780H_EEA/T1:10/QKQ1.190929.002/2B2O:user/release-keys
+
+	T1 pro :    352212110009631				TCL/T799H_EEA/T1_PRO:10/QKQ1.190929.002/2B20_J:userdebug/test-keys
+
+	Seoul :     352070110200307   Alcatel/5002A/Seoul:10/QKQ1.191008.001/v3C33-2:userdebug/release-keys
+
+
+	以后ZT的申请可以在下面网站自行完成
+	https://forms.gle/NZsDH424nvVA2XiX6  （需要翻墙）
+
+邮箱填你自己的就可以
+公司填TCL
+Zero Touch Account 选yes
+Name of your customer account TCT
+Account ID 1226674907
+Reseeler 留空
+Manufacturer TCL
+
 
 	1 OobConfig 已经配置进optional GMS apk
 	1. 定制值   
@@ -7,3 +39,485 @@ Zero Touch
 
 	2. overlay   mtk6737_wimdata_ng/wprocedures/Edison/APK_config_to_etc_sysconfig/
 
+
+
+
+
+
+Tokyo 修改：
+
+	frameworks/base/core/res/res/values
+
+		diff --git a/core/res/res/values/config.xml b/core/res/res/values/config.xml
+		index ff3f606..2b853bc 100644
+		--- a/core/res/res/values/config.xml
+		+++ b/core/res/res/values/config.xml
+		@@ -3506,7 +3506,9 @@
+		     </integer-array>
+		 
+		     <!-- Package name for the device provisioning package. -->
+		-    <string name="config_deviceProvisioningPackage"></string>
+		+    <!-- start modify by xiaodan.cheng on 20190902 for FR 8064342-->
+		+    <string name="config_deviceProvisioningPackage">com.google.android.apps.work.oobconfig</string>
+		+    <!-- end modify by xiaodan.cheng on 20190902 for FR 8064342-->
+
+		+    <string-array translatable="false" name="config_defaultFirstuserrestrictions">
+		+        <item>"no_oem_unlock"</item>
+		+    </string-array>
+		 
+		     <!-- Colon separated list of package names that should be granted DND access -->
+		     <string name="config_defaultDndAccessPackages" translatable="false">com.android.camera2</string>
+
+	vendor/partner_gms
+
+
+		diff --git a/etc/sysconfig/Android.bp b/etc/sysconfig/Android.bp
+		index aff68cb..614a88b 100644
+		--- a/etc/sysconfig/Android.bp
+		+++ b/etc/sysconfig/Android.bp
+		@@ -37,3 +37,12 @@ prebuilt_etc {
+		     src: "google-hiddenapi-package-whitelist.xml",
+		     filename_from_src: true,
+		 }
+		+
+		+prebuilt_etc {
+		+    name: "sysconfig_zero_touch",
+		+    product_specific: true,
+		+    sub_dir: "sysconfig",
+		+    src: "zero_touch.xml",
+		+    filename_from_src: true,
+		+}
+		+
+
+
+		diff --git a/products/gms.mk b/products/gms.mk
+		index 5c09d42..1c8a106 100644
+		--- a/products/gms.mk
+		+++ b/products/gms.mk
+		@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += GmsConfigOverlay
+		 
+		 # GMS common configuration files
+		 PRODUCT_PACKAGES += \
+		+    sysconfig_zero_touch \
+		     default_permissions_whitelist_google \
+		     privapp_permissions_google_system \
+		     privapp_permissions_google \
+		@@ -103,9 +104,8 @@ PRODUCT_PACKAGES += \
+		     talkback \
+		     Keep \
+		     CalculatorGoogle \
+		-
+		-#    OobConfig
+		-#remove OobConfig for 7218090 by xiaoying.huang 2018-12-12
+		+    OobConfig
+		+#add OobConfig for Zero-Touch FR 8064342
+		 # Overlay for SearchLauncherQuickStep
+		 #$PRODUCT_PACKAGE_OVERLAYS += \
+		 #    $(ANDROID_PARTNER_GMS_HOME)/apps/SearchLauncher/quickstep/overlay \
+
+
+		cat etc/sysconfig/zero_touch.xml
+		<?xml version="1.0" encoding="utf-8"?>
+		<config>
+		     <!-- Enable Zero Touch Provisioning support. -->
+		     <feature name ="com.google.android.feature.ZERO_TOUCH" />
+		</config>
+
+
+		diff --git a/apps/GmsSampleIntegration/res/raw/wizard_script_zero_touch_flow.xml b/apps/GmsSampleIntegration/res/raw/wizard_script_zero_touch_flow.xml
+		index c9e306e..76048d6 100644
+		--- a/apps/GmsSampleIntegration/res/raw/wizard_script_zero_touch_flow.xml
+		+++ b/apps/GmsSampleIntegration/res/raw/wizard_script_zero_touch_flow.xml
+		@@ -42,4 +42,16 @@
+		 
+		     <WizardAction id="zero_touch_post_frp"
+		         wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ZERO_TOUCH_SETUP;end" />
+		+    <WizardAction id="zero_touch"
+		+        wizard:script="LOCATION_OF_CUSTOMIZATION_PACKAGE_SCRIPT">
+		+        <result wizard:name="dpm_user_complete" wizard:resultCode="111" />
+		+    </WizardAction>
+		+    <WizardAction id="ACTION_THAT_ESTABLISHES_NETWORK_CONNECTIVITY"
+		+        wizard:uri="ACTIVITY">
+		+        <result wizard:action="gms_checkin" />
+		+    </WizardAction>
+		+    <WizardAction id="gms_checkin"         wizard:uri="intent:#Intent;
+		+        action=com.google.android.setupwizard.GMS_CHECKIN;end">
+		+        <result wizard:action="zero_touch" />
+		+    </WizardAction>
+		 </WizardScript>
+
+	vendor/tct/apps/TctSetupWizard
+
+
+	$ cat products/gms_overlay/frameworks/base/core/res/res/values/config.xml 
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Package name for the device provisioning package. -->
+    <string name="config_deviceProvisioningPackage">com.google.android.apps.work.oobconfig</string>
+</resources>
+
+
+
+
+	FCM 框架下的修改：
+
+	device/mediateksample/k62v1_64_bsp$ git diff
+		diff --git a/full_k62v1_64_bsp.mk b/full_k62v1_64_bsp.mk
+		index 53dc7d4..dff67c4 100644
+		--- a/full_k62v1_64_bsp.mk
+		+++ b/full_k62v1_64_bsp.mk
+		@@ -96,6 +96,10 @@ PRODUCT_PACKAGES += gettraceability
+		 PRODUCT_PACKAGES += eea_search_chrome.xml
+		 #[TCTROM][EEA]End modify by xiaodan.cheng For Google EEA requirement on 20190611
+		 
+		+#[TCTROM][Zero-Touch] Begin modify by xiaodan.cheng For Google Zero Touch Requirement on 20190929
+		+PRODUCT_PACKAGES += zero_touch.xml
+		+#[TCTROM][Zero-Touch] End modify by xiaodan.cheng For Google Zero Touch Requirement on 20190929
+		+
+		 #[TCTROM][GMS Express]Begin add by xiaodan.cheng for GMS Express on 20190923 for task 8350489
+		 PRODUCT_PACKAGES += fastpass.xml
+		 #[TCTROM][GMS Express]Begin add by xiaodan.cheng for GMS Express on 20190923 for task 8350489
+
+
+	vendor/partner_gms$ git diff
+		diff --git a/etc/Android.mk b/etc/Android.mk
+			index c103b9d..e76a368 100644
+			--- a/etc/Android.mk
+			+++ b/etc/Android.mk
+			@@ -27,3 +27,12 @@ $(foreach OEM_VARIANT, $(OEM_VARIANTS_UPPER_NO_RU), \
+			         $(eval OEM_$(OEM_VARIANT)_PRODUCT_COPY_FILES += vendor/partner_gms/etc/sysconfig/fastpass.xml:oem/etc/sysconfig/fastpass.xml))
+			 endif
+			 include $(BUILD_PREBUILT)
+			+
+			+include $(CLEAR_VARS)
+			+LOCAL_MODULE := zero_touch.xml
+			+LOCAL_MODULE_TAGS := optional
+			+LOCAL_MODULE_CLASS := ETC
+			+#LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_EEA/etc/sysconfig
+			+LOCAL_SRC_FILES := sysconfig/$(LOCAL_MODULE)
+			+OEM_EEA_PRODUCT_COPY_FILES += vendor/partner_gms/etc/sysconfig/zero_touch.xml:oem/etc/sysconfig/zero_touch.xml
+			+include $(BUILD_PREBUILT)
+		diff --git a/products/gms.mk b/products/gms.mk
+			index 99b37b6..80cfcb2 100644
+			--- a/products/gms.mk
+			+++ b/products/gms.mk
+			@@ -67,6 +67,8 @@ ifeq ($(strip $(TCT_ENABLE_FCM)), 1)
+			         #begin by yange.zhang for task 7956187, 2019-06-28
+			         OEM_RU_PRODUCT_COPY_FILES += $(ANDROID_PARTNER_GMS_HOME)/etc/permissions/com.google.android.feature.RU.xml:oem/etc/5048Y/permissions/com.google.android.feature.RU.xml
+			         #end by yange.zhang for task 7956187, 2019-06-28
+			+        PRODUCT_PACKAGES += OobConfig
+			+        PRODUCT_PACKAGES += zero_touch.xml
+			 endif
+			 #copy files in FCM added by xiaodan.cheng for FR 7668762 on 2019-06-03
+
+	vendor/partner_gms$ cat etc/sysconfig/zero_touch.xml 
+		<?xml version="1.0" encoding="utf-8"?>
+		<config>
+		    <!-- Enable Zero Touch Provisioning support. -->
+		    <feature name ="com.google.android.feature.ZERO_TOUCH" />
+		</config>
+
+	vendor/tct/overlay/frameworks/base/core/res/res$ cat values-ecid22234000/config.xml 
+		<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+		   <!-- Package name for the device provisioning package. -->
+		   <string name="config_deviceProvisioningPackage">com.google.android.apps.work.oobconfig</string>
+		</resources>
+
+	vendor/aio_resources/resources/permissions$ git diff
+		diff --git a/resources/permissions/pathlist_common.xml b/resources/permissions/pathlist_common.xml
+		index f3dde1d..946c43b 100644
+		--- a/resources/permissions/pathlist_common.xml
+		+++ b/resources/permissions/pathlist_common.xml
+		@@ -20,6 +20,9 @@
+		   <!-- start modify by xiaodan.cheng for FR 7433658  -->
+		   <excludepath dir="/system/app/Messages" ecid="13732187,33732187" />
+		   <!-- end modify by xiaodan.cheng for FR 7433658  -->
+		+
+		+  <path dir="/product/priv-app/OobConfig" ecid="22234000" />
+		+
+		   <!--[TCT-ROM][Keyguard]modify by wanlin.qin for XR 20190405 begin-->
+		   <path dir="/oem/priv-app/StartAppClaro" ecid="33748010,33744002,33732101,33730003,33724005,33722310,33716010,33714003,33712003,33710021,33708001,33706001,33704001,33370002,333
+		   <path dir="/oem/removable-app/StartAppTelcel" ecid="13334020,13362051,33334020,33362051" />
+
+
+
+    Venice 修改：
+
+    	frameworks/base/core/res/res$ cat values-ecid22234000/config.xml 
+    	    <?xml version="1.0" encoding="utf-8"?>
+			<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+			   <!-- Package name for the device provisioning package. -->
+			   <string name="config_deviceProvisioningPackage">com.google.android.apps.work.oobconfig</string>
+			   <string-array translatable="false" name="config_defaultFirstuserrestrictions">
+			      <item>"no_oem_unlock"</item>
+			   </string-array>
+			</resources>
+
+		vendor/partner_gms$ git diff
+			diff --git a/etc/Android.mk b/etc/Android.mk
+				index c103b9d..e76a368 100644
+				--- a/etc/Android.mk
+				+++ b/etc/Android.mk
+				@@ -27,3 +27,12 @@ $(foreach OEM_VARIANT, $(OEM_VARIANTS_UPPER_NO_RU), \
+				         $(eval OEM_$(OEM_VARIANT)_PRODUCT_COPY_FILES += vendor/partner_gms/etc/sysconfig/fastpass.xml:oem/etc/sysconfig/fastpass.xml))
+				 endif
+				 include $(BUILD_PREBUILT)
+				+
+				+include $(CLEAR_VARS)
+				+LOCAL_MODULE := zero_touch.xml
+				+LOCAL_MODULE_TAGS := optional
+				+LOCAL_MODULE_CLASS := ETC
+				+#LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_EEA/etc/sysconfig
+				+LOCAL_SRC_FILES := sysconfig/$(LOCAL_MODULE)
+				+ifneq ($(findstring $(LOCAL_MODULE),$(PRODUCT_PACKAGES)),)
+				+    OEM_EEA_PRODUCT_COPY_FILES += vendor/partner_gms/etc/sysconfig/zero_touch.xml:oem/etc/sysconfig/zero_touch.xml
+				+endif
+				+include $(BUILD_PREBUILT)
+			diff --git a/products/gms.mk b/products/gms.mk
+				index 8693e6a..da689bd 100755
+				--- a/products/gms.mk
+				+++ b/products/gms.mk
+				@@ -63,6 +63,8 @@ ifeq ($(strip $(TCT_ENABLE_FCM)), 1)
+				         #begin by yange.zhang for task 7956187, 2019-06-28
+				         OEM_RU_PRODUCT_COPY_FILES += $(ANDROID_PARTNER_GMS_HOME)/etc/permissions/com.google.android.feature.RU.xml:oem/etc/5048Y/permissions/com.google.android.feature.RU.xml
+				         #end by yange.zhang for task 7956187, 2019-06-28
+				+    PRODUCT_PACKAGES += OobConfig
+				+    PRODUCT_PACKAGES += zero_touch.xml
+				 
+				 endif
+				 #copy files in FCM added by xiaodan.cheng for FR 7668762 on 2019-06-03
+
+	    vendor/partner_gms$ cat etc/sysconfig/zero_touch.xml
+			<?xml version="1.0" encoding="utf-8"?>
+			<config>
+			    <!-- Enable Zero Touch Provisioning support. -->
+			    <feature name ="com.google.android.feature.ZERO_TOUCH" />
+			</config>
+
+
+	Venice : 2B2P-3_zt_20191109_2  OobConfig , ZERO_TOUCH features ,  config_deviceProvisioningPackage
+
+
+
+	Venice OEM 方案：
+
+		diff --git a/apps/OobConfig/Android.mk b/apps/OobConfig/Android.mk
+			index 86c01cc..c2923c2 100755
+			--- a/apps/OobConfig/Android.mk
+			+++ b/apps/OobConfig/Android.mk
+			@@ -15,4 +15,7 @@ LOCAL_CERTIFICATE := PRESIGNED
+			 LOCAL_SRC_FILES := $(LOCAL_MODULE).apk
+			 #LOCAL_REQUIRED_MODULES :=
+			 #LOCAL_PREBUILT_JNI_LIBS :=
+			+ifeq ($(strip $(TCT_ENABLE_FCM)), 1)
+			+    LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/priv-app
+			+endif
+			 include $(BUILD_PREBUILT)
+		diff --git a/etc/Android.mk b/etc/Android.mk
+			index c103b9d..e76a368 100644
+			--- a/etc/Android.mk
+			+++ b/etc/Android.mk
+			@@ -27,3 +27,12 @@ $(foreach OEM_VARIANT, $(OEM_VARIANTS_UPPER_NO_RU), \
+			         $(eval OEM_$(OEM_VARIANT)_PRODUCT_COPY_FILES += vendor/partner_gms/etc/sysconfig/fastpass.xml:oem/etc/sysconfig/fastpass.xml))
+			 endif
+			 include $(BUILD_PREBUILT)
+			+
+			+include $(CLEAR_VARS)
+			+LOCAL_MODULE := zero_touch.xml
+			+LOCAL_MODULE_TAGS := optional
+			+LOCAL_MODULE_CLASS := ETC
+			+#LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_EEA/etc/sysconfig
+			+LOCAL_SRC_FILES := sysconfig/$(LOCAL_MODULE)
+			+OEM_EEA_PRODUCT_COPY_FILES += vendor/partner_gms/etc/sysconfig/zero_touch.xml:oem/etc/sysconfig/zero_touch.xml
+			+include $(BUILD_PREBUILT)
+		diff --git a/products/gms.mk b/products/gms.mk
+			index 8693e6a..ffd9c10 100755
+			--- a/products/gms.mk
+			+++ b/products/gms.mk
+			@@ -63,10 +63,13 @@ ifeq ($(strip $(TCT_ENABLE_FCM)), 1)
+			         #begin by yange.zhang for task 7956187, 2019-06-28
+			         OEM_RU_PRODUCT_COPY_FILES += $(ANDROID_PARTNER_GMS_HOME)/etc/permissions/com.google.android.feature.RU.xml:oem/etc/5048Y/permissions/com.google.android.feature.RU.xml
+			         #end by yange.zhang for task 7956187, 2019-06-28
+			+        OEM_EEA_PRODUCT_PACKAGES += OobConfig
+			+        PRODUCT_PACKAGES += zero_touch.xml
+			 
+			 endif
+			 #copy files in FCM added by xiaodan.cheng for FR 7668762 on 2019-06-03
+			 
+			+
+			 # GMS mandatory application packages
+			 PRODUCT_PACKAGES += \
+			     Chrome \
+
+		frameworks/base/core/res/res$ cat values-ecid22234000/config.xml 
+    	    <?xml version="1.0" encoding="utf-8"?>
+			<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+			   <!-- Package name for the device provisioning package. -->
+			   <string name="config_deviceProvisioningPackage">com.google.android.apps.work.oobconfig</string>
+			   <string-array translatable="false" name="config_defaultFirstuserrestrictions">
+			      <item>"no_oem_unlock"</item>
+			   </string-array>
+			</resources>
+
+		$ cat etc/sysconfig/zero_touch.xml
+			<?xml version="1.0" encoding="utf-8"?>
+			<config>
+			    <!-- Enable Zero Touch Provisioning support. -->
+			    <feature name ="com.google.android.feature.ZERO_TOUCH" />
+			</config>
+
+
+Zero Touch 由于Android P TCT SUW 是默认支持的。仅需要考虑4个要素： 
+1 .OobConfig apk , 
+2 .ZERO_TOUCH feature,
+3. config_deviceProvisioningPackage string overlay
+4 向Google 申请对特定分支开通Zero-Touch 
+	现在有两种方案均可以实现Zero-Touch 这个功能。
+	方案一：
+		将1,2,3 要素均做成全局要素，所有分支均可以支持支持Zero-Touch，需要开通Zero-Touch 功能的分支向Google 
+		优点： 配置简单，所有分支共享一个配置，维护简单。
+		缺点： 总体system 需要消耗大小5M 大小（OobConfig apk 大小）
+	方案二：
+		将要素1,2 放到OEM 分区，将要素3通过ECID 定制，仅需要开通该OEM 分区对应的分支
+		优点： 对应采用不同OEM 分区的其他分支完全没有影响。通过ECID 控制，精确到点。可以实现分支按需配置。
+		缺点： 同一OEM 的所有ECID 均需要配置3。维护起来比较麻烦，如果原先分支新增一个出货ECID ，即需要增加配置3.
+
+
+Venice 最终方案：
+
+	frameworks/base
+		diff --git a/core/res/res/values/config.xml b/core/res/res/values/config.xml
+			index 19e1036..1496ae5 100644
+			--- a/core/res/res/values/config.xml
+			+++ b/core/res/res/values/config.xml
+			@@ -3193,7 +3193,10 @@
+			     </integer-array>
+			 
+			     <!-- Package name for the device provisioning package. -->
+			-    <string name="config_deviceProvisioningPackage"></string>
+			+    <string name="config_deviceProvisioningPackage">com.google.android.apps.work.oobconfig</string>
+			+    <string-array translatable="false" name="config_defaultFirstuserrestrictions">
+			+        <item>"no_oem_unlock"</item>
+			+    </string-array>
+			 
+			     <!-- Colon separated list of package names that should be granted DND access -->
+			     <string name="config_defaultDndAccessPackages" translatable="false">com.android.camera2</string>
+
+	vendor/partner_gms
+
+		diff --git a/products/gms.mk b/products/gms.mk
+index 8693e6a..20ddac6 100755
+--- a/products/gms.mk
++++ b/products/gms.mk
+@@ -63,6 +63,16 @@ ifeq ($(strip $(TCT_ENABLE_FCM)), 1)
+         #begin by yange.zhang for task 7956187, 2019-06-28
+         OEM_RU_PRODUCT_COPY_FILES += $(ANDROID_PARTNER_GMS_HOME)/etc/permissions/com.google.android.feature.RU.xml:oem/etc/5048Y/permissions/com.google.android.feature.RU.xml
+         #end by yange.zhang for task 7956187, 2019-06-28
++        #Begin modify by xiaodan.cheng for Zero-Touch on 20191120
++        ifndef TCT_ZERO_TOUCH
++            TCT_ZERO_TOUCH=yes
++        endif
++        ifeq ($(strip $(TCT_ZERO_TOUCH)), yes)
++            PRODUCT_COPY_FILES += $(ANDROID_PARTNER_GMS_HOME)/etc/sysconfig/zerotouch.xml:system/etc/sysconfig/zerotouch.xml
++            PRODUCT_PACKAGES += OobConfig
++            PRODUCT_PACKAGE_OVERLAYS += $(ANDROID_PARTNER_GMS_HOME)/products/zero_touch_overlay
++        endif
++        #End modify by xiaodan.cheng for Zero-Touch on 20191120
+ 
+ endif
+ #copy files in FCM added by xiaodan.cheng for FR 7668762 on 2019-06-03
+
+		$ cat etc/sysconfig/zerotouch.xml
+			<?xml version="1.0" encoding="utf-8"?>
+			<config>
+			    <!-- Enable Zero Touch Provisioning support. -->
+			    <feature name ="com.google.android.feature.ZERO_TOUCH" />
+			</config>
+
+Android Q 最终方案
+
+	vendor/partner_gms
+
+		$ cat etc/sysconfig/zerotouch.xml
+			<?xml version="1.0" encoding="utf-8"?>
+			<config>
+			    <!-- Enable Zero Touch Provisioning support. -->
+			    <feature name ="com.google.android.feature.ZERO_TOUCH" />
+			</config>
+
+		
+
+		diff --git a/etc/sysconfig/Android.bp b/etc/sysconfig/Android.bp
+			index e2754d0..2226811 100644
+			--- a/etc/sysconfig/Android.bp
+			+++ b/etc/sysconfig/Android.bp
+			@@ -29,3 +29,11 @@ prebuilt_etc {
+			     src: "google-hiddenapi-package-whitelist.xml",
+			     filename_from_src: true,
+			 }
+			+
+			+prebuilt_etc {
+			+    name: "sysconfig_zero_touch",
+			+    product_specific: true,
+			+    sub_dir: "sysconfig",
+			+    src: "zerotouch.xml",
+			+    filename_from_src: true,
+			+}
+
+		diff --git a/products/gms.mk b/products/gms.mk
+			index d3dea8f..fc0e60a 100644
+			--- a/products/gms.mk
+			+++ b/products/gms.mk
+			@@ -108,8 +108,17 @@ PRODUCT_PACKAGES += \
+			     Keep \
+			     CalculatorGoogle \
+			 
+			-#    OobConfig
+			-#remove OobConfig for 7218090 by xiaoying.huang 2018-12-12
+			+#Begin modify by xiaodan.cheng for Zero-Touch on 20191120
+			+ifndef TCT_ZERO_TOUCH
+			+    TCT_ZERO_TOUCH=yes
+			+endif
+			+ifeq ($(strip $(TCT_ZERO_TOUCH)), yes)
+			+    PRODUCT_PACKAGES += sysconfig_zero_touch
+			+    PRODUCT_PACKAGES += OobConfig
+			+    PRODUCT_PACKAGE_OVERLAYS += $(ANDROID_PARTNER_GMS_HOME)/products/zero_touch_overlay
+			+endif
+			+#End modify by xiaodan.cheng for Zero-Touch on 20191120
+			+
+			 # Overlay for SearchLauncherQuickStep
+			 #$PRODUCT_PACKAGE_OVERLAYS += \
+			 #    $(ANDROID_PARTNER_GMS_HOME)/apps/SearchLauncher/quickstep/overlay \
+
+		diff --git a/products/gms_go.mk b/products/gms_go.mk
+			index 225fb91..3dba47c 100644
+			--- a/products/gms_go.mk
+			+++ b/products/gms_go.mk
+			@@ -83,6 +83,17 @@ PRODUCT_PACKAGES += CalculatorGoogle
+			 endif
+			 #End modefied by qianjin.he for 8496632 on 20191104    
+			 
+			+#Begin modify by xiaodan.cheng for Zero-Touch on 20191120
+			+ifndef TCT_ZERO_TOUCH
+			+    TCT_ZERO_TOUCH=yes
+			+endif
+			+ifeq ($(strip $(TCT_ZERO_TOUCH)), yes)
+			+    PRODUCT_PACKAGES += sysconfig_zero_touch
+			+    PRODUCT_PACKAGES += OobConfig
+			+    PRODUCT_PACKAGE_OVERLAYS += $(ANDROID_PARTNER_GMS_HOME)/products/zero_touch_overlay
+			+endif
+			+#End modify by xiaodan.cheng for Zero-Touch on 20191120
+			+
+			 #Begin add YTMusic for defect 8391587 by xiaodan.cheng on 20191009
+			 #ifeq ($(strip $(TCT_ENABLE_FCM)), 1)
+			     #add YTMusic for GMS optional apk,if no need,delete it.
+
+
+		$ cat products/zero_touch_overlay/frameworks/base/core/res/res/values/config.xml 
+			<?xml version="1.0" encoding="utf-8"?>
+			<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+			    <!-- Package name for the device provisioning package. -->
+			    <string name="config_deviceProvisioningPackage">com.google.android.apps.work.oobconfig</string>
+			    <string-array translatable="false" name="config_defaultFirstuserrestrictions">
+			        <item>"no_oem_unlock"</item>
+			    </string-array>
+			</resources>

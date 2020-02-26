@@ -1,0 +1,188 @@
+
+Firebase
+
+Products Use Cases Pricing Docs Support
+Go to console
+
+    Documentation
+
+Overview Guides Reference Samples Libraries
+
+    Firebase
+    Docs
+    Reference
+
+FirebaseInstanceId
+public class FirebaseInstanceId extends Object
+
+Firebase Instance ID provides a unique identifier for each app instance and a mechanism to authenticate and authorize actions (example: sending FCM messages).
+
+Instance ID is stable except when:
+
+    App deletes Instance ID
+    App is restored on a new device
+    User uninstalls/reinstall the app
+    User clears app data
+
+Once an Instance ID is generated, the library periodically sends information about the application and the device where it's running to the Firebase backend. To stop this, see deleteInstanceId().
+
+To prove ownership of Instance ID and to allow servers to access data or services associated with the app, call getToken(String, String).
+Public Method Summary
+void 	
+deleteInstanceId()
+Delete the Instance ID and the data associated with it.
+void 	
+deleteToken(String senderId, String scope)
+Revokes access to a scope (action) for a sender ID previously authorized by getToken().
+long 	
+getCreationTime()
+Returns time when instance ID was created.
+String 	
+getId()
+Returns a stable identifier that uniquely identifies the app instance.
+static FirebaseInstanceId 	
+getInstance()
+Returns an instance of this class.
+static FirebaseInstanceId 	
+getInstance(FirebaseApp app)
+Returns an instance for the given FirebaseApp.
+Task<InstanceIdResult> 	
+getInstanceId()
+Returns the ID and automatically generated token for this Firebase project.
+String 	
+getToken(String senderId, String scope)
+Returns a token that authorizes a sender ID to perform an action on behalf of the application identified by Instance ID.
+String 	
+getToken()
+This method is deprecated. In favour of getInstanceId().
+Inherited Method Summary
+From class java.lang.Object
+Public Methods
+public void deleteInstanceId ()
+
+Delete the Instance ID and the data associated with it.
+
+This stops the periodic sending of data to the Firebase backend started when the Instance ID was generated, unless another library that requires InstanceId (like FCM, RemoteConfig or Analytics) is used or it's configured to be executed automatically.
+
+A new Instance ID is generated asynchronously if Firebase Cloud Messaging auto-init is enabled.
+
+This is a blocking function so do not call it on the main thread.
+Throws
+IOException 	
+public void deleteToken (String senderId, String scope)
+
+Revokes access to a scope (action) for a sender ID previously authorized by getToken().
+
+This is a blocking function so do not call it on the main thread.
+Parameters
+senderId 	ID of the sender that must no longer have access.
+scope 	Action that the sender ID is no longer authorized to perform. Set the scope to FCM to revoke the authorization to send messages via FirebaseMessaging.
+Throws
+IOException 	if the request fails.
+public long getCreationTime ()
+
+Returns time when instance ID was created.
+Returns
+
+    Time when instance ID was created (milliseconds since Epoch).
+
+public String getId ()
+
+Returns a stable identifier that uniquely identifies the app instance.
+
+Once an Instance ID is generated, the library periodically sends information about the application and the device where it's running to the Firebase backend. To stop this, see deleteInstanceId().
+Returns
+
+    The identifier for the application instance.
+
+public static FirebaseInstanceId getInstance ()
+
+Returns an instance of this class.
+Returns
+
+    FirebaseInstanceId instance.
+
+public static FirebaseInstanceId getInstance (FirebaseApp app)
+
+Returns an instance for the given FirebaseApp.
+Parameters
+app 	FirebaseApp instance.
+Returns
+
+    FirebaseInstanceId instance.
+
+public Task<InstanceIdResult> getInstanceId ()
+
+Returns the ID and automatically generated token for this Firebase project.
+
+This generates an Instance ID if it does not exist yet, which starts periodically sending information to the Firebase backend (see getId()).
+Returns
+
+    Task which you can use to see the result via the InstanceIdResult which holds the ID and token.
+
+public String getToken (String senderId, String scope)
+
+Returns a token that authorizes a sender ID to perform an action on behalf of the application identified by Instance ID.
+
+This generates an Instance ID if it does not exist yet, which starts periodically sending information to the Firebase backend (see getId()).
+
+This is similar to an OAuth2 token except, it applies to the application instance instead of a user.
+
+This is a blocking function so do not call it on the main thread.
+Parameters
+senderId 	ID of the sender that is authorized by the token.
+scope 	Action authorized for senderId. Set the scope to FCM to get authorization to send messages via FirebaseMessaging.
+Returns
+
+    a token that can identify and authorize the instance of the application on the device.
+
+Throws
+IOException 	if the request fails.
+public String getToken ()
+
+This method is deprecated.
+In favour of getInstanceId().
+
+Returns the automatically generated token for the default Firebase project.
+
+This generates an Instance ID if it does not exist yet, which starts periodically sending information to the Firebase backend (see getId()).
+Returns
+
+    the master token or null if the token is not yet available
+
+Was this page helpful?
+
+Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+
+    Learn
+        Guides
+        Reference
+        Samples
+        Libraries
+        GitHub
+    Stay connected
+        Blog
+        Firebase Summit
+        Facebook
+        Twitter
+        YouTube
+    Support
+        Contact support
+        Stack Overflow
+        Slack community
+        Google group
+        Release notes
+        FAQs
+
+Google Developers
+
+    Android
+    Chrome
+    Firebase
+    Google Cloud Platform
+    All products
+
+    Terms
+    Privacy
+
+

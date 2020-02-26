@@ -1,0 +1,74 @@
+mainline
+
+
+
+vendor/partner_gms/products$ git diff
+	diff --git a/products/gms.mk b/products/gms.mk
+	index 0f5592a..1b22855 100644
+	--- a/products/gms.mk
+	+++ b/products/gms.mk
+	@@ -135,6 +135,20 @@ PRODUCT_PACKAGES += \
+	     GooglePermissionControllerOverlay
+	 #End add Mainline apk for task 8345742 by xiaodan.cheng on 20190924
+	 
+	+#Begin add Mainline apk
+	+#TCT_MAINLINE  for Mainline common and must APK
+	+#TCT_MAINLINE_OPT for Mainline STRONGLY RECOMMENDED APK
+	+ifndef TCT_MAINLIN
+	+    TCT_MAINLINE=yes
+	+endif
+	+ifndef TCT_MAINLINE_OPT
+	+    TCT_MAINLINE_OPT=yes
+	+endif
+	+ifeq ($(strip $(TCT_MAINLINE)), yes)
+	+    $(call inherit-product, $(ANDROID_PARTNER_GMS_HOME)/products/google_mainline.mk)
+	+endif
+	+#End add Mainline apk
+	+
+	 # GMS sample application packages
+	 #PRODUCT_PACKAGES += \
+	 #    GmsSampleIntegration \
+
+
+ vendor/partner_gms/products$ cat google_mainline.mk
+	####################################################################################################
+	# From Android Q, GMS devices must preload Google signed Mainline module release
+	ifeq ($(strip $(TCT_MAINLINE)), yes)
+
+	    # Enable updating of APEXes
+	    $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
+
+	    #<!-- [TCT-ROM] [Goolge-CTS] <20190925> <le.chen> modify begin for task 8345684 -->
+	    #<!-- The Google provided mainline module metadata package -->
+	    #<string name="config_defaultModuleMetadataProvider" translatable="false">com.google.android.modulemetadata</string>
+	    #<!-- [TCT-ROM] [Goolge-CTS] <20190925> <le.chen> modify end for task 8345684 -->
+
+	    # Mainline module overlay
+	    PRODUCT_PACKAGES += \
+	        GoogleExtServicesConfigOverlay \
+	        GooglePermissionControllerOverlay \
+	        GooglePermissionControllerFrameworkOverlay
+	 
+	    #PRODUCT_PACKAGE_OVERLAYS += device/mediatek/common/overlay/mainline
+	 
+	    # Mainline common and must APK
+	    PRODUCT_PACKAGES += \
+	        GoogleDocumentsUIPrebuilt \
+	        GoogleExtServicesPrebuilt \
+	        ModuleMetadataGooglePrebuilt \
+	        GooglePermissionControllerPrebuilt
+	    ifeq ($(strip $(TCT_MAINLINE_OPT)),yes)
+	        #Mainline STRONGLY RECOMMENDED APK
+	        #GPSU network framework modules
+	        PRODUCT_PACKAGES += \
+	            GoogleCaptivePortalLogin \
+	            GoogleNetworkStack \
+	            GoogleNetworkPermissionConfig
+	    endif
+	else
+	    # FDE device cannot support updatable APEX
+	    # P OTA to Q project may be FDE
+	    PRODUCT_PROPERTY_OVERRIDES += ro.apex.updatable=false
+	    TARGET_FLATTEN_APEX := true
+
+	endif

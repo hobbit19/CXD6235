@@ -1,0 +1,70 @@
+
+Google APIs for Android
+
+    APIs for Android
+
+Home Guides Reference Downloads
+
+    Home
+    Products
+    Google APIs for Android
+    Reference
+
+AdvertisingIdClient
+public class AdvertisingIdClient extends Object
+
+Helper library for retrieval of advertising ID and related information such as the limit ad tracking setting.
+
+It is intended that the advertising ID completely replace existing usage of other identifiers for ads purposes (such as use of ANDROID_ID in Settings.Secure) when Google Play Services is available. Cases where Google Play Services is unavailable are indicated by a GooglePlayServicesNotAvailableException being thrown by getAdvertisingIdInfo().
+Nested Class Summary
+class 	AdvertisingIdClient.Info 	Includes both the advertising ID as well as the limit ad tracking setting. 
+Public Method Summary
+static AdvertisingIdClient.Info 	
+getAdvertisingIdInfo(Context context)
+Retrieves the user's advertising ID and limit ad tracking preference.
+Inherited Method Summary
+From class java.lang.Object
+Public Methods
+public static AdvertisingIdClient.Info getAdvertisingIdInfo (Context context)
+
+Retrieves the user's advertising ID and limit ad tracking preference.
+
+This method cannot be called in the main thread as it may block leading to ANRs. An IllegalStateException will be thrown if this is called on the main thread.
+Parameters
+context 	Current Context (such as the current Activity).
+Returns
+
+    AdvertisingIdClient.Info with user's advertising ID and limit ad tracking preference.
+
+Throws
+IOException 	signaling connection to Google Play Services failed.
+IllegalStateException 	indicating this method was called on the main thread.
+GooglePlayServicesNotAvailableException 	indicating that Google Play is not installed on this device.
+GooglePlayServicesRepairableException 	indicating that there was a recoverable error connecting to Google Play Services.
+Was this page helpful?
+
+Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+
+    Connect
+        Android Developers Blog
+        Get News and Tips by Email
+    More Resources
+        Android Developers Website
+        Google Design
+    Tools
+        Android Studio
+        Google Play Console
+
+Google Developers
+
+    Android
+    Chrome
+    Firebase
+    Google Cloud Platform
+    All products
+
+    Terms
+    Privacy
+    Sign up for the Google Developers newsletter Subscribe
+
+

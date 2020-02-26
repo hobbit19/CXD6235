@@ -1,0 +1,340 @@
+8249938
+
+	去掉Settings->Accessibility->ML_accessibility menu
+
+		参考7819504
+
+
+T1 上的修改：
+
+	[platform/vendor/qcom/proprietary/prebuilt_HY11_SM6150.git] / target / product / sm6150 / prebuilt.mk
+
+	diff --git a/target/product/sm6150/prebuilt.mk b/target/product/sm6150/prebuilt.mk
+		index ea22884..b1b45f9 100755 (executable)
+		--- a/target/product/sm6150/prebuilt.mk
+		+++ b/target/product/sm6150/prebuilt.mk
+		@@ -6,7 +6,7 @@ PRODUCT_PACKAGES += embms
+		 PRODUCT_PACKAGES += EmbmsTestApp
+		 PRODUCT_PACKAGES += FidoCryptoService
+		 PRODUCT_PACKAGES += LteDirectDiscovery
+		-PRODUCT_PACKAGES += MLSAPIService
+		+#PRODUCT_PACKAGES += MLSAPIService    //MODIFIED by qianbo.pan, 2019-06-03,BUG-7819504
+		 PRODUCT_PACKAGES += MSDC_UI
+		 PRODUCT_PACKAGES += ODLT
+		 PRODUCT_PACKAGES += Perfdump
+		@@ -18,7 +18,7 @@ PRODUCT_PACKAGES += uimlpaservice
+		 PRODUCT_PACKAGES += workloadclassifier
+		 PRODUCT_PACKAGES += dpmd
+		 PRODUCT_PACKAGES += invoke_test_client
+		-PRODUCT_PACKAGES += mirrorlinkserver
+		+#PRODUCT_PACKAGES += mirrorlinkserver    //MODIFIED by qianbo.pan, 2019-06-03,BUG-7819504
+		 PRODUCT_PACKAGES += mlsdapprov
+		 PRODUCT_PACKAGES += qvrservice
+		 PRODUCT_PACKAGES += qvrservicetest
+		@@ -29,7 +29,7 @@ PRODUCT_PACKAGES += smcinvoked
+		 PRODUCT_PACKAGES += wfdservice
+		 PRODUCT_PACKAGES += dpm.conf
+		 PRODUCT_PACKAGES += dpmd.rc
+		-PRODUCT_PACKAGES += mls.rc
+		+#PRODUCT_PACKAGES += mls.rc  //MODIFIED by qianbo.pan, 2019-06-03,BUG-7819504
+		 PRODUCT_PACKAGES += qvrd.rc
+		 PRODUCT_PACKAGES += wfdservice.rc
+		 PRODUCT_PACKAGES += wlc_model.tflite
+		@@ -312,7 +312,7 @@ PRODUCT_PACKAGES += android.hardware.keymaster@4.0-service-qti
+		 PRODUCT_PACKAGES += android.hardware.neuralnetworks@1.1-service-qti
+		 PRODUCT_PACKAGES += vendor.display.color@1.0-service
+		 PRODUCT_PACKAGES += vendor.qti.hardware.cvp@1.0-service
+		-PRODUCT_PACKAGES += vendor.qti.hardware.mlshal@1.0-service
+		+#PRODUCT_PACKAGES += vendor.qti.hardware.mlshal@1.0-service    //MODIFIED by qianbo.pan, 2019-06-03,BUG-7819504
+		 PRODUCT_PACKAGES += vendor.qti.hardware.qdutils_disp@1.0-service-qti
+		 PRODUCT_PACKAGES += vendor.qti.hardware.qteeconnector@1.0-service
+		 PRODUCT_PACKAGES += vendor.qti.hardware.scve.objecttracker@1.0-service
+		@@ -350,7 +350,7 @@ PRODUCT_PACKAGES += com.qualcomm.qti.wifidisplayhal@1.0-service.rc
+		 PRODUCT_PACKAGES += qdcmss.rc
+		 PRODUCT_PACKAGES += vendor.display.color@1.0-service.rc
+		 PRODUCT_PACKAGES += vendor.qti.hardware.cvp@1.0-service.rc
+		-PRODUCT_PACKAGES += vendor.qti.hardware.mlshal@1.0-service.rc
+		+#PRODUCT_PACKAGES += vendor.qti.hardware.mlshal@1.0-service.rc    //MODIFIED by qianbo.pan, 2019-06-03,BUG-7819504
+		 PRODUCT_PACKAGES += vendor.qti.hardware.qdutils_disp@1.0-service-qti.rc
+		 PRODUCT_PACKAGES += vendor.qti.hardware.qteeconnector@1.0-service.rc
+		 PRODUCT_PACKAGES += vendor.qti.hardware.scve.objecttracker@1.0-service.rc
+
+
+	[platform/vendor/qcom/proprietary/common.git] / config / device-vendor.mk
+
+		diff --git a/config/device-vendor.mk b/config/device-vendor.mk
+			index 75a3d9b..8ba0268 100755 (executable)
+			--- a/config/device-vendor.mk
+			+++ b/config/device-vendor.mk
+			@@ -6211,7 +6211,7 @@ PRODUCT_PACKAGES += $(QRD_CALENDAR_APPS)
+			 PRODUCT_PACKAGES += $(CSM)
+			 PRODUCT_PACKAGES += $(POWER_OFF_ALARM)
+			 PRODUCT_PACKAGES += $(SENSORSCAL)
+			-PRODUCT_PACKAGES += $(MIRRORLINK)
+			+#PRODUCT_PACKAGES += $(MIRRORLINK)    //MODIFIED by qianbo.pan, 2019-06-03,BUG-7819504
+			 
+			 ifeq ($(TARGET_BOARD_AUTO),true)
+			 PRODUCT_PACKAGES += $(VEHICLE_NETWORKS)
+
+	[device/tct/t1.git] / manifest.xml
+
+
+		diff --git a/manifest.xml b/manifest.xml
+			index 83cf458..91db5d9 100755 (executable)
+			--- a/manifest.xml
+			+++ b/manifest.xml
+			@@ -815,7 +815,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+			         </interface>
+			     </hal>
+			     <!-- MLS HAL Service -->
+			-    <hal format="hidl">
+			+<!--MODIFIED Begin by qianbo.pan, 2019-06-03,BUG-7819504-->
+			+    <!--<hal format="hidl">
+			         <name>vendor.qti.hardware.mlshal</name>
+			         <transport>hwbinder</transport>
+			         <impl level="generic"></impl>
+			@@ -828,7 +829,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+			             <name>IMlsVnc</name>
+			             <instance>mlsvnchal</instance>
+			         </interface>
+			-    </hal>
+			+    </hal>-->
+			+<!--MODIFIED End by qianbo.pan-->
+			     <!-- SCVE Panorama hal services -->
+			     <hal format="hidl">
+			         <name>vendor.qti.hardware.scve.panorama</name>
+
+	[device/tct/t1.git] / vendor_framework_compatibility_matrix.xml
+
+		diff --git a/vendor_framework_compatibility_matrix.xml b/vendor_framework_compatibility_matrix.xml
+			index 7ab5783..4af8e99 100755 (executable)
+			--- a/vendor_framework_compatibility_matrix.xml
+			+++ b/vendor_framework_compatibility_matrix.xml
+			@@ -108,7 +108,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+			         </interface>
+			     </hal>
+			     <!-- MLS Services -->
+			-   <hal format="hidl" optional="true">
+			+<!--MODIFIED Begin by qianbo.pan, 2019-06-03,BUG-7819504-->
+			+   <!--<hal format="hidl" optional="true">
+			         <name>vendor.qti.hardware.mlshal</name>
+			         <version>1.0</version>
+			         <interface>
+			@@ -119,7 +120,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+			             <name>IMlsVnc</name>
+			             <instance>mlsvnchal</instance>
+			         </interface>
+			-   </hal>
+			+   </hal>-->
+			+<!--MODIFIED End by qianbo.pan-->
+			    <hal format="hidl" optional="true">
+			        <name>vendor.qti.hardware.cvp</name>
+			        <version>1.0</version>
+
+
+
+    T1 Q 上的修改
+
+    vendor/qcom/proprietary/prebuilt_HY11/target/product/qssi
+    	
+		diff --git a/target/product/qssi/prebuilt.mk b/target/product/qssi/prebuilt.mk
+			
+			index 12512ed..5ae7f6b 100755
+			--- a/target/product/qssi/prebuilt.mk
+			+++ b/target/product/qssi/prebuilt.mk
+			@@ -1,9 +1,13 @@
+			-PRODUCT_PACKAGES += MLSAPIService
+			+#start added by xiaodan.cheng for PR 8249938 on 20190814
+			+#PRODUCT_PACKAGES += MLSAPIService
+			+#end added by xiaodan.cheng for PR 8249938 on 20190814
+			 PRODUCT_PACKAGES_DEBUG += ODLT
+			 PRODUCT_PACKAGES_DEBUG += Perfdump
+			 PRODUCT_PACKAGES_DEBUG += QTIDiagServices
+			 PRODUCT_PACKAGES += workloadclassifier
+			-PRODUCT_PACKAGES += mirrorlinkserver
+			+#start added by xiaodan.cheng for PR 8249938 on 20190814
+			+#PRODUCT_PACKAGES += mirrorlinkserver
+			+#end added by xiaodan.cheng for PR 8249938 on 20190814
+			 PRODUCT_PACKAGES += mlsdapprov
+			 PRODUCT_PACKAGES += qvrservice
+			 PRODUCT_PACKAGES += qvrservicetest
+			@@ -13,7 +17,9 @@ PRODUCT_PACKAGES += rtspserver
+			 PRODUCT_PACKAGES += sigma_miracasthalservice
+			 PRODUCT_PACKAGES += wfdservice
+			 PRODUCT_PACKAGES += com.qualcomm.qti.sigma_miracast@1.0-service.rc
+			-PRODUCT_PACKAGES += mls.rc
+			+#end added by xiaodan.cheng for PR 8249938 on 20190814
+			+#PRODUCT_PACKAGES += mls.rc
+			+#end added by xiaodan.cheng for PR 8249938 on 20190814
+			 PRODUCT_PACKAGES += qvrd.rc
+			 PRODUCT_PACKAGES += wfdservice.rc
+			 PRODUCT_PACKAGES += wlc_model.tflite
+
+		diff --git a/target/product/sm6150/prebuilt.mk b/target/product/sm6150/prebuilt.mk
+				index 28799a9..c86c607 100755
+				--- a/target/product/sm6150/prebuilt.mk
+				+++ b/target/product/sm6150/prebuilt.mk
+				@@ -27,7 +27,9 @@ PRODUCT_PACKAGES += android.hardware.keymaster@4.0-service-qti
+				 PRODUCT_PACKAGES += android.hardware.neuralnetworks@1.2-service-qti
+				 PRODUCT_PACKAGES += vendor.display.color@1.0-service
+				 PRODUCT_PACKAGES += vendor.qti.hardware.cvp@1.0-service
+				-PRODUCT_PACKAGES += vendor.qti.hardware.mlshal@1.0-service
+				+#start added by xiaodan.cheng for PR 8249938 on 20190814
+				+#PRODUCT_PACKAGES += vendor.qti.hardware.mlshal@1.0-service
+				+#end added by xiaodan.cheng for PR 8249938 on 20190814
+				 PRODUCT_PACKAGES += vendor.qti.hardware.qdutils_disp@1.0-service-qti
+				 PRODUCT_PACKAGES += vendor.qti.hardware.qteeconnector@1.0-service
+				 PRODUCT_PACKAGES += vendor.qti.hardware.scve.objecttracker@1.0-service
+				@@ -76,7 +78,9 @@ PRODUCT_PACKAGES += qdcmss.rc
+				 PRODUCT_PACKAGES += vendor.display.color@1.0-service.rc
+				 PRODUCT_PACKAGES += vendor.qti.adsprpc-sscrpc-service.rc
+				 PRODUCT_PACKAGES += vendor.qti.hardware.cvp@1.0-service.rc
+				-PRODUCT_PACKAGES += vendor.qti.hardware.mlshal@1.0-service.rc
+				+#start added by xiaodan.cheng for PR 8249938 on 20190814
+				+#PRODUCT_PACKAGES += vendor.qti.hardware.mlshal@1.0-service.rc
+				+#end added by xiaodan.cheng for PR 8249938 on 20190814
+				 PRODUCT_PACKAGES += vendor.qti.hardware.qdutils_disp@1.0-service-qti.rc
+				 PRODUCT_PACKAGES += vendor.qti.hardware.qteeconnector@1.0-service.rc
+				 PRODUCT_PACKAGES += vendor.qti.hardware.scve.objecttracker@1.0-service.rc
+		
+
+
+
+	vendor/qcom/proprietary/common/config
+		diff --git a/config/device-vendor.mk b/config/device-vendor.mk
+			index f634e19..6e653c6 100755
+			--- a/config/device-vendor.mk
+			+++ b/config/device-vendor.mk
+			@@ -6046,7 +6046,9 @@ PRODUCT_PACKAGES += $(QRD_CALENDAR_APPS)
+			 PRODUCT_PACKAGES += $(CSM)
+			 PRODUCT_PACKAGES += $(POWER_OFF_ALARM)
+			 PRODUCT_PACKAGES += $(SENSORSCAL)
+			-PRODUCT_PACKAGES += $(MIRRORLINK)
+			+#start added by xiaodan.cheng for PR 8249938 on 20190814
+			+#PRODUCT_PACKAGES += $(MIRRORLINK)
+			+#end added by xiaodan.cheng for PR 8249938 on 20190814
+			 
+			 ifeq ($(TARGET_SUPPORTS_WEARABLES), true)
+			 PRODUCT_PACKAGES += $(SCR_MODULES)
+		diff --git a/config/device-vendor-qssi.mk b/config/device-vendor-qssi.mk
+			index 6735f12..1398ce5 100755
+			--- a/config/device-vendor-qssi.mk
+			+++ b/config/device-vendor-qssi.mk
+			@@ -5514,7 +5514,9 @@ PRODUCT_PACKAGES += $(CSM)
+			 PRODUCT_PACKAGES += $(POWER_OFF_ALARM)
+			 PRODUCT_PACKAGES += $(SENSORSCAL)
+			 PRODUCT_PACKAGES += $(CCS_HIDL)
+			-PRODUCT_PACKAGES += $(MIRRORLINK)
+			+#start added by xiaodan.cheng for PR 8249938 on 20190814
+			+#PRODUCT_PACKAGES += $(MIRRORLINK)
+			+#end added by xiaodan.cheng for PR 8249938 on 20190814
+			 
+			 ifeq ($(TARGET_SUPPORTS_WEARABLES), true)
+			 PRODUCT_PACKAGES += $(SCR_MODULES)
+
+	vendor/qcom/proprietary/commonsys/mirrorlink/config
+
+		diff --git a/mirrorlink/config/ml-ship-product-defs-system.mk b/mirrorlink/config/ml-ship-product-defs-system.mk
+		index 84e7fb7..d0e61f7 100755
+		--- a/mirrorlink/config/ml-ship-product-defs-system.mk
+		+++ b/mirrorlink/config/ml-ship-product-defs-system.mk
+		@@ -71,4 +71,6 @@ MIRRORLINK += testrpcserver
+		 MIRRORLINK += testrpcclient2
+		 MIRRORLINK += testrpcclient
+		 
+		-PRODUCT_PACKAGES += $(MIRRORLINK)
+		+#start added by xiaodan.cheng for PR 8249938 on 20190814
+		+#PRODUCT_PACKAGES += $(MIRRORLINK)
+		+#end added by xiaodan.cheng for PR 8249938 on 20190814
+		diff --git a/mirrorlink/config/ml-ship-product-defs-vendor.mk b/mirrorlink/config/ml-ship-product-defs-vendor.mk
+		index 769c53f..79e75e1 100755
+		--- a/mirrorlink/config/ml-ship-product-defs-vendor.mk
+		+++ b/mirrorlink/config/ml-ship-product-defs-vendor.mk
+		@@ -14,4 +14,6 @@ MIRRORLINK_VENDOR += vendor.qti.hardware.mlshal@1.0-service
+		 MIRRORLINK_VENDOR += vendor.qti.hardware.mlshal@1.0-service.rc
+		 MIRRORLINK_VENDOR += vendor.qti.hardware.mlshal@1.0-service.disable.rc
+		 
+		-PRODUCT_PACKAGES += $(MIRRORLINK_VENDOR)
+		+#start added by xiaodan.cheng for PR 8249938 on 20190814
+		+#PRODUCT_PACKAGES += $(MIRRORLINK_VENDOR)
+		+#end added by xiaodan.cheng for PR 8249938 on 20190814
+
+	device/qcom/msmnile
+
+		diff --git a/manifest-qva.xml b/manifest-qva.xml
+		index b7d2c96..5b05f97 100644
+		--- a/manifest-qva.xml
+		+++ b/manifest-qva.xml
+		@@ -78,7 +78,9 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+		             <instance>wifidisplaysessionimagetrack</instance>
+		         </interface>
+		     </hal>
+		+    <!--start added by xiaodan.cheng for PR 8249938 on 20190814 -->
+		     <!-- MLS HAL Service -->
+		+    <!--
+		     <hal format="hidl">
+		         <name>vendor.qti.hardware.mlshal</name>
+		         <transport>hwbinder</transport>
+		@@ -97,6 +99,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+		             <instance>mlsionhal</instance>
+		         </interface>
+		     </hal>
+		+    -->
+		+    <!--end added by xiaodan.cheng for PR 8249938 on 20190814 -->
+		  <!--ANT/BT/FM-->
+		     <hal format="hidl">
+		         <name>com.qualcomm.qti.ant</name>
+
+	vendor/qcom/opensource/core-utils
+		diff --git a/vendor_framework_compatibility_matrix.xml b/vendor_framework_compatibility_matrix.xml
+		index 86579fd..145da88 100644
+		--- a/vendor_framework_compatibility_matrix.xml
+		+++ b/vendor_framework_compatibility_matrix.xml
+		@@ -496,6 +496,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+		             <instance>default</instance>
+		         </interface>
+		     </hal>
+		+   <!--start added by xiaodan.cheng for PR 8249938 on 20190814 -->
+		+   <!--
+		    <hal format="hidl" optional="true">
+		         <name>vendor.qti.hardware.mlshal</name>
+		         <version>1.0</version>
+		@@ -512,6 +514,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+		             <instance>mlsionhal</instance>
+		         </interface>
+		    </hal>
+		+   -->
+		+   <!--end added by xiaodan.cheng for PR 8249938 on 20190814 -->
+		    <hal format="hidl" optional="true">
+		         <name>vendor.display.config</name>
+		         <version>1.0-9</version>
+
+	device/qcom/sdm845
+
+		diff --git a/manifest.xml b/manifest.xml
+		index f9f550a..fe41833 100644
+		--- a/manifest.xml
+		+++ b/manifest.xml
+		@@ -624,7 +624,9 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+		             <instance>wifidisplaysessionimagetrack</instance>
+		         </interface>
+		     </hal>
+		+    <!--start added by xiaodan.cheng for PR 8249938 on 20190814 -->
+		      <!-- MLS HAL Service -->
+		+    <!--
+		     <hal format="hidl">
+		         <name>vendor.qti.hardware.mlshal</name>
+		         <transport>hwbinder</transport>
+		@@ -643,6 +645,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+		             <instance>mlsionhal</instance>
+		         </interface>
+		     </hal>
+		+    -->
+		+    <!--end added by xiaodan.cheng for PR 8249938 on 20190814 -->
+		     <hal format="hidl">
+		         <name>android.hardware.usb</name>
+		         <transport>hwbinder</transport>
+
+
+
+

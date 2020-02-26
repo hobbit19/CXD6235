@@ -24,3 +24,16 @@ git reflog
 	.git/logs/refs/heads 包含分支头的历史记录。
 
 	在reflog 中存储的所有信息，特别是.git/logs目录下的一切内容，归根结底还是临时的、不重要的。抛弃.git/logs目录或关闭reflog不会损坏Git的内部数据结构。
+
+
+	回退之前的操作：
+
+	1.  git reflog
+		显示类似：
+		a0a5f45 HEAD@{0}: reset: moving to a0a5f4598e1a3a137d5bade71aed6dfd6339c1e9
+		3bf9d15 HEAD@{1}: reset: moving to HEAD@{1}
+
+	2.  找到你需要回退的操作的前一个节点。
+
+	3.  回退
+		git reset --hard HEAD@{1}

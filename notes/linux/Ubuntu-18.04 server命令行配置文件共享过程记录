@@ -1,0 +1,59 @@
+Ubuntu-18.04 server命令行配置文件共享过程记录
+
+下面为实施过程
+1.安装Samba
+apt-get install samba
+2.在/home目录下创建共享的文件夹，名为share
+mkdir /home/share
+3.修改share目录的权限
+chmod 777 /home/share
+4.编辑smb.conf文件
+vi /etc/samba/smb.conf
+加入[share]的配置信息
+
+[share]
+	path=/home/share
+	available=yes
+	browseable=yes
+	public=yes
+	writable=yes
+
+    1
+    2
+    3
+    4
+    5
+    6
+
+注：
+01.[share]为自定义共享的名称
+02.path为创建共享的文件路径
+03.available用来指定该共享资源是否可用，no则不可用
+04.browseable为设置共享是否可浏览，如果no就表示隐藏，需要通过IP+共享名称进行访问
+05.public为共享是否允许guest账户访问，如不需要，用#注释掉即可，#注释掉之后，可以实现无密码访问
+06.writable共享文件是否可写
+可选参数
+writable = yes/no #设置共享是否具有可写权限
+read only = yes/no #设置共享是否具有只读权限
+
+5.创建samba账号
+在 /etc/samba/下创建一个名为smbpasswd的文件
+touch /etc/samba/smbpasswd
+创建一个名为test【自定义】的samba账号
+smbpasswd - a test
+输入两次密码
+完成创建samba账户
+
+6.重启samba服务
+对配置进行了更改后，需要重启samba服务才会生效
+/etc/init.d/smbd restart 或 service smbd restart
+
+7.在window系统中输入访问地址
+windows+R ------运行
+输入 \\ip即可访问
+范例
+\\192.168.0.210
+输入创建的samba用户及密码访问即可看到共享，至此，共享完成。
+————————————————
+版权声明：本文为CSDN博主「帘倦西风」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/lg5196/article/details/83095664

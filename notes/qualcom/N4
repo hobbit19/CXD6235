@@ -3,6 +3,35 @@ N4
 *#*#46368676#*#*
 
 
+*#*#0574#*#*	打开user support setting，包括开发者模式	平台标准接口，暗码输入方式不变	需要 user support owner确认  @wei.deng
+*#*#43886536#*#*	打开tokenloader app，可用于下载token	平台标准接口，暗码输入方式不变	已经实现
+*#*#7383243#*#*	打开ECID修改界面，可用于修改ECID	平台标准接口，暗码输入方式不变	已经实现
+*#*#2887#*#*	打开Robust	平台标准接口，暗码输入方式不变	需要 Robust APK确认  @wei.deng
+*#*#7862732#*#*	打开ARDA	平台标准接口，暗码输入方式不变	已经实现
+*#*#3424#*#*	打开diag口	平台标准接口，暗码输入方式不变	已经实现
+*#*#46368676#*#*	打开Test settings界面	平台标准接口，暗码输入方式不变	已经实现
+*#*#665544#*#*	调出Demo mode	平台标准接口，暗码输入方式不变	需要 Demo mode 确认  @wei.deng
+*#*#364463#*#*	WIFI工程模式	平台标准接口，暗码输入方式不变	已经实现
+*#*#364364#*#*	BT工程模式	平台标准接口，暗码输入方式不变	已经实现
+*#06#	查看IMEI和SVN	GoogleDialer支持，暗码输入方式不变，但是SVN显示格式和当前的有区别：
+当前格式：SVN:01001 ,修改之后会在IMEI码后“/”显示	已经实现
+*#07#	法规和安全显示	原生支持，暗码输入方式不变，但是需要Settings确认ACTION是否变化导致无法跳转	@wei.deng
+*#3228#	查看版本号	*#*#82633#*#* ,在显示的list中选择对应的暗码功能	已经实现
+*#2886#	打开MMI test		已经实现
+*#837837#	查看版本信息		和*#4636#功能一样
+###666#	打开/禁止google service		已经实现
+###232#	显示通话时长		和TctDialer强相关，无法支持
+*#1201195#	来电自动接听		和TctDialer强相关，无法支持
+*#1201194#	禁止来电自动接听		和TctDialer强相关，无法支持
+"*#4636#"	产品名和软件版本		已经实现
+"*#1122#"	phone information		待实现
+#16#	MMI_SAR_DISPLAY		没有需求来源，当前不支持
+*#0606#	HW_SW_IMEI_INFO		*#06#，*#1122#, *#4636#已经有此功能了
+###777#	GOOGLE_APP_CONFIG_MODE_SUB		已经实现
+
+adb shell mfg_util –c 清除In-production
+
+
  adb shell
 generic:/ $ su
 generic:/ # setprop sys.usb.config "default,diag,serial_cdev,rmnet,dpl,adb"

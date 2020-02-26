@@ -1,0 +1,44 @@
+serialnumber
+
+public static String getSerialNumber() {
+
+		if(mSerial==null ){
+		if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.O_MR1)	{
+			Tool.toolLog(TAG + "cannot get ro.serialno try another way");
+			mSerial = Build.getSerial();
+
+			Tool.toolLog(TAG + " ro.serialno " + mSerial);
+		}
+
+		else if(Build.VERSION.SDK_INT > Build.VERSION_CODES.N){
+			Tool.toolLog(TAG + "cannot get ro.serialno try another way");
+			mSerial = Build.SERIAL;
+			Tool.toolLog(TAG + " ro.serialno " + mSerial);
+		}
+		else {
+			try {
+
+				Class<?> c = Class.forName("android.os.SystemProperties");
+
+				Method get = c.getMethod("get", String.class);
+
+				mSerial = (String) get.invoke(c, "ro.serialno");
+
+			} catch (Exception e) {
+				mSerial = null;
+				e.printStackTrace();
+			}
+		}
+		}
+		if(mSerial.equalsIgnoreCase("unknown")){
+			mSerial = "CUIRF6RW7XQSLZCQ";
+		}
+
+		if(mSerial == null || mSerial.equalsIgnoreCase("")){
+			mSerial = "test";
+		}
+
+
+		return mSerial;
+
+	}

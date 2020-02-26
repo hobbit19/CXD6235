@@ -290,3 +290,104 @@ int@CS-75:/local/build/Morgan4G-release/v1BAX/device/mediateksample/k61v1_32_bsp
 	+
 	+PRODUCT_PACKAGES += eea_search_chrome.xml
 
+
+
+
+
+diff --git a/etc/Android.mk b/etc/Android.mk
+index c103b9d..7f7095f 100644
+--- a/etc/Android.mk
++++ b/etc/Android.mk
+@@ -3,7 +3,10 @@ include $(CLEAR_VARS)
+ LOCAL_MODULE := eea_search_chrome.xml
+ LOCAL_MODULE_TAGS := optional
+ LOCAL_MODULE_CLASS := ETC
+-LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_EEA/etc/sysconfig
++#LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_EEA/etc/sysconfig
++ifeq ($(TCT_ENABLE_FCM),1)
++        OEM_EEA_PRODUCT_COPY_FILES += vendor/partner_gms/etc/sysconfig/eea_search_chrome.xml:oem/etc/sysconfig/eea_search_chrome.xml
++endif
+ LOCAL_SRC_FILES := sysconfig/$(LOCAL_MODULE)
+ include $(BUILD_PREBUILT)
+ 
+diff --git a/products/gms.mk b/products/gms.mk
+index 99b37b6..12ab50d 100644
+--- a/products/gms.mk
++++ b/products/gms.mk
+@@ -67,6 +67,7 @@ ifeq ($(strip $(TCT_ENABLE_FCM)), 1)
+         #begin by yange.zhang for task 7956187, 2019-06-28
+         OEM_RU_PRODUCT_COPY_FILES += $(ANDROID_PARTNER_GMS_HOME)/etc/permissions/com.google.android.feature.RU.xml:oem/etc/5048Y/permissions/com.google.android.feature.RU.xml
+         #end by yange.zhang for task 7956187, 2019-06-28
++    PRODUCT_PACKAGES += eea_search_chrome.xml
+ endif
+ #copy files in FCM added by xiaodan.cheng for FR 7668762 on 2019-06-03
+
+
+EEA V2
+
+	int@CS-74:/local/build/Seoul-release/v3C3V-8/device/qcom/msm8937_32go$ git diff
+		diff --git a/msm8937_32go.mk b/msm8937_32go.mk
+		index cdb52e1..024fa04 100644
+		--- a/msm8937_32go.mk
+		+++ b/msm8937_32go.mk
+		@@ -659,6 +659,8 @@ TCTROM_ADDTION_PROPERTY += ro.com.google.acsa=true
+		 PRODUCT_PACKAGES += eea_search_chrome.xml
+		 #[TCTROM][EEA]End modify by xiaodan.cheng For Google EEA requirement on 20190611
+		 
+		+OEM_EEA_PRODUCT_PACKAGES += eea_v2_search_chrome.xml
+		+
+		 #[TCTROM][GMS Express]Begin modify by xiaodan.cheng For GMS Express on 20190923
+		 PRODUCT_PACKAGES += fastpassplus.xml
+		 #[TCTROM][GMS Express]End modify by xiaodan.cheng For GMS Express on 20190923
+		@@ -719,7 +721,7 @@ OEM_LTF_PRODUCT_PACKAGES := facebook-stub-telefonica FBAppmanagertelefonica FBin
+		 OEM_LAM_PRODUCT_PACKAGES := Mitelcel Contenedor ClaroDrive FacebookAmericaMovil FBinstallerAmericaMovil FBAppManagerAmericaMovil FBserviceAmericaMovil StartAppClaro StartAppTelcel TelcelMotocross TecelDungeonHunter
+		 # [TCT-ROM]End modify by jinglinwang for FR8680853 on 2019.12.20
+		 
+		-OEM_EEA_PRODUCT_PACKAGES := OrangeAppcloud OrangeAppcenter
+		+OEM_EEA_PRODUCT_PACKAGES += OrangeAppcloud OrangeAppcenter
+		 
+		 OEM_RU_PRODUCT_PACKAGES := TctSupportCenter_RU yandexbrowser ZenApp mobileyandex Rumail
+
+	int@CS-74:/local/build/Seoul-release/v3C3V-8/vendor/partner_gms$ git diff products/gms_go.mk
+		diff --git a/products/gms_go.mk b/products/gms_go.mk
+		index 25d64cc..415735f 100644
+		--- a/products/gms_go.mk
+		+++ b/products/gms_go.mk
+		@@ -91,6 +91,16 @@ PRODUCT_PACKAGES += CalculatorGoogle
+		 endif
+		 #End modefied by qianjin.he for 8496632 on 20191104    
+		 
+		+ifndef TCT_EEA_V2
+		+    TCT_EEA_V2=eea_v2_search_chrome.xml
+		+endif
+		+$(warning "xiaodan.cheng TCT_EEA_V2 ${TCT_EEA_V2}")
+		+$(warning "xiaodan.cheng OEM_EEA_PRODUCT_PACKAGES ${OEM_EEA_PRODUCT_PACKAGES}")
+		+ifneq ($(findstring $(TCT_EEA_V2),$(OEM_EEA_PRODUCT_PACKAGES)),)
+		+    $(warning "xiaodan.cheng TCT_EEA_V2 ${TCT_EEA_V2}")
+		+    PRODUCT_PACKAGES += SearchSelector
+		+endif
+		+
+		 #Begin add YTMusic for defect 8391587 by xiaodan.cheng on 20191009
+		 #ifeq ($(strip $(TCT_ENABLE_FCM)), 1)
+		     #add YTMusic for GMS optional apk,if no need,delete it.
+		int@CS-74:/local/build/Seoul-release/v3C3V-8/vendor/partner_gms$ git diff products/gms.mk
+		diff --git a/products/gms.mk b/products/gms.mk
+		index 9304a5a..114c415 100644
+		--- a/products/gms.mk
+		+++ b/products/gms.mk
+		@@ -123,6 +123,15 @@ ifeq ($(strip $(TCT_ENABLE_AI)), 1)
+		 endif
+		 #end added Hardware AI button apk by xiaodan.cheng  for FR  8187905 on 20190905
+		 
+		+ifndef TCT_EEA_V2
+		+    TCT_EEA_V2=eea_v2_search_chrome.xml
+		+endif
+		+$(warning "xiaodan.cheng TCT_EEA_V2 ${TCT_EEA_V2}")
+		+ifneq ($(findstring $(TCT_EEA_V2),$(OEM_EEA_PRODUCT_PACKAGES)),)
+		+    $(warning "xiaodan.cheng TCT_EEA_V2 ${TCT_EEA_V2}")
+		+    PRODUCT_PACKAGES += SearchSelector
+		+endif
+		+
+		 #Begin modify by xiaodan.cheng for Zero-Touch on 20191120
+		 ifndef TCT_ZERO_TOUCH
+		     TCT_ZERO_TOUCH=yes

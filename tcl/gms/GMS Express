@@ -141,3 +141,113 @@ FCM venice
 		    <!--  add by xiaoying 6371297 -->
 		    <feature name ="com.google.android.feature.GMSEXPRESS_BUILD" />
 		</config>
+
+
+
+int@tcl-PowerEdge-T630:/local/build/Venice-release/v2B2A-2/device/mediatek/common$ git diff
+diff --git a/device.mk b/device.mk
+index 120def1..4ee01ca 100644
+--- a/device.mk
++++ b/device.mk
+@@ -3113,6 +3113,9 @@ ifeq ($(TCT_ENABLE_FCM), 1)
+   OEM_VARIANTS_ORIGINAL:= $(shell python device/tct/common/tools/generate_device_properties.py --source $(DEVICES_XML) --oemtags)
+   OEM_VARIANTS_UPPER := $(shell tr '[:lower:]' '[:upper:]' <<< "$(OEM_VARIANTS_ORIGINAL)")
+   $(foreach OEM_VARIANT, $(OEM_VARIANTS_UPPER), $(eval OEM_$(OEM_VARIANT)_PRODUCT_COPY_FILES += device/mediateksample/k63v1us_64_bsp/fcm_sensor_feature/readme:oem/etc/permission
++  OEM_VARIANTS_UPPER_NO_RU := $(subst RU,,$(OEM_VARIANTS_UPPER))
++  $(foreach OEM_VARIANT, $(OEM_VARIANTS_UPPER_NO_RU), \
++           $(eval OEM_$(OEM_VARIANT)_PRODUCT_COPY_FILES += vendor/partner_gms/etc/sysconfig/fastpass.xml:oem/etc/sysconfig/fastpass.xml))
+ endif
+ 
+ ifeq ($(strip $(CUSTOM_KERNEL_MAGNETOMETER)),yes)
+
+
+
+int@tcl-PowerEdge-T630:/local/build/Venice-release/v2B2A-2/vendor/partner_gms$ git diff
+diff --git a/etc/Android.mk b/etc/Android.mk
+index 2bb1cdc..9d8e087 100644
+--- a/etc/Android.mk
++++ b/etc/Android.mk
+@@ -6,3 +6,20 @@ LOCAL_MODULE_CLASS := ETC
+ LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_EEA/etc/sysconfig
+ LOCAL_SRC_FILES := sysconfig/$(LOCAL_MODULE)
+ include $(BUILD_PREBUILT)
++
++include $(CLEAR_VARS)
++LOCAL_MODULE := fastpass.xml
++LOCAL_MODULE_TAGS := optional
++LOCAL_MODULE_CLASS := ETC
++#LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_common/etc/sysconfig
++LOCAL_SRC_FILES := sysconfig/$(LOCAL_MODULE)
++ifeq ($(TCT_ENABLE_FCM), 1)
++ifneq ($(wildcard device/tct/common/tools/generate_device_properties.py),)
++OEM_VARIANTS_ORIGINAL:= $(shell python device/tct/common/tools/generate_device_properties.py --source $(DEVICES_XML) --oemtags)
++OEM_VARIANTS_UPPER := $(shell tr '[:lower:]' '[:upper:]' <<< "$(OEM_VARIANTS_ORIGINAL)")
++OEM_VARIANTS_UPPER_NO_RU := $(patsubst RU,,$(OEM_VARIANTS_UPPER))
++$(foreach OEM_VARIANT, $(OEM_VARIANTS_UPPER_NO_RU), \
++        $(eval OEM_$(OEM_VARIANT)_PRODUCT_COPY_FILES += vendor/partner_gms/etc/sysconfig/fastpass.xml:oem/etc/sysconfig/fastpass.xml))
++endif
++endif
++include $(BUILD_PREBUILT)
+diff --git a/products/gms.mk b/products/gms.mk
+index df38861..8693e6a 100755
+--- a/products/gms.mk
++++ b/products/gms.mk
+@@ -59,9 +59,6 @@ PRODUCT_COPY_FILES += \
+ #copy files in FCM added by xiaodan.cheng for FR 7668762 on 2019-06-03
+ ifeq ($(strip $(TCT_ENABLE_FCM)), 1)
+     PRODUCT_COPY_FILES += \
+-        $(ANDROID_PARTNER_GMS_HOME)/etc/sysconfig/fastpass.xml:oem/oem_EEA/etc/sysconfig/fastpass.xml \
+-        $(ANDROID_PARTNER_GMS_HOME)/etc/sysconfig/fastpass.xml:oem/oem_common/etc/sysconfig/fastpass.xml \
+-        $(ANDROID_PARTNER_GMS_HOME)/etc/sysconfig/fastpass.xml:oem/oem_LAM/etc/sysconfig/fastpass.xml \
+         $(ANDROID_PARTNER_GMS_HOME)/etc/permissions/com.google.android.feature.RU.xml:oem/oem_RU/etc/permissions/com.google.android.feature.RU.xml
+         #begin by yange.zhang for task 7956187, 2019-06-28
+         OEM_RU_PRODUCT_COPY_FILES += $(ANDROID_PARTNER_GMS_HOME)/etc/permissions/com.google.android.feature.RU.xml:oem/etc/5048Y/permissions/com.google.android.feature.RU.xml
+
+
+
+Tokyo
+
+		int@tcl-PowerEdge-T630:/local/build/Tokyo-release/v4F1B-1/vendor/partner_gms$ git diff
+			diff --git a/etc/Android.mk b/etc/Android.mk
+			index 2bb1cdc..c3c2a1a 100644
+			--- a/etc/Android.mk
+			+++ b/etc/Android.mk
+			@@ -6,3 +6,21 @@ LOCAL_MODULE_CLASS := ETC
+			 LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_EEA/etc/sysconfig
+			 LOCAL_SRC_FILES := sysconfig/$(LOCAL_MODULE)
+			 include $(BUILD_PREBUILT)
+			+
+			+include $(CLEAR_VARS)
+			+LOCAL_MODULE := fastpass.xml
+			+LOCAL_MODULE_TAGS := optional
+			+LOCAL_MODULE_CLASS := ETC
+			+#LOCAL_MODULE_PATH := $(TARGET_OUT_OEM)/oem_common/etc/sysconfig
+			+LOCAL_SRC_FILES := sysconfig/$(LOCAL_MODULE)
+			+ifeq ($(TCT_ENABLE_FCM), 1)
+			+ifneq ($(wildcard device/mediatek/common/tools/generate_device_properties.py),)
+			+OEM_VARIANTS_ORIGINAL:= $(shell python device/mediatek/common/tools/generate_device_properties.py --source $(DEVICES_XML) --oemtags)
+			+OEM_VARIANTS_UPPER := $(shell tr '[:lower:]' '[:upper:]' <<< "$(OEM_VARIANTS_ORIGINAL)")
+			+OEM_VARIANTS_UPPER_NO_RU := $(subst RU,,$(OEM_VARIANTS_UPPER))
+			+$(foreach OEM_VARIANT, $(OEM_VARIANTS_UPPER_NO_RU), \
+			+       $(eval OEM_$(OEM_VARIANT)_PRODUCT_COPY_FILES += vendor/partner_gms/etc/sysconfig/fastpass.xml:oem/etc/sysconfig/fastpass.xml))
+			+endif
+			+endif
+			+include $(BUILD_PREBUILT)
++
+
+		int@tcl-PowerEdge-T630:/local/build/Tokyo-release/v4F1B-1/device/mediateksample/k62v1_64_bsp$ git diff
+			diff --git a/full_k62v1_64_bsp.mk b/full_k62v1_64_bsp.mk
+			index d0ea92b..ef8e2d4 100644
+			--- a/full_k62v1_64_bsp.mk
+			+++ b/full_k62v1_64_bsp.mk
+			@@ -92,6 +92,10 @@ PRODUCT_PACKAGES += gettraceability
+			 #[TCTROM][EEA]Begin modify by xiaodan.cheng For Google EEA requirement on 20190611
+			 PRODUCT_PACKAGES += eea_search_chrome.xml
+			 #[TCTROM][EEA]End modify by xiaodan.cheng For Google EEA requirement on 20190611
+			+
+			+#
+			+PRODUCT_PACKAGES += fastpass.xml
+			+#
+			 #[TCT ROM]Begin Added by xiaowen.guan for facebook on 2019/7/24
+			 PRODUCT_COPY_FILES += device/mediateksample/k62v1_64_bsp/facebook-hiddenapi-packagewhitelist.xml:system/etc/sysconfig/facebook-hiddenapi-packagewhitelist.xml
+			 PRODUCT_COPY_FILES += device/mediateksample/k62v1_64_bsp/privapp-permissions-facebook.xml:system/etc/permissions/privapp-permissions-facebook.xml

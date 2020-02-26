@@ -1,0 +1,94 @@
+strings  Template
+
+	strings 模块提供了一个格式化替换字符串的类：模板字符串
+	Template 提供了一种类似SHELL 命令的变量替换方法
+1.单个单词，可以用$变量 指定，
+	>>> from string import Template
+	>>> s=Template('$x, glorious $x!')
+	>>> s.substitute(x='slurm')
+	'slurm, glorious slurm!'
+2.如果这个替换的字符串是一个字符串里面的一部分，则需要使用${变量} 指代
+	>>> s=Template("It's ${x}tastic!")
+	>>> s.substitute(x='slurm')
+	"It's slurmtastic!"
+
+	>>> s=Template("Make $$ selling $x!")
+	>>> s.substitute(x='slurm')
+	'Make $ selling slurm!'
+3. 还可以使用字典变量替换
+	>>> s=Template("A $thing must never $action")
+	>>> d={}
+	>>> d['thing']='gentleman'
+	>>> d['action']='show his socks'
+	>>> s.substitute(d)
+'A gentleman must never show his socks'
+
+另外一种使用dict 实现方法
+>>> template="""<html>
+... <head><title>%(title)s</title></head>
+... <body>
+... <h1>%(title)s</h1>
+... <p>%(text)s</p>
+... </body>"""
+
+>>> data={'title':'My Home Page','text':'Welcome to my home page!'}
+>>> print template % data
+<html>
+<head><title>My Home Page</title></head>
+<body>
+<h1>My Home Page</h1>
+<p>Welcome to my home page!</p>
+</body>
+
+4. safe_substitute 不会因为缺少值或者不正确使用$ 而报错
+
+	>>> s=Template("A $thing must never $action $user")
+	>>> d={}
+	>>> d['thing']='gentleman'
+	>>> d['action']='show his socks'
+	>>> s.substitute(d)
+	Traceback (most recent call last):
+	  File "<stdin>", line 1, in <module>
+	  File "/usr/lib/python2.7/string.py", line 172, in substitute
+	    return self.pattern.sub(convert, self.template)
+	  File "/usr/lib/python2.7/string.py", line 162, in convert
+	    val = mapping[named]
+	KeyError: 'user'
+	>>> s.safe_substitute(d)
+	'A gentleman must never show his socks $user'
+
+
+
+
+
+class Template(__builtin__.object)
+ |  A string class for supporting $-substitutions.
+ |  
+ |  Methods defined here:
+ |  
+ |  __init__(self, template)
+ |  
+ |  safe_substitute(self, *args, **kws)
+ |  
+ |  substitute(self, *args, **kws)
+ |  
+ |  ----------------------------------------------------------------------
+ |  Data descriptors defined here:
+ |  
+ |  __dict__
+ |      dictionary for instance variables (if defined)
+ |  
+ |  __weakref__
+ |      list of weak references to the object (if defined)
+ |  
+ |  ----------------------------------------------------------------------
+ |  Data and other attributes defined here:
+ |  
+ |  __metaclass__ = <class 'string._TemplateMetaclass'>
+ |  
+ |  
+ |  delimiter = '$'
+ |  
+ |  idpattern = '[_a-z][_a-z0-9]*'
+ |  
+ |  pattern = <_sre.SRE_Pattern object>

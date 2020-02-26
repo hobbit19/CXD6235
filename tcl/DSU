@@ -1,0 +1,12 @@
+DSU
+
+		gzip -c system.img > system.raw.gz
+
+		adb push /home/swd3/android-sdk-linux/GSIs/signed_signed-aosp_arm-img-5723346/system.raw.gz /storage/emulated/0/Download
+		adb shell setprop persist.sys.fflag.override.settings_dynamic_system true
+		adb shell am start-activity -n com.android.dynsystem/com.android.dynsystem.VerificationActivity -a android.os.image.action.START_INSTALL -d file:///storage/emulated/0/Download/system.raw.gz --el KEY_SYSTEM_SIZE $(du -b /home/swd3/android-sdk-linux/GSIs/signed_signed-aosp_arm-img-5723346/system.img|cut -f1) --el KEY_USERDATA_SIZE 8589934592
+		
+
+		等通知栏里面的Dynamic System Update 加载完成以后
+
+		手动点击通知栏Dynamic System Update里面的 RESTART 

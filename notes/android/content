@@ -1,0 +1,41 @@
+content
+
+在 Adb shell  后可用content对数据库（uri）进行简单的query，insert，update等操作，具体如下：
+
+1.conent 帮助文档如下：
+
+usage: adb shell content [subcommand] [options]
+
+usage: adb shell content insert --uri <URI> [--user <USER_ID>] --bind <BINDING> [--bind <BINDING>...]
+
+
+usage: adb shell content update --uri <URI> [--user <USER_ID>] [--where <WHERE>]
+
+ 
+usage: adb shell content delete --uri <URI> [--user <USER_ID>] --bind <BINDING> [--bind <BINDING>...] [--where <WHERE>]
+
+
+usage: adb shell content query --uri <URI> [--user <USER_ID>] [--projection <PROJECTION>] [--where <WHERE>] [--sort <SORT_ORDER>]
+
+
+usage: adb shell content call --uri <URI> --method <METHOD> [--arg <ARG>]   [--extra <BINDING> ...]
+
+
+usage: adb shell content read --uri <URI> [--user <USER_ID>]
+
+
+2.使用经验
+
+一般都是adb shell content 然后跟 操作类型，如query，insert等，--uri 表示的是 数据库提供的访问路径。
+
+
+如adb shell content insert --uri content://icc/adn --bind _id:i:1 --bind index:i:2 --bind name:s:zhangsan --bind number:s:123456789
+
+代表往sim卡联系人中插入 一条记录，其中 id 是1，index 是2，name 是zhangsan，number是123456789，在这个当中，--bind后跟的就是相关数据，i代表int，s代表string，b代表bollean，f代表float，l代表long。
+
+又如adb shell content query --uri content://icc/adn --projection _id:name --where "name='zhangsan'" --sort "name ASC"
+
+代表查询sim卡联系人中name是zhangsan的联系人的id和name 并按照name的升序排列结果。
+————————————————
+版权声明：本文为CSDN博主「春华-秋实」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/jinlu7611/article/details/50550556

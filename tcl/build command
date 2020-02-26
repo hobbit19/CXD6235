@@ -1,0 +1,46 @@
+build command
+
+	Seoul :
+
+
+	Tokyo :
+
+	./tclMake -o=TARGET_BUILD_VARIANT=userdebug,MAKE_PERSO=false,MTK_BUILD_ROOT=no,JRD_APK_SIGNATURE=true,TCT_ENABLE_FCM_INT=true,TCT_ENABLE_AI=1,SIGNACTION=true k62v1_64_bsp new
+
+	./tclMake  -o=TARGET_BUILD_VARIANT=userdebug k62v1_64_bsp new
+
+	./tclMake -o=TARGET_BUILD_VARIANT=userdebug,MAKE_PERSO=false,MTK_BUILD_ROOT=no,JRD_APK_SIGNATURE=true,TCT_ENABLE_FCM_INT=true,TCT_ENABLE_AI=1,SIGNACTION=true,BUILD_GMS=yes k62v1_64_bsp new
+
+	./tclMake -o=TARGET_BUILD_VARIANT=userdebug,MAKE_PERSO=false,MTK_BUILD_ROOT=no,JRD_APK_SIGNATURE=true,TCT_ENABLE_FCM_INT=true,TCT_ENABLE_AI=1,SIGNACTION=true k62v1_64_bsp new
+
+
+
+	/local/jenkins_tools/bin/sortresult -project Tokyo-release -version 4F1J-2 -mtkproject k62v1_64_bsp
+
+
+	/local/jenkins_tools/bin/jenkins -job_name Tokyo-release -version 4F1J-2 -needcheck false -copy_version  -gene_manifest false -download_code false -build_android false -build_ota  -make_perso false -sort_result true -send_mail false -move_bin false -check_msg false -build_server 10.92.35.74  -mtk_root false -auto_zz false -rebuild_perso false -unlock false -move_appli false -CTS false -STS false -googletest_server master -monkey  -plans  -NodeliverPR false
+
+
+	Venice :
+
+	./tclMake -o=TARGET_BUILD_VARIANT=userdebug,MAKE_PERSO=false,AUTO_BUILD_INT=true k63v1us_64_bsp remake
+
+	 ./tclMake -o=TARGET_BUILD_VARIANT=userdebug,MAKE_PERSO=false,TCL_BUILD_ROOT=no,JRD_APK_SIGNATURE=true,TCT_ENABLE_AI=1,TCT_ENABLE_FCM_INT=true k63v1us_64_bsp new
+
+	 
+
+	 Seoul :
+
+	 ./tclMake -o=TARGET_BUILD_VARIANT=userdebug,MAKE_PERSO=false,TCT_BUILD_ROOT=no,JRD_ALL_NONHLOS=true,JRD_APK_SIGNATURE=true,SIGNACTION=true msm8937_32go new
+
+
+	 T1 Q:
+
+	 ./tclMake -o=TARGET_BUILD_VARIANT=userdebug,MAKE_PERSO=false,TCT_BUILD_ROOT=no t1 new
+
+	 ./tclMake -o=TARGET_BUILD_VARIANT=userdebug,MAKE_PERSO=false,TCT_BUILD_ROOT=no,SIGN_WITH_TCT_RELEASE_KEY=true t1 new
+
+
+	 Tokyo lite:
+
+	 ./tclMake -o=TARGET_BUILD_VARIANT=user,MAKE_PERSO=false,MTK_BUILD_ROOT=no,JRD_APK_SIGNATURE=true,TCT_ENABLE_FCM_INT=true,TCT_ENABLE_AI=1,SIGNACTION=true k62v1_32_bsp new

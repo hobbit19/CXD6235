@@ -1,0 +1,643 @@
+android.mk shell 命令
+
+拼接字符串
+
+在Makefile中用途相当广的就是拼接字符串，join函数就是干这事儿的。
+格式：$(join 串1 , 串2)
+也可以是多个串一起拼：$(join 串1 串2 串3, 串4 串5 串6)
+多个串就是1和4拼，2和5拼。。。总之是逗号前的和逗号后的拼。
+
+
+去空格
+
+有事儿没事儿，去去空格总不是坏事儿。
+$(strip 字符串)
+
+文件路径操作函数
+
+在实际的Makefile开发中，经常遇到要处理变量中存储的路径名。
+
+先来个提纲：
+
+    有一个不知道哪里来的文件名，想取它的路径，用dir
+    有一个不知道哪里来的文件名，想只取它的文件名，用notdir
+    如果只想要扩展名，判断是什么类型的，用suffix
+    如果想不要扩展名，取出来拼个别的扩展名上去，比如xxx.c，只要xxx，将来拼个xxx.o或者就是xxx之类的，用basename
+    想给文件添加个扩展名,用addsuffix
+    想要把文件搞到另一个路径上去，拼个目录名上去，用addprefix
+
+
+ 取文件名函数
+
+例：
+
+.PHONY : all2
+oatfile := out/target/product/ali6753_65t_m0/obj/APPS/MusicFX_intermediates/oat/arm64/package.odex
+result_dir := $(dir $(oatfile))
+result_notdir := $(notdir $(oatfile))
+all2 :
+    @echo "The result is: "
+    @echo $(result_dir)
+    @echo $(result_notdir)
+
+输出：
+The result is:
+out/target/product/ali6753_65t_m0/obj/APPS/MusicFX_intermediates/oat/arm64/
+package.odex
+取文件扩展名
+
+例：
+
+.PHONY : all2
+oatfile := out/target/product/ali6753_65t_m0/obj/APPS/MusicFX_intermediates/oat/arm64/package.odex
+result_dir := $(dir $(oatfile))
+result_notdir := $(notdir $(oatfile))
+result_suffix := $(suffix $(oatfile))
+all2 :
+    @echo "The result is: "
+    @echo $(result_dir)
+    @echo $(result_notdir)
+    @echo $(result_suffix)
+
+输出：
+The result is:
+out/target/product/ali6753_65t_m0/obj/APPS/MusicFX_intermediates/oat/arm64/
+package.odex
+.odex
+取文件基本名
+
+如果只用basename函数，是连路径都有的，只去除掉了扩展名的名字。不过我们刚学过notdir，一起用下就是了。
+
+例：
+
+.PHONY : all2
+oatfile := out/target/product/ali6753_65t_m0/obj/APPS/MusicFX_intermediates/oat/arm64/package.odex
+result_suffix := $(suffix $(oatfile))
+result_basename := $(basename $(oatfile))
+result_basename2 := $(basename $(notdir $(oatfile)))
+all2 :
+    @echo "The result is: "
+    @echo $(result_suffix)
+    @echo $(result_basename)
+    @echo $(result_basename2)
+
+输出：
+The result is:
+.odex
+out/target/product/ali6753_65t_m0/obj/APPS/MusicFX_intermediates/oat/arm64/package
+package
+给名字加后缀
+
+使用addsuffix函数，$(addsuffix 文件名,扩展名)
+我们举个例子说明：现在想把oat文件压缩成.tar.gz：
+
+.PHONY : all2
+oatfile := out/target/product/ali6753_65t_m0/obj/APPS/MusicFX_intermediates/oat/arm64/package.odex
+result_basename := $(basename $(oatfile))
+compress_oat := tar cfvz $(addsuffix .tar.gz , $(result_basename)) $(oatfile)
+all2 :
+    @echo "The result is: "
+    @echo $(compress_oat)
+
+输出如下：
+The result is:
+tar cfvz out/target/product/ali6753_65t_m0/obj/APPS/MusicFX_intermediates/oat/arm64/package.tar.gz out/target/product/ali6753_65t_m0/obj/APPS/MusicFX_intermediates/oat/arm64/package.odex
+给文件名加前缀
+
+这个用于换路径, addprefix。一个前缀可以后边都加上。
+
+例：
+
+.PHONY : all3
+oatfile2 := system.odex music.odex Contacts.odex
+result_oatfile2 = $(addprefix /data/dalvik-cache/, $(oatfile2))
+all3:
+    @echo $(result_oatfile2)
+
+输出：
+/data/dalvik-cache/system.odex /data/dalvik-cache/music.odex /data/dalvik-cache/Contacts.odex
+直接做字符串替换
+
+如果我们不想拆开加去的这么麻烦，有一个简易的方法是直接做字符串替换。
+subst函数的定义如下：$(subst 源串,目标串,要做替换的字符串)
+
+例，我们把刚才将.odex扩展名换成.tag.gz扩展名，并拼成一个tar命令的makefile重写一下：
+
+.PHONY : all4
+oatfile_targz := $(subst $(suffix $(oatfile)),.tar.gz,$(oatfile))
+compress_oat := tar cfvz $(oatfile_targz) $(oatfile)
+all4 :
+    @echo "The result is: "
+    @echo $(compress_oat)
+
+输出如下：
+The result is:
+tar cfvz out/target/product/ali6753_65t_m0/obj/APPS/MusicFX_intermediates/oat/arm64/package.tar.gz out/target/product/ali6753_65t_m0/obj/APPS/MusicFX_intermediates/oat/arm64/package.odex
+
+过滤函数
+
+过滤函数有两种：
+
+    filter是符合条件的留下
+    filter-out是符合条件的去除掉
+
+我们看一个例子：
+
+all8:
+    @echo $(filter-out default interpreter jit optimizing,xoc)
+    @echo $(filter-out default interpreter jit optimizing,default)
+
+输出结果：
+
+$ make all8
+xoc
+
+filter-out default interpreter jit optimizing,default这一句，因为default在列表中，所以被过滤掉了，变成一个空串。
+filter-out default interpreter jit optimizing,xoc：这句因为xoc不在过滤列表之中，所以留下了。
+
+单词的处理
+
+文件列表，参数列表等等可以看成对单词的处理
+
+比如下面的例子，我们想要查MAKEFILE_LIST中的最后一个文件，可以这样写：
+
+my-dir = $(call parent-dir,$(lastword $(MAKEFILE_LIST)))
+
+针对单词处理，有下面的常用函数：
+
+    firstword:取第一个单词
+    lastword:取最后一个单词
+    words:统计一共有多少个单词
+    word:取第n个单词
+    wordlist:取单词的子集
+
+word的取值是从1开始，不能取0。
+
+我们看一个例子：
+
+SETTINGS_ART_DST := out/target/product/6753_doov_l5_64_m/system/priv-app/Settings/oat/arm64/Settings.odex
+.PHONY : all10
+all10:
+    @echo "Install: $@"
+    $(eval SETTINGS_ART_DST_LIST := $(subst /, ,$(SETTINGS_ART_DST)))
+    @echo $(words $(SETTINGS_ART_DST_LIST))
+    @echo $(word 1,$(SETTINGS_ART_DST_LIST))
+    @echo $(word 2,$(SETTINGS_ART_DST_LIST))
+    @echo $(wordlist 5,10,$(SETTINGS_ART_DST_LIST))
+
+输出如下：
+
+$ make all10
+Install: all10
+10
+out
+target
+system priv-app Settings oat arm64 Settings.odex
+
+
+
+
+鹰之翔
+Linux Shell常用函数
+Functions for Transforming Text
+
+Functions allow you to do text processing in the makefile to compute the files to operate on or the commands to use. You use a function in a function call, where you give the name of the function and some text (the arguments) for the function to operate on. The result of the function's processing is substituted into the makefile at the point of the call, just as a variable might be substituted.
+Function Call Syntax
+
+A function call resembles a variable reference. It looks like this:
+
+$(function arguments)
+
+or like this:
+
+${function arguments}
+
+Here function is a function name; one of a short list of names that are part of make. You can also essentially create your own functions by using the call builtin function.
+
+The arguments are the arguments of the function. They are separated from the function name by one or more spaces or tabs, and if there is more than one argument, then they are separated by commas. Such whitespace and commas are not part of an argument's value. The delimiters which you use to surround the function call, whether parentheses or braces, can appear in an argument only in matching pairs; the other kind of delimiters may appear singly. If the arguments themselves contain other function calls or variable references, it is wisest to use the same kind of delimiters for all the references; write `$(subst a,b,$(x))', not `$(subst a,b,${x})'. This is because it is clearer, and because only one type of delimiter is matched to find the end of the reference.
+
+The text written for each argument is processed by substitution of variables and function calls to produce the argument value, which is the text on which the function acts. The substitution is done in the order in which the arguments appear.
+
+Commas and unmatched parentheses or braces cannot appear in the text of an argument as written; leading spaces cannot appear in the text of the first argument as written. These characters can be put into the argument value by variable substitution. First define variables comma and space whose values are isolated comma and space characters, then substitute these variables where such characters are wanted, like this:
+
+comma:= ,
+empty:=
+space:= $(empty) $(empty)
+foo:= a b c
+bar:= $(subst $(space),$(comma),$(foo))
+# bar is now `a,b,c'.
+
+Here the subst function replaces each space with a comma, through the value of foo, and substitutes the result.
+Functions for String Substitution and Analysis
+
+Here are some functions that operate on strings:
+
+$(subst from,to,text)
+    Performs a textual replacement on the text text: each occurrence of from is replaced by to. The result is substituted for the function call. For example,
+
+    $(subst ee,EE,feet on the street)
+
+    substitutes the string `fEEt on the strEEt'.
+$(patsubst pattern,replacement,text)
+    Finds whitespace-separated words in text that match pattern and replaces them with replacement. Here pattern may contain a `%' which acts as a wildcard, matching any number of any characters within a word. If replacement also contains a `%', the `%' is replaced by the text that matched the `%' in pattern. `%' characters in patsubstfunction invocations can be  quoted with preceding backslashes (`\'). Backslashes that would otherwise quote `%' characters can be quoted with more backslashes. Backslashes that quote `%' characters or other backslashes are removed from the pattern before it is compared file names or has a stem substituted into it. Backslashes that are not in danger of quoting `%' characters go unmolested. For example, the pattern `the\%weird\\%pattern\\' has `the%weird\' preceding the operative `%' character, and `pattern\\' following it. The final two backslashes are left alone because they cannot affect any `%' character. Whitespace between words is folded into single space characters; leading and trailing whitespace is discarded. For example,
+
+    $(patsubst %.c,%.o,x.c.c bar.c)
+
+    produces the value `x.c.o bar.o'. Substitution references (see section Substitution References) are a simpler way to get the effect of the patsubst function:
+
+    $(var:pattern=replacement)
+
+    is equivalent to
+
+    $(patsubst pattern,replacement,$(var))
+
+    The second shorthand simplifies one of the most common uses of patsubst: replacing the suffix at the end of file names.
+
+    $(var:suffix=replacement)
+
+    is equivalent to
+
+    $(patsubst %suffix,%replacement,$(var))
+
+    For example, you might have a list of object files:
+
+    objects = foo.o bar.o baz.o
+
+    To get the list of corresponding source files, you could simply write:
+
+    $(objects:.o=.c)
+
+    instead of using the general form:
+
+    $(patsubst %.o,%.c,$(objects))
+
+$(strip string)
+    Removes leading and trailing whitespace from string and replaces each internal sequence of one or more whitespace characters with a single space. Thus, `$(strip a b c )' results in `a b c'. The function strip can be very useful when used in conjunction with conditionals. When comparing something with the empty string `' using ifeq or ifneq, you usually want a string of just whitespace to match the empty string (see section Conditional Parts of Makefiles). Thus, the following may fail to have the desired results:
+
+    .PHONY: all
+    ifneq   "$(needs_made)" ""
+    all: $(needs_made)
+    else
+    all:;@echo 'Nothing to make!'
+    endif
+
+    Replacing the variable reference `$(needs_made)' with the function call `$(strip $(needs_made))' in the ifneq directive would make it more robust.
+$(findstring find,in)
+    Searches in for an occurrence of find. If it occurs, the value is find; otherwise, the value is empty. You can use this function in a conditional to test for the presence of a specific substring in a given string. Thus, the two examples,
+
+    $(findstring a,a b c)
+    $(findstring a,b c)
+
+    produce the values `a' and `' (the empty string), respectively. See section Conditionals that Test Flags, for a practical application of findstring.
+$(filter pattern...,text)
+    Returns all whitespace-separated words in text that do match any of the pattern words, removing any words that do not match. The patterns are written using `%', just like the patterns used in the patsubst function above. The filter function can be used to separate out different types of strings (such as file names) in a variable. For example:
+
+    sources := foo.c bar.c baz.s ugh.h
+    foo: $(sources)
+            cc $(filter %.c %.s,$(sources)) -o foo
+
+    says that `foo' depends of `foo.c', `bar.c', `baz.s' and `ugh.h' but only `foo.c', `bar.c' and `baz.s' should be specified in the command to the compiler.
+$(filter-out pattern...,text)
+    Returns all whitespace-separated words in text that do not match any of the pattern words, removing the words that do match one or more. This is the exact opposite of the filter function. Removes all whitespace-separated words in text that do match the pattern words, returning only the words that do not match. This is the exact opposite of the filter function. For example, given:
+
+    objects=main1.o foo.o main2.o bar.o
+    mains=main1.o main2.o
+
+    the following generates a list which contains all the object files not in `mains':
+
+    $(filter-out $(mains),$(objects))
+
+$(sort list)
+    Sorts the words of list in lexical order, removing duplicate words. The output is a list of words separated by single spaces. Thus,
+
+    $(sort foo bar lose)
+
+    returns the value `bar foo lose'. Incidentally, since sort removes duplicate words, you can use it for this purpose even if you don't care about the sort order.
+
+Here is a realistic example of the use of subst and patsubst. Suppose that a makefile uses the VPATH variable to specify a list of directories that make should search for prerequisite files (see section VPATH: Search Path for All Prerequisites). This example shows how to tell the C compiler to search for header files in the same list of directories.
+
+The value of VPATH is a list of directories separated by colons, such as `src:../headers'. First, the subst function is used to change the colons to spaces:
+
+$(subst :, ,$(VPATH))
+
+This produces `src ../headers'. Then patsubst is used to turn each directory name into a `-I' flag. These can be added to the value of the variable CFLAGS, which is passed automatically to the C compiler, like this:
+
+override CFLAGS += $(patsubst %,-I%,$(subst :, ,$(VPATH)))
+
+The effect is to append the text `-Isrc -I../headers' to the previously given value of CFLAGS. The override directive is used so that the new value is assigned even if the previous value of CFLAGS was specified with a command argument (see section The override Directive).
+Functions for File Names
+
+Several of the built-in expansion functions relate specifically to taking apart file names or lists of file names.
+
+Each of the following functions performs a specific transformation on a file name. The argument of the function is regarded as a series of file names, separated by whitespace. (Leading and trailing whitespace is ignored.) Each file name in the series is transformed in the same way and the results are concatenated with single spaces between them.
+
+$(dir names...)
+    Extracts the directory-part of each file name in names. The directory-part of the file name is everything up through (and including) the last slash in it. If the file name contains no slash, the directory part is the string `./'. For example,
+
+    $(dir src/foo.c hacks)
+
+    produces the result `src/ ./'.
+$(notdir names...)
+    Extracts all but the directory-part of each file name in names. If the file name contains no slash, it is left unchanged. Otherwise, everything through the last slash is removed from it. A file name that ends with a slash becomes an empty string. This is unfortunate, because it means that the result does not always have the same number of whitespace-separated file names as the argument had; but we do not see any other valid alternative. For example,
+
+    $(notdir src/foo.c hacks)
+
+    produces the result `foo.c hacks'.
+$(suffix names...)
+    Extracts the suffix of each file name in names. If the file name contains a period, the suffix is everything starting with the last period. Otherwise, the suffix is the empty string. This frequently means that the result will be empty when names is not, and if names contains multiple file names, the result may contain fewer file names. For example,
+
+    $(suffix src/foo.c src-1.0/bar.c hacks)
+
+    produces the result `.c .c'.
+$(basename names...)
+    Extracts all but the suffix of each file name in names. If the file name contains a period, the basename is everything starting up to (and not including) the last period. Periods in the directory part are ignored. If there is no period, the basename is the entire file name. For example,
+
+    $(basename src/foo.c src-1.0/bar hacks)
+
+    produces the result `src/foo src-1.0/bar hacks'.
+$(addsuffix suffix,names...)
+    The argument names is regarded as a series of names, separated by whitespace; suffix is used as a unit. The value of suffix is appended to the end of each individual name and the resulting larger names are concatenated with single spaces between them. For example,
+
+    $(addsuffix .c,foo bar)
+
+    produces the result `foo.c bar.c'.
+$(addprefix prefix,names...)
+    The argument names is regarded as a series of names, separated by whitespace; prefix is used as a unit. The value of prefix is prepended to the front of each individual name and the resulting larger names are concatenated with single spaces between them. For example,
+
+    $(addprefix src/,foo bar)
+
+    produces the result `src/foo src/bar'.
+$(join list1,list2)
+    Concatenates the two arguments word by word: the two first words (one from each argument) concatenated form the first word of the result, the two second words form the second word of the result, and so on. So the nth word of the result comes from the nth word of each argument. If one argument has more words that the other, the extra words are copied unchanged into the result. For example, `$(join a b,.c .o)' produces `a.c b.o'. Whitespace between the words in the lists is not preserved; it is replaced with a single space. This function can merge the results of the dir and notdir functions, to produce the original list of files which was given to those two functions.
+$(word n,text)
+    Returns the nth word of text. The legitimate values of n start from 1. If n is bigger than the number of words in text, the value is empty. For example,
+
+    $(word 2, foo bar baz)
+
+    returns `bar'.
+$(wordlist s,e,text)
+    Returns the list of words in text starting with word s and ending with word e (inclusive). The legitimate values of s and e start from 1. If s is bigger than the number of words in text, the value is empty. If e is bigger than the number of words in text, words up to the end of text are returned. If s is greater than e, nothing is returned. For example,
+
+    $(wordlist 2, 3, foo bar baz)
+
+    returns `bar baz'.
+$(words text)
+    Returns the number of words in text. Thus, the last word of text is $(word $(words text),text).
+$(firstword names...)
+    The argument names is regarded as a series of names, separated by whitespace. The value is the first name in the series. The rest of the names are ignored. For example,
+
+    $(firstword foo bar)
+
+    produces the result `foo'. Although $(firstword text) is the same as $(word 1,text), the firstword function is retained for its simplicity.
+$(wildcard pattern)
+    The argument pattern is a file name pattern, typically containing wildcard characters (as in shell file name patterns). The result of wildcard is a space-separated list of the names of existing files that match the pattern. See section Using Wildcard Characters in File Names.
+
+The foreach Function
+
+The foreach function is very different from other functions. It causes one piece of text to be used repeatedly, each time with a different substitution performed on it. It resembles the for command in the shell sh and the foreach command in the C-shell csh.
+
+The syntax of the foreach function is:
+
+$(foreach var,list,text)
+
+The first two arguments, var and list, are expanded before anything else is done; note that the last argument, text, is not expanded at the same time. Then for each word of the expanded value of list, the variable named by the expanded value of var is set to that word, and text is expanded. Presumably text contains references to that variable, so its expansion will be different each time.
+
+The result is that text is expanded as many times as there are whitespace-separated words in list. The multiple expansions of text are concatenated, with spaces between them, to make the result of foreach.
+
+This simple example sets the variable `files' to the list of all files in the directories in the list `dirs':
+
+dirs := a b c d
+files := $(foreach dir,$(dirs),$(wildcard $(dir)/*))
+
+Here text is `$(wildcard $(dir)/*)'. The first repetition finds the value `a' for dir, so it produces the same result as `$(wildcard a/*)'; the second repetition produces the result of `$(wildcard b/*)'; and the third, that of `$(wildcard c/*)'.
+
+This example has the same result (except for setting `dirs') as the following example:
+
+files := $(wildcard a/* b/* c/* d/*)
+
+When text is complicated, you can improve readability by giving it a name, with an additional variable:
+
+find_files = $(wildcard $(dir)/*)
+dirs := a b c d
+files := $(foreach dir,$(dirs),$(find_files))
+
+Here we use the variable find_files this way. We use plain `=' to define a recursively-expanding variable, so that its value contains an actual function call to be reexpanded under the control of foreach; a simply-expanded variable would not do, since wildcard would be called only once at the time of defining find_files.
+
+The foreach function has no permanent effect on the variable var; its value and flavor after the foreach function call are the same as they were beforehand. The other values which are taken from list are in effect only temporarily, during the execution of foreach. The variable var is a simply-expanded variable during the execution of foreach. If varwas undefined  before the foreach function call, it is undefined after the call. See section The Two Flavors of Variables.
+
+You must take care when using complex variable expressions that result in variable names because many strange things are valid variable names, but are probably not what you intended. For example,
+
+files := $(foreach Esta escrito en espanol!,b c ch,$(find_files))
+
+might be useful if the value of find_files references the variable whose name is `Esta escrito en espanol!' (es un nombre bastante largo, no?), but it is more likely to be a mistake.
+The if Function
+
+The if function provides support for conditional expansion in a functional context (as opposed to the GNU make makefile conditionals such as ifeq (see section Syntax of Conditionals).
+
+An if function call can contain either two or three arguments:
+
+$(if condition,then-part[,else-part])
+
+The first argument, condition, first has all preceding and trailing whitespace stripped, then is expanded. If it expands to any non-empty string, then the condition is considered to be true. If it expands to an empty string, the condition is considered to be false.
+
+If the condition is true then the second argument, then-part, is evaluated and this is used as the result of the evaluation of the entire if function.
+
+If the condition is false then the third argument, else-part, is evaluated and this is the result of the if function. If there is no third argument, the if function evaluates to nothing (the empty string).
+
+Note that only one of the then-part or the else-part will be evaluated, never both. Thus, either can contain side-effects (such as shell function calls, etc.)
+The call Function
+
+The call function is unique in that it can be used to create new parameterized functions. You can write a complex expression as the value of a variable, then use call to expand it with different values.
+
+The syntax of the call function is:
+
+$(call variable,param,param,...)
+
+When make expands this function, it assigns each param to temporary variables $(1), $(2), etc. The variable $(0) will contain variable. There is no maximum number of parameter arguments. There is no minimum, either, but it doesn't make sense to use call with no parameters.
+
+Then variable is expanded as a make variable in the context of these temporary assignments. Thus, any reference to $(1) in the value of variable will resolve to the first paramin the  invocation of call.
+
+Note that variable is the name of a variable, not a reference to that variable. Therefore you would not normally use a `$' or parentheses when writing it. (You can, however, use a variable reference in the name if you want the name not to be a constant.)
+
+If variable is the name of a builtin function, the builtin function is always invoked (even if a make variable by that name also exists).
+
+The call function expands the param arguments before assigning them to temporary variables. This means that variable values containing references to builtin functions that have special expansion rules, like foreach or if, may not work as you expect.
+
+Some examples may make this clearer.
+
+This macro simply reverses its arguments:
+
+reverse = $(2) $(1)
+
+foo = $(call reverse,a,b)
+
+Here foo will contain `b a'.
+
+This one is slightly more interesting: it defines a macro to search for the first instance of a program in PATH:
+
+pathsearch = $(firstword $(wildcard $(addsufix /$(1),$(subst :, ,$(PATH)))))
+
+LS := $(call pathsearch,ls)
+
+Now the variable LS contains /bin/ls or similar.
+
+The call function can be nested. Each recursive invocation gets its own local values for $(1), etc. that mask the values of higher-level call. For example, here is an implementation of a map function:
+
+map = $(foreach a,$(2),$(call $(1),$(a)))
+
+Now you can map a function that normally takes only one argument, such as origin, to multiple values in one step:
+
+o = $(call map,origin,o map MAKE)
+
+and end up with o containing something like `file file default'.
+
+A final caution: be careful when adding whitespace to the arguments to call. As with other functions, any whitespace contained in the second and subsequent arguments is kept; this can cause strange effects. It's generally safest to remove all extraneous whitespace when providing parameters to call.
+The origin Function
+
+The origin function is unlike most other functions in that it does not operate on the values of variables; it tells you something about a variable. Specifically, it tells you where it came from.
+
+The syntax of the origin function is:
+
+$(origin variable)
+
+Note that variable is the name of a variable to inquire about; not a reference to that variable. Therefore you would not normally use a `$' or parentheses when writing it. (You can, however, use a variable reference in the name if you want the name not to be a constant.)
+
+The result of this function is a string telling you how the variable variable was defined:
+
+`undefined'
+    if variable was never defined.
+`default'
+    if variable has a default definition, as is usual with CC and so on. See section Variables Used by Implicit Rules. Note that if you have redefined a default variable, the origin function will return the origin of the later definition.
+`environment'
+    if variable was defined as an environment variable and the `-e' option is not turned on (see section Summary of Options).
+`environment override'
+    if variable was defined as an environment variable and the `-e' option is turned on (see section Summary of Options).
+`file'
+    if variable was defined in a makefile.
+`command line'
+    if variable was defined on the command line.
+`override'
+    if variable was defined with an override directive in a makefile (see section The override Directive).
+`automatic'
+    if variable is an automatic variable defined for the execution of the commands for each rule (see section Automatic Variables).
+
+This information is primarily useful (other than for your curiosity) to determine if you want to believe the value of a variable. For example, suppose you have a makefile `foo'that includes another makefile `bar'. You want a variable bletch to be defined in `bar' if you run the command `make -f bar', even if the environment contains a definition of bletch. However, if `foo' defined bletch before including `bar', you do not want to override that definition. This could be done by using an override directive in `foo', giving that definition precedence over the later definition in `bar'; unfortunately, the override directive would also override any command line definitions. So, `bar' could include:
+
+ifdef bletch
+ifeq "$(origin bletch)" "environment"
+bletch = barf, gag, etc.
+endif
+endif
+
+If bletch has been defined from the environment, this will redefine it.
+
+If you want to override a previous definition of bletch if it came from the environment, even under `-e', you could instead write:
+
+ifneq "$(findstring environment,$(origin bletch))" ""
+bletch = barf, gag, etc.
+endif
+
+Here the redefinition takes place if `$(origin bletch)' returns either `environment' or `environment override'. See section Functions for String Substitution and Analysis.
+The shell Function
+
+The shell function is unlike any other function except the wildcard function (see section The Function wildcard) in that it communicates with the world outside of make.
+
+The shell function performs the same function that backquotes (``') perform in most shells: it does command expansion. This means that it takes an argument that is a shell command and returns the output of the command. The only processing make does on the result, before substituting it into the surrounding text, is to convert each newline or carriage-return / newline pair to a single space. It also removes the trailing (carriage-return and) newline, if it's the last thing in the result.
+
+The commands run by calls to the shell function are run when the function calls are expanded. In most cases, this is when the makefile is read in. The exception is that function calls in the commands of the rules are expanded when the commands are run, and this applies to shell function calls like all others.
+
+Here are some examples of the use of the shell function:
+
+contents := $(shell cat foo)
+
+sets contents to the contents of the file `foo', with a space (rather than a newline) separating each line.
+
+files := $(shell echo *.c)
+
+sets files to the expansion of `*.c'. Unless make is using a very strange shell, this has the same result as `$(wildcard *.c)'.
+Functions That Control Make
+
+These functions control the way make runs. Generally, they are used to provide information to the user of the makefile or to cause make to stop if some sort of environmental error is detected.
+
+$(error text...)
+    Generates a fatal error where the message is text. Note that the error is generated whenever this function is evaluated. So, if you put it inside a command script or on the right side of a recursive variable assignment, it won't be evaluated until later. The text will be expanded before the error is generated. For example,
+
+    ifdef ERROR1
+    $(error error is $(ERROR1))
+    endif
+
+    will generate a fatal error during the read of the makefile if the make variable ERROR1 is defined. Or,
+
+    ERR = $(error found an error!)
+
+    .PHONY: err
+    err: ; $(ERR)
+
+    will generate a fatal error while make is running, if the err target is invoked.
+$(warning text...)
+    This function works similarly to the error function, above, except that make doesn't exit. Instead, text is expanded and the resulting message is displayed, but processing of the makefile continues. The result of the expansion of this function is the empty string.
+
+
+
+
+在Makefile中我们经常看到 = := ?= +=这几个赋值运算符，那么他们有什么区别呢？我们来做个简单的实验
+
+新建一个Makefile，内容为：
+ifdef DEFINE_VRE
+    VRE = “Hello World!”
+else
+endif
+
+ifeq ($(OPT),define)
+    VRE ?= “Hello World! First!”
+endif
+
+ifeq ($(OPT),add)
+    VRE += “Kelly!”
+endif
+
+ifeq ($(OPT),recover)
+    VRE := “Hello World! Again!”
+endif
+
+all:
+    @echo $(VRE)
+
+敲入以下make命令：
+make DEFINE_VRE=true OPT=define 输出：Hello World!
+make DEFINE_VRE=true OPT=add 输出：Hello World! Kelly!
+make DEFINE_VRE=true OPT=recover  输出：Hello World! Again!
+make DEFINE_VRE= OPT=define 输出：Hello World! First!
+make DEFINE_VRE= OPT=add 输出：Kelly!
+make DEFINE_VRE= OPT=recover 输出：Hello World! Again!
+
+从上面的结果中我们可以清楚的看到他们的区别了
+= 是最基本的赋值
+:= 是覆盖之前的值
+?= 是如果没有被赋值过就赋予等号后面的值
++= 是添加等号后面的值
+
+ 
+
+之前一直纠结makefile中“=”和“:=”的区别到底有什么区别，因为给变量赋值时，两个符号都在使用。网上搜了一下，有人给出了解答，但是本人愚钝，看不懂什么意思。几寻无果之下，也就放下了。今天看一篇博客，无意中发现作者对于这个问题做了很好的解答。解决问题之余不免感叹，有时候给个例子不就清楚了吗？为什么非要说得那么学术呢。^_^
+
+      1、“=”
+
+      make会将整个makefile展开后，再决定变量的值。也就是说，变量的值将会是整个makefile中最后被指定的值。看例子：
+
+            x = foo
+            y = $(x) bar
+            x = xyz
+
+      在上例中，y的值将会是 xyz bar ，而不是 foo bar 。
+
+      2、“:=”
+
+      “:=”表示变量的值决定于它在makefile中的位置，而不是整个makefile展开后的最终值。
+
+            x := foo
+            y := $(x) bar
+            x := xyz
+
+      在上例中，y的值将会是 foo bar ，而不是 xyz bar 了。
+

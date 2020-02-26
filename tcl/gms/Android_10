@@ -1,0 +1,42 @@
+Android 10
+
+		注： >=10 表示 Android 10 与之后的版本
+
+		Android 10 变更：
+
+		1.  GoogleBackupTransport（com.google.android.backuptransport）  		>=10 不再需要
+		2.  TrichromeLibrary（ com.google.android.trichromelibrary）			>=10 开始使用
+		3.	AndroidAutoStub（ com.google.android.projection.gearhead）			>=10 开始使用
+		4.	GoogleLocationHistory（ com.google.android.gms.location.history）	>=10 开始使用
+		5.	Digital Wellbeing and Parental controls								>=9  开始使用
+
+		6. Deferred Setup（SetupWizard） 										>=10 开始要求
+		7. Google Dialer 必须支持的新特性AudioDeviceInfo.TYPE_TELEPHONY： voice 相关
+		8. Assist   如果支持手势，bottom-left/bottom-right corner  必须弹出 Assist。其他手势的技术方面要求。
+		9. 必须集成 keystore requirements 
+		10. API level >= 28
+		11. Privacy Settings 部分特性
+		12. Location 顶层设计top-level
+		13. Android System Metrics ：禁止改变收集数据用途
+		14. Widevine DRM 使用Version 15
+		15. 必须支持加密与非加密解码器
+		16. 支持carrier ID 加载carrier 配置
+		17. System Navigation 除了之前的3按钮模式，新增可支持手势模式
+		18. 必须支持ADB Test Harness Mode
+		19. 强烈推荐使用Wi-Fi 5Ghz
+		20. wifi 特性Passpoint R2
+		21. 引入 DeviceConfig API
+		22. camera 必须支持android.hardware.camera.device@3.2
+		23. 其他硬件满足target-level=4 compatibility_matrix file
+		24.  Vulkan 1.1 推荐与必须支持
+		25.  Kernel 必须为4.9.165 OR 4.14.105 OR 4.19.42  或之上
+		26.  VNDK 修改
+		27.  强烈推荐增加product 分区。
+		28.  要求集成Dynamic Partitions
+		29.  Fastbootd 支持
+		30.  必须支持Userdata Checkpointing (UDC)
+		31.  Boot image format 格式要求
+		32.  metadata 必须可以读写，16M之上
+		33.  System SDK API必须在29 之上，禁止使用隐藏SDK API
+		34.  Location Privacy Policy 需要遵循手机设置策略及app权限，可用的时候需要显示通知
+		35.  Preload requirements 包括apk与APEX
