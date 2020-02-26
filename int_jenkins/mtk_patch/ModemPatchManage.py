@@ -73,6 +73,7 @@ class PatchMerge(Mangage):
 		self.old_mak = mtkSheet.cell(mp_row, 27).value.strip().split(',')
 		self.new_mak = mtkSheet.cell(mp_row, 28).value.strip().split(',')
                 self.patch_type_str = mtkSheet.cell(mp_row, 29).value.strip()
+		self.short_lunchproj = mtkSheet.cell(mp_row, 31).value.strip()
                 if self.patch_type_str == '':
                 	self.patch_type_str = conf.getConf('patchtypestr','patch type str','MOLY')
                 self.download_type = ''
@@ -83,8 +84,9 @@ class PatchMerge(Mangage):
 		else:
 			self.Code = "/local/mtk_patch_import/" + self.__branch + "/modem"
 		if not os.path.exists(self.Code + '/.git'):
-		        print self.patch_type_str
+		        print "self.patch_type_str",self.patch_type_str
 			tmp = getoutput("find %s -name '.git' | grep '%s' | sed 's/\/\.git//g'" % (self.Code,self.patch_type_str))
+			print "find %s -name '.git' | grep '%s' | sed 's/\/\.git//g'" % (self.Code,self.patch_type_str),tmp
 			if tmp:
 				self.Code = tmp
 				print 'tmp',tmp
@@ -166,7 +168,10 @@ class PatchMerge(Mangage):
 			#os.chdir(codedir)
 			#os.system('git checkout %s' % BranchName)
 			#print "-----------------------------download modem end-----------------------------\n"
-        
+        def get_sufix_patch_list(self,patchlistFilename):
+		pass
+	def check_git_name(self,codedir):
+		pass
 	def MergePatch(self,patchtype,patchNo=-1):
 		print "Please create file(start) on /local/mtk_patch_import directory. If not exist, the script will stop and exit."
 		self.repo_code(self.Code, self.__branch)
@@ -190,7 +195,8 @@ class PatchMerge(Mangage):
 					sys.exit(1)
 				print 'modemname',modemname
 				self.cpfiletomodem(self.Code)
-				self.build_cmd = self.build_cmd % (self.lunchproj,modemname,'')
+				_lunchproj = self.short_lunchproj if self.short_lunchproj else self.lunchproj
+				self.build_cmd = self.build_cmd % (_lunchproj,modemname,'')
 				if self.cp_data_dir and	self.old_data_file and self.new_data_file:
 					print "cp -r %s %s"%(self.Code+'/'+self.cp_data_dir+'/'+self.old_data_file,self.Code+'/'+self.cp_data_dir+'/'+self.new_data_file)
 					os.system("cp -r %s %s"%(self.Code+'/'+self.cp_data_dir+'/'+self.old_data_file,self.Code+'/'+self.cp_data_dir+'/'+self.new_data_file))	
@@ -220,6 +226,7 @@ class PatchMerge(Mangage):
 				print comment
 				if True == self.__pushCodeToGit:
 					print 'start merge.....'
+					print 'git add .'
 				    	os.system('git add .')
 				    	nextMD5 = getoutput('rm -rf /tmp/tempfile; git status >> /tmp/tempfile; md5sum /tmp/tempfile').split()[0]
 					gitpushlog = '/tmp/%s_gitpush.log'%self.__branch
@@ -242,6 +249,9 @@ class PatchMerge(Mangage):
 							print "=========logs======"
 							sys.exit(1)
 						print "finish push to origin master"
+					print 'git commit -m "%s"; git push jgs HEAD:%s 2>&1 | tee -a %s' % (comment,self.__branch,gitpushlog)
+					os.system('git commit -m "%s"; git push jgs HEAD:%s 2>&1 | tee -a %s' % (comment,self.__branch,gitpushlog))
+					os.system('git commit -m "%s"; git push jgs HEAD:%s 2>&1 | tee -a %s' % (comment,self.__branch,gitpushlog))
 				    	print 'finish merge....'
 					self.del_todo_tmp_dir()
 			else:
@@ -296,11 +306,12 @@ class PatchMerge(Mangage):
 				modemname = self.getmodemname(patchFilename)
 				print 'modemname',modemname
 				print "self.__modemname",self.__modemname
+				_lunchproj = self.short_lunchproj if self.short_lunchproj else self.lunchproj
 				if self.build_cmd.find('%s') != -1:
 					if modemname:
-						self.build_cmd = self.build_cmd % ( self.lunchproj,modemname,self.sp_modem[0])
+						self.build_cmd = self.build_cmd % ( _lunchproj,modemname,self.sp_modem[0])
 					elif self.__modemname:
-						self.build_cmd = self.build_cmd % ( self.lunchproj,self.__modemname,self.sp_modem[0])
+						self.build_cmd = self.build_cmd % ( _lunchproj,self.__modemname,self.sp_modem[0])
 					else:
 						print "Provide a modem name"
 						sys.exit(1)
@@ -398,6 +409,7 @@ class PatchMerge(Mangage):
 				print 'modem no found in project!!!'
 				sys.exit(1)
 			if sync_modem_str:
+				print '%s sync %s'%(self.repopath,sync_modem_str)
 				os.system('%s sync %s'%(self.repopath,sync_modem_str))	
 			else:
 				print 'sync_modem_str is NULL!!!'

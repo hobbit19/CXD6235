@@ -20,6 +20,27 @@ else
       grep_v=$5
   fi
 fi
+function add_lock
+{
+   if [ ! -f "/tmp/${newprojectname}.lock" ]; then
+       echo "touch lock "
+       touch "/tmp/${newprojectname}.lock"
+   else
+       echo "lock has existed,exit"
+       exit
+   fi
+}
+function del_lock
+{
+   if [ -f "/tmp/${newprojectname}.lock" ]; then
+       echo "release lock"
+       rm -f "/tmp/${newprojectname}.lock"
+   else
+       echo "no lock exists,exit"
+       exit
+   fi
+}
+add_lock
 echo "target: $targetpath"
 echo "-----------begin to update project name---------------------"
 
@@ -39,8 +60,15 @@ rm_tmps=`find $targetpath -path $targetpath/.repo -prune -o -path $targetpath/ou
 echo ${rm_tmps}
 for rm_tmp in ${rm_tmps}
     do
+        git_files=""
 	tmp=`echo ${rm_tmp} | grep ${grep_tmp}`
-	rm -rf ${tmp}
+        git_files=`find $tmp -name .git`
+        echo "find $tmp -name .git ====> $git_files"
+        if [ ${#git_files} -eq 0 ];then
+	    echo "rm -rf ${tmp}"
+	    rm -rf ${tmp}
+        fi
+        git_files=""
     done
 echo "+++"
 find $targetpath -path $targetpath/.repo -prune -o -path $targetpath/out -prune -o -type d -name "*${oldprojectname}*" -print > projectname.txt
@@ -54,6 +82,15 @@ cat projectname.txt | grep ${grep_tmp} | grep -v ".repo"|\
     if (echo -n $line |  grep -q -e "${oldprojectname}");then
       cmdout=$(echo $line | sed "s/${oldprojectname}/${newprojectname}/")
       echo $line $cmdout
+      git_files=""
+      if [ -d $cmdout ];then
+          git_files=`find $cmdout -name .git`
+          echo "find $cmdout -name .git ====> $git_files"
+          if [ ${#git_files} != 0 ];then
+              echo "$git_files /tmp/"
+              mv $git_files /tmp/
+          fi
+      fi
       rm -rf $cmdout
       if [ $updatetype == 'add' ];then
         cp -r $line $cmdout
@@ -63,9 +100,25 @@ cat projectname.txt | grep ${grep_tmp} | grep -v ".repo"|\
         mv $line $cmdout
       fi
       sed -i "s/${oldprojectname}/${newprojectname}/g"  `grep "${oldprojectname}" -rl $cmdout`
+      if [ ${#git_files} != 0 ];then
+          echo "rm -rf $git_files"
+          rm -rf $git_files
+          echo "mv /tmp/.git $git_files"
+          mv /tmp/.git $git_files
+          git_files="" 
+      fi
     elif (echo -n $line |  grep -q -e "${oldprojectname_large}");then
       cmdout=$(echo $line | sed "s/${oldprojectname_large}/${newprojectname_large}/")
       echo $line $cmdout
+      git_files=""
+      if [ -d $cmdout ];then
+          git_files=`find $cmdout -name .git`
+          echo "find $cmdout -name .git ====> $git_files"
+          if [ ${#git_files} != 0 ];then
+              echo "$git_files /tmp/"
+              mv $git_files /tmp/
+          fi
+      fi
       rm -rf $cmdout
       if [ $updatetype == 'add' ];then
         cp -r $line $cmdout
@@ -75,6 +128,13 @@ cat projectname.txt | grep ${grep_tmp} | grep -v ".repo"|\
         mv $line $cmdout
       fi
       sed -i "s/${oldprojectname}/${newprojectname}/g"  `grep "${oldprojectname}" -rl $cmdout`
+      if [ ${#git_files} != 0 ];then
+          echo "rm -rf $git_files"
+          rm -rf $git_files
+          echo "mv /tmp/.git $git_files"
+          mv /tmp/.git $git_files
+          git_files="" 
+      fi
     fi
   done
 )
@@ -89,21 +149,53 @@ cat projectname_file.txt  | grep ${grep_tmp} | grep -v ".repo" |\
     if (echo -n $line |  grep -q -e "${oldprojectname}");then
       cmdout=$(echo $line | sed "s/${oldprojectname}/${newprojectname}/g")
       echo $line $cmdout
+      git_files=""
+      if [ -d $cmdout ];then
+          git_files=`find $cmdout -name .git`
+          echo "find $cmdout -name .git ====> $git_files"
+          if [ ${#git_files} != 0 ];then
+              echo "$git_files /tmp/"
+              mv $git_files /tmp/
+          fi
+      fi
       if [ $updatetype == 'add' ];then
         cp -r $line $cmdout
       else
         mv $line $cmdout
       fi
       sed -i "s/${oldprojectname}/${newprojectname}/g" $cmdout
+      if [ ${#git_files} != 0 ];then
+          echo "rm -rf $git_files"
+          rm -rf $git_files
+          echo "mv /tmp/.git $git_files"
+          mv /tmp/.git $git_files
+          git_files="" 
+      fi
     elif (echo -n $line |  grep -q -e "${oldprojectname_large}");then
       cmdout=$(echo $line | sed "s/${oldprojectname_large}/${newprojectname_large}/g")
       echo $line $cmdout
+      git_files=""
+      if [ -d $cmdout ];then
+          git_files=`find $cmdout -name .git`
+          echo "find $cmdout -name .git ====> $git_files"
+          if [ ${#git_files} != 0 ];then
+              echo "$git_files /tmp/"
+              mv $git_files /tmp/
+          fi
+      fi
       if [ $updatetype == 'add' ];then
         cp -r $line $cmdout
       else
         mv $line $cmdout
       fi
       sed -i "s/${oldprojectname}/${newprojectname}/g" $cmdout
+      if [ ${#git_files} != 0 ];then
+          echo "rm -rf $git_files"
+          rm -rf $git_files
+          echo "mv /tmp/.git $git_files"
+          mv /tmp/.git $git_files
+          git_files="" 
+      fi
     fi
   done
 )
@@ -146,7 +238,7 @@ fi
 #sed -i "s/${oldprojectname}/${newprojectname}/" $targetpath/vendor/mediatek/proprietary/bootable/bootloader/preloader/custom/${newprojectname}/${newprojectname}.mk
 #sed -i "s/${oldprojectname}/${newprojectname}/" $targetpath/vendor/mediatek/proprietary/custom/${newprojectname}/Android.mk
 #sed -i "s/${oldprojectname}/${newprojectname}/" $targetpath/vendor/mediatek/proprietary/custom/${newprojectname}/security/efuse/input.xml
-
+del_lock
 
 
 

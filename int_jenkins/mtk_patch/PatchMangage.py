@@ -80,6 +80,8 @@ class PatchMerge(Mangage):
                 #self.mtkrelease = mtkSheet.cell(ap_row, 28).value.strip()
                 self.mtkversion = mtkSheet.cell(ap_row, 29).value.strip()
 		self.keepmtk = mtkSheet.cell(ap_row, 31).value.strip()
+		self.del_git_list = mtkSheet.cell(ap_row, 37).value.strip().split(';')
+		print "self.del_git_list",self.del_git_list
                 self.patchnum = conf.getConf('patchnum','patch number',-1)#sys.argv[3]
                 #self.mtktag = "t-" + self.mtkrelease + "." + str(self.patchnum)
                 self.mtktag = "t-" + self.mtkrelease + str(self.patchnum)
@@ -424,6 +426,8 @@ class PatchMerge(Mangage):
 					print tmp
 					print "=========logs======"
 					sys.exit(1)
+				print '%s forall -c git commit -m "%s"; %s forall -c git push jgs HEAD:refs/heads/%s | tee -a %s' % (self.repopath,comment,self.repopath,self.__branch,gitpushlog)
+				os.system('%s forall -c git commit -m "%s"; %s forall -c git push jgs HEAD:refs/heads/%s | tee -a %s' % (self.repopath,comment,self.repopath,self.__branch,gitpushlog))
 				print "finish push to origin master"
 				print 'finish merge....'
 				self.del_todo_tmp_dir()

@@ -1,0 +1,457 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:2:1-235:12
+INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:2:1-235:12
+INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:2:1-235:12
+INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:2:1-235:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/53d1100d20464ea8b4582c22f8f72b8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/be057653aab47652b99532deb3f32021/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a24e04e33023f0d0df502d95e261db45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fffc7578c517963a9675566fab719777/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8007b9330b49345363bc7d74b70fc02d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ad63f834befcc69ea187636837c3a9b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2a3509fc822925ca51d990e0b8bf515b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/39df31d30aa920cdd69f23385e4ff784/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9845fdb6ae5634b2bd4cee1023c2b74f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/392b6b9bd1cbe84686b7b2e0290761cd/AndroidManifest.xml:17:1-22:12
+INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:2:1-235:12
+INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:2:1-235:12
+INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:2:1-235:12
+	package
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml
+		INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml
+	android:sharedUserId
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:6:5-46
+	android:versionName
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml
+		INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml
+		INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:9:5-12:11
+INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:9:5-12:11
+INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:9:5-12:11
+MERGED from [com.android.support:support-v4:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/53d1100d20464ea8b4582c22f8f72b8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/53d1100d20464ea8b4582c22f8f72b8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/be057653aab47652b99532deb3f32021/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/be057653aab47652b99532deb3f32021/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a24e04e33023f0d0df502d95e261db45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a24e04e33023f0d0df502d95e261db45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fffc7578c517963a9675566fab719777/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fffc7578c517963a9675566fab719777/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8007b9330b49345363bc7d74b70fc02d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8007b9330b49345363bc7d74b70fc02d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ad63f834befcc69ea187636837c3a9b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ad63f834befcc69ea187636837c3a9b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2a3509fc822925ca51d990e0b8bf515b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2a3509fc822925ca51d990e0b8bf515b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/39df31d30aa920cdd69f23385e4ff784/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/39df31d30aa920cdd69f23385e4ff784/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9845fdb6ae5634b2bd4cee1023c2b74f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9845fdb6ae5634b2bd4cee1023c2b74f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/392b6b9bd1cbe84686b7b2e0290761cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/392b6b9bd1cbe84686b7b2e0290761cd/AndroidManifest.xml:20:5-44
+INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:9:5-12:11
+INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:9:5-12:11
+	android:targetSdkVersion
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml
+		INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml
+		INJECTED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.NFC
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:17:5-62
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:17:22-59
+uses-feature#android.hardware.nfc
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:19:5-21:35
+	android:required
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:21:9-32
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:20:9-44
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:24:5-74
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:24:22-71
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:25:2-72
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:25:19-69
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:26:5-86
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:26:22-83
+uses-permission#android.permission.CAMERA
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:27:2-62
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:27:19-59
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:28:5-74
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:28:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:30:22-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:31:2-77
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:31:19-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:32:2-75
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:32:19-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:33:2-77
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:33:19-75
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:34:2-80
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:34:19-78
+uses-permission#android.permission.INTERNET
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:35:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:36:5-76
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:36:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:37:5-76
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:37:22-73
+uses-permission#android.permission.CALL_PHONE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:39:5-69
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:39:22-66
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:40:5-73
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:40:22-70
+uses-permission#android.permission.READ_SETTINGS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:41:5-72
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:41:22-69
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:42:5-74
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:42:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:43:5-77
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:43:22-75
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:44:5-78
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:44:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:45:5-71
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:45:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:48:5-80
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:48:22-77
+uses-permission#android.permission.SERIAL_PORT
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:50:5-70
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:50:22-67
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:52:5-79
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:52:22-77
+uses-permission#android.permission.MANAGE_FINGERPRINT
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:53:5-77
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:53:22-74
+uses-permission#android.permission.TRANSMIT_IR
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:55:5-70
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:55:22-67
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:56:5-75
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:56:22-72
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:57:5-74
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:57:22-71
+uses-permission#android.permission.DEVICE_POWER
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:58:5-71
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:58:22-68
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:59:5-69
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:59:22-66
+uses-permission#android.permission.READ_ERS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:60:5-67
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:60:22-64
+uses-permission#android.permission.WRITE_ERS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:61:5-68
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:61:22-65
+uses-permission#android.permission.MASTER_CLEAR
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:62:5-71
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:62:22-68
+uses-permission#com.android.providers.syncml.permission.READ_SYNCML_PROFILE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:63:5-99
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:63:22-96
+uses-permission#com.android.providers.syncml.permission.WRITE_SYNCML_PROFILE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:64:5-100
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:64:22-97
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:65:5-68
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:65:22-65
+uses-feature#android.hardware.camera
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:66:5-60
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:66:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:67:5-70
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:67:19-67
+uses-permission#android.permission.FORCE_STOP_PACKAGES
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:70:5-78
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:70:22-75
+uses-permission#android.permission.SHUTDOWN
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:71:5-67
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:71:22-64
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:72:5-78
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:72:22-75
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:75:5-72
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:75:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:76:5-73
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:76:22-70
+uses-permission#android.permission.HARDWARE_TEST
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:77:5-72
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:77:22-69
+uses-permission#android.permission.WRITE_APN_SETTINGS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:78:5-77
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:78:22-74
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:79:5-80
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:79:22-77
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:82:5-89
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:82:22-86
+uses-permission#android.permission.GET_TASKS
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:86:5-68
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:86:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:87:5-81
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:87:22-78
+application
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:89:5-233:19
+	android:screenOrientation
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:91:9-45
+	android:label
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:94:9-41
+	android:configChanges
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:92:9-47
+	android:icon
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:93:9-45
+	android:allowBackup
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:90:9-35
+activity#com.tcl.autotest.AllMainActivity
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:98:9-108:20
+	android:screenOrientation
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:102:13-49
+	android:label
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:100:13-45
+	android:configChanges
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:101:13-63
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:99:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:104:13-107:29
+action#android.intent.action.MAIN
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:105:17-69
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:105:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:106:17-77
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:106:27-74
+activity#com.tcl.autotest.AutotestMainActivity
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:109:9-117:20
+	android:screenOrientation
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:113:13-49
+	android:label
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:111:13-45
+	android:configChanges
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:112:13-63
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:110:13-65
+intent-filter#android.intent.action.MAIN
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:114:13-116:29
+activity#com.tcl.autotest.ExecuteTest
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:119:9-128:20
+	android:screenOrientation
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:122:13-49
+	android:configChanges
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:121:13-63
+	android:theme
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:123:13-71
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:120:13-56
+activity#com.tcl.autotest.ExecuteManuTest
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:130:9-139:20
+	android:screenOrientation
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:133:13-49
+	android:configChanges
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:132:13-63
+	android:theme
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:134:13-71
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:131:13-60
+activity#com.tcl.autotest.autoRunActivity
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:141:9-150:20
+	android:screenOrientation
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:144:13-49
+	android:launchMode
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:145:13-44
+	android:configChanges
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:143:13-63
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:142:13-60
+activity#com.tcl.autotest.manuRunActivity
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:151:9-160:20
+	android:screenOrientation
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:154:13-49
+	android:launchMode
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:155:13-44
+	android:configChanges
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:153:13-63
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:152:13-60
+activity#com.tcl.autotest.ShowManuRcdsActivity
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:161:9-169:20
+	android:screenOrientation
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:164:13-49
+	android:configChanges
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:163:13-63
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:162:13-65
+activity#com.tcl.autotest.ShowAutoRcdsActivity
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:170:9-178:20
+	android:screenOrientation
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:173:13-49
+	android:configChanges
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:172:13-63
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:171:13-65
+activity#com.tcl.autotest.ShowAllItemsRcdsActivity
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:179:9-187:20
+	android:screenOrientation
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:182:13-49
+	android:configChanges
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:181:13-63
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:180:13-69
+activity#com.tcl.autocase.NFCAutoTest
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:188:10-195:20
+	android:label
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:191:13-45
+	android:launchMode
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:192:13-44
+	android:configChanges
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:190:13-74
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:189:13-56
+receiver#com.tcl.autotest.tool.RenameXml
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:196:9-200:20
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:196:19-65
+intent-filter#com.tcl.autotest.tool.renameXml
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:197:13-199:29
+action#com.tcl.autotest.tool.renameXml
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:198:17-74
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:198:25-71
+receiver#com.tcl.autotest.cmd.AutoCommand
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:202:9-208:20
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:203:13-60
+intent-filter#com.tcl.autotest.cmd.auto
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:205:13-207:29
+action#com.tcl.autotest.cmd.auto
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:206:17-67
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:206:25-65
+receiver#com.tcl.autotest.cmd.ManuCommand
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:209:9-214:20
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:210:13-60
+intent-filter#com.tcl.autotest.cmd.manu
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:211:13-213:29
+action#com.tcl.autotest.cmd.manu
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:212:17-67
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:212:25-65
+receiver#com.tcl.autotest.cmd.IMEIandDevIdCommand
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:215:9-220:20
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:216:13-68
+intent-filter#com.tcl.autotest.cmd.IMEIandDevId
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:217:13-219:29
+action#com.tcl.autotest.cmd.IMEIandDevId
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:218:17-75
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:218:25-73
+receiver#com.tcl.autotest.cmd.FactoryResetCommand
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:221:9-226:20
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:222:13-68
+intent-filter#com.tcl.autotest.cmd.FactoryReset
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:223:13-225:29
+action#com.tcl.autotest.cmd.FactoryReset
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:224:17-75
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:224:25-73
+receiver#com.tcl.autotest.cmd.RefreshMainIdleCommand
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:227:9-232:20
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:228:13-71
+intent-filter#com.tcl.autotest.cmd.RefreshMainIdle
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:229:13-231:29
+action#com.tcl.autotest.cmd.RefreshMainIdle
+ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:230:17-78
+	android:name
+		ADDED from /local/project/SDT/SDT/SmartDiagnosisAPK/app/src/main/AndroidManifest.xml:230:25-76

@@ -36,6 +36,8 @@ class Mangage(CheckFile,dotProjectDb,checkPatchInfor):
 		self.subbranch = ''
 		self.lunchproj = ''
 		self.default_band=''
+		self.sufix_patch_list=[]
+		self.del_git_list = []
 	def MergePatch(self):
 		pass
 	
@@ -119,6 +121,8 @@ class Mangage(CheckFile,dotProjectDb,checkPatchInfor):
         	patchlistFilename = getoutput('ls | grep .txt')
 		print 'patchlistFilename',patchlistFilename	
         	if patchlistFilename:
+			self.get_sufix_patch_list(patchlistFilename)
+			self.check_git_name(codedir)
 			print "grep '^delete' '%s' | sed 's/delete //g'" % patchlistFilename
 			tmps = getoutput("grep '^delete' '%s' | sed 's/delete //g'" % patchlistFilename).split('\n')
 			print "the delete files are: \n",tmps
@@ -162,21 +166,81 @@ class Mangage(CheckFile,dotProjectDb,checkPatchInfor):
 		print 'change dir ==================>%s\n' % codedir
         	os.chdir(codedir)
 		print "======== end of delete file ========\n"
-	
+	def get_sufix_patch_list(self,patchlistFilename):
+		sufix_list = []
+		Associated_strs_list=''
+		with open(patchlistFilename,'r') as filename:
+			rawstrs = ''.join(filename.readlines())
+			Associated_strs_list = rawstrs.split("Associated Files:")
+			assert len(Associated_strs_list) >= 1,"Cannot find Associated Files,Please check the patch_list.txt"
+			Associated_strs_list = Associated_strs_list[1:]
+			for Associated_strs in Associated_strs_list:
+				Associated_str_l = Associated_strs.split("\n")
+				assert len(Associated_str_l) >=1,"length of Associated_str_l must be more than one"
+				Associated_str_l = Associated_str_l[1:]
+				for num in xrange(len(Associated_str_l)):
+					if not Associated_str_l[num]:
+						break
+				#print "Associated Files:\n",Associated_str_l[:num]
+				sufix_list.append('\n'.join(Associated_str_l[:num]).replace(" ",""))
+		sufix_list = "\n".join(sufix_list).split("\n")
+		print "All Associated Files:\n\n","\n".join(sufix_list),"\n"
+		self.sufix_patch_list = sufix_list
+	def check_git_name(self,codedir):
+		print "Begin to check git name,if this git name is not exist.The merge patch process will be close."
+		for sufix  in self.sufix_patch_list:
+			codefile = codedir+'/'+sufix
+			tmp_sufix_dir = os.path.dirname(sufix)
+			while(tmp_sufix_dir):
+				codefile_dir = codedir+'/'+tmp_sufix_dir
+				if os.path.exists(codefile_dir):
+					print 'change dir ==================>%s\n' % codefile_dir
+					os.chdir(codefile_dir)
+					git_check = commands.getoutput("git status")
+					match = re.findall(r"fatal: Not a git repository",git_check)
+					if match:
+						print "dirname not in a git detected!!!"
+						print "check this dirname %s" %(codefile_dir)
+						print "self.del_git_list",self.del_git_list
+						print "tmp_sufix_dir",tmp_sufix_dir
+						if self.check_del_git(tmp_sufix_dir):
+							print "is del git"
+							break
+						else:
+							sys.exit(1)
+					else:
+						break
+				else:
+					tmp_sufix_dir = os.path.dirname(codefile_dir)
+			else:
+				print "find all dirname but not find any git name in this dirname"
+				sys.exit(1)
+		print 'change dir ==================>%s\n' % codedir
+		os.chdir(codedir)
+	def check_del_git(self,gitname):
+		for del_git in self.del_git_list:
+			if gitname.find(del_git)==-1:
+				continue
+			else:
+				return True
+		return False
+
 	def rmdatabase(self,codedir,patchNo):
 		print "======== begin of rm data base ========\n"
 		tmp = ''
 		print 'change dir ==================>%s\n'%codedir
 		os.chdir(codedir)
 		if os.path.isdir('%s/mtk_rel' % codedir):
-			tmp = getoutput("find -name 'BPLGUInfoCustomApp*' | grep -v 'P%s'" % patchNo)
+			print "find -name 'BPLGUInfoCustomApp*' | grep -v '_P%s'" % patchNo
+			tmp = getoutput("find -name 'BPLGUInfoCustomApp*' | grep -v '_P%s'" % patchNo)
 			if tmp :
 				tmp = tmp.replace('\n',' ')
 				print "rm all this file:\n"
 				print tmp
 				print '\n'
 				os.system('git rm %s' % tmp)
-			tmp =  getoutput("find -name '_BPLGUInfoCustomApp*' | grep -v 'P%s'" % patchNo)
+			print "find -name '_BPLGUInfoCustomApp*' | grep -v '_P%s'" % patchNo
+			tmp =  getoutput("find -name '_BPLGUInfoCustomApp*' | grep -v '_P%s'" % patchNo)
 			if tmp :
 				tmp = tmp.replace('\n',' ')
 				print "rm all this file:\n"
@@ -184,21 +248,24 @@ class Mangage(CheckFile,dotProjectDb,checkPatchInfor):
 				print '\n'
 				os.system('git rm %s' % tmp)
 		elif os.path.isdir('%s/mcu/mtk_rel' % codedir):
-			tmp = getoutput("find -name '*.EDB' | grep -v 'P%s.EDB'" % patchNo)
+			print "find -name '*.EDB' | grep -v '_P%s.EDB'" % patchNo
+			tmp = getoutput("find -name '*.EDB' | grep -v '_P%s.EDB'" % patchNo)
 			if tmp :
 				tmp = tmp.replace('\n',' ')
 				print "rm all this file:\n"
 				print tmp
 				print '\n'
 				os.system('git rm %s' % tmp)
-			tmp = getoutput("find -name '*.check' | grep -v 'P%s.EDB.check'" % patchNo)
+			print "find -name '*.check' | grep -v '_P%s.EDB.check'" % patchNo
+			tmp = getoutput("find -name '*.check' | grep -v '_P%s.EDB.check'" % patchNo)
 			if tmp :
 				tmp = tmp.replace('\n',' ')
 				print "rm all this file:\n"
 				print tmp
 				print '\n'
 				os.system('git rm %s' % tmp)
-			tmp = getoutput("find -name 'DbgInfo_DSP*' | grep -v '_P%s_'" % patchNo)
+			print "find -name 'DbgInfo_DSP*' | grep -v '_P%s_'" % patchNo
+			tmp = getoutput("find -name 'DbgInfo_DSP*' | grep '%s' | grep -v '_P%s_'" %(self.mtkrelease, patchNo))
 			if tmp :
 				tmp = tmp.replace('\n',' ')
 				print "rm all this file:\n"

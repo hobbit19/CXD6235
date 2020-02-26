@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "com.tcl.autotest"
+        versionCode Integer.valueOf("2020022602")
+        versionName "2.7.58"
+        minSdkVersion 14
+        targetSdkVersion 16
+
+/*      ndk {
+            moduleName "serial_port"
+            abiFilters  "arm64-v8a","armeabi", "armeabi-v7a", "x86", "mips"
+
+        }*/
+  }
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+dependencies {
+    implementation 'com.android.support:support-v4:27.1.1'
+    compile files('libs/zxingcore.jar')
+    compile files('libs/opencsv-3.1.jar')
+    compileOnly files('libs/framework.jar')
+}

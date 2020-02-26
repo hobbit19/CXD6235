@@ -1,0 +1,92 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/manulinearLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <!--  Button
+            android:id="@+id/start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@xml/shape" 
+            android:text="Start"
+            android:textColor="#000000"/ -->
+            
+		<ImageButton
+		    android:id="@+id/start"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@xml/play"
+		    android:contentDescription="TODO" 
+		    android:layout_weight="1"/>
+		
+        <!-- Button
+            android:id="@+id/select"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@xml/shape"
+            android:text="Select" 
+            android:textColor="#000000"/ -->
+        
+        <ImageButton 
+		    android:id="@+id/select"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:background="@xml/select" 
+            android:contentDescription="TODO"
+            android:layout_weight="1"
+            />
+        
+        <!-- Button
+            android:id="@+id/clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@xml/shape" 
+            android:text="Clear"
+            android:textColor="#000000"/ -->
+        
+        <ImageButton 
+		    android:id="@+id/clear"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:background="@xml/clear" 
+            android:contentDescription="TODO"
+            android:layout_weight="1"
+            />
+        
+        <!-- Button
+            android:id="@+id/result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:layout_weight="1"
+            android:background="@xml/shape"
+            android:text="Result"
+            android:textColor="#000000"/ -->
+        
+        <ImageButton 
+		    android:id="@+id/result"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:background="@xml/record" 
+            android:contentDescription="TODO"
+            android:layout_weight="0"
+            android:visibility="invisible"
+            />
+        
+    </LinearLayout>
+    
+	<ListView 
+	    android:layout_width="fill_parent"
+		android:layout_height="0dp" 
+		android:layout_weight="1"
+		android:id="@+id/manu_lv" />
+ 
+</LinearLayout>

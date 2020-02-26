@@ -285,6 +285,8 @@ class PatchMerge(Mangage):
 				for tmpstr in tmpstrs:
 					if tmpstr.find(self.patch_type_str) != -1:
 						sync_modem_str = tmpstr
+					elif self.prj_SIXTH_name and tmpstr.find(self.prj_SIXTH_name) != -1:
+						sync_modem_str = tmpstr
 					else:
 						continue
 			else:

@@ -7,11 +7,11 @@
 ###
 #GSI刷机步骤如下：
 #1	adb reboot-bootloader
-#2	long press Volume up key
 '''	
 => FASTBOOT mode...
 '''
-#3	fastboot flashing unlock
+#2	fastboot flashing unlock
+#2	fastboot oem unlock
 '''
 Unlock bootloader?
 
@@ -35,7 +35,7 @@ Yes (Volume UP):Unlock(may void warranty).
 
 No (Volume Down):Do not unlock bootloader.
 '''
-#4	Press Volume up key
+#3	Press Volume up key
 '''
 Select Boot Mode:
 [VOLUME_UP to select.VOLUME_DOWN is OK.]
@@ -45,7 +45,7 @@ Select Boot Mode:
 [Normal 	Boot]
 => FASTBOOT mode...
 '''
-#5	fastboot flash system /home/swd3/android-sdk-linux/GSIs/system_aosp_arm_a/system_aosp_arm_a_20180205.img
+#4	fastboot flash system /home/swd3/android-sdk-linux/GSIs/system_aosp_arm_a/system_aosp_arm_a_20180205.img
 '''
 USB Transferring...
 '''
@@ -58,7 +58,7 @@ Write Data > 100% Time: 3s Vel:202796KB/s/s
 
 OK
 '''
-#6	fastboot reboot
+#5	fastboot reboot
 
 #img_dir			aosp img director
 #sdk_platform_tools_dir 	sdk platform-tools director
@@ -80,7 +80,7 @@ class reboot_bootloader(operation_state):
 			if enable == "Y" or enable =="y" or enable == "":
 				print "adb reboot-bootloader"
 				os.system("adb reboot-bootloader")
-				print "Long press Volume up key into FASTBOOT mode.And then you will see this at the bottom of the phone:"
+				#print "Long press Volume up key into FASTBOOT mode.And then you will see this at the bottom of the phone:"
 				print "=> FASTBOOT mode..."
 				#time.sleep(10)
 				break
@@ -96,7 +96,7 @@ class flashing_unlock(operation_state):
 		while True:
 			enable = raw_input("Do you see 'FASTBOOT mode...'?Y|N:\n")
 			if enable == "Y" or enable =="y" or enable == "":
-				print "fastboot flashing unlock"
+				print "fastboot oem unlock"
 				tmp_strs = \
 '''
 Unlock bootloader?
@@ -124,7 +124,7 @@ No (Volume Down):Do not unlock bootloader.
 				print "you will see something like this:"
 				print tmp_strs
 				print "Press Volum UP to unlock the bootloader."
-				os.system("fastboot flashing unlock")
+				os.system("fastboot oem unlock")
 				enable = raw_input("Do you do this?Y|N:\n")
 				while True:
 					if enable == "Y" or enable =="y" or enable == "":

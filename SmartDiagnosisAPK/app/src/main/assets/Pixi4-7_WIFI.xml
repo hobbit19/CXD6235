@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><Product>
+	<INFO>
+		<CurrentInfo name="Current Info">
+            </CurrentInfo>
+		<BasicInfo name="Basic Info">
+            </BasicInfo>
+	</INFO>
+    <TestItem>
+		<Autos>
+			<auto index="WifiTest" name="WIFI" status=""/>
+			<auto index="MemorycardTest" name="SD CARD" status=""/>
+			
+			
+			
+		</Autos>
+		<Manuals>
+			<manual index="TouchPanelTest" name="TOUCHPANEL" status=""/>
+			<manual index="LcdAllColorTest" name="LCD ALLCOLOR" status=""/>
+			<manual index="KeyPadTest" name="KEYPAD" status=""/>
+     		<manual index="MICTest" name="MIC" status=""/>
+			<manual index="AudioTest" name="AUDIO" status=""/>
+			<manual index="CameraTest0" name="CAMERA" status=""/>
+			<manual index="CameraTest1" name="CAMERA IMG FRONT" status=""/>
+		</Manuals>
+		<AutoManualMaxListSet>
+		    <AutoMaxListSet index="16"/>
+		    <ManualMaxListSet index="8"/>
+		    <AllMaxListSet index="21"/>
+		</AutoManualMaxListSet>
+  </TestItem>
+</Product>

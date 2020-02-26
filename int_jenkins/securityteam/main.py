@@ -1,6 +1,7 @@
 #!/usr/bin/python
 #################################################################################################
 # sign project from here, if project didn't sign, pls don't process this class
+# create by jianbo.deng 2013-03-15
 #################################################################################################
 
 import os
@@ -12,16 +13,23 @@ from Config import *
 def main():
 	conf = Config();
 	conf.addFromArg(sys.argv[1:])
-	signProject = conf.getConf('signProject', 'jrd_common')
-	## add by laiyinfang for mtk project 2015-11-4
+	signProject = conf.getConf('signProject','signProject','jrd_common')
+	## add by jianbo.deng for mtk project 2014-01-24
 	mtkProject = conf.getConf('mtkProject','mtkProject', 'none')
-	docmd('cp /local/int_jenkins/securityteam/%s/signStart.py .' %signProject)
-	docmd('cp /local/int_jenkins/securityteam/AutoSign.sh .')
+	#Added by Yufei.qin for Pixi3-45-4g new branch eng version signature---1BCX  20150423
+	version = conf.getConf('version','version', 'none')
+	docmd('cp /local/int_tools/securityteam/%s/signStart.py .' %signProject)
+	docmd('cp /local/int_tools/securityteam/AutoSign.sh .')
 	docmd('chmod a+x signStart.py')
 	docmd('chmod a+x AutoSign.sh')
-	if mtkProject == 'none':
+        #Modified by Yufei.qin for Pixi3-45-4g new branch eng version signature---1BCX  20150423
+        if version == 'none':
+            if mtkProject == 'none':
 		docmd('./AutoSign.sh %s' %signProject)
-	else:
+	    else:
 		docmd('./AutoSign.sh %s %s' %(signProject, mtkProject))
+	else:
+		docmd('./AutoSign.sh %s %s %s' %(signProject, mtkProject, version))
+        
 if __name__ == '__main__':
 	main()

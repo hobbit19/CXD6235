@@ -1,0 +1,478 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/SmartDiagnosisAPK.iml
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/workspace.xml
+* AutoTest APK Design.docx
+* Readme.txt
+* Readme.txt.bak
+* SmartDiagnosis/
+* SmartDiagnosis/.classpath
+* SmartDiagnosis/.project
+* SmartDiagnosis/.settings/
+* SmartDiagnosis/.settings/org.eclipse.jdt.core.prefs
+* SmartDiagnosis/.settings/org.eclipse.ltk.core.refactoring.prefs
+* SmartDiagnosis/AndroidManifest.xml
+* SmartDiagnosis/AutoTest APK Design.docx
+* SmartDiagnosis/AutoTest.IAB
+* SmartDiagnosis/AutoTest.IAD
+* SmartDiagnosis/AutoTest.IMB
+* SmartDiagnosis/AutoTest.IMD
+* SmartDiagnosis/AutoTest.PFI
+* SmartDiagnosis/AutoTest.PO
+* SmartDiagnosis/AutoTest.PR
+* SmartDiagnosis/AutoTest.PRI
+* SmartDiagnosis/AutoTest.PS
+* SmartDiagnosis/AutoTest.SearchResults
+* SmartDiagnosis/AutoTest.WK3
+* SmartDiagnosis/Readme.txt
+* SmartDiagnosis/assets/
+* SmartDiagnosis/assets/Alto45.xml
+* SmartDiagnosis/assets/Camry_GSM.xml
+* SmartDiagnosis/assets/DIABLOX.xml
+* SmartDiagnosis/assets/DIABLOXPLUS.xml
+* SmartDiagnosis/assets/EOS_lte.xml
+* SmartDiagnosis/assets/HERO2.xml
+* SmartDiagnosis/assets/MIATA_lte.xml
+* SmartDiagnosis/assets/Megane_GSM.xml
+* SmartDiagnosis/assets/Pop355.xml
+* SmartDiagnosis/assets/SOUL4.xml
+* SmartDiagnosis/assets/SOUL45_GSM.xml
+* SmartDiagnosis/assets/Scribe5_gsm.xml
+* SmartDiagnosis/assets/Vodafone_875.xml
+* SmartDiagnosis/assets/Vodafone_975.xml
+* SmartDiagnosis/assets/YARISXL.xml
+* SmartDiagnosis/assets/YARIS_55.xml
+* SmartDiagnosis/assets/Yaris35_GSM.xml
+* SmartDiagnosis/assets/YarisL_GSM.xml
+* SmartDiagnosis/assets/Yaris_M_GSM.xml
+* SmartDiagnosis/assets/alto5.xml
+* SmartDiagnosis/assets/common.xml
+* SmartDiagnosis/assets/idol3.xml
+* SmartDiagnosis/assets/idol347.xml
+* SmartDiagnosis/bin/
+* SmartDiagnosis/bin/AndroidManifest.xml
+* SmartDiagnosis/bin/aidl/
+* SmartDiagnosis/bin/aidl/com/
+* SmartDiagnosis/bin/aidl/com/android/
+* SmartDiagnosis/bin/aidl/com/android/internal/
+* SmartDiagnosis/bin/aidl/com/android/internal/telephony/
+* SmartDiagnosis/bin/aidl/com/android/internal/telephony/ITelephony.aidl
+* SmartDiagnosis/bin/classes/
+* SmartDiagnosis/bin/classes/com/
+* SmartDiagnosis/bin/classes/com/android/
+* SmartDiagnosis/bin/classes/com/android/internal/
+* SmartDiagnosis/bin/classes/com/android/internal/telephony/
+* SmartDiagnosis/bin/classes/com/android/internal/telephony/ITelephony$Stub$Proxy.class
+* SmartDiagnosis/bin/classes/com/android/internal/telephony/ITelephony$Stub.class
+* SmartDiagnosis/bin/classes/com/android/internal/telephony/ITelephony.aidl
+* SmartDiagnosis/bin/classes/com/android/internal/telephony/ITelephony.class
+* SmartDiagnosis/bin/classes/com/jrdcom.rar
+* SmartDiagnosis/bin/classes/com/mediatek/
+* SmartDiagnosis/bin/classes/com/mediatek/FMRadio/
+* SmartDiagnosis/bin/classes/com/mediatek/FMRadio/FMRadioNative.class
+* SmartDiagnosis/bin/classes/com/mediatek/FMTransmitter/
+* SmartDiagnosis/bin/classes/com/mediatek/FMTransmitter/FMTransmitterNative.class
+* SmartDiagnosis/bin/classes/com/tcl/
+* SmartDiagnosis/bin/classes/com/tcl/autocase/
+* SmartDiagnosis/bin/classes/com/tcl/autocase/AudioTest$showThread.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/AudioTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/BluetoothTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/CallTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/CameraTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/FlashLEDTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/FocusIndicator.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/FocusIndicatorRotateLayout$Disappear.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/FocusIndicatorRotateLayout$EndAction.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/FocusIndicatorRotateLayout.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/LightTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/MemorycardTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/Preview$AutoFocusCallback.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/Preview$AutoFocusMoveCallback.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/Preview$MainHandler.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/Preview.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/Rotatable.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/RotateLayout.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/SIMTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/USBChargerTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/VibratorTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autocase/WifiTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/
+* SmartDiagnosis/bin/classes/com/tcl/autotest/AllItemsAdapter.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/AllMainActivity$DataAllSevice.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/AllMainActivity$IdleRefresh.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/AllMainActivity.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/AutoAdapter.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/AutoViewHolder.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/AutotestMainActivity.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/BuildConfig.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/ExecuteManuTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/ExecuteTest.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/ImeiRunActivity.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/MyAdapter.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/R$attr.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/R$drawable.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/R$id.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/R$layout.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/R$menu.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/R$raw.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/R$string.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/R$style.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/R$xml.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/R.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/ShowAllItemsRcdsActivity.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/ShowAutoRcdsActivity.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/ShowManuRcdsActivity.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/ViewHolder.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/autoRunActivity$DataAutoSevice.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/autoRunActivity.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/cmd/
+* SmartDiagnosis/bin/classes/com/tcl/autotest/cmd/AutoCommand$autoStartApp.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/cmd/AutoCommand.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/cmd/FactoryResetCommand$StartApp.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/cmd/FactoryResetCommand.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/cmd/IMEIandDevIdCommand$imeiStartApp.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/cmd/IMEIandDevIdCommand.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/cmd/ManuCommand$manuStartApp.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/cmd/ManuCommand.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/cmd/RefreshMainIdleCommand$StartApp.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/cmd/RefreshMainIdleCommand.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/manuRunActivity$DataManuSevice.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/manuRunActivity.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/tool/
+* SmartDiagnosis/bin/classes/com/tcl/autotest/tool/HomeKeyLocker$OverlayDialog.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/tool/HomeKeyLocker.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/tool/Tool.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/Auto.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/AutoTestProject.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/BasicInfo.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/CopyFileFromAssets.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/CurrentInfo.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/DownTimeCallBack.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/FactoryInfo.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/FinishThread.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/Info.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/JRDRapi$CallbackThread.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/JRDRapi$CmdThread.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/JRDRapi$JrdProxyServerThread.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/JRDRapi$OprtMode.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/JRDRapi.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/Lcd.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/ManuFinishThread.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/ManuTestProject.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/Manual.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/Msg.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/QcNvItemsJRD.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/RectView.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/Test$ID.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/Test$MODE.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/Test$RESULT.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/Test.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/TestCountDownTimer.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/TestList.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/TracabilityStruct$ID.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/TracabilityStruct$map_item_type.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/TracabilityStruct.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/VoltageInfo.class
+* SmartDiagnosis/bin/classes/com/tcl/autotest/utils/XMLDocument.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/
+* SmartDiagnosis/bin/classes/com/tcl/manucase/AlsPsTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/BatteryTempTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/CarrierSignalTest$MyPhoneStateListener.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/CarrierSignalTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/Charger$PlugStateReceiever.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/Charger.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/ChargerLEDTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/CompassTest$SampleView.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/CompassTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/FMTest$HeadInsertBroadcastReceiver.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/FMTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/FactoryresetTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/GPSSensorTest$GPSStatusListener.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/GPSSensorTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/GSensorTest$DDDVect.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/GSensorTest$PositionView.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/GSensorTest$position.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/GSensorTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/KeyPadTest$HomeReceiver.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/KeyPadTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/LcdAllColorTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/LcdBlackTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/LcdGreyChartTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/LcdGreyTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/LcdMireRgbTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/LcdWhiteTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/LightSensorTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/MICTest$playRecord.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/MICTest$recordSound.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/MICTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/PointTest$CircleMount.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/PointTest$MyView.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/PointTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/StylusTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/Tp1Test$MyView.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/Tp1Test$Parallelepipede.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/Tp1Test.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/Tp2Test$MyView.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/Tp2Test$Parallelepipede.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/Tp2Test.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/TracabilityTest.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/USBTest$PlugStateReceiever.class
+* SmartDiagnosis/bin/classes/com/tcl/manucase/USBTest.class
+* SmartDiagnosis/bin/jarlist.cache
+* SmartDiagnosis/gen/
+* SmartDiagnosis/gen/com/
+* SmartDiagnosis/gen/com/android/
+* SmartDiagnosis/gen/com/android/internal/
+* SmartDiagnosis/gen/com/android/internal/telephony/
+* SmartDiagnosis/gen/com/android/internal/telephony/ITelephony.java
+* SmartDiagnosis/gen/com/tcl/
+* SmartDiagnosis/gen/com/tcl/autotest/
+* SmartDiagnosis/gen/com/tcl/autotest/BuildConfig.java
+* SmartDiagnosis/gen/com/tcl/autotest/R.java
+* SmartDiagnosis/ic_launcher-web.png
+* SmartDiagnosis/libs/
+* SmartDiagnosis/libs/android-support-v4.jar
+* SmartDiagnosis/lint.xml
+* SmartDiagnosis/proguard-project.txt
+* SmartDiagnosis/res/
+* SmartDiagnosis/res/drawable-hdpi/
+* SmartDiagnosis/res/drawable-hdpi/ic_clear.png
+* SmartDiagnosis/res/drawable-hdpi/ic_focus_failed.9.png
+* SmartDiagnosis/res/drawable-hdpi/ic_focus_focused.9.png
+* SmartDiagnosis/res/drawable-hdpi/ic_focus_focusing.9.png
+* SmartDiagnosis/res/drawable-hdpi/ic_launcher.png
+* SmartDiagnosis/res/drawable-hdpi/ic_result.png
+* SmartDiagnosis/res/drawable-hdpi/ic_select.png
+* SmartDiagnosis/res/drawable-hdpi/ic_start.png
+* SmartDiagnosis/res/drawable-hdpi/phone.png
+* SmartDiagnosis/res/drawable-ldpi/
+* SmartDiagnosis/res/drawable-ldpi/ic_clear.png
+* SmartDiagnosis/res/drawable-ldpi/ic_launcher.png
+* SmartDiagnosis/res/drawable-ldpi/ic_result.png
+* SmartDiagnosis/res/drawable-ldpi/ic_select.png
+* SmartDiagnosis/res/drawable-ldpi/ic_start.png
+* SmartDiagnosis/res/drawable-ldpi/only_close.png
+* SmartDiagnosis/res/drawable-ldpi/only_open.png
+* SmartDiagnosis/res/drawable-ldpi/play.png
+* SmartDiagnosis/res/drawable-ldpi/record.png
+* SmartDiagnosis/res/drawable-mdpi/
+* SmartDiagnosis/res/drawable-mdpi/ic_clear.png
+* SmartDiagnosis/res/drawable-mdpi/ic_launcher.png
+* SmartDiagnosis/res/drawable-mdpi/ic_result.png
+* SmartDiagnosis/res/drawable-mdpi/ic_select.png
+* SmartDiagnosis/res/drawable-mdpi/ic_start.png
+* SmartDiagnosis/res/drawable-xhdpi/
+* SmartDiagnosis/res/drawable-xhdpi/ic_clear.png
+* SmartDiagnosis/res/drawable-xhdpi/ic_launcher.png
+* SmartDiagnosis/res/drawable-xhdpi/ic_result.png
+* SmartDiagnosis/res/drawable-xhdpi/ic_select.png
+* SmartDiagnosis/res/drawable-xhdpi/ic_start.png
+* SmartDiagnosis/res/layout/
+* SmartDiagnosis/res/layout/activity_autotest_main.xml
+* SmartDiagnosis/res/layout/activity_autotest_tab.xml
+* SmartDiagnosis/res/layout/all_items_test_activity.xml
+* SmartDiagnosis/res/layout/auto_item.xml
+* SmartDiagnosis/res/layout/base_screen.xml
+* SmartDiagnosis/res/layout/base_screen_view.xml
+* SmartDiagnosis/res/layout/copy_second_autotest_activity.xml
+* SmartDiagnosis/res/layout/copy_second_manutest_activity.xml
+* SmartDiagnosis/res/layout/focus_indicator.xml
+* SmartDiagnosis/res/layout/ilde_three_keypad.xml
+* SmartDiagnosis/res/layout/item.xml
+* SmartDiagnosis/res/layout/keypad.xml
+* SmartDiagnosis/res/layout/manu_base_screen.xml
+* SmartDiagnosis/res/layout/screen_button.xml
+* SmartDiagnosis/res/layout/second_autotest_activity.xml
+* SmartDiagnosis/res/layout/second_manutest_activity.xml
+* SmartDiagnosis/res/layout/showallitemsrcds.xml
+* SmartDiagnosis/res/layout/showautorcds.xml
+* SmartDiagnosis/res/layout/showmanurcds.xml
+* SmartDiagnosis/res/layout/tab_test.xml
+* SmartDiagnosis/res/menu/
+* SmartDiagnosis/res/menu/activity_autotest_main.xml
+* SmartDiagnosis/res/menu/activity_manutest_main.xml
+* SmartDiagnosis/res/menu/activity_manutest_main_first.xml
+* SmartDiagnosis/res/menu/menu_main.xml
+* SmartDiagnosis/res/raw/
+* SmartDiagnosis/res/raw/godfather_theme_slash_short.mp3
+* SmartDiagnosis/res/raw/in_call_alarm.ogg
+* SmartDiagnosis/res/raw/mojito_112_signal_30s_9db.wav
+* SmartDiagnosis/res/raw/quick.wav
+* SmartDiagnosis/res/values-v11/
+* SmartDiagnosis/res/values-v11/styles.xml
+* SmartDiagnosis/res/values-v14/
+* SmartDiagnosis/res/values-v14/styles.xml
+* SmartDiagnosis/res/values/
+* SmartDiagnosis/res/values/keypad_strings.xml
+* SmartDiagnosis/res/values/strings.xml
+* SmartDiagnosis/res/values/styles.xml
+* SmartDiagnosis/res/xml/
+* SmartDiagnosis/res/xml/clear.xml
+* SmartDiagnosis/res/xml/play.xml
+* SmartDiagnosis/res/xml/record.xml
+* SmartDiagnosis/res/xml/refresh.xml
+* SmartDiagnosis/res/xml/select.xml
+* SmartDiagnosis/res/xml/shape.xml
+* SmartDiagnosis/src/
+* SmartDiagnosis/src/com/
+* SmartDiagnosis/src/com/android/
+* SmartDiagnosis/src/com/android/internal/
+* SmartDiagnosis/src/com/android/internal/telephony/
+* SmartDiagnosis/src/com/android/internal/telephony/ITelephony.aidl
+* SmartDiagnosis/src/com/jrdcom.rar
+* SmartDiagnosis/src/com/mediatek/
+* SmartDiagnosis/src/com/mediatek/FMRadio/
+* SmartDiagnosis/src/com/mediatek/FMRadio/FMRadioNative.java
+* SmartDiagnosis/src/com/mediatek/FMTransmitter/
+* SmartDiagnosis/src/com/mediatek/FMTransmitter/FMTransmitterNative.java
+* SmartDiagnosis/src/com/tcl/
+* SmartDiagnosis/src/com/tcl/autocase/
+* SmartDiagnosis/src/com/tcl/autocase/AudioTest.java
+* SmartDiagnosis/src/com/tcl/autocase/BluetoothTest.java
+* SmartDiagnosis/src/com/tcl/autocase/CallTest.java
+* SmartDiagnosis/src/com/tcl/autocase/CameraTest.java
+* SmartDiagnosis/src/com/tcl/autocase/ChargerLEDTest.java
+* SmartDiagnosis/src/com/tcl/autocase/FlashLEDTest.java
+* SmartDiagnosis/src/com/tcl/autocase/LightTest.java
+* SmartDiagnosis/src/com/tcl/autocase/MemorycardTest.java
+* SmartDiagnosis/src/com/tcl/autocase/SIMTest.java
+* SmartDiagnosis/src/com/tcl/autocase/USBChargerTest.java
+* SmartDiagnosis/src/com/tcl/autocase/VibratorTest.java
+* SmartDiagnosis/src/com/tcl/autocase/WifiTest.java
+* SmartDiagnosis/src/com/tcl/autotest/
+* SmartDiagnosis/src/com/tcl/autotest/AllItemsAdapter.java
+* SmartDiagnosis/src/com/tcl/autotest/AllMainActivity.java
+* SmartDiagnosis/src/com/tcl/autotest/AutoAdapter.java
+* SmartDiagnosis/src/com/tcl/autotest/AutoViewHolder.java
+* SmartDiagnosis/src/com/tcl/autotest/AutotestMainActivity.java
+* SmartDiagnosis/src/com/tcl/autotest/AutotestMainActivityFirst.java
+* SmartDiagnosis/src/com/tcl/autotest/ExecuteManuTest.java
+* SmartDiagnosis/src/com/tcl/autotest/ExecuteTest.java
+* SmartDiagnosis/src/com/tcl/autotest/ImeiRunActivity.java
+* SmartDiagnosis/src/com/tcl/autotest/MyAdapter.java
+* SmartDiagnosis/src/com/tcl/autotest/ShowAllItemsRcdsActivity.java
+* SmartDiagnosis/src/com/tcl/autotest/ShowAutoRcdsActivity.java
+* SmartDiagnosis/src/com/tcl/autotest/ShowManuRcdsActivity.java
+* SmartDiagnosis/src/com/tcl/autotest/ViewHolder.java
+* SmartDiagnosis/src/com/tcl/autotest/autoRunActivity.java
+* SmartDiagnosis/src/com/tcl/autotest/cmd/
+* SmartDiagnosis/src/com/tcl/autotest/cmd/AutoCommand.java
+* SmartDiagnosis/src/com/tcl/autotest/cmd/FactoryResetCommand.java
+* SmartDiagnosis/src/com/tcl/autotest/cmd/IMEIandDevIdCommand.java
+* SmartDiagnosis/src/com/tcl/autotest/cmd/ManuCommand.java
+* SmartDiagnosis/src/com/tcl/autotest/cmd/RefreshMainIdleCommand.java
+* SmartDiagnosis/src/com/tcl/autotest/manuRunActivity.java
+* SmartDiagnosis/src/com/tcl/autotest/tool/
+* SmartDiagnosis/src/com/tcl/autotest/tool/HomeKeyLocker.java
+* SmartDiagnosis/src/com/tcl/autotest/tool/Tool.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/
+* SmartDiagnosis/src/com/tcl/autotest/utils/Auto.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/AutoTestProject.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/BasicInfo.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/CopyFileFromAssets.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/CurrentInfo.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/DownTimeCallBack.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/FactoryInfo.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/FinishThread.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/Info.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/JRDRapi.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/Lcd.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/ManuFinishThread.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/ManuTestProject.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/Manual.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/Msg.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/QcNvItemsJRD.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/RectView.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/Test.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/TestCountDownTimer.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/TestList.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/TracabilityStruct.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/VoltageInfo.java
+* SmartDiagnosis/src/com/tcl/autotest/utils/XMLDocument.java
+* SmartDiagnosis/src/com/tcl/manucase/
+* SmartDiagnosis/src/com/tcl/manucase/AlsPsTest.java
+* SmartDiagnosis/src/com/tcl/manucase/BatteryTempTest.java
+* SmartDiagnosis/src/com/tcl/manucase/CarrierSignalTest.java
+* SmartDiagnosis/src/com/tcl/manucase/Charger.java
+* SmartDiagnosis/src/com/tcl/manucase/ChargerLEDTest.java
+* SmartDiagnosis/src/com/tcl/manucase/CompassTest.java
+* SmartDiagnosis/src/com/tcl/manucase/CopyOfChargerLEDTest.java
+* SmartDiagnosis/src/com/tcl/manucase/CopyOfHeadSetTest.java
+* SmartDiagnosis/src/com/tcl/manucase/FMTest.java
+* SmartDiagnosis/src/com/tcl/manucase/FactoryresetTest.java
+* SmartDiagnosis/src/com/tcl/manucase/GPSSensorTest.java
+* SmartDiagnosis/src/com/tcl/manucase/GSensorTest.java
+* SmartDiagnosis/src/com/tcl/manucase/KeyPadTest.java
+* SmartDiagnosis/src/com/tcl/manucase/LcdAllColorTest.java
+* SmartDiagnosis/src/com/tcl/manucase/LcdBlackTest.java
+* SmartDiagnosis/src/com/tcl/manucase/LcdGreyChartTest.java
+* SmartDiagnosis/src/com/tcl/manucase/LcdGreyTest.java
+* SmartDiagnosis/src/com/tcl/manucase/LcdMireRgbTest.java
+* SmartDiagnosis/src/com/tcl/manucase/LcdWhiteTest.java
+* SmartDiagnosis/src/com/tcl/manucase/LightSensorTest.java
+* SmartDiagnosis/src/com/tcl/manucase/MICTest.java
+* SmartDiagnosis/src/com/tcl/manucase/PointTest.java
+* SmartDiagnosis/src/com/tcl/manucase/StylusTest.java
+* SmartDiagnosis/src/com/tcl/manucase/Tp1Test.java
+* SmartDiagnosis/src/com/tcl/manucase/Tp2Test.java
+* SmartDiagnosis/src/com/tcl/manucase/TracabilityTest.java
+* SmartDiagnosis/src/com/tcl/manucase/USBTest.java
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* libs/zxingcore.jar => app/libs/zxingcore.jar
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/com/android/internal/telephony/ITelephony.aidl => app/src/main/aidl/com/android/internal/telephony/ITelephony.aidl
+* src/com/jrdcom.rar => app/src/main/resources/com/jrdcom.rar
+* src/com/tcl/autocase/beif.rar => app/src/main/resources/com/tcl/autocase/beif.rar
+* src/com/tcl/manucase/beif.rar => app/src/main/resources/com/tcl/manucase/beif.rar
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

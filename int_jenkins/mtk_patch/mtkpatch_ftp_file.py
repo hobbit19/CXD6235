@@ -69,7 +69,7 @@ class myftp:
 if __name__=='__main__':
 	print 'start'
 	print commands.getoutput("date")
-	mtk = myftp("mft.mediatek.com","wei.deng@tcl.com","tcl@12345")
+	mtk = myftp("mft.mediatek.com","shie.zhao@tcl.com","Jiao1028")
 	mtk.chdir('Inbox/SDM')
 	tmp_pl = mtk.ls()
 	print tmp_pl

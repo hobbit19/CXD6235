@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Product>
+	<INFO>
+		<CurrentInfo name = "Current Info">
+		</CurrentInfo>
+		<BasicInfo name = "Basic Info">			
+		</BasicInfo>
+	</INFO>
+    <TestItem>
+		<Autos>
+			<auto index="BluetoothTest" name="BlueTooth" status = ""/>
+			<auto index="CameraTest0" name="CAMERA" status = ""/>
+			<auto index="CameraTest1" name="CAMERA IMG FRONT" status = ""/>
+			<auto index="FlashLEDTest" name="CAMERA LED" status = ""/>
+			<auto index="AudioTest" name="AUDIO" status = ""/>
+			<auto index="WifiTest" name="WIFI" status = ""/>
+			<auto index="SIMTest" name="SIM CARD" status = ""/>
+			<auto index="MemorycardTest" name="SD CARD" status = ""/>
+			<auto index="USBChargerTest" name="USBCharging" status = ""/>
+			<auto index="GSensorTest" name="GSENSOR" status=""/>
+			<auto index="LightSensorTest" name="LIGHT SENSOR" status=""/>
+		</Autos>
+		<Manuals>
+			<manual index="AlsPsTest" name="PROXIMITY" status=""/>
+			<manual index="TracabilityTest" name="TRACABILITY" status = ""/>
+			<manual index="PointTest" name="POINT" status = ""/>
+			<manual index="LcdAllColorTest" name = "LCD ALLCOLOR" status = ""/>
+			<manual index="KeyPadTest" name="KEYPAD" status = ""/>
+			<manual index="VibratorTest" name="VIBRATOR" status = ""/>
+			<manual index="USBTest" name = "USB" status = ""/>
+			<manual index="CompassTest" name = "COMPASS" status = ""/>
+			<manual index="BatteryTempTest" name = "BATTERY TEMP" status = ""/>
+		<!--	<manual index="GPSSensorTest" name = "GPS" status = ""/>-->
+			<manual index="CarrierSignalTest" name = "CARR SIGNAL" status = ""/>
+			<manual index="ChargerLEDTest" name = "CHARGER LED" status = ""/>
+			<manual index="MICTest" name = "MIC" status = ""/>
+		</Manuals>
+		<AutoManualMaxListSet>
+		    <AutoMaxListSet index="16" />
+		    <ManualMaxListSet index="8" />
+		    <AllMaxListSet index="21" />
+		</AutoManualMaxListSet>
+  </TestItem>
+</Product>

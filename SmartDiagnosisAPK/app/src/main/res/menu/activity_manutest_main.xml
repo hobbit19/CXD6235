@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/manustart"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="start"/>
+    
+    <item
+        android:id="@+id/select_all"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="select all"/>
+    
+    <item
+        android:id="@+id/clear_all"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="clear all"/>
+    
+    <item
+        android:id="@+id/test_show"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="show result"/>
+	
+</menu>

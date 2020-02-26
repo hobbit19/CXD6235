@@ -16,6 +16,7 @@ from email.header import Header
 from email.MIMEText import MIMEText
 import time
 import re
+from xml.dom.minidom import parse
 
 class patchmail(checkPatchInfor,dotProjectDb,CheckFile):
 	
@@ -68,10 +69,11 @@ class patchmail(checkPatchInfor,dotProjectDb,CheckFile):
 			sys.exit(1)
 		self.__branch = ap_st.cell(ap_row,1).value.strip()
 		self.platform = ap_st.cell(ap_row,16).value.strip()
+		self.Platform_no = self.platform.split("_")[0]
 		self.dept = ap_st.cell(ap_row,13).value.strip()
 		self.__SPMList = ap_st.cell(ap_row,10).value.strip().split(',')
 		
-		self.__CodeDir = conf.getConf("CodeDir","code dir","/local/mtk_patch_import/"+self.__branch)
+		self.__CodeDir = conf.getConf("CodeDir","code dir","/local/mtk_patch_import/"+self.__branch).replace('\n','')
 		self.__mtkproj = ['','','']
 		self.__mtkrelease = ['','','']
 		#ALPS
@@ -96,6 +98,7 @@ class patchmail(checkPatchInfor,dotProjectDb,CheckFile):
 		self.chpbt_branch_list = ap_st.cell(ap_row, 33).value.strip().split(';')
 		self.chplf_gitname_list = ap_st.cell(ap_row, 34).value.strip().split(';')
 		self.chplt_gitname_list = ap_st.cell(ap_row, 35).value.strip().split(';')
+		self.modem2vector = ap_st.cell(ap_row, 36).value.strip()
 		print self.chpbf_gitname_list
 		print self.chpbt_branch_list
 		print self.chplf_gitname_list
@@ -136,11 +139,11 @@ class patchmail(checkPatchInfor,dotProjectDb,CheckFile):
 		self.projectid_codeBranch_Dict = {}
 		self.projectid_codeBranch_DictSimplex = {}
 		self.devCodeBranch = []
-		self.devCodeBranchSimplex = []
+		#self.devCodeBranchSimplex = []
 		if self.insertDataToPrsm:
 			self.devCodeBranch = self.getDevBranchNameFromIProjectID(self.devCodeProjectIDList,self.projectid_codeBranch_Dict,self.__branch)
 		#for simplex data start
-		self.devCodeBranchSimplex = self.getDevBranchNameFromIProjectIDSimplex(self.devCodeProjectIDListSimplex,self.projectid_codeBranch_DictSimplex)
+		#self.devCodeBranchSimplex = self.getDevBranchNameFromIProjectIDSimplex(self.devCodeProjectIDListSimplex,self.projectid_codeBranch_DictSimplex)
 		#for simplex data end
 		if self.insertDataToPrsm:
 			self.SPMIDList = self.getContactIDList(self.devCodeAllProjectIDList)
@@ -403,13 +406,18 @@ class patchmail(checkPatchInfor,dotProjectDb,CheckFile):
 				#porting P27_ALPS02813031_For_jhz6755_66_cn_m_alps-mp-m0.mp7-V1_P27_.tar.gz^^^^^^88c9d5fd6d39ee3af2646da57bd219b750688664^^^^^^/home/swd3/project/shine-plus
 				print self.gitlog_format % (self.repopath, '%s^^^^^^%H^^^^^^$PWD', self.__mtkproj[i],self.__mtkrelease[i], self.patchNo[i])
 				patchList = getoutput(self.gitlog_format % (self.repopath, '%s^^^^^^%H^^^^^^$PWD', self.__mtkproj[i],self.__mtkrelease[i], self.patchNo[i])).split('\n')
+				_patchList = patchList[:]
 			
-				for item in xrange(len(patchList)):
-			    		itemInfo = patchList[item].split('^^^^^^')
+				for item in xrange(len(_patchList)):
+					itemInfo = _patchList[item].split('^^^^^^')
 			    		if 3 != len(itemInfo):
-						print "patchList have problems. patchList = %s" % patchList
-						print "The pacth has no modification"
-						sys.exit(1)
+						if len(itemInfo)==1 and itemInfo[0].find("skipping ")!=-1:
+							patchList.pop(item)
+							continue
+						else:
+							print "patchList have problems. patchList = %s" % _patchList
+							print "The pacth has no modification"
+							sys.exit(1)
 				comment_list.append( patchList[0].split('^^^^^^')[0] )
 				print "========patchList=======",patchList
 				for item in xrange(len(patchList)):
@@ -569,9 +577,9 @@ class patchmail(checkPatchInfor,dotProjectDb,CheckFile):
 			
 	def getEmailContent(self,mailBody,str_patchNo,file_link):
 		item = 0
-		if len(self.delgit.keys()) != 0:
-			mailBody.append('<p align\'Left\'><fontcolor="#FF0000"><b>Note: Please contact int to delete these gits in dint xml:')
-			mailBody.append('<p align\'Left\'><fontcolor="#FF0000"><b>Gits need detele in xml: %s' % ';'.join(self.delgit.keys()))
+		#if len(self.delgit.keys()) != 0:
+			#mailBody.append('<p align\'Left\'><fontcolor="#FF0000"><b>Note: Please contact int to delete these gits in dint xml:')
+			#mailBody.append('<p align\'Left\'><fontcolor="#FF0000"><b>Gits need detele in xml: %s' % ';'.join(self.delgit.keys()))
 		for str_type in self.patchtype:
 			for (gitName,link) in file_link[str_type].items():
 			    	gitNamefilder = gitName
@@ -615,7 +623,7 @@ class patchmail(checkPatchInfor,dotProjectDb,CheckFile):
 					if grep_care_branch_files_b:
 						modem_remind='''1，运行过程中要求输入NDK本地存放路径，如果本地没有NDK包，请将NDK copy至本地存放，NDK获取路径：\\\\rd-filebackup\RDhzKM\5-SWD\I-Patch\MTKPatch\NDK
 2,解压NDK并在modem/LWTG/apps下执行./build.sh clean,build,pack all GEN93_USER编译
-3,对A3A, U3A ,U5A_PLUS三个项目依次执行：
+3,对A3A, U3A ,U5A_PLU,A5X,4个项目依次执行：
 	a,清除vendor/mediatek/proprietary/modem下的内容；
 	b,将2在modem/LWTG/apps/build/GEN93_USER/rel/下的所有生成文件copy至vendor/mediatek/proprietary/modem对应的项目文件夹下；
 	c,执行modem/compile_modem.py编译并copy modem镜像至vendor/mediatek/proprietary/modem下'''
@@ -662,12 +670,17 @@ class patchmail(checkPatchInfor,dotProjectDb,CheckFile):
 			print 'change dir ==================>%s\n' % DriveOnlyCode
 			os.chdir(DriveOnlyCode)
 			patchList = getoutput(self.gitlog_format % (self.repopath, '%s^^^^^^%H^^^^^^$PWD', self.__patchname_ap,self.__MPRelease_ap, patchNo)).split('\n')
-			for item in range(len(patchList)):
-		    		itemInfo = patchList[item].split('^^^^^^')
+			_patchList = patchList[:]
+			for item in range(len(_patchList)):
+				itemInfo = _patchList[item].split('^^^^^^')
 		    		if 3 != len(itemInfo):
-		        		print "patchList have problems. patchList = %s" % patchList
-					print "The pacth has no modification"
-		        		sys.exit(1) 
+					if len(itemInfo)==1 and itemInfo[0].find("skipping ")!=-1:
+						patchList.pop(item)
+						continue
+					else:
+						print "patchList have problems. patchList = %s" % _patchList
+						print "The pacth has no modification"
+						sys.exit(1)
 		
 		    	mailBody.append('<p align=\'Left\'>Patch Link in driveonly import branch %s:</p>' % eachbranch)
 		    	for item in range(len(patchList)):
@@ -700,35 +713,79 @@ class patchmail(checkPatchInfor,dotProjectDb,CheckFile):
 		        	mailBody.append('<p align=\'Left\'>%s) %s</p><p align=\'Left\'><a href="%s">%s</a></p>' % (item+1,gitName,gitLink,gitLink))
 		return mailBody
 
-	def __getremotegitname(self):	
-		f = open("%s/.repo/project.list"%self.__CodeDir)
-		gitname_list = f.readlines()
-		f.close()
-		self.delgit={}
+	def __getremotegitname(self):
+		gitname_list = []
+		if os.path.exists("%s/.repo/manifest.xml"%self.__CodeDir):
+			Dtree = parse("%s/.repo/manifest.xml"%self.__CodeDir)
+			projects = Dtree.getElementsByTagName("project")
+                        for project in projects:
+				if project.hasAttribute("path"):
+					path_name = project.getAttribute("path")
+					project_name = project.getAttribute("name")
+					gitname_list.append(path_name)
+					if project_name.find("platform") != -1 :
+						self.__git_remote_name_dict[path_name] = "platform/" + path_name	
+					else:
+						self.__git_remote_name_dict[path_name] = path_name
+			
+			print "self.__git_remote_name_dict",self.__git_remote_name_dict
+
+		elif os.path.exists("%s/.repo/project.list"%self.__CodeDir):
+			f = open("%s/.repo/project.list"%self.__CodeDir)
+			gitname_list = f.readlines()
+			f.close()
+		else:
+			print "no project.list or manifest.xml in .repo"
+			sys.exit(1)
+		#self.delgit={}
 		print "git@10\.92\.32\.10:(/%s)?(/mtk6753)?(/%s)?/?(\S+?)\.git|git@hz\.gerrit\.tclcom\.com:(/%s)?/?%s/?(\S+?)\.git"%(self.dept,self.platform,self.dept,self.platform)
 		for _gitname in gitname_list:
-			gitname = _gitname.strip('\n')
+			gitname = _gitname.replace('\n','').replace(' ','')
 			print 'change dir ==================>%s\n' % self.__CodeDir+'/'+gitname
 			if os.path.exists(self.__CodeDir+'/'+gitname):
 				os.chdir(self.__CodeDir+'/'+gitname)
 				#self.delgit[gitname] = False
 			else:
-				self.delgit[gitname] = True
-				repo_gitname=self.__CodeDir+'/'+'.repo/projects/'+gitname+'.git'
-				os.system('rm -rf %s' % repo_gitname)		
+				#self.delgit[gitname] = True
+				print "need remove gitname:%s" % gitname
+				#repo_gitname=self.__CodeDir+'/'+'.repo/projects/'+gitname+'.git'
+				#os.system('rm -rf %s' % repo_gitname)
+				continue
 			tmp = commands.getoutput("git remote -v | grep 'fetch' ")
 			print "git remote -v | grep 'fetch' ",tmp
 			if tmp:
-				match=re.findall(r"git@10\.92\.32\.10:(/mtk6753)?(/%s)+/?(\S+?)\.git|git@10\.92\.32\.10:(/%s)?(/mtk6753)?(/%s)+/?(\S+?)\.git|git@hz\.gerrit\.tclcom\.com:(/%s)?(/%s)+/?(\S+?)\.git"%(self.platform,self.dept,self.platform,self.dept,self.platform),tmp)
-				if match:
-					#print "match=:=",match,match[0][1] 
-					self.__git_remote_name_dict[gitname] = match[0][2] if match[0][2] else match[0][6] if match[0][6] else match[0][9]
+				match_str = ""
+				match_num = [0]
+				if tmp.find("git@10.92.32.10") != -1:
+					match_str = r"git@10\.92\.32\.10:/mtk6753/?(\S+)\.git|git@10\.92\.32\.10:(/mtk6753)?(/%s)+/?(\S+?)\.git|git@10\.92\.32\.10:(/%s)?(/mtk6753)?(/%s)+/?(\S+?)\.git"%(self.Platform_no,self.dept,self.Platform_no)
+					match_num = [0,3,7]
+				if tmp.find("git@hz.gerrit.tclcom.com") != -1:
+					match_str = r"git@hz\.gerrit\.tclcom\.com:(/%s)?(/%s)+/?(\S+?)\.git" %(self.dept,self.Platform_no)
+					match_num = [2]
+				elif tmp.find("git@huizhou.gitweb.com") != -1:
+					match_str = r"git@huizhou\.gitweb\.com:/?(%s)?/?(mtk6753)?/?(%s)?/?(\S+?)\.git" %(self.dept,self.Platform_no)
+					match_num = [3]
 				else:
-					print "cannot find git remote -v to get gitname"
-					sys.exit(1)
+					print "no find in git remove -v "
+				print "match_str======",match_str
+				print "match_num",match_num
+				if match_str:
+					match = re.findall(match_str,tmp)
+					for num in match_num:
+						if num <= len(match[0]) and match[0][num]:
+							self.__git_remote_name_dict[gitname] = match[0][num]
+				#print "git@10\.92\.32\.10:/mtk6753/?(\S+)\.git|git@10\.92\.32\.10:(/mtk6753)?(/%s)+/?(\S+?)\.git|git@10\.92\.32\.10:(/%s)?(/mtk6753)?(/%s)+/?(\S+?)\.git|git@hz\.gerrit\.tclcom\.com:(/%s)?(/%s)+/?(\S+?)\.git|git@hz\.gerrit\.tclcom\.com:(/%s)?(/%s)?/?(\S+?)\.git|git@huizhou\.gitweb\.com:(/%s)?(/mtk6753)?(/%s)?/?(\S+?)\.git"%(self.platform,self.dept,self.platform,self.dept,self.platform,self.dept,self.platform,self.dept,self.platform)
+				#match=re.findall(r"git@10\.92\.32\.10:/mtk6753/?(\S+)\.git|git@10\.92\.32\.10:(/mtk6753)?(/%s)+/?(\S+?)\.git|git@10\.92\.32\.10:(/%s)?(/mtk6753)?(/%s)+/?(\S+?)\.git|git@hz\.gerrit\.tclcom\.com:(/%s)?(/%s)+/?(\S+?)\.git|git@hz\.gerrit\.tclcom\.com:(/%s)?(/%s)+/?(\S+?)\.git|git@huizhou\.gitweb\.com:(/%s)?(/mtk6753)?(/%s)?/?(\S+?)\.git"%(self.platform,self.dept,self.platform,self.dept,self.platform,self.dept,self.platform,self.dept,self.platform),tmp)
+				#if match:
+					#print "match=:=",match,match[0][0] if match[0][0] else match[0][3] if match[0][3] else match[0][7] if match[0][7] else match[0][14] if match[0][14] else match[0][17] if match[0][17] else match[0][17]
+					#self.__git_remote_name_dict[gitname] = match[0][0] if match[0][0] else match[0][3] if match[0][3] else match[0][7] if match[0][7] else match[0][14] if match[0][14] else match[0][17] if match[0][17] else match[0][17]
+				#else:
+					#print "cannot find git remote -v to get gitname"
+					#sys.exit(1)
 			else:
 				print "cannot find git remote -v to get gitname"
 				sys.exit(1)
+		print "self.__git_remote_name_dict",self.__git_remote_name_dict
 		
 	def __getBugzillaInfo(self, comment_list=['','',''],result={'ALPS':{'mtkdefect':''},'MOLY':{'mtkdefect':''},'SIXTH':{'mtkdefect':''}}):
 		#porting P36_ALPS03057833_For_jhz6755_66_cn_m_alps-mp-m0.mp7-V1_P36_.tar.gz
@@ -919,7 +976,8 @@ class patchmail(checkPatchInfor,dotProjectDb,CheckFile):
 			self.care_str = "git log -1 --name-only and find all these files are modify but these files need to check by bsp :\n" + tmp + "\n Thanks"
 			print 'change dir ==================>%s\n' % pwdcd
 			os.chdir(pwdcd)
-			return True,tmp
+			if self.modem2vector:
+				return True,tmp
 		
 		return False,tmp
 if __name__ == '__main__':

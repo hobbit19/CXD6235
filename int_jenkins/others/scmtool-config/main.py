@@ -44,16 +44,20 @@ def getChangeMessage():
 def get_default():
     afile=open(sys.argv[2])
     alines=afile.readlines()
+    tag=1.0
     for line in alines:
         if re.match('\<default',line.strip()):
             dline=line.strip()
             break
-    print dline
+    print "dline",dline
     match=re.search('.*revision=\"(.*?)\".*',dline)
+    print "match",match.group
     dint=match.group(1)
+    print dint
     for i in dint.split('-'):
         if i.startswith('v' or 'V'):
             tag=i[i.upper().index('V')+1:]
+            print "tag",tag
             break
     return dint,tag
 

@@ -196,6 +196,8 @@ class dotProjectDb:
 	def getDevBranchNameFromIProjectIDSimplex(self, projectIDList, projectid_devBranch_dict):
 		print "projectIDList in simplex", projectIDList
 		branchList = []
+		if len(projectIDList)==0:
+			return branchList
 		for projectID in projectIDList:
 			if projectID not in projectid_devBranch_dict.keys():
 				projectid_devBranch_dict[projectID] = []
@@ -399,8 +401,9 @@ class dotProjectDb:
 				self.insertImportInfo(eachProjectID,importBranchName,vnum,pnum,patch_type,eservice_ID,comment,mtkpatchtype,mtkdefect_id)
 		#for simplex data start
 			devCodeAllProjectIDListSimplex = self.getAllProjectIDFromImportBranchFromSimplex(importBranchName)
-		for oneProjectID in devCodeAllProjectIDListSimplex:
-			self.insertImportInfoToSimplex(oneProjectID,importBranchName,vnum,pnum,patch_type,eservice_ID,comment,mtkpatchtype)
+                if devCodeAllProjectIDListSimplex and len(devCodeAllProjectIDListSimplex) > 0:
+			for oneProjectID in devCodeAllProjectIDListSimplex:
+				self.insertImportInfoToSimplex(oneProjectID,importBranchName,vnum,pnum,patch_type,eservice_ID,comment,mtkpatchtype)
 		#for simplex data end
 
 	def insertImportCommitInfoTO_dotp_mtk_commit(self,importIdDict,devCodeProjectIDList,importBranchName,patch_type,vnum,pnum,eservice_ID,commit_id,import_patch_link,git_name):
