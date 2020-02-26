@@ -254,8 +254,11 @@ class AllProject(ChangeUtils, ReleaseStyle,ApkMailUtils,DBUtils,DBUtilsALM,Sheet
 							self.wcustores_gitpath = item.values()[0]['wcustores']							
 							self.GetEachProjectCode(item.values()[0]['wprocedures'],item.values()[0]['wcustores'], item.keys()[0], item.values()[0]['code_branch'])
 							html_apkpush += self.getHtml(item.keys()[0], codeBranch)						
-							html_apkpush += self.pushApkToCode(appname, version, item.keys()[0], codeBranch, mtkProjectFelderList,signedProjectDir,unsignedProjectDir,custors)
-							html_apkpush += self.push_MKFile_Changed_ToCode(appname, version, item.keys()[0], codeBranch, mtkProjectFelderList,wprocedures)			
+							if wprocedures == 'no':
+								html_apkpush += self.pushApkToCode_qualcomm(appname, version, item.keys()[0], codeBranch, mtkProjectFelderList,signedProjectDir,unsignedProjectDir,custors)
+							else:
+								html_apkpush += self.pushApkToCode(appname, version, item.keys()[0], codeBranch, mtkProjectFelderList,signedProjectDir,unsignedProjectDir,custors)
+								html_apkpush += self.push_MKFile_Changed_ToCode(appname, version, item.keys()[0], codeBranch, mtkProjectFelderList,wprocedures)			
 							if plfFeldorUnderApkCode:
 								if appname in self.sdmChangeInfoDictForPlf.keys() and self.sdmChangeInfoDictForPlf[appname]:
 									html_apkpush += self.copyPlfFile_From_APKCode_To_ProjectCode(appname,version, item.keys()[0], codeBranch, wprocedures,plfFeldorUnderApkCode, mtkProjectFelderList)
@@ -517,17 +520,20 @@ class AllProject(ChangeUtils, ReleaseStyle,ApkMailUtils,DBUtils,DBUtilsALM,Sheet
 		if not os.path.isdir(wprocedurecodeDir):
 			os.system('mkdir -p %s' % wprocedurecodeDir)
 		try:
-			self.repo_code(wprocedurecodeDir,wprocedures,project_name, code_branch)
+			if wprocedures != 'no':
+			    self.repo_code(wprocedurecodeDir,wprocedures,project_name, code_branch)
+			else:
+			    print "this is qualcomm project no wprocedures"
 		except Exception, e:
 			print e
 			print 'WARNING: repo code of %s %s fail, please check' % (project_name, code_branch) 
 		if not os.path.isdir(wcustorcodeDir):
 			os.system('mkdir -p %s' % wcustorcodeDir)
-		try:
+		try: 
 			self.repo_code(wcustorcodeDir,wcustores, project_name, code_branch)
 		except Exception, e:
 			print e
-			print 'WARNING: repo code of %s %s fail, please check' % (project_name, code_branch)
+			print 'WARNING: repo code of wcustores %s %s fail, please check' % (project_name, code_branch)
 		
 
 	def repo_code(self, CodeDir, gitClone, project_name, code_branch):
@@ -541,7 +547,6 @@ class AllProject(ChangeUtils, ReleaseStyle,ApkMailUtils,DBUtils,DBUtilsALM,Sheet
 			    #os.system('git pull')
 			    #print "copy"
 			    #os.system('cp -r %s %s' %(backup_code,EachcodeDir))                       
-
 		if os.path.exists(EachcodeDir + "/.git") == False:
                         print "---git clone---"
 			os.chdir(CodeDir)
@@ -647,6 +652,47 @@ class AllProject(ChangeUtils, ReleaseStyle,ApkMailUtils,DBUtils,DBUtilsALM,Sheet
 		self.gitPushAPK_TO_Server(projectCodeDir, appname, version, project, branch,linkname_in_email,"wcustores")
 		html = self.getApkLinkOfCode(appname, version, project, branch, projectCodeDir,custors, linkname_in_email)
 		return html
+# add by xiaoying.huang qualcomm 2018-11-17
+	def pushApkToCode_qualcomm(self, appname, version, project, branch, mtkProjectFelderList,signedProjectDir,unsignedProjectDir, custors):
+		print "Push %s qualcomm APK %s to %s code branch %s" % (appname, version, project, branch)
+		signedApkDir, signedApkName, UnSignedApkDir,UnSignedApkName = self.getName_ApkNeedPush(appname, version)
+		signedApkDir = signedApkDir.replace('./', "/local/build/apkPush/%s/" % appname) 
+		UnSignedApkDir = UnSignedApkDir.replace('./', "/local/build/apkPush/%s/"  % appname)
+
+		# delete old gapk in code
+		match_appname = appname.split('_')[0]
+             
+		#for eachMtkProjectName in mtkProjectFelderList:
+                projectCodeDir = "/local/build/apkPush/custores/%s/" % project
+                print projectCodeDir
+                os.chdir(projectCodeDir)
+		os.system('git reset --hard HEAD; git pull')
+		delSignedApkDir = commands.getstatusoutput('find . -name "%s_*_signed*.apk"' % match_appname)
+		if delSignedApkDir[1]:
+			delSignedApkDirList = delSignedApkDir[1].split("\n")
+			for item in delSignedApkDirList:						
+				os.system("rm -rf %s" % item)
+
+			# copy new signed apk to code
+		if signedProjectDir:
+			self.copyNewApk_TO_code(signedApkDir, signedProjectDir)
+			self.modified_app_mk(signedApkDir, signedProjectDir)
+		delunSignedApkDir = commands.getstatusoutput('find . -name "%s_*_unsigned*.apk"' % match_appname)
+		if delunSignedApkDir[1]:
+			delunSignedApkrList = delunSignedApkDir[1].split("\n")
+			for item in delunSignedApkrList:			
+				os.system("rm -rf %s" % item)
+			# copy new unsigned apk to code
+		if unsignedProjectDir:
+			self.copyNewApk_TO_code(UnSignedApkDir, unsignedProjectDir)
+			self.modified_app_mk(UnSignedApkDir,unsignedProjectDir)
+
+		# push apk tu server
+		linkname_in_email = "custors weblink"
+		self.gitPushAPK_TO_Server(projectCodeDir, appname, version, project, branch,linkname_in_email,"wcustores")
+		html = self.getApkLinkOfCode(appname, version, project, branch, projectCodeDir,custors, linkname_in_email)
+		return html
+# end by xiaoying.huang qualcomm 2018-11-17
 
 	def getApkLinkOfCode(self, appname, version, project, codeBranch, projectCodeDir, gitDir, linkname):
 		if linkname == "plf weblink":
@@ -704,7 +750,8 @@ class AllProject(ChangeUtils, ReleaseStyle,ApkMailUtils,DBUtils,DBUtilsALM,Sheet
 				UnSignedApkDirList = os.path.split(UnSignedApkDir[1])
 				UnSignedApkDir = UnSignedApkDir[1]
 				UnSignedApkName = UnSignedApkDirList[1]
-		print signedApkDir,UnSignedApkDir,'=========='
+		print signedApkDir,'=====signedApkDir====='
+		print UnSignedApkDir,'===UnSignedApkDir======='
 		return signedApkDir, signedApkName, UnSignedApkDir,UnSignedApkName
 
 	def copyNewApk_TO_code(self, source, dist):
@@ -715,6 +762,8 @@ class AllProject(ChangeUtils, ReleaseStyle,ApkMailUtils,DBUtils,DBUtilsALM,Sheet
 
 
 	def gitPushAPK_TO_Server(self, projectCodeDir, appname, version, project, branch, linkname,windatadir=''):
+		puship = '10.92.32.10'
+           
 		if linkname == "plf weblink":
 			comment = "push plf files for %s version %s to %s branch %s" % (appname,version,project,branch)
 		elif linkname == "custors weblink":
@@ -735,10 +784,10 @@ class AllProject(ChangeUtils, ReleaseStyle,ApkMailUtils,DBUtils,DBUtilsALM,Sheet
 		    if git_project == '':
 		    	print "git project can't be empty!"
 		    	sys.exit(1)
-		    print 'git pull; git push ssh://shie.zhao@10.92.32.10:29418/%s HEAD:refs/for/%s' %(git_project,branch)
+		    print 'git pull; git push ssh://shie.zhao@%s:29418/%s HEAD:refs/for/%s' %(puship,git_project,branch)
 		    print "===git push gerrit==="
-                    os.system('git pull')
-		    os.system('git push ssh://shie.zhao@10.92.32.10:29418/%s HEAD:refs/for/%s' %(git_project,branch))
+		    os.system('git pull')
+		    os.system('git push ssh://shie.zhao@%s:29418/%s HEAD:refs/for/%s' %(puship,git_project,branch))
 		    print "===end git push gerrit==="
                     changeid = self.getChangeId()
 		    if changeid == "":
@@ -751,9 +800,14 @@ class AllProject(ChangeUtils, ReleaseStyle,ApkMailUtils,DBUtils,DBUtilsALM,Sheet
 		    else:
 		        reviewer = ' -a '.join(self.AlmCheckDict[appname]['apkTestEmailToList']).replace('<','').replace('>','')
 		    #print reviewer
-		    reviewer_cmd = "ssh -o ConnectTimeout=8 -p 29418 shie.zhao@10.92.32.10 gerrit set-reviewers -p %s -a %s %s" %(git_project,reviewer,changeid)
+		    reviewer_cmd = "ssh -o ConnectTimeout=8 -p 29418 shie.zhao@%s gerrit set-reviewers -p %s -a %s %s" %(puship,git_project,reviewer,changeid)
 		    print reviewer_cmd
 		    os.system(reviewer_cmd)
+		    # add set uploadOK tu autobuild 20190715
+		    git_push_ok = "ssh -o ConnectTimeout=8 -p 29418 shie.zhao@%s gerrit review -m 'uploadOK!!' %s,1" %(puship,changeid)
+		    print git_push_ok
+		    os.system(git_push_ok)
+		    # end set uploadOK tu autobuild 20190715
 
 	def getMKfile_and_oldApkName(self, search_mkfilr_dir,appname,signedApkName,UnSignedApkName):
 		match_appname = appname.split('_')[0]
@@ -807,6 +861,16 @@ class AllProject(ChangeUtils, ReleaseStyle,ApkMailUtils,DBUtils,DBUtilsALM,Sheet
                 if len(changes) > 3:
                 	changeId=changes[3]
 	        return changeId
+
+        def modified_app_mk(self,ApkDir,dist): 
+                ApkDirList = os.path.split(ApkDir)   
+                ApkName = ApkDirList[1] 
+                print "apkname=====",ApkName 
+                print "dist====",dist  
+                if ApkName != '':      
+                	getoutput('mv ./%s/Android.mk ./%s/Android_bak.mk'%(dist,dist))
+                	getoutput("cat ./%s/Android_bak.mk | sed 's/LOCAL_SRC_FILES :=.*/LOCAL_SRC_FILES := %s/g' > ./%s/Android.mk" % (dist,ApkName,dist))
+                	getoutput('rm %s/Android_bak.mk'%dist)
 
 
 
