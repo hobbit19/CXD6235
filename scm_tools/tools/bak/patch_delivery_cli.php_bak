@@ -1,0 +1,703 @@
+#!/usr/bin/php -q 
+<?php
+
+/*
+ *  script name:patch_delivery_cli.php
+ *  (Li Yuanhua, 2010-04-6)
+ *
+ *  The SCM Tool is for android team members to do patch delivery on their own machines.
+ *  If there is no php5 on client machine, client should install
+ *  it with command: sudo apt-get install php5-cli.
+ *  usage:
+ *  ./patch_delivery_cli.php -p <product> [-f] <files>
+ *
+ *  #To do a patch delivery commit to commit current whole working tree
+ *  ./patch_delivery_cli.php -p <product>
+ *
+ *  #To do a patch delivery commit to commit one or several files in current working tree.
+ *  ./patch_delivery_cli.php -p <product> -f test.h test.c
+ */
+ 
+//git commit -m -a;
+$stdin=fopen('php://stdin','r');
+$stdout = fopen('php://stdout','w');
+$bug_root_casue_file = "../conf/bugzilla/list_oo_SW_cf_cause";
+$prj_link = "http://10.92.32.10/gitweb.cgi/?p=scm_tools.git;a=tree;f=conf/projects";
+
+$arr_root_cause = array('Unknown_Today', 'Architecture', 'Specification', 'Design', 'Coding','Regression','Evolution');
+
+function get_projects($prj_link){
+        /*** return array ***/
+        $arr_prj = array();
+
+        /*** a new dom object ***/
+        $dom = new domDocument;
+
+        /*** get the HTML (suppress errors) ***/
+        @$dom->loadHTML(file_get_contents($prj_link));
+
+        /*** remove silly white space ***/
+        $dom->preserveWhiteSpace = false;
+
+        /*** get the links from the HTML ***/
+        $links = $dom->getElementsByTagName('a');
+   
+        /*** loop over the links ***/
+        foreach ($links as $tag)
+        {
+            if ($tag->getAttribute('class') == 'list'){
+                $arr_prj[] = substr($tag->childNodes->item(0)->nodeValue, 0, -4);
+            }
+        }
+        
+        return $arr_prj;
+}
+
+/** read line message from stdin */
+function read_line(){
+    global $stdin;
+    $strinput = "";
+    $strinput=trim(fgets($stdin,4096));
+    return $strinput;
+}
+
+/** read lines message from stdin, the mothed user for comments, 
+    you input '.' expression input end*/
+function read_lines($stopchar){
+    $lines = array();
+    do
+    {
+        $lines[] = read_line();
+    }
+    while ($lines[count($lines)-1] != $stopchar);
+    
+    return $lines;
+}
+
+/** out put stdout, message from code out*/
+function writeline( $str = '' ){
+    global $stdout;
+    fputs( $stdout , $str , strlen($str));
+}
+
+function is_correct_bugs_input($strbugnumber){
+    $is_correct = true;
+    //updated by Deng JianBo 2013-01-03 for bugnumber
+    if(trim($strbugnumber) == ""){
+	$is_correct = false;
+    }else{
+	$bugs = preg_split('/,/', $strbugnumber);
+        #print_r($bugs);
+        foreach($bugs as $bug){
+            if (is_numeric(trim($bug))){
+                $is_correct = true;
+            }else{
+                $is_correct = false;       
+            }
+        }
+    }
+    return $is_correct;
+}
+
+function get_bug_root_cause(){
+    global $bug_root_casue_file;
+    $arr_cause = array();
+    
+    $handle = fopen($bug_root_casue_file, "r");
+    if ($handle) {
+        while (!feof($handle)) {
+            $arr_cause[]  = fgets($handle, 2048);
+        }
+        fclose($handle);
+    }
+    #print_r($arr_cause);    
+    return $arr_cause;
+}
+
+/***
+* get project git name and ref
+* add by Deng JianBo 2012-01-03
+****/
+function get_project_name_branch($str_project_file){
+    $name_branch = array();  
+    $dom = new DOMDocument('1.0', 'UTF-8');  
+    $dom->load($str_project_file);  
+  
+    //get <project> dom 
+    $projects = $dom->getElementsByTagName("project");  
+    foreach ($projects as $project)  
+    {  
+        $name = $project->getElementsByTagName("name")->item(0)->nodeValue;  
+        $branch = $project->getElementsByTagName("branch")->item(0)->nodeValue;
+	$branch = substr($branch,11);
+	if (array_key_exists($name,$name_branch) && $name_branch[$name] != ""){
+	    $name_branch[$name] = $name_branch[$name]."###$branch";
+        }else{
+            $name_branch[$name] = $branch;  
+	}
+    }  
+    //out result
+    return  $name_branch;
+    #var_dump($name_branch);  
+}   
+
+/***
+* get project name and return, for example /local/tools/scm_tools/conf/projects/brandy.xml
+* add by Deng JianBo 2012-01-03
+***/
+function get_project_name($arg_path, $product_name){
+    $str_project_file = "";
+    $arr_root_path = array();
+    $arr_root_path = preg_split('/scm_tools\//', $arg_path);
+    if(count($arr_root_path) != 0){
+	$str_project_file = $arr_root_path[0]."scm_tools/conf/projects/".$product_name.".xml";
+    }
+    return $str_project_file;    	
+}
+/***
+*get author name
+*add by Deng JianBo 2013-01-03
+***/ 
+function get_author_name(){
+    $user_name = exec("git config --list | grep user.name | sed -e 's/.*=//'");
+    return $user_name;
+}
+
+/***
+* get git name
+* add by Deng JianBo 2013-01-03
+***/
+function get_git_name(){
+    $path_name = exec("basename $(pwd)");
+    return $path_name;
+}
+
+/***
+* get git add file list
+* add by Deng JianBo 2013-01-03
+* update for add file and renamed file by Deng JianBo 2013-03-01
+***/
+function get_add_array(){
+    $arr_add_file = array();
+    system("git status -uno | awk  '/modified/' | awk '{print  $3}' >>/tmp/result_modified.git");
+    system("git status -uno | awk  '/deleted/' | awk '{print  $3}' >>/tmp/result_deleted.git");
+    system("git status -uno | awk  '/new file/' | awk '{print  $4}' >>/tmp/result_add.git");
+    system("git status -uall | sed -n '/Untracked files:/,/to commit/p' | sed -n '4,/to commit/p' | awk '/#/' | awk '{print $2}' >>/tmp/result_add.git");
+    system("git status -uno | awk '/renamed/' | awk '{print  $3\" \"$4\" \"$5}' >>/tmp/result_renamed.git");
+    $obj_file_modified = fopen("/tmp/result_modified.git", "r");
+    if ($obj_file_modified) {
+        while (!feof($obj_file_modified)) {
+	    $str_tmp = trim(fgets($obj_file_modified, 2048));
+	    if($str_tmp != ""){
+            	$arr_add_file[$str_tmp]  = "unselect_modified";
+	    }
+        }
+        fclose($obj_file_modified);
+    }
+    $obj_file_deleted = fopen("/tmp/result_deleted.git", "r");
+    if ($obj_file_deleted) {
+        while (!feof($obj_file_deleted)) {
+	    $str_tmp = trim(fgets($obj_file_deleted, 2048));
+	    if($str_tmp != ""){
+                $arr_add_file[$str_tmp]  = "unselect_deleted";
+	    }
+        }
+        fclose($obj_file_deleted);
+    }
+    $obj_file_add = fopen("/tmp/result_add.git", "r");
+    if ($obj_file_add) {
+        while (!feof($obj_file_add)) {
+	    $str_tmp = trim(fgets($obj_file_add, 2048));
+	    if($str_tmp != ""){
+                $arr_add_file[$str_tmp]  = "unselect_add";
+	    }
+        }
+        fclose($obj_file_add);
+    }
+    $obj_file_renamed = fopen("/tmp/result_renamed.git", "r");
+    if ($obj_file_renamed) {
+        while (!feof($obj_file_renamed)) {
+	    $str_tmp = trim(fgets($obj_file_renamed, 2048));
+	    if($str_tmp != ""){
+                $arr_add_file[$str_tmp]  = "unselect_renamed";
+	    }
+        }
+        fclose($obj_file_renamed);
+    }    
+    //delete tmp file for next push code
+    system("rm -r /tmp/result_modified.git");
+    system("rm -r /tmp/result_deleted.git");
+    system("rm -r /tmp/result_add.git");
+    system("rm -r /tmp/result_renamed.git");
+    return $arr_add_file;
+}
+
+/***
+* is select add file 
+* add by Deng JianBo 2012-01-04
+***/
+function is_have_add_file($arr_add_file){
+    $keys = array();
+    $keys = array_keys($arr_add_file);
+    $flag = false;
+    for($i=0;$i<count($keys);$i++){
+	if($arr_add_file[$keys[$i]] == "select_deleted" || $arr_add_file[$keys[$i]] == "select_add" || $arr_add_file[$keys[$i]] == "select_modified" || $arr_add_file[$keys[$i]] == "select_renamed"){
+	    $flag = true;
+	    break;
+	}
+    }
+    return $flag;
+}
+
+
+/***
+* show add file
+* add by Deng JianBo 2012-01-03
+* add renamed for abandon step by Deng JianBo 2013-03-01
+***/
+function show_add_array($arr_add_file,$flag){
+    $keys = array();
+    $keys = array_keys($arr_add_file);
+   #var_dump($arr_add_file);
+    for($i=0;$i<count($keys);$i++){
+	if($flag == true){
+            if($arr_add_file[$keys[$i]] == "select_deleted"){
+	        print "    $i-deleted : $keys[$i] \n";
+            }
+	    if($arr_add_file[$keys[$i]] == "select_add"){
+	        print "    $i-added   : $keys[$i] \n";
+	    }
+	    if($arr_add_file[$keys[$i]] == "select_modified"){		
+	        print "	   $i-modified: $keys[$i] \n";
+	    }
+	    if($arr_add_file[$keys[$i]] == "select_renamed"){
+	        print "    $i-renamed : $keys[$i] \n";
+	    }
+        }else{
+	    $index = $i+1;
+	    if($arr_add_file[$keys[$i]] == "unselect_deleted"){
+	        print "\033[31;1m    $index-deleted : $keys[$i] \033[0m\n";
+            }
+	    if($arr_add_file[$keys[$i]] == "unselect_add"){
+	        print "\033[31;1m    $index-added   : $keys[$i] \033[0m\n";
+	    }
+	    if($arr_add_file[$keys[$i]] == "unselect_modified"){
+	        print "\033[31;1m    $index-modified: $keys[$i] \033[0m\n";
+	    }
+	    if($arr_add_file[$keys[$i]] == "unselect_renamed"){
+	        print "\033[31;1m    $index-renamed : $keys[$i] \033[0m\n";
+	    }
+        }
+    }
+}
+
+/***
+* get add file str
+* added by Deng JianBo 2013-01-04
+* add reset HEAD for unselect by Deng JianBo 2013-03-01
+***/
+function get_add_file_str($arr_add_file){
+    $keys = array();
+    $keys = array_keys($arr_add_file);
+    for($i=0;$i<count($keys);$i++){
+        if($arr_add_file[$keys[$i]] == "select_deleted"){
+	    exec("git rm -rf $keys[$i]");
+        }
+	if($arr_add_file[$keys[$i]] == "select_add" || $arr_add_file[$keys[$i]] == "select_modified" || $arr_add_file[$keys[$i]] == "select_renamed"){
+	    exec("git add $keys[$i]");
+        }
+	if($arr_add_file[$keys[$i]] == "unselect_deleted" || $arr_add_file[$keys[$i]] == "unselect_add" || $arr_add_file[$keys[$i]] == "unselect_modified" || $arr_add_file[$keys[$i]] == "unselect_renamed"){
+	    exec("git reset HEAD $keys[$i]");
+	}
+    }
+}
+
+/***
+* pwd is a git 
+* added by Deng JianBo 2013-01-08
+* add pattern for .git and .gitignore
+***/
+function is_git_root(){
+    $git_name = exec("ls -al --time-style=long-iso | grep '.git$' | awk '{print  $8}'");
+    if($git_name == ".git"){
+	return true;
+    }else{
+	return false;
+    }
+}
+
+/***
+* select all update will return true
+* added by Deng JianBo 2013-01-17
+***/
+function is_select_all_update(){
+
+}
+/***
+* get push branch for select
+* added by Deng JianBo 2013-01-17
+***/
+function get_push_branch($push_branch){
+    $result_push_branch = "";
+    $arr_branch = array();
+    $arr_branch = preg_split('/###/',$push_branch);
+    #var_dump($arr_branch);
+    if(count($arr_branch) > 1){
+	$index = 0;
+	do{
+		writeline("git more one branch, plsease select branch for you update:\n");
+		for($i=0;$i<count($arr_branch);$i++){
+		    $index = $i + 1;
+		    print "    $index: $arr_branch[$i] \n";
+		}
+		writeline("Your choise:");
+		$prj_number = read_line();
+        }while($prj_number > $index || $prj_number < 1);
+	$j = $prj_number - 1;
+	$result_push_branch = $arr_branch[$j];
+    }else{
+	$result_push_branch = $arr_branch[0];
+    }
+    return $result_push_branch;
+}
+/*****
+* main procedure
+*****/
+/*** added by Deng JianBo ***/
+if (!is_git_root()){
+    print "\033[31;1m Please go to git repository to finish your commit.\033[0m\n";
+    exit;
+}
+
+if ($argc < 3 || $argv[1] != '-p'){
+    print "usage:patch_delivery_cli.php -p <product> [-f <commit files> ]\n";
+    exit;
+}
+if ($argc > 4 && $argv[3] != '-f' || $argc == 4){
+    print "usage:patch_delivery_cli.php -p <product> [-f <commit files> ]\n";
+    exit;
+}
+
+/*** get commit files ***/
+$strcommitfiles="";
+if ($argc > 4){
+    for($i=4; $i<$argc;$i++){
+        $strcommitfiles = $strcommitfiles." ".$argv[$i];
+    }
+}
+
+$product_name = $argv[2];
+
+/*** get the projects ***/
+$prjoects = get_projects($prj_link);
+
+/*** check for results ***/
+if(sizeof($prjoects) == 0){
+    echo "No projects found at $link\n";
+    exit;
+}
+
+//judge if the project name input by users is right or not 
+$is_prj_name = false;
+foreach($prjoects as $key=>$value){
+     if ($product_name == $value){
+        $is_prj_name = true;
+     }
+}
+
+// step1: select project name 
+$input = true;
+if ($is_prj_name == false){
+    writeline("Wrong product name,\n".
+              "Below is the product list, please chose one:\n");
+    for($i=0; $i<count($prjoects); $i++){
+        $number = $i + 1;
+        print ("    $number-".$prjoects[$i]."\n");
+    }
+    do{
+        if($input == false){
+            writeline("Wrong choise input.\n");
+        }
+        writeline("Your choise:"); $input = false;
+        $prj_number = read_line();
+        $input = false;
+    }
+    while(!is_numeric($prj_number)||$prj_number<1 || $prj_number >count($prjoects));
+    $product_name = $prjoects[$prj_number - 1];   
+}
+
+
+#add by shuzhong.cui
+function down_git_branch(){
+    $branch = " ";
+    $branch = exec("git branch -a | tail -1 | sed -e 's/.*jgs.//'");
+    return $branch;
+}
+
+#add for clone git repository by shuzhong.cui
+function clone_git_branch(){
+    $checkout_branch = " ";
+    $file = ".git/logs/HEAD";
+    if (file_exists($file)){
+        $checkout_branch = exec("cat .git/logs/HEAD | grep -E 'remotes/jgs|remotes/origin' | tail -1 | sed -e 's/.*\///'");
+        return $checkout_branch;
+    }    
+}
+/***added by jianbo.deng 2013-01-09 ***/
+$str_project_file = get_project_name($argv[0], $product_name);
+
+$name_branch = get_project_name_branch($str_project_file);
+$author_name = get_author_name();
+$git_name = get_git_name();
+$local_branch = down_git_branch();
+$clone_branch = clone_git_branch();
+$git_path_name = " ";
+$git_branch_name = " ";
+
+foreach($name_branch as $key=>$value){
+    $pattern_key = "/\/".$git_name."$/";
+    if(preg_match($pattern_key,$key)){
+	$git_path_name = trim($key);
+	$git_branch_name = trim($value);        
+    }
+}
+
+if($git_path_name == " " || $git_branch_name == " "){
+    print("\033[31;1m push error: there is no ".$git_name.".git, pls send email to INT team.\033[0m\n");
+    exit;
+}
+
+// step2: add modifed and deleted files 
+/***
+* add by Deng JianBo 2013-01-04
+* add for commit and update renamed by Deng JianBo 2013-03-01
+***/
+$input = true;
+$arr_add_file = get_add_array();
+$add_file_index = "";
+
+if(count($arr_add_file) > 0){
+	do{
+	    if($input == false){
+		writeline("will commit file flow:,\n");
+		show_add_array($arr_add_file, true);
+	    }
+	    if($input == true){
+		writeline("\033[31;1m update or deleted but not add file:\033[0m\n");
+		show_add_array($arr_add_file, false);
+	    }
+	    writeline("git add update flow here:\n".
+		      "     1) If add all, pls input '*'.\n".
+		      "     2) If more one file add pls use ',' split.\n".
+		      "     3) If end add file, pls input 'Q|q'.\n".
+		      "you choice:");
+	    $add_file_index = read_line();
+	    if($add_file_index == "Q" || $add_file_index == "q"){
+		if(is_have_add_file($arr_add_file)){
+		    $input = false;
+		}else{
+		    print "nothing commit for this git, please select agin.\n";
+		}
+	    }else if($add_file_index == "*"){
+		foreach($arr_add_file as $key=>$value){
+		    if($arr_add_file[$key] == "unselect_modified"){
+			$arr_add_file[$key] = "select_modified";
+		    }
+		    if($arr_add_file[$key] == "unselect_deleted"){
+			$arr_add_file[$key] = "select_deleted";
+		    }
+		    if($arr_add_file[$key] == "unselect_add"){
+			$arr_add_file[$key] = "select_add";
+		    }
+		    if($arr_add_file[$key] == "unselect_renamed"){
+			$arr_add_file[$key] = "select_renamed";
+		    }
+		}
+		$input = false;
+	    }else{
+		$add_file_index = $add_file_index.",";
+		$keys = array();
+		$keys = array_keys($arr_add_file);
+		$arr_index = array();
+		$arr_index = preg_split('/,/', $add_file_index);
+		for($i=0;$i<count($arr_index)-1;$i++){
+		    $j = $arr_index[$i] - 1;
+		    if($j < count($keys)){
+			    if(@$arr_add_file[$keys[$j]] == "unselect_modified"){
+				$arr_add_file[$keys[$j]] = "select_modified";
+			    }
+			    if(@$arr_add_file[$keys[$j]] == "unselect_deleted"){
+				$arr_add_file[$keys[$j]] = "select_deleted";
+			    }
+			    if(@$arr_add_file[$keys[$j]] == "unselect_add"){
+				$arr_add_file[$keys[$j]] = "select_add";
+			    }
+			    if(@$arr_add_file[$keys[$j]] == "unselect_renamed"){
+				$arr_add_file[$keys[$j]] = "select_renamed";
+			    }
+		    }else{
+			print "\033[31;1m error: select index out array index.\033[0m\n";
+		    }
+		}
+                $input = false;
+		foreach($arr_add_file as $key=>$value){
+		     if ($value == "unselect_modified" || $value == "unselect_deleted" || $value == "unselect_add" || $value == "unselect_renamed"){
+			$input = true;
+		     }
+		}
+	    }
+
+	}
+	while($input);
+}else{
+    print "error: nothing update for this git.\n";
+    exit;
+}
+
+// step3: input bugnumber and comment
+$strbugnumber='';
+$input = true;
+do{
+    if($input == false){
+        writeline("wrong bug number,\n".
+		  " 1) If there is no bugnumber,this tools didn't work.\n".
+                  " 2) If there are several bugs,please separate them by \",\"\n");
+    }
+    writeline("Bug Number:");
+    $strbugnumber = read_line();
+    $input = false;
+}
+while(!is_correct_bugs_input($strbugnumber));
+
+
+writeline("patch comments:");
+$arrcomments = read_lines(".");
+
+$str_root_cause = "";
+$input = true;
+if (trim($strbugnumber) != ""){
+    writeline("Please chose the bug root cause:\n");
+    for($i=0; $i<count($arr_root_cause); $i++){
+        $number = $i + 1;
+        print ("    $number-".$arr_root_cause[$i]."\n");
+    }
+    do{
+        if($input == false){
+            writeline("Wrong choise input.\n");
+        }
+    
+        writeline("Your choise:");
+    
+        $cause_number = read_line();
+        
+        $input = false;
+    }
+    while(!is_numeric($cause_number)||$cause_number<1 || $cause_number >count($arr_root_cause));
+    $str_root_cause = $arr_root_cause[$cause_number - 1];
+}
+
+//step4: add other message
+writeline("Module_Impact:");
+$arr_module_impact = read_lines(".");
+writeline("Test_Suggestion:");
+$arr_test_suggestion = read_lines(".");
+writeline("Solution:");
+$arr_solution = read_lines(".");
+writeline("Test_Report:");
+$arr_test_report = read_lines(".");
+writeline("Bug_Reason:");
+$arr_bug_reason = read_lines(".");
+
+$comments = "###%%%comment:";
+foreach ($arrcomments as $comment){
+    if($comment != ".")
+        $comments .= $comment."\n";
+}
+$comments .= "###%%%bug number:".$strbugnumber."\n";
+$comments .= "###%%%product name:".$product_name."\n";
+
+if ($str_root_cause !=""){
+    $comments .= "###%%%root cause:".$str_root_cause."\n";
+}
+
+//added by yhli 2010-08-23
+$comments .= "###%%%Module_Impact:";
+foreach ($arr_module_impact as $comment){
+    if($comment != ".")
+        $comments .= $comment."\n";
+}
+
+$comments .= "###%%%Test_Suggestion:";
+foreach ($arr_test_suggestion as $comment){
+    if($comment != ".")
+        $comments .= $comment."\n";
+}
+
+//added by cxu 2011-03-01
+$comments .= "###%%%Solution:";
+foreach ($arr_solution as $comment){
+    if($comment != ".")
+        $comments .= $comment."\n";
+}
+
+$comments .= "###%%%Test_Report:";
+foreach ($arr_test_report as $comment){
+    if($comment != ".")
+        $comments .= $comment."\n";
+}
+
+//added by xybian 2012-01-05
+$comments .= "###%%%Bug_Reason:";
+foreach ($arr_bug_reason as $comment){
+    if($comment != ".")
+        $comments .= $comment."\n";
+}
+
+
+//step5: push code to gerrit web added by Deng JianBo 2013-01-03
+$git_push = "";
+do{
+    $flag=true;
+    $result_git_path_name = get_push_branch($git_branch_name);
+    $git_push = "git push ssh://".$author_name."@10.92.32.10:29418/".$git_path_name." HEAD:refs/for/".$result_git_path_name;
+    print("push command: ".$git_push."\n");
+    writeline("please check command (yes/no):");
+    $cause_number = read_line();
+    if($cause_number == "yes"){
+	$flag = false;
+    }
+    else if ($cause_number == "no"){
+       exit;
+    }else{
+        $flag=true;
+    }
+}while($flag);
+
+get_add_file_str($arr_add_file);
+
+if ($argc > 4){
+    system("git commit -m \"$comments\" $strcommitfiles");
+}else{
+    system("git commit -m \"$comments\"");
+}
+
+fclose($stdin);
+fclose($stdout);
+
+#print "===the repo branch is:$git_branch_name====\n";
+#print "===the push branch is:$local_branch====\n";
+#print "===the clone branch is:$clone_branch====\n";
+if($local_branch == $git_branch_name && $clone_branch  == NULL){ #repo down code but checkout to other branch
+   system($git_push);   
+}
+else if($clone_branch == $git_branch_name){ #clone code
+   system($git_push);    
+}
+else{
+   print "\033[31;1m ========================================================== \033[0m\n";
+   print "\033[31;1m The push branch is wrong,please check or contact INT team. \033[0m\n";
+   print "\033[31;1m ========================================================== \033[0m\n";
+}
+
+#print("push success: ".$git_push."\n");
+?>

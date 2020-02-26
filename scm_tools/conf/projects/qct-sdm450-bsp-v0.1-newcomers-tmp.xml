@@ -1,0 +1,3334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>sdm450/vendor/partner_gms</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VENDOR-PARTNER-GMS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/ChromeCustomizations</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ChromeCustomizations-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/jrdcom</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JRDCOM-TMP-P0.1</baseline>
+</project>
+
+<project>
+	<name>sdm450/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-UrlReservedApps-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/JrdContainer</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JrdContainer-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/custo_wimdata_ng/wcustores</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WCUSTORES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/custo_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WLANGUAGE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/custo_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WPROCEDURES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/makeperso</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MAKEPERSO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/jrdcom</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VENDOR-JRDCOM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/custo_wimdata_ng/liv</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIV-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/jrdtools</name>
+	<branch>refs/heads/qct-sdm429-la.um.6.6.2.r1-watt-v0.1-bsp</branch>
+	<baseline>SDM429-O-WATT-VENDOR-JRDTOOLS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/art</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ART-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/bionic</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BIONIC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/bootable/bootloader/lk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/bootable/recovery</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-RECOVERY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/blueprint</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BLUEPRINT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/kati</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-KATI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/make</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MAKE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/soong</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SOONG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/compatibility/cdd</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CDD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/cts</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CTS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/dalvik</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DALVIK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/developers/build</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BUILD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/developers/demos</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DEMOS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/developers/samples/android</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SAMPLES-ANDROID-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/development</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DEVELOPMENT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/common</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DEVICE-COMMON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/arm64</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ARM64-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ARMV7-A-NEON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/car</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GENERIC-CAR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/common</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GENERIC-COMMON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/goldfish</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GOLDFISH-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GOLDFISH-OPENGL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MINI-EMULATOR-ARM64-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MINI-EMULATOR-ARMV7-A-NEON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MINI-EMULATOR-X86-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MINI-EMULATOR-X86_64-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/qemu</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QEMU-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/uml</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-UML-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/x86</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-X86-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/x86_64</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-X86_64-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/accessory/arduino</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ARDUINO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/accessory/demokit</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DEMOKIT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/atv</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ATV-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/contexthub</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CONTEXTHUB-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/vrservices</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VRSERVICES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/common</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCOM-COMMON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8937_32</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MSM8937_32-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8937_64</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MSM8937_64-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8953_32</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MSM8953_32-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8953_64</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MSM8953_64-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8996</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MSM8996-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/sepolicy</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCOM-SEPOLICY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/sample</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SAMPLE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/docs/source.android.com</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SOURCE.ANDROID.COM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ImageMagick</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-IMAGEMAGICK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/Microsoft-GSL</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MICROSOFT-GSL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/aac</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-AAC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/abi-compliance-checker</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ABI-COMPLIANCE-CHECKER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/abi-dumper</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ABI-DUMPER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/android-clat</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ANDROID-CLAT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/androidplot</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ANDROIDPLOT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-glob</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ANT-GLOB-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ANT_NATIVE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ANT_SERVICE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/antlr</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ANTLR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-commons-math</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APACHE-COMMONS-MATH-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-harmony</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APACHE-HARMONY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-http</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APACHE-HTTP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-xml</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APACHE-XML-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/archive-patcher</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ARCHIVE-PATCHER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/arm-neon-tests</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ARM-NEON-TESTS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/autotest</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-AUTOTEST-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/avb</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-AVB-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bart</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BART-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bison</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BISON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/blktrace</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BLKTRACE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/boringssl</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BORINGSSL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bouncycastle</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BOUNCYCASTLE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/brctl</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BRCTL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/brotli</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BROTLI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bsdiff</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BSDIFF-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bzip2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BZIP2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/c-ares</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-C-ARES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/caliper</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CALIPER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/cblas</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CBLAS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-libpac</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CHROMIUM-LIBPAC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-trace</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CHROMIUM-TRACE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-webview</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CHROMIUM-WEBVIEW-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/clang</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CLANG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/cmockery</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CMOCKERY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/compiler-rt</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-COMPILER-RT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/conscrypt</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CONSCRYPT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/crcalc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CRCALC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/cros/system_api</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SYSTEM_API-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/curl</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CURL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dagger2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DAGGER2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/deqp</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EXTERNAL-DEQP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/desugar</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DESUGAR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/devlib</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DEVLIB-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dexmaker</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DEXMAKER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DHCPCD-6.8.2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dlmalloc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DLMALLOC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dng_sdk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DNG_SDK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dnsmasq</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DNSMASQ-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/doclava</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DOCLAVA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/donuts</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DONUTS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/drm_gralloc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DRM_GRALLOC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/drm_hwcomposer</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DRM_HWCOMPOSER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/droiddriver</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DROIDDRIVER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/drrickorang</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DRRICKORANG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dtc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DTC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/e2fsprogs</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-E2FSPROGS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/easymock</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EASYMOCK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ebtables</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EBTABLES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/eclipse-basebuilder</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ECLIPSE-BASEBUILDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ECLIPSE-WINDOWBUILDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/eigen</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EIGEN-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/elfutils</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ELFUTILS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/emma</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EMMA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/esd</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ESD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/expat</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EXPAT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/eyes-free</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EYES-FREE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/f2fs-tools</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-F2FS-TOOLS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fdlibm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FDLIBM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fec</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FEC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fio</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FIO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/flac</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FLAC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/flatbuffers</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FLATBUFFERS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fmtlib</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FMTLIB-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fonttools</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FONTTOOLS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/freetype</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FREETYPE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fsck_msdos</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FSCK_MSDOS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/gemmlowp</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GEMMLOWP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/giflib</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GIFLIB-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/glide</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GLIDE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-api-services-storage</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GOOGLE-API-SERVICES-STORAGE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-benchmark</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GOOGLE-BENCHMARK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-breakpad</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GOOGLE-BREAKPAD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CARROIS-GOTHIC-SC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-COMING-SOON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CUTIVE-MONO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DANCING-SCRIPT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GOOGLE-TV-PAIRING-PROTOCOL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/googletest</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GOOGLETEST-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/gptfdisk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GPTFDISK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/guava</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GUAVA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/guice</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GUICE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/hamcrest</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HAMCREST-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/harfbuzz_ng</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HARFBUZZ_NG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/hyphenation-patterns</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HYPHENATION-PATTERNS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/icu</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ICU-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ims</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EXTERNAL-IMS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iproute2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-IPROUTE2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ipsec-tools</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-IPSEC-TOOLS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iptables</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-IPTABLES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iputils</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-IPUTILS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iw</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-IW-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jacoco</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JACOCO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jarjar</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JARJAR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/javasqlite</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JAVASQLITE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/javassist</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JAVASSIST-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jcommander</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JCOMMANDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jdiff</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JDIFF-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jemalloc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JEMALLOC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jline</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JLINE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jmdns</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JMDNS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsilver</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JSILVER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsmn</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JSMN-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/json-c</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JSON-C-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsoncpp</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JSONCPP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsr305</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JSR305-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsr330</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JSR330-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/junit</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JUNIT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/junit-params</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JUNIT-PARAMS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/kernel-headers</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-KERNEL-HEADERS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/kmod</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-KMOD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ksoap2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-KSOAP2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libavc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBAVC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libbackup</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBBACKUP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libbrillo</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBBRILLO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcap</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBCAP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcap-ng</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBCAP-NG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libchrome</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBCHROME-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libconstrainedcrypto</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBCONSTRAINEDCRYPTO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcups</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBCUPS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcxx</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBCXX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcxxabi</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBCXXABI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdaemon</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBDAEMON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdivsufsort</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBDIVSUFSORT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdrm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBDRM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libedit</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EXTERNAL-LIBEDIT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libese</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBESE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libevent</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBEVENT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libexif</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBEXIF-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libgdx</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBGDX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libgsm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBGSM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libhevc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBHEVC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libjpeg-turbo</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBJPEG-TURBO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libldac</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBLDAC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/liblzf</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBLZF-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmicrohttpd</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBMICROHTTPD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmojo</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBMOJO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmpeg2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBMPEG2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmtp</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBMTP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBNETFILTER_CONNTRACK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnfnetlink</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBNFNETLINK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnl</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBNL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libogg</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBOGG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libopus</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBOPUS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libpcap</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBPCAP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libphonenumber</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBPHONENUMBER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libpng</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBPNG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libtextclassifier</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBTEXTCLASSIFIER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libunwind</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBUNWIND-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libunwind_llvm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBUNWIND_LLVM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libusb</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBUSB-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libusb-compat</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBUSB-COMPAT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvncserver</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBVNCSERVER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvorbis</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBVORBIS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvpx</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBVPX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvterm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBVTERM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libweave</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBWEAVE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libxml2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBXML2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libyuv</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBYUV-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/linux-kselftest</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LINUX-KSELFTEST-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lisa</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LISA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/littlemock</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LITTLEMOCK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lld</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LLD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/llvm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LLVM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lmfit</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LMFIT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ltp</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LTP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lz4</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LZ4-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lzma</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LZMA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/markdown</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MARKDOWN-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mdnsresponder</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MDNSRESPONDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mesa3d</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MESA3D-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/messageformat</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MESSAGEFORMAT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/minijail</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MINIJAIL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mksh</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MKSH-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mm-dash</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-DASH-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mmc-utils</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EXTERNAL-MMC-UTILS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockftpserver</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MOCKFTPSERVER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockito</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MOCKITO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockwebserver</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MOCKWEBSERVER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/modp_b64</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MODP_B64-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mp4parser</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MP4PARSER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mtpd</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MTPD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nanohttpd</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NANOHTTPD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nanopb-c</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NANOPB-C-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/naver-fonts</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NAVER-FONTS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/netcat</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NETCAT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/netperf</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NETPERF-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/neven</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NEVEN-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nfacct</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NFACCT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nist-pkits</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NIST-PKITS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nist-sip</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NIST-SIP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/noto-fonts</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NOTO-FONTS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/oauth</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OAUTH-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/objenesis</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OBJENESIS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/okhttp</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OKHTTP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/opencv</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENCV-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/openssh</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENSSH-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/owasp/sanitizer</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SANITIZER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/parameter-framework</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PARAMETER-FRAMEWORK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/pcre</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PCRE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/pdfium</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PDFIUM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/piex</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PIEX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ply</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PLY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ppp</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PPP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/proguard</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROGUARD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/protobuf</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROTOBUF-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/cpython2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CPYTHON2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/cpython3</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CPYTHON3-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/r8</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-R8-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/regex-re2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-REGEX-RE2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/replicaisland</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-REPLICAISLAND-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/rmi4utils</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-RMI4UTILS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/robolectric</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ROBOLECTRIC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/roboto-fonts</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ROBOTO-FONTS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/rootdev</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ROOTDEV-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/safe-iop</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SAFE-IOP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/scrypt</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SCRYPT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/seccomp-tests</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SECCOMP-TESTS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/selinux</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SELINUX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sfntly</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SFNTLY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/shflags</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SHFLAGS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/skia</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SKIA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sl4a</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SL4A-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/slf4j</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SLF4J-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/smali</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SMALI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/snakeyaml</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SNAKEYAML-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sonic</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SONIC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sonivox</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SONIVOX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/speex</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SPEEX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/spirv-llvm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SPIRV-LLVM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sqlite</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SQLITE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/squashfs-tools</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SQUASHFS-TOOLS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/strace</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-STRACE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/stressapptest</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-STRESSAPPTEST-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/svox</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SVOX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/swiftshader</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SWIFTSHADER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/syslinux</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SYSLINUX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tagsoup</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TAGSOUP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tcpdump</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TCPDUMP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/testng</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TESTNG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/timezonepicker-support</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TIMEZONEPICKER-SUPPORT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyalsa</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TINYALSA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinycompress</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TINYCOMPRESS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyxml</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TINYXML-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyxml2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TINYXML2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/toolchain-utils</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TOOLCHAIN-UTILS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/toybox</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TOYBOX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tpm2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TPM2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/trappy</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TRAPPY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tremolo</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TREMOLO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/unicode</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-UNICODE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/universal-tween-engine</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-UNIVERSAL-TWEEN-ENGINE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/v4l2_codec2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-V4L2_CODEC2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/v8</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-V8-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/valgrind</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VALGRIND-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vboot_reference</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VBOOT_REFERENCE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vixl</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VIXL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vogar</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VOGAR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/volley</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VOLLEY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vulkan-validation-layers</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VULKAN-VALIDATION-LAYERS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/walt</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WALT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/webp</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WEBP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/webrtc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WEBRTC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/wpa_supplicant_8</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WPA_SUPPLICANT_8-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/wycheproof</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WYCHEPROOF-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/x264</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-X264-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmlrpcpp</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-XMLRPCPP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmlwriter</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-XMLWRITER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmp_toolkit</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-XMP_TOOLKIT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xz-embedded</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-XZ-EMBEDDED-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/zlib</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ZLIB-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/zopfli</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ZOPFLI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/zxing</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ZXING-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/av</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-AV-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/base</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BASE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/libbcc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBBCC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/mclinker</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MCLINKER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/slang</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SLANG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/data-binding</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DATA-BINDING-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/ex</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HARDWARE-INTERFACES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/layoutlib</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LAYOUTLIB-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/minikin</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MINIKIN-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/ml</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ML-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/multidex</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MULTIDEX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/native</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NATIVE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/bitmap</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BITMAP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/bluetooth</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPT-BLUETOOTH-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/calendar</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPT-CALENDAR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/chips</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CHIPS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-COLORPICKER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DATETIMEPICKER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/emoji</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EMOJI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/inputconnectioncommon</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-INPUTCONNECTIONCOMMON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/inputmethodcommon</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-INPUTMETHODCOMMON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ETHERNET-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/ims</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NET-IMS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/lowpan</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LOWPAN-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/voip</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VOIP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WIFI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PHOTOVIEWER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SETUPWIZARD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/telephony</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPT-TELEPHONY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TIMEZONEPICKER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/vcard</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VCARD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/rs</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-RS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/support</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SUPPORT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/webview</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FRAMEWORKS-WEBVIEW-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/wilhelm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WILHELM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/akm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-AKM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/broadcom/libbt</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBBT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/broadcom/wlan</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BROADCOM-WLAN-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/google/apf</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APF-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/interfaces</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HARDWARE-INTERFACES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/invensense</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-INVENSENSE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/libhardware</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBHARDWARE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/libhardware_legacy</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBHARDWARE_LEGACY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/audio</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCOM-AUDIO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BOOTCTRL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/bt</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCOM-BT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/camera</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CAMERA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/display</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCOM-DISPLAY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/gps</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCOM-GPS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/media</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCOM-MEDIA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/thermal</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-THERMAL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/vr</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/wlan</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCOM-WLAN-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/ril</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-RIL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/kernel/msm-4.9</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MSM-4.9-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/libcore</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBCORE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/libnativehelper</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBNATIVEHELPER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/nonhlos</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NONHLOS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BASICSMSRECEIVER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Bluetooth</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APPS-BLUETOOTH-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Browser2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BROWSER2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CMFileManager</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CMFILEMANAGER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Calendar</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APPS-CALENDAR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Camera2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CAMERA2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CAR-DIALER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HVAC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CAR-LATINIME-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LENSPICKER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LOCALMEDIAPLAYER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Media</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CAR-MEDIA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MESSENGER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Overview</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OVERVIEW-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Radio</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-RADIO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Settings</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CAR-SETTINGS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Stream</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-STREAM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SYSTEMUPDATER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/UserManagement</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-USERMANAGEMENT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/libs</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CARRIERCONFIG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CELLBROADCASTRECEIVER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CertInstaller</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CERTINSTALLER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Contacts</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CONTACTS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DeskClock</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DESKCLOCK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DevCamera</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DEVCAMERA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Dialer</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APPS-DIALER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DOCUMENTSUI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Email</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EMAIL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EMERGENCYINFO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EXACTCALCULATOR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Exchange</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EXCHANGE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Gallery</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GALLERY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Gallery2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GALLERY2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HTMLVIEWER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/KeyChain</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-KEYCHAIN-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Launcher2</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LAUNCHER2-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Launcher3</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LAUNCHER3-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LEGACYCAMERA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MANAGEDPROVISIONING-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Messaging</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MESSAGING-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Mms</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APPS-MMS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Music</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MUSIC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/MusicFX</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MUSICFX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Nfc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APPS-NFC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ONETIMEINITIALIZER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PACKAGEINSTALLER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Phone</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PHONE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PHONECOMMON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Protips</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROTIPS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Provision</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROVISION-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QUICKSEARCHBOX-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/RetailDemo</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-RETAILDEMO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SAFETYREGULATORYINFO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Settings</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APPS-SETTINGS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SmartCardService</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APPS-SMARTCARDSERVICE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SNAPDRAGONCAMERA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonGallery</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SNAPDRAGONGALLERY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonMusic</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SNAPDRAGONMUSIC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SOUNDRECORDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SpareParts</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SPAREPARTS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SPEECHRECORDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Stk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-STK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/StorageManager</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-STORAGEMANAGER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TV</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TV-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Tag</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TAG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Terminal</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TERMINAL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TEST-CONNECTIVITY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TIMEZONEDATA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TIMEZONEUPDATER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TvSettings</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TVSETTINGS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-UNIFIEDEMAIL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WALLPAPERPICKER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/experimental</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EXPERIMENTAL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-INPUTMETHODS-LATINIME-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENWNN-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APPLICATIONSPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BLOCKEDNUMBERPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BOOKMARKPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CALENDARPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CALLLOGPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CONTACTSPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DOWNLOADPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/MediaProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MEDIAPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PARTNERBOOKMARKSPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TELEPHONYPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/TvProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TVPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-USERDICTIONARYPROVIDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/Basic</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BASIC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PHOTOTABLE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/WebView</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SCREENSAVERS-WEBVIEW-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BUILTINPRINTSERVICE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Car</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SERVICES-CAR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Mms</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SERVICES-MMS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/NetworkRecommendation</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NETWORKRECOMMENDATION-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Telecomm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TELECOMM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Telephony</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SERVICES-TELEPHONY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIVEPICKER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/pdk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PDK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/platform_testing</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PLATFORM_TESTING-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ABI-DUMPS-NDK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ABI-DUMPS-VNDK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/android-emulator</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ANDROID-EMULATOR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/build-tools</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BUILD-TOOLS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/checkcolor</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CHECKCOLOR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/checkstyle</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CHECKSTYLE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HOST-LINUX-X86-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/deqp</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PREBUILTS-DEQP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/devtools</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DEVTOOLS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/eclipse</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ECLIPSE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ARM-ARM-EABI-4.8-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-AARCH64-LINUX-ANDROID-4.9-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ARM-ARM-EABI-4.8-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ARM-LINUX-ANDROIDEABI-4.9-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-X86_64-LINUX-GLIBC2.11-4.8-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-X86_64-LINUX-GLIBC2.15-4.8-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-X86_64-W64-MINGW32-4.8-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-X86_64-LINUX-ANDROID-4.9-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GDB-LINUX-X86-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GO-LINUX-X86-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GRADLE-PLUGIN-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-JDK8-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/libs/libedit</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBS-LIBEDIT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MAVEN_REPO-ANDROID-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BUMPTECH-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/misc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MISC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/ndk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PREBUILTS-NDK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-2.7.5-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QEMU-KERNEL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/sdk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PREBUILTS-SDK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/tools</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PREBUILTS-TOOLS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/sdk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SDK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/shortcut-fe</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SHORTCUT-FE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/bt</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SYSTEM-BT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/ca-certificates</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CA-CERTIFICATES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/chre</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CHRE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/connectivity/wificond</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WIFICOND-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/connectivity/wifilogd</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WIFILOGD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/core</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SYSTEM-CORE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/extras</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-EXTRAS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/gatekeeper</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GATEKEEPER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/hardware/interfaces</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HARDWARE-INTERFACES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/hwservicemanager</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HWSERVICEMANAGER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/keymaster</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-KEYMASTER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libfmq</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBFMQ-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libhidl</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBHIDL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libhwbinder</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBHWBINDER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libufdt</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBUFDT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libvintf</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBVINTF-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/media</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SYSTEM-MEDIA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/netd</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NETD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/nfc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SYSTEM-NFC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/nvram</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NVRAM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/security</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SYSTEM-SECURITY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/sepolicy</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SYSTEM-SEPOLICY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/timezone</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TIMEZONE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/tools/aidl</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-AIDL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/tools/hidl</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HIDL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/tpm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TPM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/update_engine</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-UPDATE_ENGINE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/vold</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VOLD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VTS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FUZZ-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/hal</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HAL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-HAL-TRACE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/kernel</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-KERNEL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/performance</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PERFORMANCE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/security</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VTS-TESTCASE-SECURITY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/vndk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VTS-TESTCASE-VNDK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/toolchain/binutils</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BINUTILS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/apksig</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APKSIG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/external/fat32lib</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FAT32LIB-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/external/gradle</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-GRADLE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/loganalysis</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LOGANALYSIS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/repohooks</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-REPOHOOKS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/test/connectivity</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TEST-CONNECTIVITY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/tradefederation/contrib</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CONTRIB-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/tradefederation/core</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TRADEFEDERATION-CORE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/codeaurora/telephony</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CODEAURORA-TELEPHONY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/interfaces/opensource/nfc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENSOURCE-NFC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/external/libnfc-nci</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIBNFC-NCI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/frameworks</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FRAMEWORKS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/packages/apps/Nfc</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-APPS-NFC-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/audio</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENSOURCE-AUDIO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/audio-kernel</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-AUDIO-KERNEL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/bluetooth</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENSOURCE-BLUETOOTH-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/bluetooth_ext</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BLUETOOTH_EXT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/data-ipa-cfg-mgr</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DATA-IPA-CFG-MGR-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/dataservices</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DATASERVICES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/dpm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENSOURCE-DPM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/fm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENSOURCE-FM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/interfaces</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENSOURCE-INTERFACES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/location</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LOCATION-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/mmc-utils</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENSOURCE-MMC-UTILS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/rcs-service</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-RCS-SERVICE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/softap</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SOFTAP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/time-services</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENSOURCE-TIME-SERVICES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/tools</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENSOURCE-TOOLS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wigig</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-OPENSOURCE-WIGIG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wlan/prima</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PRIMA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SIGMA-DUT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/SecProtect</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SECPROTECT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/SmartCardService</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-SMARTCARDSERVICE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/android-perf</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ANDROID-PERF-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/biometrics</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-BIOMETRICS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/bluetooth</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-BLUETOOTH-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/bt</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-BT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/cne</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CNE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/common</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-COMMON-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/csm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-CSM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/data</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DATA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/diag</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-DIAG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/display</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-DISPLAY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/dpm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-DPM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fastcv</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FASTCV-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fastmmi</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FASTMMI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-FM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ftm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-FTM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/gps</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-GPS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ims-ship</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-IMS-SHIP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/interfaces</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-INTERFACES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/limits-hal</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LIMITS-HAL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/llvm-arm-toolchain-ship</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-LLVM-ARM-TOOLCHAIN-SHIP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mdm-helper</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MDM-HELPER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-audio</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-AUDIO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-audio-cal</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-AUDIO-CAL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-audio-external</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-AUDIO-EXTERNAL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-camera</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-CAMERA-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-camerasdk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-CAMERASDK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-core</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-CORE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-osal</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-OSAL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-parser</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-PARSER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-still</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-STILL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-video</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-VIDEO-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-video-utils</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MM-VIDEO-UTILS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/modem-apis</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-MODEM-APIS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/nqnfc-firmware</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-NQNFC-FIRMWARE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/prebuilt_FEAT-BIN-DOLBY</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PREBUILT_FEAT-BIN-DOLBY-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/prebuilt_HY11</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PREBUILT_HY11-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCRIL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-data-hal</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCRIL-DATA-HAL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-hal</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCRIL-HAL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-qmi-services</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCRIL-QMI-SERVICES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcrilOemHook</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QCRILOEMHOOK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qdssagent</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QDSSAGENT-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qmi</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QMI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qmi-framework</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QMI-FRAMEWORK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qrdplus</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-QRDPLUS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/remotefs</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-REMOTEFS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/scve</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SCVE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/securemsm</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SECUREMSM-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/sensors</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SENSORS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ss-restart</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SS-RESTART-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ss-services</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-SS-SERVICES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/tango_hal</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TANGO_HAL-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/telephony-apps</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TELEPHONY-APPS-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/telephony-fwk</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-TELEPHONY-FWK-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/thermal-engine</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-THERMAL-ENGINE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/time-services</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-TIME-SERVICES-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ui</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-UI-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/uim_remote_service</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-UIM_REMOTE_SERVICE-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ultrasound</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-ULTRASOUND-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/vpp</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-VPP-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wfd</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WFD-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wigig</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-WIGIG-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wipower</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-WIPOWER-TMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wlan</name>
+	<branch>refs/heads/qct-sdm450-bsp-v0.1-newcomers-tmp</branch>
+	<baseline>SDM429-O-WATT-PROPRIETARY-WLAN-TMP-P0.1</baseline>
+</project>
+</projects>

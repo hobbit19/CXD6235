@@ -1,0 +1,1524 @@
+#!/usr/bin/python
+#encoding=utf-8
+#pls install:apt-get install python-wxtools
+import wx
+import os
+import re
+import sys
+import urllib
+import pexpect
+import commands
+from commands import *
+import ALM_check_swd1
+import MySQLdb
+import send_mail
+from time import strftime, localtime
+import datetime
+import time
+import copy
+import subprocess
+#import common
+
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
+class App(wx.App):
+	def OnInit(self):
+		frame = MyFrame()
+		frame.Show()
+		return True
+
+class MyFrame(wx.Frame):
+	def __init__(self):
+		wx.Frame.__init__(self,None,-1,'mtk patch merge',size=(1200,910))
+		#init panel 
+		panel = wx.Panel(self, -1)
+		self.msg = Message()
+		self.com = Commit()
+		self.dbconnect = dotProjectDb()
+		self.codeRepoDir = ''
+		self.importID = ''
+		self.allGitName = []
+		self.allGitName_addAll = []
+		self.setNoMerged = False
+		self.commitidDict = {}
+		self.git_or_repo = self.checkCurrentWorkingDir()
+		self.meldfailed = False
+		print "There is .%s in current dir" % self.git_or_repo
+		self.temdir = '/tmp/mtkpatch_logs'
+		if not os.path.isdir(self.temdir):
+			os.system('mkdir -p %s' % self.temdir)
+
+		if self.git_or_repo == 'git':	
+			self.currProjectBranch = self.com.down_repo_branch()
+			if "origin/master" in self.currProjectBranch or not self.currProjectBranch:
+				self.currProjectBranch = self.com.down_git_branch()
+			self.getGitName()
+
+		if self.git_or_repo == 'repo':
+			self.currProjectBranch = self.getBranchNameFromXml()
+			print "self.currProjectBranch",self.currProjectBranch
+			self.codeRepoDir = getoutput('pwd') + '/'				
+
+		if self.currProjectBranch:
+			self.msg.projectID,self.importBranchValue = self.dbconnect.getImportBranchFromProjectID(self.currProjectBranch)
+			
+		else:
+			self.importBranchValue = ''
+			print "Can not get develop code branch name from current working directory.Please check your code."
+			message =  "Can not get develop code branch name from current working directory.Please check your code."
+			self.CreateMessageDialog(message, 'Get Branch Error!')
+			sys.exit(1)	 
+
+
+		#init static
+		font = wx.Font(10, wx.ROMAN, wx.NORMAL, wx.BOLD)
+		#gitname = wx.StaticText(panel, -1, "Choice git to merge or patch delivery", size=wx.DefaultSize)
+		gitname = wx.StaticText(panel, -1, "选择git库进行merge或发patch", size=wx.DefaultSize)
+		gitname.SetFont(font)
+		mtkpatchVNum = wx.StaticText(panel, -1, "mtkPatchVNum(V2.34)", size=wx.DefaultSize)
+		mtkpatchVNum.SetFont(font)
+		mtkpatchPNum = wx.StaticText(panel, -1, "mtkPatchPNum(P27)", size=wx.DefaultSize)
+		mtkpatchPNum.SetFont(font)
+		mtkpatchType = wx.StaticText(panel, -1, "mtkPatch Type", size=wx.DefaultSize)
+		mtkpatchType.SetFont(font)
+		devbranchname = wx.StaticText(panel, -1, "DevBranchName", size=wx.DefaultSize)
+		devbranchname.SetFont(font)
+		importbranchname = wx.StaticText(panel, -1, "ImportBranchName", size=wx.DefaultSize)
+		importbranchname.SetFont(font)
+		#self.importcommitid = wx.StaticText(panel, -1, "The commit id of  importbranch", size=wx.DefaultSize)
+		#self.importcommitid.SetFont(font)
+
+
+		####mergeResult = wx.StaticText(panel, -1, "If merge successfully,Please check the merge result for current git as following:", size=wx.DefaultSize)
+		####mergeResult.SetFont(font)
+		#Please check all gits merged result as following:
+		allgitmergeResult = wx.StaticText(panel, -1, "请check如下merge结果:", size=wx.DefaultSize)
+		allgitmergeResult.SetFont(font)
+		#Please check all gits patched result as following:
+		allgitpatchResult = wx.StaticText(panel, -1, "请check如下patch结果:", size=wx.DefaultSize)
+		allgitpatchResult.SetFont(font)
+
+		#gits not been patched
+		git_no_patched = wx.StaticText(panel, -1, "没有进行patch操作的git库", size=wx.DefaultSize)
+		git_no_patched.SetFont(font)
+		#gits patched Successfully
+		git_patched_successfully = wx.StaticText(panel, -1, "patch成功的git库", size=wx.DefaultSize)
+		git_patched_successfully.SetFont(font)
+		#gits pathed failed
+		git_patched_failed = wx.StaticText(panel, -1, "patch失败的git库", size=wx.DefaultSize)
+		git_patched_failed.SetFont(font)
+
+		#gits have not been merged
+		git_no_merged = wx.StaticText(panel, -1, "没有进行merge操作的git库", size=wx.DefaultSize)
+		git_no_merged.SetFont(font)
+		#gits merged Successfully
+		git_merged_successfully = wx.StaticText(panel, -1, "merge成功的git库", size=wx.DefaultSize)
+		git_merged_successfully.SetFont(font)
+		#gits merged conflicted but fixed
+		git_merged_failed = wx.StaticText(panel, -1, "merge冲突但已解决的git库", size=wx.DefaultSize)
+		git_merged_failed.SetFont(font)
+		#gits merged Failed for other reason
+		git_merged_failed_oherreason = wx.StaticText(panel, -1, "其他原因导致merge失败的git库", size=wx.DefaultSize)
+		git_merged_failed_oherreason.SetFont(font)
+
+		#allgitmergeResult = wx.StaticText(panel, -1, "Please check all gits merge result as following:", size=wx.DefaultSize)
+		#allgitmergeResult.SetFont(font)
+		####filelist = wx.StaticText(panel, -1, "Modified Files NameList", size=wx.DefaultSize)
+		####filelist.SetFont(font)
+		####filemodifiedcontent = wx.StaticText(panel, -1, "Detailed modifications of files", size=wx.DefaultSize)
+		####filemodifiedcontent.SetFont(font)
+
+
+		#self.result = wx.StaticText(panel, -1, "Please check the merge result", size=wx.DefaultSize)
+		#self.importcommitid.SetFont(font)
+
+		#init text
+		self.devbranchname = wx.TextCtrl(panel, -1, self.currProjectBranch, size=(300,28))
+		self.importbranchname = wx.TextCtrl(panel, -1, self.importBranchValue, size=(480,28))
+		####self.getimportcommitid = wx.TextCtrl(panel, -1, "", size=(500,28)) 
+		#650
+		#self.nextgitpath = wx.TextCtrl(panel, -1, "", size=wx.DefaultSize)
+		#self.gitname = wx.TextCtrl(panel, -1, '', size=(480,28))
+		self.gitname = wx.ComboBox(panel, -1, "", (0,0), wx.DefaultSize, '', wx.CB_SIMPLE)
+		if self.git_or_repo == 'git':
+			self.msg.gitnameValue = self.getGitName()
+		#self.gitname.SetValue(self.msg.gitnameValue)
+		#self.gitname.SetItems([self.msg.gitnameValue])
+
+		#init combox
+		self.mtkPatchTypeList = ['MOLY','ALPS','SIXTH']
+		print "self.msg.gitnameValue ",self.msg.gitnameValue 
+		if self.msg.gitnameValue == 'modem' or 'MOLY' in self.msg.gitnameValue:
+			self.defaultMtkPatchType = 'MOLY'
+			self.getVnumAndPnumFromDB(self.defaultMtkPatchType)
+		elif 'SIXTH' in self.msg.gitnameValue:
+			self.defaultMtkPatchType = 'SIXTH'
+			self.getVnumAndPnumFromDB(self.defaultMtkPatchType)			 
+		else:
+			self.defaultMtkPatchType = 'ALPS'					
+			self.getVnumAndPnumFromDB(self.defaultMtkPatchType)
+			if self.lenofvnum == 0:
+				self.getVnumAndPnumFromDB('MOLY')
+				if self.lenofvnum == 0:
+					self.defaultMtkPatchType = 'SIXTH'
+				else:
+					self.defaultMtkPatchType = 'MOLY'
+
+		self.mtkpatchType = wx.ComboBox(panel, -1, self.defaultMtkPatchType, (0,0), wx.DefaultSize, self.mtkPatchTypeList, wx.CB_SIMPLE)
+		self.mtkpatchVNum =wx.ComboBox(panel, -1, "", (0,0), wx.DefaultSize, self.vnum[0:self.lenofvnum], wx.CB_SIMPLE)
+		self.mtkpatchPNum = wx.ComboBox(panel, -1, "", (0,0), wx.DefaultSize, [''], wx.CB_SIMPLE) 
+		####self.patchgitnames = wx.ComboBox(panel, -1, "", (0,0), wx.DefaultSize, self.msg.gitnameValue, wx.CB_SIMPLE)
+
+		#self.getimportcommitid = wx.ComboBox(panel, -1, "", (0,0),wx.DefaultSize,[''],wx.CB_SIMPLE) 
+
+		#init button
+		self.ok = wx.Button(panel, -1, "Merge", size=wx.DefaultSize)
+		self.patch= wx.Button(panel, -1, "Patch Delivery", size=wx.DefaultSize)
+		self.cancel = wx.Button(panel, -1, "Exit", size=wx.DefaultSize)
+		####self.reset = wx.Button(panel, -1, "Reset", size=wx.DefaultSize)
+
+		#list(545,550)
+		####self.filelist = []
+		####self.list1 = wx.ListBox(panel, -1, (20,20), (580,300), self.filelist, wx.LB_MULTIPLE)
+		####self.commitlist = []
+		####self.list2 = wx.ListBox(panel, -1, (20,20), (580,300), self.commitlist, wx.LB_MULTIPLE)
+
+
+
+		#gits lists
+		self.nomerged = []
+		self.list4 = wx.ListBox(panel, -1, (20,20), (200,200), self.nomerged, wx.LB_MULTIPLE)
+		self.mergedsuccess = []
+		self.list5 = wx.ListBox(panel, -1, (20,20), (200,200), self.mergedsuccess, wx.LB_MULTIPLE)
+		self.mergedfail = []
+		self.list6 = wx.ListBox(panel, -1, (20,20), (200,200), self.mergedfail, wx.LB_MULTIPLE)
+		self.mergedfailotherreason = []
+		self.list7 = wx.ListBox(panel, -1, (20,20), (200,200), self.mergedfailotherreason, wx.LB_MULTIPLE)
+		#self.mergednothing = []
+		#self.list7 = wx.ListBox(panel, -1, (20,20), (200,200), self.mergednothing, wx.LB_MULTIPLE)
+
+		#patch list
+		self.nopatched = []
+		self.list8 = wx.ListBox(panel, -1, (20,20), (200,200), self.nopatched, wx.LB_MULTIPLE)
+		self.patchedsuccess = []
+		self.list9 = wx.ListBox(panel, -1, (20,20), (200,200), self.patchedsuccess, wx.LB_MULTIPLE)
+		self.patchedfail = []
+		self.list10 = wx.ListBox(panel, -1, (20,20), (200,200), self.patchedfail, wx.LB_MULTIPLE)
+
+
+		#combo
+		flag1 = wx.LEFT | wx.TOP | wx.BOTTOM | wx.RIGHT |wx.EXPAND
+		flag2 = wx.LEFT | wx.TOP | wx.BOTTOM | wx.RIGHT
+		border1 = 2;
+
+		hbox1 = wx.BoxSizer()
+		hbox1.Add(gitname, proportion=0, flag=flag1, border=border1)
+		hbox1.Add(self.gitname, proportion=0, flag=flag1, border=border1)
+		#hbox1.Add(self.importcommitid, proportion=0, flag=flag1, border=border1)
+		#hbox1.Add(self.getimportcommitid, proportion=0, flag=flag1, border=border1)
+
+		hbox4 = wx.BoxSizer()
+		hbox4.Add(mtkpatchType, proportion=0, flag=flag1, border=border1)
+		hbox4.Add(self.mtkpatchType, proportion=0, flag=flag1, border=border1)
+		hbox4.Add(mtkpatchVNum, proportion=0, flag=flag1, border=border1)
+		hbox4.Add(self.mtkpatchVNum, proportion=0, flag=flag1, border=border1)
+		hbox4.Add(mtkpatchPNum, proportion=0, flag=flag1, border=border1)
+		hbox4.Add(self.mtkpatchPNum, proportion=0, flag=flag1, border=border1)
+
+		hbox2 = wx.BoxSizer()
+		hbox2.Add(devbranchname, proportion=0, flag=flag1, border=border1)
+		hbox2.Add(self.devbranchname, proportion=0, flag=flag1, border=border1)
+		hbox2.Add(importbranchname, proportion=0, flag=flag1, border=border1)
+		hbox2.Add(self.importbranchname, proportion=0, flag=flag1, border=border1)
+
+		####hbox7 = wx.BoxSizer()
+		####hbox7.Add(self.importcommitid, proportion=0, flag=flag1, border=border1)
+		####hbox7.Add(self.getimportcommitid, proportion=0, flag=flag1, border=border1)
+
+		####hbox8 = wx.BoxSizer()
+		####hbox8.Add(mergeResult, proportion=0, flag=flag1, border=border1)
+
+		####hbox8 = wx.BoxSizer()
+		####hbox8.Add(patchDliveryGitname, proportion=0, flag=flag1, border=border1)
+		####hbox8.Add(self.patchgitnames, proportion=0, flag=flag1, border=border1)
+		####hbox8.Add(self.patch, proportion=0, flag=flag1, border=border1)		
+
+		hbox10 = wx.BoxSizer()
+		hbox10.Add(git_no_merged, proportion=0, flag=flag1, border=border1)
+		#hbox10.Add((110,28), proportion=0,flag=flag2,border=border1)
+		#hbox10.Add(git_merged_successfully, proportion=0, flag=flag1, border=border1)
+		hbox10.Add((120,28), proportion=0,flag=flag2,border=border1)
+		hbox10.Add(git_merged_successfully, proportion=0, flag=flag1, border=border1)
+		hbox10.Add((180,28), proportion=0,flag=flag2,border=border1)
+		hbox10.Add(git_merged_failed, proportion=0, flag=flag1, border=border1)
+		hbox10.Add((120,28), proportion=0,flag=flag2,border=border1)
+		hbox10.Add(git_merged_failed_oherreason, proportion=0, flag=flag1, border=border1)
+		#hbox10.Add((120,20), proportion=0,flag=flag2,border=border1)
+
+
+		hbox11 = wx.BoxSizer()
+		hbox11.Add(self.list4, proportion=0, flag=flag1, border=border1)
+		hbox11.Add((85,28), proportion=0,flag=flag2,border=border1)
+		hbox11.Add(self.list5, proportion=0, flag=flag1, border=border1)
+		hbox11.Add((100,28), proportion=0,flag=flag2,border=border1)
+		hbox11.Add(self.list6, proportion=0, flag=flag1, border=border1)
+		hbox11.Add((85,28), proportion=0,flag=flag2,border=border1)
+		hbox11.Add(self.list7, proportion=0, flag=flag1, border=border1)
+
+		hbox9 = wx.BoxSizer()
+		hbox9.Add(allgitmergeResult, proportion=0, flag=flag1, border=border1)
+
+		hbox3 = wx.BoxSizer()
+		hbox3.Add((420,28), proportion=0,flag=flag2,border=border1)
+		hbox3.Add(self.ok, proportion=0, flag=flag1, border=border1)
+		hbox3.Add(self.patch, proportion=0, flag=flag1, border=border1)	
+		hbox3.Add(self.cancel, proportion=0, flag=flag1, border=border1)
+
+
+		hbox12 = wx.BoxSizer()
+		hbox12.Add(allgitpatchResult, proportion=0, flag=flag1, border=border1)
+
+
+		hbox13 = wx.BoxSizer()
+		hbox13.Add(git_no_patched, proportion=0, flag=flag1, border=border1)
+		hbox13.Add((120,28), proportion=0,flag=flag2,border=border1)
+		hbox13.Add(git_patched_successfully, proportion=0, flag=flag1, border=border1)
+		hbox13.Add((180,28), proportion=0,flag=flag2,border=border1)
+		hbox13.Add(git_patched_failed, proportion=0, flag=flag1, border=border1)
+		hbox13.Add((80,28), proportion=0,flag=flag2,border=border1)
+
+
+		hbox14 = wx.BoxSizer()
+		hbox14.Add(self.list8, proportion=0, flag=flag1, border=border1)
+		hbox14.Add((85,28), proportion=0,flag=flag2,border=border1)
+		hbox14.Add(self.list9, proportion=0, flag=flag1, border=border1)
+		hbox14.Add((85,28), proportion=0,flag=flag2,border=border1)
+		hbox14.Add(self.list10, proportion=0, flag=flag1, border=border1)
+		hbox15 = wx.BoxSizer()
+		hbox15.Add((85,28), proportion=0, flag=flag1, border=border1)
+
+
+		####hbox3.Add(self.reset, proportion=0, flag=flag1, border=border1)
+
+		####hbox5 = wx.BoxSizer()
+		####hbox5.Add(self.list1, proportion=0, flag=flag2, border=border1)
+		####hbox5.Add(self.list2, proportion=0,flag=flag2,border=border1)
+
+		####hbox6 = wx.BoxSizer()
+		####hbox6.Add(filelist, proportion=0,flag=flag2,border=border1)
+		####hbox6.Add((420,28), proportion=0,flag=flag2,border=border1)
+		####hbox6.Add(filemodifiedcontent, proportion=0,flag=flag2,border=border1)
+
+		vbox = wx.BoxSizer(wx.VERTICAL)
+		vbox.Add(hbox2, proportion=0, flag=flag1, border=border1)
+		vbox.Add(hbox4, proportion=0, flag=flag1, border=border1)
+		vbox.Add(hbox1, proportion=0, flag=flag1, border=border1)	
+		#vbox.Add(hbox7, proportion=0, flag=flag1, border=border1)
+		vbox.Add(hbox3, proportion=0, flag=flag1, border=border1)
+		####vbox.Add(hbox6, proportion=0, flag=flag2, border=border1)
+		vbox.Add(hbox9, proportion=0, flag=flag2, border=border1)
+		vbox.Add(hbox10, proportion=0, flag=flag2, border=border1)
+		vbox.Add(hbox11, proportion=0, flag=flag2, border=border1)
+		vbox.Add(hbox15, proportion=0, flag=flag2, border=border1)
+		vbox.Add(hbox12, proportion=0, flag=flag2, border=border1)
+		vbox.Add(hbox13, proportion=0, flag=flag2, border=border1)
+		vbox.Add(hbox14, proportion=0, flag=flag2, border=border1)
+
+			
+		panel.SetSizerAndFit(vbox)
+
+		#self.importcommitid.Bind(wx.EVT_BUTTON, self.GetCommitID)
+		self.ok.Bind(wx.EVT_BUTTON, self.OnOk)
+		self.patch.Bind(wx.EVT_BUTTON, self.patchdelivery)
+		self.cancel.Bind(wx.EVT_BUTTON, self.OnCancel)
+		####self.reset.Bind(wx.EVT_BUTTON, self.OnReset)
+		panel.Bind(wx.EVT_COMBOBOX,self.clearForMtkVnumUpdate,self.mtkpatchVNum)
+		panel.Bind(wx.EVT_COMBOBOX,self.getgitNameButtom,self.mtkpatchPNum)
+		#panel.Bind(wx.EVT_COMBOBOX,self.patchgitnames,self.mtkpatchPNum)
+		panel.Bind(wx.EVT_COMBOBOX,self.GetCommitID,self.gitname)
+		panel.Bind(wx.EVT_COMBOBOX,self.getNewVunAndPnumList,self.mtkpatchType)
+
+
+	def GetMessage(self):
+		#self.msg.gitnameValue=self.gitname.GetValue()
+		self.msg.devBranchNameValue=self.devbranchname.GetValue()  
+		self.msg.importBranchNameValue=self.importbranchname.GetValue()
+		self.msg.mtkpatchVNumValue=self.mtkpatchVNum.GetValue()
+		self.msg.mtkpatchPNumValue=self.mtkpatchPNum.GetValue()
+		self.msg.mtkpatchTypeValue=self.mtkpatchType.GetValue()
+
+		#print "self.msg.gitnameValue",self.msg.gitnameValue
+		print "self.msg.devBranchNameValue",self.msg.devBranchNameValue
+		print "self.msg.importBranchNameValue",self.msg.importBranchNameValue
+		print "self.msg.mtkpatchVNumValue",self.msg.mtkpatchVNumValue
+		print "self.msg.mtkpatchPNumValue",self.msg.mtkpatchPNumValue
+		print "self.msg.mtkpatchTypeValue",self.msg.mtkpatchTypeValue
+
+		#if not self.msg.gitnameValue:
+			#self.CreateMessageDialog('\n' + "Please input correct git name"+ '\n','Input Error')
+			#return False
+
+		if not self.msg.devBranchNameValue:
+			self.CreateMessageDialog('\n' +"DevBranchName 不能为空"+ '\n','Input Error')
+			return False
+
+		if not self.msg.importBranchNameValue:
+			self.CreateMessageDialog('\n' +"ImportBranchName 不能为空"+ '\n','Input Error')
+			return False
+
+		if not self.msg.mtkpatchVNumValue:
+			self.CreateMessageDialog('\n' +"mtkPatchVNum 不能为空"+ '\n','Input Error')
+			return False
+
+		if not self.msg.mtkpatchPNumValue:
+			self.CreateMessageDialog('\n' +"mtkPatchVNum 不能为空"+ '\n','Input Error' )
+			return False
+
+		if not self.msg.mtkpatchTypeValue:
+			self.CreateMessageDialog('\n' +"mtkPatch Type 不能为空"+ '\n','Input Error')
+			return False
+		
+		return True
+
+	def checkCurrentWorkingDir(self):
+		alldir = os.listdir(os.getcwd())
+		if '.git' not in alldir and '.repo' not in alldir:
+			print ".git not in current working dir"
+			string = '\n' + "There is no .git and .repo in current working directory, please change your directory." + '\n'
+			self.CreateMessageDialog(string, 'working directory error!')
+			sys.exit(1)
+
+		if '.git' in alldir:
+			return 'git'
+
+		if '.repo' in alldir:
+			return 'repo'	
+
+
+	def getGitName(self):
+		gitNameValue = ''
+		curWorkingDir = getoutput('pwd')
+		print "The current working dir is %s" % curWorkingDir
+		gitDirForMatch =  getoutput('ls -l .git | grep "refs ->" | awk \'{print $11}\'')
+		print "gitDirForMatch",gitDirForMatch
+		if gitDirForMatch:#../../.repo/projects/device.git/info
+			match = re.search('.*/\.repo/projects/(.*).git/refs',gitDirForMatch)
+			if match:
+				gitNameValue = match.group(1)
+				print "get the gitname value from dir :%s" % gitNameValue
+				self.codeRepoDir = curWorkingDir.split(gitNameValue)[0]
+				print "self.codeRepoDir is %s" % self.codeRepoDir				
+		return gitNameValue 
+
+
+	def getBranchNameFromXml(self):
+		curWorkingDir = getoutput('pwd')
+		gitDirForMatch = getoutput('ls -l .repo | grep "manifest.xml ->"')		
+		branchname = gitDirForMatch.split('/')[1].replace('.xml','')
+		return branchname	
+
+
+	def getAllGitName(self):
+		importid = self.dbconnect.getImportIDFromDb(self.msg.importBranchNameValue,self.msg.projectID,self.msg.mtkpatchVNumValue,self.msg.mtkpatchPNumValue,self.msg.mtkpatchTypeValue)
+		print "importid[0]",importid[0]
+		self.importID = importid[0]
+		self.allGitName = self.dbconnect.getGitNamesFromDb(importid[0])
+
+
+	def getGitNameOfDir(self, repodir):
+		print "repodir is %s" % repodir
+		gitDir = []
+        	projectFile = repodir + "/.repo/project.list"
+        	print "the project list is %s" % projectFile
+       	 	F = open(projectFile,'r')
+        	for line in F:
+            		if line.strip() not in gitDir:
+            			gitDir.append(line.strip())
+		return gitDir
+		
+
+	def CreateMessageDialog(self, string, title):
+		#dlg = wx.lib.Dialogs.ScrolledMessageDialog(self, string, title, wx.OK)
+		dlg = wx.MessageDialog(self, string, title, wx.OK)
+		dlg.ShowModal()
+		dlg.Destroy()
+		return
+
+    #dialog
+	def CrtMessageDialog(self,string, title):
+		dlg = wx.MessageDialog(self, string, title, wx.YES_NO | wx.ICON_QUESTION)
+		retCode = dlg.ShowModal()
+		if retCode == wx.ID_YES:
+			return True
+		else:
+			return False
+		dlg.Destroy()
+
+	def GetCommitID(self, event):
+		####self.getimportcommitid.SetValue('')
+		self.msg.gitnameValue=self.gitname.GetValue()
+		if not self.msg.gitnameValue:
+			self.CreateMessageDialog('\n' + "Please input correct git name"+ '\n','Input Error')
+		print "self.msg.gitnameValue",self.msg.gitnameValue			
+		if self.GetMessage() == True:
+			if 	self.msg.gitnameValue == 'All':
+				for eachgitname in self.allGitName:					
+					importid = self.dbconnect.getImportIDFromDb(self.msg.importBranchNameValue,self.msg.projectID,self.msg.mtkpatchVNumValue,self.msg.mtkpatchPNumValue,self.msg.mtkpatchTypeValue)
+					print "importid",importid
+					commitid = self.dbconnect.getCommitFromDb(importid,eachgitname)
+					print "commitid",commitid
+					if eachgitname not in self.commitidDict.keys():
+						self.commitidDict[eachgitname] = commitid[0]
+
+			else:		
+				importid = self.dbconnect.getImportIDFromDb(self.msg.importBranchNameValue,self.msg.projectID,self.msg.mtkpatchVNumValue,self.msg.mtkpatchPNumValue,self.msg.mtkpatchTypeValue)
+				print "importid",importid
+				commitid = self.dbconnect.getCommitFromDb(importid,self.msg.gitnameValue)
+				print "commitid",commitid
+				self.commitidDict[self.msg.gitnameValue] = commitid[0]
+		print "self.commitidDict",self.commitidDict
+		
+			#self.getimportcommitid.SetItems(commitid)
+			#if len(commitid) == 1:
+				#self.getimportcommitid.SetValue(commitid)
+			#self.getimportcommitid.SetValue(commitid[0])
+			#self.msg.importBranchCommitIDValue = self.getimportcommitid.GetValue()
+			#print "self.msg.importBranchCommitIDValue",self.msg.importBranchCommitIDValue
+			#self.list1.Set([])
+			#self.list2.Set([])
+
+
+	def clearForGitName(self,event):
+		self.getimportcommitid.SetValue('')
+		if self.gitname.GetValue() == 'modem' or 'MOLY' in self.gitname.GetValue():
+			self.mtkpatchType.SetValue('MOLY')
+			patchTypeItem = 0
+		else:
+			self.mtkpatchType.SetValue('ALPS')
+			patchTypeItem = 1
+		patchTypeValue = self.mtkPatchTypeList[patchTypeItem]
+		self.getVnumAndPnumFromDB(patchTypeValue)
+		self.mtkpatchVNum.SetItems(self.vnum[0:self.lenofvnum])
+		self.mtkpatchPNum.SetItems(self.pnum[0:self.lenofpnum])
+
+	def getVnumAndPnumFromDB(self,patchTypeValue):
+		self.vnum = self.dbconnect.getVNumFromImportBranchName(self.importBranchValue,self.msg.projectID,patchTypeValue,self.currProjectBranch)
+		self.vnum.sort(reverse=True)
+		if len(self.vnum) > 5:
+			self.lenofvnum = 5 
+		else:
+			 self.lenofvnum = len(self.vnum)
+		print "self.vnum,self.lenofvnum",self.vnum,self.lenofvnum
+
+	def getPnumFromDB(self,vnum_value,patchTypeValue):
+		self.pnum = self.dbconnect.getPNumFromImportBranchName(self.importBranchValue,self.msg.projectID,patchTypeValue,vnum_value,self.currProjectBranch)
+		self.pnum.sort()
+		if len(self.pnum) > 10:
+			self.lenofpnum = 10 
+		else:
+			 self.lenofpnum = len(self.pnum)	
+		print "self.lenofpnum",self.lenofpnum
+
+
+		#self.GetCommitID
+        #add by zhaoshie 20160602 for check mtk default file forbid or remind
+	def check_mtkfile_from_commit_contents(self,commitlist,curGitWorkingDir):
+		patch_delivery_path = sys.path[0]
+		forbid_files = []
+		remind_files = []
+		for file_commit in commitlist:
+			file_path_commit = "%s/%s" %(curGitWorkingDir,file_commit[3:])
+			#print "file_path_commit",file_path_commit
+			cmd = getoutput("cat %s/../conf/impact_mtkpatch/forbid_file_config | grep %s " %(patch_delivery_path ,file_path_commit))
+			if cmd != '':
+				forbid_files.append(cmd)
+			fo=file("%s/../conf/impact_mtkpatch/forbid_dir_config"%patch_delivery_path,"r")
+			forbid_dir=fo.readlines()
+			#print forbid_dir
+			for each_forbid_dir in forbid_dir:
+				each_forbid_dir=each_forbid_dir[:-1]
+				cmdforbid = getoutput("echo %s | grep %s " %(file_path_commit,each_forbid_dir) )
+				if cmdforbid != '':
+					forbid_files.append(cmdforbid)
+			fo=file("%s/../conf/impact_mtkpatch/remind_mtkproject" %patch_delivery_path,"r")
+			remind_name=fo.readlines()
+			for each_remind_name in remind_name:
+				each_remind_name=each_remind_name[:-1]
+				cmdremind = getoutput("echo %s | grep %s " %(file_path_commit,each_remind_name))
+				if cmdremind != '':
+					remind_files.append(cmdremind)               
+		if forbid_files != []:
+			print "\033[31mNotice! %s is MTK default file,which not allowed to upload. Pls choice right JRD file \033[0m\n " % ','.join(forbid_files)
+			self.CreateMessageDialog("[Notice!!] "+ ','.join(forbid_files)+" is MTK default file,which not allowed to upload.Pls choice right JRD file",'Merge Info') 
+			#return False
+		if  remind_files != []:
+			print "\033[31m[Notice!!] the commited contents %s is MTK Project Config file.You need merge it to JRD Project Config file\033[0m\n" % ','.join(remind_files)
+			self.CreateMessageDialog("[Notice!!] the commited contents "+ ','.join(remind_files)+" is MTK Project Config file.You need merge it to JRD Project Config file","Merge Info") 
+		return True                                                         
+        #end added by zhaoshie 2016-3-2
+		
+	def patchdelivery(self, event):		
+		if self.GetMessage():
+			self.msg.gitnameValue=self.gitname.GetValue()
+			if not self.msg.gitnameValue:
+				self.CreateMessageDialog('\n' +"\"选择git库进行merge或发patch\" 不能为空"+ '\n','Input Error' )
+				return False
+		patch_delivery_path	= getoutput('dirname %s' % sys.argv[0])		
+		if self.msg.gitnameValue != 'All':
+			curGitWorkingDir = self.codeRepoDir + self.msg.gitnameValue	
+			os.chdir(curGitWorkingDir)
+			print "patch_delivery_path",patch_delivery_path	
+			#getoutput('/local/code/upload/scm_tools/tools/patch_delivery_gui_main %s %s %s' % (self.msg.mtkpatchTypeValue,self.msg.mtkpatchVNumValue,self.msg.mtkpatchPNumValue))				
+			sub=subprocess.Popen('%s/patch_delivery_gui_main %s %s %s' % (patch_delivery_path,self.msg.mtkpatchTypeValue,self.msg.mtkpatchVNumValue,self.msg.mtkpatchPNumValue),shell=True)
+			sub_r=sub.wait()
+
+		else:
+			print "self.importID",self.importID
+			print "patch_delivery_path",patch_delivery_path	
+			#getoutput('/local/code/upload/scm_tools/tools/patch_delivery_gui_main %s %s %s %s' % (self.msg.mtkpatchTypeValue,self.msg.mtkpatchVNumValue,self.msg.mtkpatchPNumValue,self.importID))
+			sub=subprocess.Popen('%s/patch_delivery_gui_main %s %s %s %s' % (patch_delivery_path,self.msg.mtkpatchTypeValue,self.msg.mtkpatchVNumValue,self.msg.mtkpatchPNumValue,self.importID),shell=True)
+			sub_r=sub.wait()
+		self.list8.Set(self.dbconnect.getUnpatchedGits(self.importID,[0]))
+		self.list9.Set(self.dbconnect.getUnpatchedGits(self.importID,[1]))
+		self.list10.Set(self.dbconnect.getUnpatchedGits(self.importID,[2]))
+
+			#os.system('/local/code/upload/scm_tools/tools/patch_delivery_gui_main %s %s %s %s' % (self.msg.mtkpatchTypeValue,self.msg.mtkpatchVNumValue,self.msg.mtkpatchPNumValue,self.importID))
+
+
+	#ok
+	def OnOk(self, event):
+		if self.GetMessage():
+			self.msg.gitnameValue=self.gitname.GetValue()
+			print "self.msg.gitnameValue -----",self.msg.gitnameValue
+			if not self.msg.gitnameValue:
+				self.CreateMessageDialog('\n' +"\"选择git库进行merge或发patch\" 不能为空"+ '\n','Input Error' )
+				return False
+			if self.msg.gitnameValue == 'All':
+				for eachgitname in self.allGitName:
+					mergeSatus = self.dbconnect.getGitNameStatus(self.importID,eachgitname)				
+					if mergeSatus==1 or mergeSatus==2:
+						messageinfo = "git库: "+eachgitname+"在这之前已经merge成功,不再进行merge操作"#,是否需要重新merge?"
+						self.CreateMessageDialog(messageinfo,'Merge Info')
+						continue
+						#else:
+							#curGitWorkingDir = self.codeRepoDir + eachgitname
+							#os.chdir(curGitWorkingDir)
+							#os.system("git reset --hard HEAD;cd %s;repo sync %s" % (self.codeRepoDir,self.msg.gitnameValue))			
+					self.mergeInfo(eachgitname)
+					os.system("rm -rf /tmp/mtkpatch_logs/*")
+			else:
+				mergeSatus = self.dbconnect.getGitNameStatus(self.importID,self.msg.gitnameValue)
+				if mergeSatus in [1,2]:
+					string_remind = "git库: "+self.msg.gitnameValue+"在这之前已经merge成功，是否需要重新merge?" 
+					if self.CrtMessageDialog(string_remind, 'merge again'):
+						curGitWorkingDir = self.codeRepoDir + self.msg.gitnameValue
+						os.chdir(curGitWorkingDir)
+						os.system("git reset --hard HEAD;cd %s;repo sync %s" % (self.codeRepoDir,self.msg.gitnameValue))			
+					 	self.mergeInfo(self.msg.gitnameValue)
+				else:
+					self.mergeInfo(self.msg.gitnameValue)
+				os.system("rm -rf /tmp/mtkpatch_logs/*")
+
+
+	def mergeInfo(self,gitnameValue) :
+			lastpatchNum = ''
+			curGitWorkingDir = self.codeRepoDir + gitnameValue
+			print "self.msg.mtkpatchPNumValue",self.msg.mtkpatchPNumValue
+			match = re.match('P(.*)',self.msg.mtkpatchPNumValue)
+			if match:
+				lastpatchNum = int(match.group(1)) - 1
+			if not os.path.isdir(curGitWorkingDir):
+				self.CreateMessageDialog('\n' + curGitWorkingDir + " not exist.Please check your code."+ '\n','Directory Error!')
+				return False
+
+			os.chdir(curGitWorkingDir)
+			print "curGitWorkingDir",curGitWorkingDir
+			print "self.commitidDict[gitnameValue]",self.commitidDict[gitnameValue]
+			cherryPickInfo = getoutput('git cherry-pick %s' % self.commitidDict[gitnameValue])
+			modified_files_status = getoutput('git status')
+			print "cherryPickInfo",cherryPickInfo
+			#There are modifications before you merged
+			if "error: Your local changes to the following files would be overwritten by merge:" in cherryPickInfo:
+				if len(cherryPickInfo)>1500:
+					cherryPickInfo = cherryPickInfo[0:1000]
+				messageinfo = "merge " + gitnameValue +" 失败信息:" + '\n' + cherryPickInfo + '\n'+ '\n' + '本git库中存在你修改过的文件' + '\n'+ '\n' + '请先处理这些文件再重新merge'+ '\n'
+				self.dbconnect.setGitNamesForDiffStatus(self.importID, 3, gitnameValue)				
+				self.nomerged = self.dbconnect.getGitNamesForDiffStatus(self.importID,0)
+				self.mergedfailotherreason = self.dbconnect.getGitNamesForDiffStatus(self.importID,3)
+				#if gitnameValue not in self.mergedfailotherreason:
+					#self.mergedfailotherreason.append(gitnameValue)
+				#if gitnameValue in self.nomerged:
+					#self.nomerged.remove(gitnameValue)
+
+				self.list7.Set(self.mergedfailotherreason)
+				self.list4.Set(self.nomerged)
+				self.CreateMessageDialog(messageinfo,'Merge Info')
+			elif  "hint: after resolving the conflicts, mark the corrected paths" in cherryPickInfo:
+				if len(cherryPickInfo)>1500:
+					cherryPickInfo = cherryPickInfo[0:1000]
+				tmpdirpnum = "/tmp/"+ self.importBranchValue + "/" + self.msg.mtkpatchPNumValue + '/'
+				if not os.path.isdir(tmpdirpnum):
+					os.system('mkdir -p %s' % tmpdirpnum)
+				tmpdirlastpnum = "/tmp/"+ self.importBranchValue + "/"+"P" + str(lastpatchNum)+ 'or_older/'
+				if not os.path.isdir(tmpdirlastpnum):
+					os.system('mkdir -p %s' % tmpdirlastpnum)
+				#There are confict files,Please use git status to check modified files and confict files
+				#messageinfo = "Failed Info:" + '\n' + cherryPickInfo + '\n'+ '\n' + "Merge files status:"+ "\n" + modified_files_status + "\n" + "Please make sure your code is new and check the error info"
+				messageinfo = "merge " + gitnameValue + " 失败信息:" + '\n' + cherryPickInfo + '\n'+ '\n' + 'merge过程中有冲突' + '\n'+ '\n' + 'Yes:在自动弹出的Meld工具中解决冲突,'+ '\n' +'下载import分支文件需要时间，请耐心等待.'+ '\n' +'No:脚本不处理冲突,在自动弹出gedit中查看git status文件状态!'+ '\n'
+				print "cherry pick failed,please check failed infomation as following:"
+				print "%s" % cherryPickInfo
+				if self.CrtMessageDialog(messageinfo,'Merge Info'):
+					print "merge result as following:" 
+					print "%s" % modified_files_status
+					self.confictFiles = []
+					self.confictFiles = self.getConfictFileList(modified_files_status)
+					print "self.confictFiles",self.confictFiles
+					tmpdir_for_copy = curGitWorkingDir + '_tmp'
+					if not os.path.isdir(tmpdir_for_copy):
+						os.system('mkdir -p %s' % tmpdir_for_copy)
+					else:
+						os.system('rm -rf %s' % tmpdir_for_copy)
+						os.system('mkdir -p %s' % tmpdir_for_copy)
+					os.system('cp -r %s/.git %s' % (curGitWorkingDir,tmpdir_for_copy))
+					os.chdir(tmpdir_for_copy)
+					os.system('git reset --hard HEAD;git checkout %s' % self.commitidDict[gitnameValue])
+					filedict = {}
+					for eachfile in self.confictFiles:
+						print "eachfile",eachfile
+						#os.system('git checkout %s' % self.commitidDict[gitnameValue])
+						filename = eachfile.split('/')[-1]
+						if eachfile not in filedict.keys():
+							filedict[eachfile] ={}
+						filetmp = tmpdirpnum + eachfile.split(filename)[0]
+						new_value = filetmp + '/' + filename
+						filedict[eachfile]['new'] = new_value
+						if not os.path.isdir(filetmp):
+							os.system('mkdir -p %s' % filetmp)
+						os.system('cp ./%s %s' % (eachfile,filetmp))
+					lastcommitid = ''
+					lastcommitid = self.getlastcommitid(lastpatchNum)
+					#lastcommitid = self.getlastcommitid(self.commitidDict[gitnameValue])
+					#os.system('git checkout %s' % lastcommitid)
+					for eachfile in self.confictFiles:
+						os.system('git checkout %s' % lastcommitid)
+						filename = eachfile.split('/')[-1]
+						filetmp = tmpdirlastpnum + eachfile.split(filename)[0]
+						if not os.path.isdir(filetmp):
+							os.system('mkdir -p %s' % filetmp)
+						old_value = filetmp + '/' + filename
+						filedict[eachfile]['old'] = old_value
+						os.system('cp ./%s %s' % (eachfile,filetmp))
+					print "filedict",filedict
+					os.system('rm -rf %s' % tmpdir_for_copy)
+					os.chdir(curGitWorkingDir)
+					for item,value in filedict.items():
+						if os.path.exists(value['old']) and os.path.exists(value['new']):
+							sub=subprocess.Popen('meld %s %s %s' % (value['old'],value['new'],item),shell=True)
+							sub_r=sub.wait()
+						else:
+							self.meldfailed = True
+							print "file is not existing"						
+					os.system('rm -rf %s' % tmpdirpnum)
+					os.system('rm -rf %s' % tmpdirlastpnum)
+					os.chdir(curGitWorkingDir)
+					if self.meldfailed:
+						self.dbconnect.setGitNamesForDiffStatus(self.importID,3,gitnameValue)
+						messageinfo = "\n" + gitnameValue + " 不能在Meld工具中" + " 解决冲突 !" + "\n" + "用其他方式解决" + "\n" + "冲突解决完之后请执行git reset HEAD命令再patch delivery"
+						self.CreateMessageDialog(messageinfo,'Git status')
+					else:
+						self.dbconnect.setGitNamesForDiffStatus(self.importID,2,gitnameValue)
+						os.system('git reset HEAD')
+						messageinfo = "\n" + "Fix " + gitnameValue + " conflicted files OK !" + "\n" + "点击Yes后將在自动弹出的gedit中查看git status内容, No不查看" + "\n"
+						if self.CrtMessageDialog(messageinfo,'Git status'):
+							status_file_name = 'git_status_fixconflict'
+							self.openStatus(status_file_name)
+					self.nomerged = self.dbconnect.getGitNamesForDiffStatus(self.importID,0)
+					self.mergedfail = self.dbconnect.getGitNamesForDiffStatus(self.importID,2)
+					self.mergedfailotherreason = self.dbconnect.getGitNamesForDiffStatus(self.importID,3)
+					#if not self.meldfailed:	
+						#if gitnameValue not in self.mergedfail:
+							#self.mergedfail.append(gitnameValue)
+					#elif gitnameValue not in self.mergedfailotherreason:
+						#self.mergedfailotherreason.append(gitnameValue)
+
+					#if gitnameValue in self.nomerged:
+						#self.nomerged.remove(gitnameValue)
+					#elif not self.meldfailed and gitnameValue in self.mergedfailotherreason:
+						#self.mergedfailotherreason.remove(gitnameValue)				
+					self.list6.Set(self.mergedfail)
+					self.list4.Set(self.nomerged)
+					self.list7.Set(self.mergedfailotherreason)
+					self.meldfailed = False
+				else:
+					print "Do not deal with conficted files"
+					status_file_name = 'git_status_conflict'
+					self.openStatus(status_file_name)
+					#if gitnameValue not in self.mergedfailotherreason:
+						#self.mergedfailotherreason.append(gitnameValue)
+					#if gitnameValue in self.nomerged:
+						#self.nomerged.remove(gitnameValue)
+					self.dbconnect.setGitNamesForDiffStatus(self.importID,3,gitnameValue)
+					self.nomerged = self.dbconnect.getGitNamesForDiffStatus(self.importID,0)
+					self.mergedfailotherreason = self.dbconnect.getGitNamesForDiffStatus(self.importID,3)
+					self.list7.Set(self.mergedfailotherreason)
+					self.list4.Set(self.nomerged)
+					messageinfo = "\n"  +  "请手动解决"+gitnameValue+"中冲突文件内容;" + "\n" + "冲突解决完之后请手动执行git reset HEAD命令后再patch delivery"+ "\n"
+					self.CreateMessageDialog(messageinfo,'git conflict')
+
+
+				return False
+
+			elif "The previous cherry-pick is now empty, possibly due to conflict resolution" in cherryPickInfo:
+				#Nothing need to merge,Please check whether the mtk patch has been merged by others
+				messageinfo = "\n" + gitnameValue + " 没有内容需要merge," + "\n" + "请确认此patch是否已被merge到此开发分支."
+				print "nothing need to merge"
+				#if gitnameValue in self.nomerged:
+					#self.nomerged.remove(gitnameValue)
+				self.dbconnect.setGitNamesForDiffStatus(self.importID,3,gitnameValue)
+				self.CreateMessageDialog(messageinfo,'Merge Info')
+				self.nomerged = self.dbconnect.getGitNamesForDiffStatus(self.importID,0)
+				self.mergedfailotherreason = self.dbconnect.getGitNamesForDiffStatus(self.importID,3)
+				print "self.nomerged,self.mergedfailotherreason",self.nomerged,self.mergedfailotherreason		
+				self.list4.Set(self.nomerged)
+				self.list7.Set(self.mergedfailotherreason)
+				
+				
+			elif "fatal:" in cherryPickInfo:
+				#Please make sure your code is newest,Please get the newest code and then merge again
+				messageinfo = "merge " + gitnameValue + " 失败信息:" + '\n' + cherryPickInfo + '\n'+ '\n' +  "请确认你本地代码是否已取到最新" + '\n'+ '\n' +"请將代码取到服务器最新后重新merge" + '\n' + '\n' 
+				print "cherry pick failed,please check failed infomation as following:"
+				print "%s" % cherryPickInfo
+				#if gitnameValue not in self.mergedfailotherreason:
+					#self.mergedfailotherreason.append(gitnameValue)
+				#if gitnameValue in self.nomerged:
+					#self.nomerged.remove(gitnameValue)
+				self.dbconnect.setGitNamesForDiffStatus(self.importID,3,gitnameValue)
+				self.nomerged = self.dbconnect.getGitNamesForDiffStatus(self.importID,0)
+				self.mergedfailotherreason = self.dbconnect.getGitNamesForDiffStatus(self.importID,3)	
+				self.list7.Set(self.mergedfailotherreason)
+				self.list4.Set(self.nomerged)
+				self.CreateMessageDialog(messageinfo,'Merge Info')
+				return False
+
+			else:				
+				print "merge成功!"
+				#Please check the git status log and git diff log in gedit
+				messageinfo = "\n" + "Merge " + gitnameValue + " 成功!" + "\n" + "Yes:將在自动弹出的gedit中依次查看 git status跟git diff内容, No:不查看" + "\n"
+				os.system('git reset HEAD^')
+				###modified_files_list = getoutput('git status')
+				####print 	"all modified files list", modified_files_list
+				self.filelist = []
+				self.GetModifyFile(self.filelist)
+				####self.list1.Set(self.filelist)						
+				####diff_file = getoutput('git diff').split('\n')
+				####self.list2.Set(diff_file)
+				#if gitnameValue not in self.mergedsuccess:
+					#self.mergedsuccess.append(gitnameValue)
+				#if gitnameValue in self.nomerged :
+					#self.nomerged.remove(gitnameValue)
+				#elif gitnameValue in self.mergedfailotherreason :
+					#self.mergedfailotherreason.remove(gitnameValue)
+				self.dbconnect.setGitNamesForDiffStatus(self.importID,1,gitnameValue)				
+				self.nomerged = self.dbconnect.getGitNamesForDiffStatus(self.importID,0)
+				self.mergedsuccess = self.dbconnect.getGitNamesForDiffStatus(self.importID,1)
+				self.mergedfailotherreason = self.dbconnect.getGitNamesForDiffStatus(self.importID,3)
+				#self.patchedsuccess = common.getUnpatchedGits(self.importID,[1])
+				self.list5.Set(self.mergedsuccess)
+				self.list4.Set(self.nomerged)
+				self.list7.Set(self.mergedfailotherreason)
+				if self.CrtMessageDialog(messageinfo,'Merge Info'):
+					status_file_name = 'git_status_check'
+					self.openStatus(status_file_name)
+					diff_file_name='git_diff_check'
+					self.openDiff(diff_file_name)
+				else:
+					print "Do nothing."
+				self.check_mtkfile_from_commit_contents(self.filelist,gitnameValue)			
+			return
+
+	def openStatus(self, filename):		
+		modify_log = "%s/%s.log" % (self.temdir,filename)
+		if os.path.exists(modify_log):
+			os.system('rm -rf modify_log')
+		STATUS=open(modify_log,'w')
+		git_status=getoutput('git status')
+		STATUS.write(git_status)
+		STATUS.close()
+		sub=subprocess.Popen('gedit --new-window -w  --encoding=utf-8 %s' % modify_log,shell=True)
+		sub_r=sub.wait()
+
+
+	def openDiff(self, filename):
+		git_diff_log = "%s/%s.log" % (self.temdir,filename)
+		DIFF=open(git_diff_log,'w')
+		git_diff=getoutput('git diff')
+		DIFF.write(git_diff)
+		DIFF.close()
+		sub=subprocess.Popen('gedit --new-window -w  --encoding=utf-8 %s' % git_diff_log,shell=True)
+		sub_r=sub.wait()			
+
+	def getConfictFileList(self, gitStatusStr):
+		gitStatusList = gitStatusStr.split("\n")
+		confictFiles = []
+		for item in gitStatusList:
+			match = re.match('.*both modified:\s*(.*)',item)
+			if match:
+				if match.group(1) not in confictFiles:
+					confictFiles.append(match.group(1))
+		return confictFiles
+
+	def getlastcommitid(self,lastpatchNum):
+		os.system('git reset --hard HEAD^')
+		#lastpatch = 'porting P'#+str(lastpatchNum)
+		loginfo = ''
+		lastcommitid = ''		
+		#print "lastpatch",lastpatch
+		#while True:
+			#loginfo = getoutput('git log -1')
+			#if lastpatch in loginfo:
+				#break
+			#os.system('git reset --hard HEAD^')
+		loginfo = getoutput('git log -1')
+		print "loginfo", loginfo
+		match = re.match('commit\s*(.*)',loginfo)
+		if match:
+			lastcommitid = match.group(1)
+		return lastcommitid
+
+	def getlastcommitid_new(self, curcommitid):
+		lastcommitid = ''
+		loginfo = getoutput('git log -2')
+		for line in loginfo:
+			match_commitid = re.search('^commit/s*(.*)',line)
+			if match_commitid:
+				match_commitid.group(1)==curcommitid
+				continue
+				lastcommitid_tmp = match_commitid.group(1)
+		return lastcommitid
+
+	#cancel
+	def OnCancel(self, event):
+		print "no need merge"
+		sys.exit(0)
+		return
+
+
+	#reset
+	def OnReset(self, event):
+		#self.mtkpatchVNum.SetValue("")
+		#self.mtkpatchPNum.SetValue("")
+		#self.mtkpatchType.SetValue("")
+		self.gitname.SetValue("")
+		#self.devbranchname.SetValue("")
+		#self.importbranchname.SetValue("")
+		self.getimportcommitid.SetValue("")
+		#self.file = self.filelist[:]
+		#self.list1.Set([])
+		#self.list2.Set([])
+		return
+	
+	def GetModifyFile(self, filelist):
+		temp2 = os.popen("git status ./ -uno | awk '/renamed/' | awk '{print  $3\" \"$4\" \"$5}'")
+		temp5 = os.popen("git ls-files -d | awk '{print  $1}'")
+		temp6 = os.popen("git ls-files -m | awk '{print  $1}'")
+		temp7 = os.popen("git ls-files -o --exclude-standard | awk '{print  $1}'");
+		self.fileDic = {}
+		temList = []
+		for lines in temp2.readlines():
+			filelist.append('R--%s'%lines[:-1])
+			self.fileDic['R--%s'%lines[:-1]]='unselect_renamed'
+			temList.append(lines[:-1])
+		for lines in temp5.readlines():
+			if lines[:-1] in temList:
+				continue
+			temp = 'D--%s'%lines[:-1]
+			filelist.append(temp)
+			temList.append(lines[:-1])
+			self.fileDic[temp]='unselect_deleted'
+		for lines in temp6.readlines():
+			temp = 'M--%s'%lines[:-1]
+			if lines[:-1] in temList:
+				continue
+			filelist.append(temp)
+			temList.append(lines[:-1])
+			self.fileDic[temp]='unselect_modified'
+		for lines in temp7.readlines():
+			temp = 'A--%s'%lines[:-1]
+			if lines[:-1] in temList:
+				continue
+			filelist.append(temp)
+			temList.append(lines[:-1])
+			self.fileDic[temp]='unselect_added'
+		#print self.fileDic		
+		return
+	
+	def getgitNameButtom(self, event):
+		self.gitname.SetValue('')
+		#self.getimportcommitid.SetValue('')
+		if self.GetMessage():
+			self.getAllGitName()
+		self.allGitName.sort(reverse=True)
+		self.allGitName_addAll = ['All'] + self.allGitName
+		self.gitname.SetItems(self.allGitName_addAll)
+		####self.patchgitnames.SetItems(self.allGitName_addAll)
+		#self.nomerged = copy.deepcopy(self.allGitName)
+		self.nomerged = self.dbconnect.getGitNamesForDiffStatus(self.importID,0)
+		self.mergedsuccess = self.dbconnect.getGitNamesForDiffStatus(self.importID,1)
+		self.mergedfail = self.dbconnect.getGitNamesForDiffStatus(self.importID,2)
+		self.mergedfailotherreason = self.dbconnect.getGitNamesForDiffStatus(self.importID,3)				
+		self.nopatched = self.dbconnect.getUnpatchedGits(self.importID,[0])
+		self.patchedsuccess = self.dbconnect.getUnpatchedGits(self.importID,[1])
+		self.patchedfail = self.dbconnect.getUnpatchedGits(self.importID,[2])
+		print "self.nomerged",self.nomerged
+		self.list4.Set(self.nomerged)
+		self.list5.Set(self.mergedsuccess)
+		self.list6.Set(self.mergedfail)
+		self.list7.Set(self.mergedfailotherreason)
+		self.list8.Set(self.nopatched)
+		self.list9.Set(self.patchedsuccess)
+		self.list10.Set(self.patchedfail)
+
+	# clear value and get vmun and pnum form db
+	def getNewVunAndPnumList(self,event):		
+		####self.getimportcommitid.SetValue('')
+		self.mtkpatchVNum.SetValue('')
+		self.mtkpatchPNum.SetValue('')
+		self.gitname.SetValue('')
+		self.mtkpatchVNum.SetItems([])
+		self.mtkpatchPNum.SetItems([])
+		self.gitname.SetItems([])
+		patchTypeItem = self.mtkpatchType.GetSelection()
+		print "select patchTypeItem : %s" % patchTypeItem
+		patchTypeValue = self.mtkPatchTypeList[patchTypeItem]
+		print "select patchTypeValue : %s" % patchTypeValue
+		self.getVnumAndPnumFromDB(patchTypeValue)
+		self.mtkpatchVNum.SetItems(self.vnum[0:self.lenofvnum])
+		self.list4.Set([])
+		self.list5.Set([])
+		self.list6.Set([])
+		self.list7.Set([])
+		self.list8.Set([])
+		self.list9.Set([])
+		self.list10.Set([])
+
+		#self.mtkpatchPNum.SetItems(self.pnum[0:self.lenofpnum])		 
+
+	def clearForMtkVnumUpdate(self,event):
+		vnum_value = self.mtkpatchVNum.GetValue()
+		mtkpatchType = self.mtkpatchType.GetValue()
+		self.getPnumFromDB(vnum_value,mtkpatchType)
+		print "self.pnum",self.pnum
+		self.mtkpatchPNum.SetItems(self.pnum[0:self.lenofpnum])
+		####self.getimportcommitid.SetValue('')
+		self.mtkpatchPNum.SetValue('')
+		self.list8.Set([])
+		self.list9.Set([])
+		self.list10.Set([])
+		
+
+	def getVendorNames(self,event):
+		self.getimportcommitid.SetValue('')		
+			
+
+class Message:
+	def __init__(self):
+		self.nextgitpath = '' 
+		#self.gitname = ''
+		#self.devBranchName = ''
+		#self.importBranchName = ''
+		#self.importCommitID = ''
+		self.confict = '' 
+		self.configContent = '' 
+		self.affectFilesInMergeResult = ''
+		self.mergeDetailModificationInResult = ''
+		#self.currProjectBranch = ''
+		self.importBranchValue = ''
+		self.vnum = []
+		self.pnum = []
+		self.mtkpatchVNum =''
+		self.mtkpatchPNum = ''
+		self.mtkpatchType = ''
+		self.patchgitnames = ''
+		self.mtkpatchVNumValue =''
+		self.mtkpatchPNumValue = ''
+		self.mtkpatchTypeValue = ''
+		self.lenofpnum = 0
+		self.projectID = ''
+		self.gitnameValue = ''
+		self.devBranchNameValue = ''	
+		self.importBranchNameValue = ''
+		self.importBranchCommitIDValue = ''
+
+class Commit:
+	def __init__(self):
+		self.repoDir = commands.getstatusoutput('pwd')[1]
+		self.gitNameList = []
+	#get project branch
+	def down_repo_branch(self):
+    		remote_name = getoutput("git remote -v | tail -1 | awk -F' ' '{print $1}'")
+    		branch = " "
+    		branch = getoutput("git branch -a | grep '\->' | sed -e 's/.*%s.//'" % remote_name) 
+    		return branch	
+
+	def down_git_branch(self):	
+    		branch = " "
+    		branch = getoutput("git branch | grep '*' | sed -e 's/\* //' ")
+    		return branch
+
+
+
+class dotProjectDb:
+	def __init__(self):
+		self.get_db_connection()		
+		self.unmgerged_importid_list = []		
+
+	def get_db_connection(self):
+		try:
+			print "%s Connect to prsm database" % datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+			self.db_conn = MySQLdb.connect(host="10.92.35.20", port=3306, user="INT_PATCH", passwd="Aa123456",db="dotproject",charset="utf8") #, charset="gbk"latin1
+			self.db_cursor = self.db_conn.cursor()
+			return self.db_cursor
+		except Exception, e:
+			print e
+			sys.exit(1)
+
+	def close_db(self):
+		print "%s Close the connection of prsm database..." % datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+		if self.db_conn:
+			print 'Closed DB connecion.'
+			self.db_conn.close()
+
+	def query(self, sql, one_record=True):
+		try:
+			self.db_cursor.execute(sql)
+			if one_record:
+ 				result = self.db_cursor.fetchone()
+ 			else:
+				result = self.db_cursor.fetchall()
+			return result
+		except Exception, e:
+			print "Exception:%s\nWhile execute %s" % (e, sql)
+			sys.exit(1)
+	#
+	def getImportBranchFromProjectID(self,DevBranchName):
+		ProjectIDList = self.getProjectIDFromDevBranchName(DevBranchName)
+		print "=====,ProjectIDList,=====",ProjectIDList
+		ProjectID = ''	
+		importbranch = ''	
+		for eachproject in ProjectIDList:
+			print "eachproject",eachproject
+			mysql = 'SELECT import_name FROM dotp_cts_branchs WHERE project_id="%s" and branch_flag=0 and branch_name="%s"' % (eachproject,DevBranchName)
+			print "getImportBranchFromProjectID",mysql
+			try:
+				result = self.query(mysql, True)
+				print "result",result
+				if not result or not result[0]:
+					print "the importbranch cannot be found in db when projectid is eachproject"		
+					continue						
+				else:
+					importbranch = result[0]
+					ProjectID = eachproject
+					print "importbranch ",importbranch												
+			except Exception, e:
+				print e
+				print "connect to prsm failed"
+				sys.exit(1)
+		print "-----",ProjectID,importbranch
+		return ProjectID,importbranch
+
+	def getImportBranchFromProjectID_simplex(self,DevBranchName):
+		projectID = self.getProjectIDFromDevBranchName_simplex(DevBranchName)
+		print "projectID",projectID
+		importBranch = ''	
+		GET_URL ="http://10.92.35.176/pms/project/mtkk-interface/0/getImportBranchFromProjectID?projectId=%s" % projectID
+		try:
+			print GET_URL
+			request = urllib2.Request(GET_URL)
+			response = urllib2.urlopen(request)
+			result = response.read() 
+			print "getImportBranchFromProjectID result", result
+		except urllib2.HTTPError, e:  
+			print "getImportBranchFromProjectID to simplex error !!"
+			print e
+			sys.exit(1)
+		result = eval(result)
+		importBranch = result['data']
+		return projectID,importBranch
+
+	#
+	def getProjectIDFromDevBranchName(self, DevBranchName):
+		print "DevBranchName",DevBranchName
+		projectIDList = []
+		#projectID = ''	
+		mysql = 'SELECT project_id FROM dotp_cts_branchs WHERE  branch_name="%s" and branch_flag=0' % DevBranchName
+		print "getProjectIDFromDevBranchName,mysql",mysql
+		try:
+			result = self.query(mysql, False)			
+			if result:
+				for item in result:
+					if item[0] not in projectIDList:						
+						projectIDList.append(item[0])
+				#projectIDList.sort()
+				#projectID = projectIDList[0]
+				print "projectIDList",projectIDList
+				#print "projectID ",projectID
+					
+			else:
+				print "can not get project id from dotp_cts_branchs"
+				sys.exit(1)			
+		except Exception, e:
+			print e
+			print "connect to prsm failed"
+			sys.exit(1)
+		return projectIDList
+
+	def getProjectIDFromDevBranchName_simplex(self, DevBranchName):
+		print "DevBranchName",DevBranchName
+		projectID = ''	
+		GET_URL ="http://10.92.35.176/pms/project/mtkk-interface/0/getProjectIDFromDevBranchName?devBranchName=%s" % DevBranchName
+		try:
+			print GET_URL
+			request = urllib2.Request(GET_URL)
+			response = urllib2.urlopen(request)
+			result = response.read() 
+			print "getProjectIDFromDevBranchName result", result
+		except urllib2.HTTPError, e:  
+			print "insertImportCommitIDInfo to simplex error !!"
+			print e
+			sys.exit(1)
+		result = eval(result)
+		projectID = result['data']
+		return projectID
+
+	def getallUngergedImportID(self,currProjectBranch):
+		print "currProjectBranch",currProjectBranch
+		mysql = 'SELECT import_id FROM dotp_mtk_merge WHERE merge_patch="%s" and merge_status=0' % currProjectBranch
+		print mysql
+		unmgerged_importid_list = []
+		try:
+			result = self.query(mysql, False)
+			if result:
+				for item in result:			
+					unmgerged_importid_list.append(item[0]) if item[0] not in unmgerged_importid_list	else ''
+				print "unmgerged_importid_list",unmgerged_importid_list
+			else:	
+				print "There is no unmerged mtk patch in branch %s" % currProjectBranch
+				sys.exit(1)
+		except Exception, e:
+			print e
+			print "connect to prsm failed"
+			sys.exit(1)
+		return unmgerged_importid_list
+
+	def getallUngergedImportID_simplex(self,DevBranchName):
+		print "DevBranchName",DevBranchName
+		unmgerged_importid_list = []	
+		GET_URL ="http://10.92.35.176/pms/project/mtkk-interface/0/getallUngergedImportID?mergePatch=%s" % DevBranchName
+		try:
+			print GET_URL
+			request = urllib2.Request(GET_URL)
+			response = urllib2.urlopen(request)
+			result = response.read() 
+			print "getallUngergedImportID_simplex result", result
+		except urllib2.HTTPError, e:  
+			print "getallUngergedImportID_simplex to simplex error !!"
+			print e
+			sys.exit(1)
+		result = eval(result)
+		unmgerged_importid_list = result['data']
+		return unmgerged_importid_list
+
+	def getVNumFromImportBranchName(self, ImportBranchName, projectid,mtkpatchType,currProjectBranch):
+		print "ImportBranchName",ImportBranchName		
+		print "projectid",projectid
+		print "mtkpatchType",mtkpatchType
+		self.unmgerged_importid_list = self.getallUngergedImportID(currProjectBranch)
+		print "self.unmgerged_importid_list",self.unmgerged_importid_list 
+		vnum = []
+		for import_id in self.unmgerged_importid_list:
+			print 	"import_id",import_id
+			mysql = 'SELECT vnum FROM dotp_mtk_import WHERE id="%s" and import_patch="%s" and patch_type="%s"' % (import_id,ImportBranchName,mtkpatchType)
+			print mysql
+			try:
+				result = self.query(mysql, False)
+				if result:
+					for item in result:	
+						if item[0] not in vnum:	
+							vnum.append(item[0].strip()) 
+					print "vnum value",vnum
+				else:
+					#if mtkpatchType == 'ALPS':
+						#mysql = 'SELECT vnum FROM dotp_mtk_import WHERE import_patch="%s" and project_id=%s and patch_type="MOLY" and merge_status=0' % (ImportBranchName,projectid)
+						#result = self.query(mysql, False)
+						#if result:
+							#for item in result:			
+								#vnum.append(item[0]) if item[0] not in vnum	else ''				
+							#print "vnum",vnum
+						#else:
+							#print "can not get pnum from dotp_mtk_import,no patch need to merge."
+							#sys.exit(1)
+					print "can not get pnum from dotp_mtk_import,no patch need to merge."
+					#sys.exit(1)			
+			except Exception, e:
+				print e
+				print "connect to prsm failed"
+				sys.exit(1)
+		return vnum
+
+
+	def getVNumFromImportBranchName_Simplex(self, ImportBranchName, projectid,mtkpatchType,currProjectBranch):
+		print "ImportBranchName",ImportBranchName		
+		print "projectid",projectid
+		print "mtkpatchType",mtkpatchType
+		self.unmgerged_importid_list = self.getallUngergedImportID_simplex(currProjectBranch)
+		print "self.unmgerged_importid_list",self.unmgerged_importid_list 
+		vnum = []
+		for import_id in self.unmgerged_importid_list:
+			print 	"import_id",import_id
+			GET_URL ="http://10.92.35.176/pms/project/mtkk-interface/0/getVNumFromImportBranchName?importId=%s" % import_id
+			try:
+				print GET_URL
+				request = urllib2.Request(GET_URL)
+				response = urllib2.urlopen(request)
+				result = response.read() 
+				print "getVNumFromImportBranchName result", result
+				result = eval(result)
+				vnum_tmp = result['data']
+				vnum.append(vnum_tmp) if vnum_tmp not in vnum else ''
+			except urllib2.HTTPError, e:  
+				print "getVNumFromImportBranchName to simplex error !!"
+				print e
+				sys.exit(1)	
+		return vnum
+
+	def getPNumFromImportBranchName(self, ImportBranchName, projectid,mtkpatchType,vnum,currProjectBranch):
+		print "ImportBranchName",ImportBranchName		
+		print "projectid",projectid
+		#unmgerged_importid_list = self.getallUngergedImportID(currProjectBranch)
+		pnum = []
+		for importid in self.unmgerged_importid_list:	
+			mysql = 'SELECT pnum FROM dotp_mtk_import WHERE id="%s" and import_patch="%s" and patch_type="%s" and vnum="%s"' % (importid,ImportBranchName,mtkpatchType,vnum)
+			try:
+				result = self.query(mysql, False)
+				if result:
+					for item in result:				
+						pnum.append(item[0]) if item[0] not in pnum	else ''
+					print "pnum",pnum
+				else:
+					print "can not get num from dotp_mtk_import"								
+			except Exception, e:
+				print e
+				print "connect to prsm failed"
+				sys.exit(1)
+		return pnum
+
+
+	def getPNumFromImportBranchName_simplex(self, ImportBranchName, projectid,mtkpatchType,vnum,currProjectBranch):
+		print "ImportBranchName",ImportBranchName		
+		print "projectid",projectid
+		#unmgerged_importid_list = self.getallUngergedImportID(currProjectBranch)
+		pnum = []
+		for importid in self.unmgerged_importid_list:	
+			GET_URL ="http://10.92.35.176/pms/project/mtkk-interface/0/getPNumFromImportBranchName?importId=%s" % importid
+			try:
+				print GET_URL
+				request = urllib2.Request(GET_URL)
+				response = urllib2.urlopen(request)
+				result = response.read() 
+				print "getPNumFromImportBranchName_simplex result", result
+			except urllib2.HTTPError, e:  
+				print "getPNumFromImportBranchName_simplex to simplex error !!"
+				print e
+				sys.exit(1)
+			result = eval(result)
+			pnum_tmp = result['data']
+			pnum.append(pnum_tmp) if pnum_tmp not in pnum else ''
+		return pnum
+
+
+	def getImportIDFromDb(self,importBranchNameValue,projectid,mtkpatchVNumValue,mtkpatchPNumValue,mtkpatchTypeValue):
+		importID = []	
+		mysql = 'SELECT id FROM dotp_mtk_import WHERE import_patch="%s" and project_id=%s and vnum="%s" and pnum="%s" and patch_type="%s"'% (importBranchNameValue,projectid,mtkpatchVNumValue,mtkpatchPNumValue,mtkpatchTypeValue)
+		print mysql
+		try:
+			result = self.query(mysql, False)
+			print result
+			if result:
+				for item in result: 
+					importID.append(item[0]) if item[0] not in importID	else ''
+				print "importID ",importID					
+			else:
+				print "can not get importID from dotp_mtk_import"
+				sys.exit(1)			
+		except Exception, e:
+			print e
+			print "connect to prsm failed"
+			sys.exit(1)
+		return importID
+
+
+	def getImportIDFromDb_simplex(self,importPatch,pnum,vnum,patchType,projectId):
+		importID = []	
+		GET_URL ="http://10.92.35.176/pms/project/mtkk-interface/0/getImportIDFromDb?importPatch=%s&pnum=%s&vnum=%s&patchType=%s&projectId=%s" % (importPatch,pnum,vnum,patchType,projectId)
+		try:
+			print GET_URL
+			request = urllib2.Request(GET_URL)
+			response = urllib2.urlopen(request)
+			result = response.read() 
+			print "getImportIDFromDb result", result
+		except urllib2.HTTPError, e:  
+			print "getImportIDFromDb to simplex error !!"
+			print e
+			sys.exit(1)
+		result = eval(result)
+		importID = result['data']['autoId']
+		return importID
+
+	def getCommitFromDb(self,importid,gitname):
+		commitid = []
+		for eachimportid in importid:
+			mysql = 'SELECT commit_id FROM dotp_mtk_commit WHERE import_id=%s and git_name="%s"'% (eachimportid,gitname)
+			print mysql
+			try:
+				result = self.query(mysql, True)
+				if result:
+					#commitid = result[0]
+					commitid.append(result[0]) if result[0] not in commitid	else ''
+					print "commitid ",commitid					
+				else:
+					print "can not get commit id from dotp_mtk_import"
+					sys.exit(1)			
+			except Exception, e:
+				print e
+				print "connect to prsm failed"
+				sys.exit(1)
+		return commitid
+
+
+	def getCommitFromDb_simplex(self, importid,gitname):
+		GET_URL ="http://10.92.35.176/pms/project/mtkk-interface/0/getCommitFromDb?importId=%s&gitName=%s" % (importid,gitname)
+		try:
+			print GET_URL
+			request = urllib2.Request(GET_URL)
+			response = urllib2.urlopen(request)
+			result = response.read() 
+			print "getCommitFromDb result", result
+		except urllib2.HTTPError, e:  
+			print "getCommitFromDb to simplex error !!"
+			print e
+			sys.exit(1)
+		result = eval(result)
+		commitId = result['data']['commitId']
+		return commitId
+
+
+	def getGitNamesFromDb(self,importid):
+		allGits = []	
+		mysql = 'SELECT git_name FROM dotp_mtk_commit WHERE import_id=%s'% (importid)
+		print mysql
+		try:
+			result = self.query(mysql, False)
+			if result:
+				for item in result:
+					if item[0] not in allGits:
+						allGits.append(item[0])						
+			else:
+				print "can not get git name from dotp_mtk_commit"
+				sys.exit(1)			
+		except Exception, e:
+			print e
+			print "connect to prsm failed"
+			sys.exit(1)
+		return allGits
+
+
+	def getGitNamesFromDb_simplex(self, importid):
+		GET_URL ="http://10.92.35.176/pms/project/mtkk-interface/0/getGitNamesFromDb?importId=%s" % importid
+		try:
+			print GET_URL
+			request = urllib2.Request(GET_URL)
+			response = urllib2.urlopen(request)
+			result = response.read() 
+			print "getGitNamesFromDb result", result
+		except urllib2.HTTPError, e:  
+			print "getGitNamesFromDb to simplex error !!"
+			print e
+			sys.exit(1)
+		result = eval(result)
+		gitnames = result['data']
+		return gitnames
+
+	def getGitNamesForDiffStatus(self,importid,status):
+		allGits = []	
+		mysql = 'SELECT git_name FROM dotp_mtk_commit WHERE import_id="%s" and merge_status="%s"'% (importid,status)
+		print mysql
+		try:
+			result = self.query(mysql, False)
+			print "result merge status",result
+			if result:
+				for item in result:
+					if item[0] not in allGits:
+						allGits.append(item[0])						
+			else:
+				print "can not get git name from dotp_mtk_commit"
+				#sys.exit(1)			
+		except Exception, e:
+			print e
+			print "connect to prsm failed"
+			sys.exit(1)
+		print "allgits===",allGits
+		return allGits	
+
+	def getGitNameStatus(self,importid,gitname):	
+		mysql = 'SELECT merge_status FROM dotp_mtk_commit WHERE import_id="%s" and git_name="%s"'% (importid,gitname)
+		print mysql		
+		try:
+			result = self.query(mysql, True)
+			print "result merge status",result[0]			
+		except Exception, e:
+			print e
+			print "connect to prsm failed"
+			sys.exit(1)
+		return result[0]
+
+	def setGitNamesForDiffStatus(self,importid,status,gitname):     
+		insertsql = 'UPDATE dotp_mtk_commit SET `merge_status` = %s WHERE import_id = "%s" AND git_name = "%s"'% (status,importid,gitname)
+		print "insertsql",insertsql
+		try:
+			self.db_cursor.execute(insertsql)
+			self.db_conn.commit()
+			return True
+		except Exception, e:
+			print e
+			print "connect to prsm failed"
+			return False
+
+	def getUnpatchedGits(self,importid,mergestatus):
+		allUnmergesGits = []    
+		if len(mergestatus)==2:
+			mysql = 'SELECT git_name FROM dotp_mtk_commit WHERE import_id=%s And ismerged!=1'% importid
+		else:
+			mysql = 'SELECT git_name FROM dotp_mtk_commit WHERE import_id=%s And ismerged=%s'% (importid,mergestatus[0])
+		print mysql
+		try:
+			result = self.query(mysql, False)
+			print result
+			if result:
+				for item in result:
+					if item[0] not in allUnmergesGits:
+						allUnmergesGits.append(item[0])                     
+			else:
+				print "no git name from dotp_mtk_commit which status is %s" % mergestatus
+				print "all gits has been patched for this mtk patch"
+            	#sys.exit(1)                
+		except Exception, e:
+			print e
+			print "connect to prsm failed"
+		return allUnmergesGits
+
+
+if __name__ == '__main__':
+    app = App()
+    app.MainLoop()
+

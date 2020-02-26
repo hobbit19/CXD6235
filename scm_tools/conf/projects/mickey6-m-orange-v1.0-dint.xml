@@ -1,0 +1,1728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6737/abi</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/art</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ART-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/bionic</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/bootable</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/build</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/dalvik</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/developers</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/development</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/device</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/docs</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/android-clat</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/android-mock</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/aac</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/androidplot</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ant-glob</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/antlr</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-commons-math</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-harmony</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-http</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-xml</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bison</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/blktrace</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/boringssl</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bouncycastle</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bsdiff</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bzip2</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/cblas</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ceres-solver</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/chromium-libpac</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/chromium-trace</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/chromium-webview</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/clang</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/cmockery</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/compiler-rt</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/conscrypt</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/crcalc</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/deqp</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/dexmaker</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/dhcpcd</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/dnsmasq</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/doclava</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/donuts</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DONUTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/drm_gralloc</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/drm_hwcomposer</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/droiddriver</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/e2fsprogs</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/easymock</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eclipse-basebuilder</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eigen</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/elfutils</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/embunit</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/emma</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/esd</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/expat</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eyes-free</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/f2fs-tools</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fdlibm</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fio</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/flac</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fonttools</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/freetype</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fsck_msdos</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/giflib</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/glide</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/google-breakpad</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/google-fonts</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/gptfdisk</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/gtest</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/guava</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/hamcrest</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/harfbuzz_ng</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/hyphenation-patterns</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/icu</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/iproute2</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ipsec-tools</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/iptables</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/iputils</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jack</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JACK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jarjar</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/javasqlite</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/javassist</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jdiff</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jemalloc</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jetty</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ORG-JETTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jhead</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ORG-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jmdns</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ORG-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jmonkeyengine</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jpeg</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsilver</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsmn</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsoncpp</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsr305</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/junit</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/kernel-headers</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ksoap2</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libavc</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libcap-ng</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libcxx</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libcxxabi</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libdrm</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libedit</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libexif</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libgsm</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libhevc</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/liblzf</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libmpeg2</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libmtp</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libnfc-nci</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libnfc-nxp</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libnl</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libogg</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libopus</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libpcap</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libphonenumber</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libpng</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libseccomp-helper</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBSECCOMP-HELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libselinux</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libssh2</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBSSH2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libunwind</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libusb</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libusb-compat</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libutf</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvncserver</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvorbis</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvpx</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvterm</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libxml2</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libyuv</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/linux-tools-perf</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/littlemock</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lld</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LLD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lldb</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LLDB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/llvm</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ltrace</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lz4</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lzma</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/marisa-trie</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/markdown</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mdnsresponder</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mesa3d</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/messageformat</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mksh</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mockftpserver</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mockito</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mockwebserver</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mp4parser</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mtpd</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nanohttpd</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nanopb-c</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/naver-fonts</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/netcat</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/netperf</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/neven</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nfacct</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nist-pkits</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nist-sip</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/noto-fonts</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/oauth</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/objenesis</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/okhttp</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/opencv</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/openfst</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-OPENFST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/openssh</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/owasp</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-OWASP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/parameter-framework</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/pcre</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/pdfium</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ppp</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/proguard</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/protobuf</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/regex-re2</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/replicaisland</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/robolectric</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/roboto-fonts</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/safe-iop</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/scrypt</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/selinux</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sepolicy</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sfntly</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/skia</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/slf4j</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/smali</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sonic</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sonivox</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/speex</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sqlite</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/squashfs-tools</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/srtp</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SRTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/strace</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/svox</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tagsoup</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tcpdump</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/timezonepicker-support</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinyalsa</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinycompress</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinyxml</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinyxml2</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/toybox</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tremolo</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/v8</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/valgrind</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/vboot_reference</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/vixl</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/vogar</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/webp</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/webrtc</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/wpa_supplicant_8</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/xmlwriter</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/xmp_toolkit</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/zlib</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/zopfli</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/zxing</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/frameworks</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/hardware</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/kernel</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/libcore</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/libnativehelper</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/modem</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MODEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/mtk6737_wimdata_ng/wcustores</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/mtk6737_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/ndk</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MTK6735-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/FMRadio</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-FMRADIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Bluetooth</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Browser</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Calculator</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Calendar</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Camera</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Camera2</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/CertInstaller</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/Contacts</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG--CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/DeskClock</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Dialer</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Email</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Exchange</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Gallery</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Gallery2</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/InCallUI</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-INCALLUI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/KeyChain</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Launcher2</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Launcher3</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Messaging</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Music</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/MusicFX</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Nfc</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Phone</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Protips</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Provision</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Settings</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SmartCardService</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SpareParts</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Stk</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Tag</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Terminal</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/TvSettings</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/experimental</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/MediaProvider</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/TvProvider</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/screensavers/Basic</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SCREENSAVERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/screensavers/WebView</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/services</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/Basic</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-WALLPAPERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GALAXY4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/pdk</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/platform_testing</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/android-emulator</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/devtools</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/eclipse</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DARWIN-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DARWIN-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DARWIN-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DARWIN-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DARWIN-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LINUX-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LINUX-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LINUX-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LINUX-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LINUX-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/libs</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/maven_repo</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/misc</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/ndk</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/python</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PYTHON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/sdk</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/tools</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/sdk</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MTK6735-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/system</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/tools</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MTK6735-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/arkamys</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-ARKAMYS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/silead</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-SILEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/dolby</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-DOLBY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/google</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-GOOGLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/jrdchz</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JRDCHZ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/jrdcom</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-JRDCOM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/mediatek</name>
+	<branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+	<baseline>MICKEY6-ORG-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6737/trusty</name>
+        <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+        <baseline>MICKEY6-ORG-TRUSTY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdMMITest</name>
+        <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+        <baseline>MICKEY6-ORG-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdSdcardUpgrade</name>
+        <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+        <baseline>MICKEY6-ORG-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdFindMyPhone</name>
+        <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+        <baseline>MICKEY6-ORG-JRDFINDMYPHONE-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdPlugger</name>
+        <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+        <baseline>MICKEY6-ORG-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/QuickTranslate</name>
+        <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+        <baseline>MICKEY6-ORG-QUICKTRANSLATE-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/AdvancedMobileLocation</name>
+        <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+        <baseline>MICKEY6-ORG-ADVANCEDMOBILELOCATION-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/TclTest</name>
+        <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+        <baseline>MICKEY6-ORG-TCLTEST-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/Mms</name>
+    <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+    <baseline>MTK67MICKEY6-ORGL-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6737/external/libvisidon_facebeauty</name>
+    <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+    <baseline>MICKEY6-ORG-LIBVISIDON-FACEBEAUTY-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/providers/FingerprintProvider</name>
+    <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+    <baseline>MICKEY6-ORG-FINGERPRINTPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdScreenShot</name>
+    <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+    <baseline>MICKEY6-ORG-JRDSCREENSHOT-P1.0</baseline>
+</project>
+ <project>
+    <name>tcl/packages/apps/WallpaperSelection</name>
+    <branch>refs/heads/mickey6-m-orange-v1.0-dint</branch>
+    <baseline>MICKEY6-ORG-WALLPAPERSELECTION-P1.0</baseline>
+</project>
+</projects>

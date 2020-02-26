@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>alps/babyd_wimdata_ng/liv</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wcustores</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wplmn</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WPLMN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wtheme</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WTHEME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wtime</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WTIME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bionic</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bootable</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/build</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/cts</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/dalvik</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/libcore</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/development</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/device</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/apache-http</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/astl</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-ASTL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bison</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blisrc</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BLISRC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blktrace</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/bluez</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BLUEZ-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/glib</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-GLIB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/hcidump</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-HCIDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bouncycastle</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bsdiff</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bzip2</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/chromium</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/clearsilver</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-CLEARSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dbus</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dhcpcd</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dnsmasq</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dropbear</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/e2fsprogs</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/easymock</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfcopy</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-ELFCOPY-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfutils</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/embunit</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/emma</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/esd</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/expat</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fdlibm</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fsck_msdos</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/genext2fs</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/giflib</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/grub</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-GRUB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/gtest</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/guava</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/icu4c</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-ICU4C-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iproute2</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ipsec-tools</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iptables</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jdiff</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jhead</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jpeg</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jsr305</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/junit</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/kernel-headers</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libffi</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libgsm</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libnfc-nxp</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpcap</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpng</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libvpx</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libxml2</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/mtpd</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netcat</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netperf</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/neven</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/nist-sip</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oauth</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/opencore</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-OPENCORE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/openssl</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-OPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oprofile</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-OPROFILE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ping</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-PING-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ppp</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/proguard</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/protobuf</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/qemu</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/quake</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-QUAKE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/safe-iop</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia_asm</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SKIA_ASM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sonivox</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/speex</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sqlite</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/srec</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SREC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/stlport</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-STLPORT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/strace</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/svox</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tagsoup</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tcpdump</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tinyxml</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tremolo</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/v8</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-V8-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/webkit</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WEBKIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WPA_SUPPLICANT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant_6</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WPA_SUPPLICANT_6-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/xmlwriter</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/yaffs2</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-YAFFS2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/zlib</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/frameworks</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/hardware</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/kernel</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mediatek</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/ndk</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/AccountsAndSyncSettings</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-ACCOUNTSANDSYNCSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Bluetooth</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Browser</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Calculator</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Calendar</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Camera</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CameraOpen</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-CAMERAOPEN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CellConnService</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-CELLCONNSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/CertInstaller</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Contacts</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/DeskClock</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Email</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Gallery3D</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-GALLERY3D-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Launcher2</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Mms</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MtkWallPaper</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-MTKWALLPAPER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Music</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Nfc</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Phone</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Protips</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Provision</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Settings</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Stk</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-STK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Tag</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/LauncherPlus</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-LAUNCHERPLUS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdFota</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/NotePad2</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/TrafficManager</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-TRAFFICMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/FileManager</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-FILEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/OTAProvisioningClient</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-OTAPROVISIONINGCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/DigitalClock</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-DIGITALCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JRDChargingScreen</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-JRDCHARGINGSCREEN-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdLauncher</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-JRDLAUNCHER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-JRDTCLHELP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/O2Ideas</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/SpeedDial</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-SPEEDDIAL-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/MusicWidget</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/MusicWidgetTMobile</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-MUSICWIDGETTMOBILE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/WorldClock</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-WORLDCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/experimental</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/inputmethods/PinyinIME</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-PINYINIME-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DrmProvider</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-GOOGLECONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/MediaProvider</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/wallpapers/Basic</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/app-android-v2.3</branch>
+	<baseline>ginapptemp-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/Basic</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WALLPAPERS_GLES20-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/LivePicker</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WALLPAPERS_GLES20-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MagicSmoke</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WALLPAPERS_GLES20-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MusicVisualization</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WALLPAPERS_GLES20-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/BookmarkWidget</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-BOOKMARKWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/ContactWidget</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-CONTACTWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/MMSWidget</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-MMSWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/MusicWidget</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WIDGETS-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/PhotoWidget</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-PHOTOWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/SystemClockWidget</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SYSTEMCLOCKWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/VideoWidget</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-VIDEOWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/WorldClockWidget</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-WORLDCLOCKWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>alps/prebuilt</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-PREBUILT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/sdk</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/system</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/vendor</name>
+	<branch>refs/heads/gin-app-temp-dint</branch>
+	<baseline>ginapptemp-VENDOR-P1.0</baseline>
+</project>
+</projects>
+

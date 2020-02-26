@@ -1,0 +1,1578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6735/libcore</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/dalvik</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/build</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/vendor</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-VENDOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/device</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/system</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/ndk</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/abi</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/hardware</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/bionic</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/cts</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/frameworks</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/development</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/sdk</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/kernel</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/modem</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MODEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/art</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ART-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/md32</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MD32-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jhead</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libffi</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/svox</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/srec</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/proguard</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jdiff</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/apache-http</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tremolo</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/strace</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/dhcpcd</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/webp</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mtpd</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/skia</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/bouncycastle</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libyuv</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libpng</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/clang</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/apache-xml</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/android-mock</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/liblzf</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/qemu</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/guava</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/dnsmasq</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/stlport</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jpeg</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ipsec-tools</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/netcat</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/blktrace</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/antlr</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/neven</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jsr305</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ppp</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libpcap</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libphonenumber</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/junit</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/embunit</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/wpa_supplicant_8</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/yaffs2</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/opencv</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jsilver</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/llvm</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/zlib</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/speex</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/srtp</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mksh</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/genext2fs</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/eyes-free</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/nist-sip</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/safe-iop</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/kernel-headers</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/qemu-pc-bios</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mesa3d</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/bzip2</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libgsm</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/iproute2</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libxml2</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/oauth</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/bison</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/webrtc</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/protobuf</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/emma</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/apache-harmony</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libvpx</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/google-diff-match-patch</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/gtest</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tinyxml</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/expat</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/doclava</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/netperf</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/sqlite</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/fdlibm</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tcpdump</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/freetype</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/bsdiff</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/bluetooth</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/giflib</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libnfc-nxp</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tinyalsa</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tagsoup</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/openssl</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/sonivox</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/flac</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/markdown</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/javassist</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/iptables</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/oprofile</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/e2fsprogs</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mockwebserver</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/easymock</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/esd</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/javasqlite</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/elfutils</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/fsck_msdos</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/valgrind</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/xmlwriter</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/replicaisland</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/aac</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/checkpolicy</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/chromium-trace</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/compiler-rt</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/dexmaker</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/eclipse-basebuilder</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ganymed-ssh2</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/gcc-demangle</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jmdns</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jmonkeyengine</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libmtp</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libselinux</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libsepol</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libunwind</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libusb</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libusb-compat</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/linux-tools-perf</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/littlemock</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mdnsresponder</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/openfst</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/hamcrest</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/regex-re2</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/sepolicy</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/smali</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/zxing</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ant-glob</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/arduino</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libnfc-nci</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libogg</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libppp</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libvorbis</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mp4parser</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/naver-fonts</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/okhttp</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/stressapptest</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tinyxml2</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libcap-ng</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/xmp_toolkit</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/eigen</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/harfbuzz_ng</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/lzma</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/robolectric</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/droiddriver</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/android-clat</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/roboto-fonts</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/owasp</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-OWASP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/nanopb-c</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/timezonepicker-support</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libexif</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jsoncpp</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JSONCPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/scrypt</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ceres-solver</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/noto-fonts</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/icu</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ICU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/zopfli</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jetty</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JETTY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/glide</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GLIDE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/nfacct</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NFACCT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/pixman</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/open-vcdiff</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jline</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JLINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libcxx</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBCXX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/f2fs-tools</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libutf</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBUTF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/smack</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SMACK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libcxxabi</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jsmn</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JSMN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/iputils</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libedit</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libhevc</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ksoap2</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-KSOAP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/nanohttpd</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/vixl</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-VIXL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libopus</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/pdfium</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PDFIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jemalloc</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/sfntly</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/marisa-trie</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/lldb</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LLDB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/cmockery</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/fonttools</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libnl</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBNL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libvterm</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/chromium-libpac</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ltrace</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/google-tv-pairing-protocol</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/deqp</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DEQP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tinycompress</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/objenesis</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mockito</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jarjar</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JARJAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/chromium_org</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/conscrypt</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/google-fonts</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/fio</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-FIO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/nist-pkits</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/libnativehelper</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/pdk</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/bootable</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/experimental</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/MediaProvider</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/TvProvider</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/Basic</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Browser</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/CertInstaller</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Music</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Calculator</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Contacts</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Gallery</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/SpareParts</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/KeyChain</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Protips</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Tag</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Stk</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-STK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Nfc</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Launcher2</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/MusicFX</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Provision</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Mms</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Email</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Calendar</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Settings</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Bluetooth</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Exchange</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/DeskClock</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/screensavers/Basic</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/screensavers/WebView</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Gallery2</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/OMA-DM</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-OMA-DM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Dialer</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Camera2</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Launcher3</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/TvSettings</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Camera</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/ManagedProvisioning</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Terminal</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TERMINAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/InCallUI</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/services</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SERVICES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/android-emulator</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/devtools</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/eclipse</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gradle-plugin</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/libs</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LIBS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/maven_repo</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/misc</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MISC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/ndk</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/python</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-PYTHON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/qemu-kernel</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/runtime</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-RUNTIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/sdk</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/tools</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/clang/darwin-x86</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/clang/linux-x86</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/darwin-x86/aarch64</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-AARCH64-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/darwin-x86/arm</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ARM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/darwin-x86/host</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-HOST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/darwin-x86/mips</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/darwin-x86/x86</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/linux-x86/aarch64</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-AARCH64-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/linux-x86/arm</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-ARM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/linux-x86/host</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-HOST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/linux-x86/mips</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/linux-x86/x86</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/tools</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/developers</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/docs</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdMMITest</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/mtk6735_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/mtk6735_wimdata_ng/wlanguage</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/mtk6735_wimdata_ng/wcustores</name>
+    <branch>refs/heads/pixi3-4.5-4g-v0.2-androidl-INTOnly</branch>
+    <baseline>PIXI345-4G-WCUSTORES-P1.0</baseline>
+</project>
+</projects>

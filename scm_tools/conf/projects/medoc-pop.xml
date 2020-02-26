@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>alps/babyd_wimdata_ng/liv</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wcustores</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wcustores-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wlanguage-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wplmn</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wplmn-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wprocedures-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wtheme</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wtheme-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wtime</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wtime-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/liv</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bionic</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-bionic-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bootable</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-bootable-P1.0</baseline>
+</project>
+<project>
+	<name>alps/build</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-build-P1.0</baseline>
+</project>
+<project>
+	<name>alps/cts</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-cts-P1.0</baseline>
+</project>
+<project>
+	<name>alps/dalvik</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-dalvik-P1.0</baseline>
+</project>
+<project>
+	<name>alps/libcore</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-libcore-P1.0</baseline>
+</project>
+<project>
+	<name>alps/development</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-development-P1.0</baseline>
+</project>
+<project>
+	<name>alps/device</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-device-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/apache-http</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-apache-http-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/astl</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-astl-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bison</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-bison-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blisrc</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-blisrc-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blktrace</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-blktrace-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/bluez</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-bluetooth-bluez-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/glib</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-bluetooth-glib-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/hcidump</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-bluetooth-hcidump-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bouncycastle</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-bouncycastle-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bsdiff</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-bsdiff-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bzip2</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-bzip2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/chromium</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-chromium-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/clearsilver</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-clearsilver-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dbus</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-dbus-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dhcpcd</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-dhcpcd-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dnsmasq</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-dnsmasq-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dropbear</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-dropbear-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/e2fsprogs</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-e2fsprogs-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/easymock</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-easymock-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfcopy</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-elfcopy-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfutils</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-elfutils-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/embunit</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-embunit-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/emma</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-emma-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/esd</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-esd-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/expat</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-expat-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fdlibm</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-fdlibm-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-freetype-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fsck_msdos</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-fsck_msdos-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/genext2fs</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-genext2fs-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/giflib</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-giflib-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/grub</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-grub-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/gtest</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-gtest-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/guava</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-guava-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/icu4c</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-icu4c-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iproute2</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-iproute2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ipsec-tools</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-freetype-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-ipsec-tools-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iptables</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-iptables-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jdiff</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-jdiff-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jhead</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-jhead-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jpeg</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-jpeg-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jsr305</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-jsr305-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/junit</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-junit-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/kernel</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-kernel-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libffi</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-libffi-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libgsm</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-libgsm-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libnfc-nxp</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-libnfc-nxp-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpcap</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-libpcap-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpng</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-libpng-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libvpx</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-libvpx-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libxml2</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-libxml2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/mtpd</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-mtpd-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netcat</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-netcat-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netperf</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-netperf-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/neven</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-neven-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/nist-sip</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-nist-sip-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oauth</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-oauth-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/opencore</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-opencore-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/openssl</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-openssl-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oprofile</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-oprofile-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ping</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-ping-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ppp</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-ppp-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/proguard</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-proguard-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/protobuf</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-protobuf-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/qemu</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-qemu-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/quake</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-quake-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/safe-iop</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-safe-iop-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-skia-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia_asm</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-skia_asm-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sonivox</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-sonivox-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/speex</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-speex-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sqlite</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-sqlite-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/srec</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-srec-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/stlport</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-stlport-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/strace</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-strace-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/svox</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-svox-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tagsoup</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-tagsoup-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tcpdump</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-tcpdump-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tinyxml</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-tinyxml-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tremolo</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-tremolo-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/v8</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-v8-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/webkit</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-webkit-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wpa_supplicant-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant_6</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wpa_supplicant_6-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/xmlwriter</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-xmlwriter-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/yaffs2</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-yaffs2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/zlib</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-zlib-P1.0</baseline>
+</project>
+<project>
+	<name>alps/frameworks</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-frameworks-P1.0</baseline>
+</project>
+<project>
+	<name>alps/kernel</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-kernel-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mediatek</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-mediatek-P1.0</baseline>
+</project>
+<project>
+	<name>alps/ndk</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-ndk-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-JrdTCLHelp-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-JrdAlcatelHelp-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MMITest</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-MMITest-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/AccountsAndSyncSettings</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-AccountsAndSyncSettings-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Bluetooth</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Bluetooth-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-JrdSetupWizard-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-JrdPowerSaver-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/TrafficManager</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-TrafficManager-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Browser</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Browser-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calculator</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Calculator-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calendar</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Calendar-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Camera</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Camera-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CameraOpen</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-CameraOpen-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CellConnService</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-CellConnService-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CertInstaller</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-CertInstaller-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Contacts</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DeskClock</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-DeskClock-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Email</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Email-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Gallery-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery3D</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Gallery3D-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-HTMLViewer-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Launcher2</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Launcher2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Mms</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Mms-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MtkWallPaper</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-MtkWallPaper-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Music</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Music-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Nfc</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Nfc-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-PackageInstaller-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Phone</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Phone-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Protips</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Protips-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Provision</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Provision-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-QuickSearchBox-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Settings</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Settings-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-SoundRecorder-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-SpeechRecorder-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Stk</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Stk-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Tag</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Tag-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-VoiceDialer-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/LauncherPlus</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-LauncherPlus-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/LeMei</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-LeMei-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CUService</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-CUService-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CUMobServe</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-CUMobServe-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CUWo3G</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-CUWo3G-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/TCLHotLine</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-TCLHotLine-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SpeedDial</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-SpeedDial-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/experimental</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-experimental-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-LatinIME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-OpenWnn-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-ApplicationsProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-CalendarProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-ContactsProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-DownloadProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DrmProvider</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-DrmProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-GoogleContactsProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/MediaProvider</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-MediaProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-TelephonyProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-UserDictionaryProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/Basic</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-Basic-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-LivePicker-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-MagicSmoke-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-MusicVisualization-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/Basic</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wallpapers_gles20-Basic-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/LivePicker</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wallpapers_gles20-LivePicker-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MagicSmoke</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wallpapers_gles20-MagicSmoke-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MusicVisualization</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-wallpapers_gles20-MusicVisualization-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/BookmarkWidget</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-widgets-BookmarkWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/ContactWidget</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-widgets-ContactWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/MMSWidget</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-widgets-MMSWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/MusicWidget</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-widgets-MusicWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/PhotoWidget</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-widgets-PhotoWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/SystemClockWidget</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-widgets-SystemClockWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/VideoWidget</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-widgets-VideoWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/WorldClockWidget</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-widgets-WorldClockWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/prebuilt</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-prebuilt-P1.0</baseline>
+</project>
+<project>
+	<name>alps/sdk</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-sdk-P1.0</baseline>
+</project>
+<project>
+	<name>alps/system</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-system-P1.0</baseline>
+</project>
+<project>
+	<name>alps/vendor</name>
+	<branch>refs/heads/medoc-v1.0-china-hz</branch>
+	<baseline>MEDOC-POP-vendor-P1.0</baseline>
+</project>
+</projects>

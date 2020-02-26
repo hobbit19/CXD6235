@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>sdd3/mtk6737m/mtk6737m_wimdata_ng/wcustores</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/mtk6737m_wimdata_ng/liv</name>
+	<branch>refs/heads/buzz6t-4g-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/mtk6737m_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/buzz6t-4g-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/mtk6737m_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/tcl/packages/apps/OrangeDialer</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DTDIALER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/JrdMMITest</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/JrdSdcardUpgrade</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/JrdFindMyPhone</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JRDFINDMYPHONE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/QuickTranslate</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-QUICKTRANSLATE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/AdvancedMobileLocation</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ADVANCEDMOBILELOCATION-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Contacts</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Mms</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libvisidon_facebeauty</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBVISIDON_FACEBEAUTY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/dalvik</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/build</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/libcore</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/trusty</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TRUSTY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/vendor/arkamys</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ARKAMYS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/vendor/dolby</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DOLBY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/vendor/google</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GOOGLE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/vendor/jrdchz</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JRDCHZ-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/vendor/jrdcom</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JRDCOM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/vendor/mediatek</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/device</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/system</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/ndk</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/abi</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/hardware</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/bionic</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/cts</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/frameworks</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/development</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/sdk</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/kernel</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/modem</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MODEM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/art</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ART-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/aac</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jhead</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/doclava</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/svox</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/proguard</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DRM_PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jdiff</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/apache-http</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/tremolo</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/strace</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/dhcpcd</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/webp</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/mtpd</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/skia</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/bouncycastle</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libyuv</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libpng</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/clang</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/apache-xml</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/liblzf</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/guava</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/dnsmasq</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jpeg</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/ipsec-tools</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/netcat</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/blktrace</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/antlr</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/neven</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-neven-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jsr305</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/ppp</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libpcap</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libphonenumber</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/junit</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/wpa_supplicant_8</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/opencv</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jsilver</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/llvm</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/zlib</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/speex</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/srtp</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SRTP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/mksh</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/eyes-free</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/nist-sip</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/safe-iop</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/kernel-headers</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/mesa3d</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/bzip2</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libgsm</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/iproute2</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libxml2</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/oauth</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/bison</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/webrtc</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/protobuf</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/emma</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/apache-harmony</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libvpx</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/gtest</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/tinyxml</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/expat</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/doclava</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/netperf</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/sqlite</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/fdlibm</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/tcpdump</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/freetype</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/bsdiff</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/giflib</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libnfc-nxp</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/tinyalsa</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/tagsoup</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/sonivox</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/flac</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/markdown</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/javassist</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/iptables</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/e2fsprogs</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/mockwebserver</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/easymock</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/esd</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/javasqlite</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/elfutils</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/fsck_msdos</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/valgrind</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/xmlwriter</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/replicaisland</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/chromium-trace</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/compiler-rt</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/dexmaker</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/eclipse-basebuilder</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jmdns</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libmtp</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libselinux</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libusb</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libusb-compat</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/linux-tools-perf</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/littlemock</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/mdnsresponder</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/hamcrest</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/regex-re2</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/sepolicy</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/smali</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/zxing</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/ant-glob</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libnfc-nci</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libogg</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libvorbis</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/mp4parser</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/naver-fonts</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/okhttp</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/tinyxml2</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libcap-ng</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/xmp_toolkit</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/eigen</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/harfbuzz_ng</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/lzma</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/robolectric</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/droiddriver</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/android-clat</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/owasp</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-OWASP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/nanopb-c</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/timezonepicker-support</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libexif</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jsoncpp</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/scrypt</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/ceres-solver</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/noto-fonts</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/icu</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/zopfli</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/glide</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/nfacct</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libcxx</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/f2fs-tools</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libutf</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libcxxabi</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jsmn</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/iputils</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libedit</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libhevc</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/ksoap2</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/nanohttpd</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/vixl</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libopus</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/pdfium</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jemalloc</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/sfntly</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/lldb</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LLDB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/cmockery</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/fonttools</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libnl</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/chromium-libpac</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/ltrace</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/deqp</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/tinycompress</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/objenesis</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/mockito</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jarjar</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/conscrypt</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/google-fonts</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/fio</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/nist-pkits</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libvterm</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/openfst</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-OPENFST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/pcre</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/libnativehelper</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/pdk</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/bootable</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/experimental</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/providers/MediaProvider</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/providers/TvProvider</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GALAXY4-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/wallpapers/Basic</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MTK6735-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Browser</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/CertInstaller</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Music</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Calculator</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Gallery</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/SpareParts</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/KeyChain</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Protips</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Tag</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Stk</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Nfc</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/FMRadio</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-FMRADIO-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Launcher2</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/MusicFX</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Provision</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Email</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Calendar</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Settings</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Bluetooth</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/ScreenshotEx</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SCREENSHOTEX</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Exchange</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-EXCHANEG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/DeskClock</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/screensavers/Basic</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/screensavers/WebView</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Gallery2</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Dialer</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Camera2</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Launcher3</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/TvSettings</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Camera</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/InCallUI</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-INCALLUI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Terminal</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/services</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/android-emulator</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/devtools</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/eclipse</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/libs</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/maven_repo</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/misc</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/ndk</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/python</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PYTHON-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/sdk</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/tools</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DARWIN-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DARWIN-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DARWIN-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DARWIN-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DARWIN-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LINUX-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LINUX-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LINUX-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LINUX-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LINUX-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/tools</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/developers</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/docs</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/apache-commons-math</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/boringssl</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/cblas</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/chromium-webview</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/crcalc</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ARCALC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/donuts</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DONUTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/drm_gralloc</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/drm_hwcomposer</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/google-breakpad</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/gptfdisk</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/hyphenation-patterns</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libavc</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libdrm</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libmpeg2</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/libvncserver</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/lld</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LLD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/lz4</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/mockftpserver</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/parameter-framework</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/selinux</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/slf4j</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/sonic</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/squashfs-tools</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/toybox</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/vboot_reference</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/vogar</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/v8</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-V8-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/apps/Messaging</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/platform_testing</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/android-mock</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/androidplot</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/embunit</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jack</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JACK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/external/jetty</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-JETTY-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6737m/external/jmonkeyengine</name>
+    <branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+    <baseline>BUZZ6T-4G-DT-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6737m/external/libseccomp-helper</name>
+    <branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+    <baseline>BUZZ6T-4G-DT-LIBSECCOMP-HELPER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6737m/external/libssh2</name>
+    <branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+    <baseline>BUZZ6T-4G-DT-LIBSSH2-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6737m/external/marisa-trie</name>
+    <branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+    <baseline>BUZZ6T-4G-DT-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6737m/external/messageformat</name>
+    <branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+    <baseline>BUZZ6T-4G-DT-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6737m/external/openssh</name>
+    <branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+    <baseline>BUZZ6T-4G-DT-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6737m/external/roboto-fonts</name>
+    <branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+    <baseline>BUZZ6T-4G-DT-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6737m/packages/apps/Phone</name>
+    <branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+    <baseline>BUZZ6T-4G-DT-PHONE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6737m/packages/apps/SmartCardService</name>
+    <branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+    <baseline>BUZZ6T-4G-DT-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6737m/vendor/silead</name>
+    <branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+    <baseline>BUZZ6T-4G-DT-SILEAD-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6737m/external/dta</name>
+    <branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+    <baseline>BUZZ6T-4G-DT-ROBOTO-DTA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd3/mtk6737m/vendor/nxp</name>
+	<branch>refs/heads/buzz6t-4g-dt-v1.0-dint</branch>
+	<baseline>BUZZ6T-4G-DT-NXP-P1.0</baseline>
+</project>
+</projects>

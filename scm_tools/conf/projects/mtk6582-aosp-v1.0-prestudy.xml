@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6582/art</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ART-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/dalvik</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/build</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/libcore</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/vendor</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-VENDOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/device</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/system</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/ndk</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/abi</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/hardware</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/bionic</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/cts</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/frameworks</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/development</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/developers</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/sdk</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/kernel-3.4</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-KERNEL-3.4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/tools</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/md32</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MD32-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jhead</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libffi</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/svox</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/srec</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/proguard</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jdiff</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-http</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/harfbuzz</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tremolo</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/strace</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dhcpcd</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/webp</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mtpd</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/skia</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bouncycastle</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dropbear</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libyuv</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libpng</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/clang</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-xml</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/android-mock</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/liblzf</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/qemu</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/guava</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dnsmasq</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/stlport</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jpeg</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ipsec-tools</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/netcat</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/blktrace</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/antlr</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/neven</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jsr305</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/v8</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-V8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ppp</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libpcap</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libphonenumber</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/junit</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/embunit</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/hyphenation</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/wpa_supplicant_8</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/yaffs2</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/opencv</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jsilver</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/llvm</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/zlib</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/speex</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/srtp</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mksh</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/genext2fs</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eyes-free</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/nist-sip</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/safe-iop</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/kernel-headers</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/qemu-pc-bios</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mesa3d</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bzip2</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libgsm</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iproute2</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/grub</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-GRUB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libxml2</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnl-headers</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/oauth</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bison</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/icu4c</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ICU4C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/webrtc</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libxslt</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/protobuf</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/emma</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-harmony</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libvpx</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/google-diff-match-patch</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/gtest</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyxml</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/expat</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/doclava</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/netperf</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sqlite</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/fdlibm</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tcpdump</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/freetype</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bsdiff</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bluetooth</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/giflib</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnfc-nxp</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyalsa</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tagsoup</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openssl</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sonivox</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/flac</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/markdown</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/javassist</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iptables</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/oprofile</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/e2fsprogs</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mockwebserver</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/easymock</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/esd</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/javasqlite</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/elfutils</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/fsck_msdos</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/valgrind</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/xmlwriter</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/replicaisland</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/aac</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/checkpolicy</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium-trace</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/compiler-rt</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dexmaker</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eclipse-basebuilder</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ganymed-ssh2</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/gcc-demangle</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jmdns</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jmonkeyengine</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libmtp</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libselinux</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libsepol</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libusb</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libusb-compat</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/linux-tools-perf</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/littlemock</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mdnsresponder</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openfst</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openssh</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/hamcrest</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/regex-re2</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sepolicy</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/smali</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/zxing</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ant-glob</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/arduino</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnfc-nci</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libogg</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libppp</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libvorbis</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mp4parser</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/naver-fonts</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/okhttp</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/stressapptest</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyxml2</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libcap-ng</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/xmp_toolkit</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eigen</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium-libpac</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium_org</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/droiddriver</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/harfbuzz_ng</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iputils</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/lzma</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mockito</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/nist-pkits</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/noto-fonts</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/objenesis</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/open-vcdiff</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/pixman</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/robolectric</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/scrypt</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sfntly</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sil-fonts</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SIL-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/smack</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SMACK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/timezonepicker-support</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinycompress</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ceres-solver</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/android-clat</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/marisa-trie</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/libnativehelper</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/pdk</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/prebuilts</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/docs</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/bootable</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/experimental</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/MediaProvider</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/Basic</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/PinyinIME</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PINYINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Browser</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/CertInstaller</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Music</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Calculator</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Contacts</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Gallery</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SpareParts</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/KeyChain</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Protips</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Tag</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Stk</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-STK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Nfc</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Launcher2</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/MusicFX</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Provision</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Mms</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Email</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Calendar</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/VideoEditor</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Settings</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Bluetooth</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Exchange</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Camera</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Gallery2</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/DeskClock</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/Basic</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/WebView</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Camera2</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Dialer</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/InCallUI</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Launcher3</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/services</name>
+    <branch>refs/heads/mtk6582-aosp-v1.0-prestudy</branch>
+    <baseline>MTK6582-AOSP-SERVICES-P1.0</baseline>
+</project>
+</projects>

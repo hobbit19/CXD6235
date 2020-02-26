@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>TCTROM/aosp</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-AOSP-Q-P3.0</baseline>
+</project>
+<!--project>
+	<name>TCTROM/qualcomm</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-QUALCOMM-Q-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/mediatek</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-MMEDIATEK-Q-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-TCL-Q-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/apps</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-APPS-Q-P3.0</baseline>
+</project-->
+
+<project>
+	<name>TCTROM/apps</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APPS-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/proprietary</name>
+	<branch>refs/heads/TCTROM-Q-CORE</branch>
+	<baseline>TCTROM-Q-PROPRIETARY-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/aio_custom</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-AIO_CUSTOM-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/bluetooth</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TCL-BLUETOOTH-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/build</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TCL-BUILD-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/frameworks</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TCL-FRAMEWORKS-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/hardware</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HARDWARE-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/nfc</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TCL-NFC-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/overlay</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OVERLAY-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/packages</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PACKAGES-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/qualcomm</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-QUALCOMM-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/system</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TCL-SYSTEM-P3.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/focd</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-AIO_FOCD-P1.0</baseline>
+</project>
+</projects>

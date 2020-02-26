@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>sdd1/mtk6572/abi</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/docs</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/gdk</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-GDK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/libnativehelper</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/bionic</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/bootable</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/build</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/cts</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/libcore</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/dalvik</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/development</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/device</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/apache-http</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/astl</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-ASTL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bison</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BISON-P1.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/external/blktrace</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bluetooth</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bouncycastle</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bsdiff</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bzip2</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/chromium</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dbus</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dhcpcd</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dnsmasq</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dropbear</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/e2fsprogs</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/easymock</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/elfutils</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/embunit</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/emma</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/esd</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-esd-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/expat</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/fdlibm</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/freetype</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/fsck_msdos</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/genext2fs</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/giflib</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/grub</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-GRUB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/gtest</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/guava</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/icu4c</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-ICU4C-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/iproute2</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/ipsec-tools</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/freetype</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/iptables</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jdiff</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jhead</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jpeg</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jsr305</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/junit</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/kernel-headers</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libffi</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libgsm</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libnfc-nxp</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libpcap</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libpng</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libvpx</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-libvpx-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libxml2</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/mtpd</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/netcat</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/netperf</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/neven</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/nist-sip</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/oauth</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/openssl</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-OPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/oprofile</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-OPROFILE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/ping</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-PING-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/ppp</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/proguard</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/protobuf</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/qemu</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/safe-iop</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/skia</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/sonivox</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-sonivox-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/speex</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-speex-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/sqlite</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/srec</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SREC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/stlport</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-STLPORT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/strace</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/svox</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tagsoup</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-tagsoup-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tcpdump</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-tcpdump-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tinyxml</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-tinyxml-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tremolo</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/v8</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-V8-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/webkit</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-WEBKIT-P1.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/external/wpa_supplicant_6</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-WPA_SUPPLICANT_6-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/xmlwriter</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/yaffs2</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-YAFFS2-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/aac</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-AAC-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/android-mock</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/ant-glob</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/antlr</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-ANTLR-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/apache-harmony</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/apache-xml</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/arduino</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-ARDUINO-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/checkpolicy</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/chromium-trace</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/cibu-fonts</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-CIBU-FONTS-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/clang</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-CLANG-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/compiler-rt</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/dexmaker</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/doclava</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/eclipse-basebuilder</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/eclipse-windowbuilder</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/eyes-free</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/flac</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-FLAC-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/ganymed-ssh2</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/gcc-demangle</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/google-diff-match-patch</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/hamcrest</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-HAMCREST-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/harfbuzz</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/hyphenation</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/javasqlite</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/javassist</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/jmdns</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-JMDNS-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/jmonkeyengine</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/jsilver</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-JSILVER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libcap-ng</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libifaddrs</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBIFADDRS-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/liblzf</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBLZF-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libmtp</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBMTP-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libnfc-nci</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libnfc-opennfc</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBNFC-OPENNFC-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libnl-headers</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libogg</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBOGG-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libphonenumber</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libppp</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBPPP-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libselinux</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libsepol</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libunwind</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libusb-compat</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libvorbis</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libxslt</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libyuv</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LIBYUV-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/linux-tools-perf</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/littlemock</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/llvm</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LLVM-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/lohit-fonts</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LOHIT-FONTS-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/markdown</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mdnsresponder</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mesa3d</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-MESA3D-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mksh</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-MKSH-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mockwebserver</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mp4parser</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/naver-fonts</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/okhttp</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-OKHTTP-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/opencv</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-OPENCV-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/openfst</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-OPENFST-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/openssh</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-OPENSSH-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/ping6</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-PING6-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/qemu-pc-bios</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/regex-re2</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/replicaisland</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/sepolicy</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/smali</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-SMALI-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/srtp</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-SRTP-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/stressapptest</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/tinyalsa</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-TINYALSA-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/tinyxml2</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-TINYXML2-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/valgrind</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-VALGRIND-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/webp</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-WEBP-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/webrtc</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-WEBRTC-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/wide-dhcpv6</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-WIDE-DHCPV6-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/xmp_toolkit</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/zxing</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-ZXING-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/wpa_supplicant_8</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/zlib</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-ZLIB-P1.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/frameworks</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/hardware</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/kernel</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mediatek</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/ndk</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Bluetooth</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BLUETOOTH-P1.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/packages/apps/Browser</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Calculator</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Calendar</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Camera</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/CertInstaller</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Contacts</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/DeskClock</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Email</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Gallery</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-HTMLViewer-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Launcher2</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-Launcher2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Mms</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Music</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Phone</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Protips</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Provision</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-Provision-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Settings</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Stk</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-STK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Tag</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/experimental</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/DrmProvider</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-GOOGLECONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/MediaProvider</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/Basic</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/packages/apps/MMITest</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-MMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/APKInstallerHelper</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-APKINSTALLERHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DRMAGENTPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/DrmUtility</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DRMUTILITY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/drmagent</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DRMAGENT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/inbidi</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-INBIDI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/eigen</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/SecureClock</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SECURECLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDEMAILFEEDBACK-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/CellBroadcastReceiver</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/inputmethods/PinyinIME</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-PINYINIME-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/BasicSmsReceiver</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/Exchange</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/Gallery2</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-GALLERY2-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/KeyChain</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/LegacyCamera</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/MusicFX</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-MUSICFX-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/Nfc</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-NFC-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/SDKGallery</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-SDKGALLERY-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/SpareParts</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/VideoEditor</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/providers/PartnerBookmarksProvider</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/screensavers/Basic</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-BASIC-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/screensavers/PhotoTable</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/screensavers/WebView</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/Galaxy4</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-GALAXY4-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/HoloSpiral</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/NoiseField</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/PhaseBeam</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/pdk</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-PDK-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/tools</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-TOOLS-P1.0</baseline>
+</project>
+
+
+<project>
+	<name>sdd1/mtk6572/prebuilts</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/sdk</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/system</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/vendor</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-VENDOR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/modem</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-MODEM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/liv</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/wcustores</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-WPROCEDURES-P1.0</baseline>
+</project>
+
+<project>
+        <name>sdd1/tcl/packages/apps/JrdFileManagerEx</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-JRDFILEMANAGEREX-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/tcl/packages/apps/JrdUserCard</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-JRDUSERCARD-P1.0</baseline>
+</project>
+
+<project>
+        <name>sdd1/tcl/packages/apps/JrdUserCardService</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-JRDUSERCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/tcl/packages/apps/JrdLauncher</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-JRDLAUNCHER-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/tcl/packages/apps/JrdCamera</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-JRDCAMERA-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/tcl/packages/apps/JrdGallery</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-JRDGALLERY-P1.0</baseline>
+</project>
+<project>
+        <name>sdd1/tcl/packages/apps/UrlReservedApps</name>
+        <branch>refs/heads/twin2.8-v1.0-dint</branch>
+        <baseline>TWIN-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSalesTracker</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDSALESTRACKER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/MusicWidget</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-MUSICWIDGET-P1.0</baseline>
+</project>
+
+
+<project>
+	<name>sdd1/tcl/packages/apps/JrdWorldClock</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDWORLDCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDTCLHELP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/TrafficManager</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-TRAFFICMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/NotePad2</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/O2Ideas</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdFota</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSdcardUpgrade</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdContainer</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDCONTAINER-P1.0</baseline>
+</project> 
+<project>
+	<name>sdd1/tcl/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDEMAILFEEDBACK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-TCLWATCHDOG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdApp2SDCard</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDAPP2SDCARD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTorch</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDTORCH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdDigitalClock</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDDIGITALCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTethering</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDTETHERING-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdDeskClock</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDDESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdElabel</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDELABEL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdWeather</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDWEATHER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTimeTool</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDTIMETOOL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/FrequentContactsWidget</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-FREQUENTCONTACTSWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/AnalogClockWidget</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-ANALOGCLOCKWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/DigitalClockWidget</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-DIGITALCLOCKWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSuperMode</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDSUPERMODE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/FrequentAppsWidget</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-FREQUENTAPPSWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdUserCenter</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDUSERCENTER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdUserCenterService</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDUSERCENTERSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/PanasonicSalesTracker</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-PANASONICSALESTRACKER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdWifiTransfer</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDWIFITRANSFER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSoundRecorder</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDSOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdFlipCoverService</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDFLIPCOVERSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTest</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDTEST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/alps/version_babyd</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-VERSION_BABYD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/GitTest</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-GITTEST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdAudioEffect</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDAUDIOEFFECT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdLockscreen</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-JRDLOCKSCREEN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/OTBackup</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-OTBACKUP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/alps/BTNotification_excd</name>
+	<branch>refs/heads/twin2.8-v1.0-dint</branch>
+	<baseline>TWIN-BTNOTIFICATION_EXCD_P1.0</baseline>
+</project>
+
+</projects>

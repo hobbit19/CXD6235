@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>qaep/amss</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-AMSS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/version-cocktail</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-VERSION-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/cocktail_wimdata_ng/general_zone</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-GENERAL-ZONE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/cocktail_wimdata_ng/wcustores</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/cocktail_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/cocktail_wimdata_ng/wtheme</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WTHEME-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/cocktail_wimdata_ng/wtime</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WTIME-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/cocktail_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/device/jrdcom</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDCOM-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/device/common</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDCOM-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/device/htc/common</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/device/htc/passion</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-PASSION-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/device/htc/passion-common</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-PASSION-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/device/qcom/common</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/device/sample</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SAMPLE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/device/samsung/crespo</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CRESPO-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/bootable/bootloader/lk</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/kernel/msm</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MSM-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/bionic</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/bootable/bootloader/legacy</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LEGACY-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/bootable/diskinstaller</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DISKINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/bootable/recovery</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-RECOVERY-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/build</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/cts</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/dalvik</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/development</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/wapilib</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WAPILIB-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/inbidi</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-INDIDI-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/apache-http</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/busybox</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BUSYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/astl</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-ASTL-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/bison</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/blktrace</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/bluetooth/bluez</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BLUEZ-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/bluetooth/glib</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-GLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/bluetooth/hcidump</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-HCIDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/elfutils</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-VERSION-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/bouncycastle</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/bsdiff</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/bzip2</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/chromium</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/clearsilver</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CLEARSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/connectivity</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CONNECTIVITY-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/dbus</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/dhcpcd</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/dnsmasq</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/dropbear</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/e2fsprogs</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/easymock</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/elfcopy</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-ELFCOPY-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/elfutils</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/embunit</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/emma</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/esd</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/expat</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/fdlibm</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/freetype</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/fsck_msdos</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/genext2fs</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/giflib</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/grub</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-GRUB-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/gtest</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/guava</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/hostap-06</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-HOSTAP-06-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/libpng</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-VERSION-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/icu4c</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-ICU4C-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/iproute2</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/ipsec-tools</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/iptables</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/jdiff</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/jhead</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/jpeg</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/jsr305</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/junit</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/libffi</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/libgsm</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LIBGSMM-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/libnfc-nxp</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/libpcap</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/libpng</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/libvpx</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/libxml2</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/mtpd</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/netcat</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/netperf</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/neven</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/nist-sip</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/oauth</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/opencore</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-OPENCORE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/openssl</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-OPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/oprofile</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-OPROFILE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/ping</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-PING-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/ppp</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/proguard</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/protobuf</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/qemu</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/v8</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-V8-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/qrngd</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-QRNGD-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/quake</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-QUAKE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/wpa_supplicant</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-VERSION-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/safe-iop</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/skia</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/sonivox</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/speex</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/sqlite</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/srec</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SREC-P1.0</baseline>
+</project>
+
+<project>
+	<name>qaep/external/stlport</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-STLPORT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/strace</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/svox</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/tagsoup</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/tcpdump</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/tinyxml</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/tremolo</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/tslib</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-TSLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/webkit</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WEBKIT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/wpa_supplicant</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WPA_SUPPLICANT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/wpa_supplicant_6</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WPA_SUPPLICANT_6-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/xmlwriter</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/yaffs2</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-yatts2-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/zlib</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/frameworks/base</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BASE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/frameworks/ex</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-EX-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/frameworks/opt/emoji</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-emoji-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/broadcom/wlan</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/libhardware</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LIBHARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/libhardware_legacy</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LIBHARDWARE_LEGACY-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/msm7k</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MSM7K-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/qcom/gps</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-GPS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/qcom/media</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/ril</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-RIL-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/ti/omap3</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-OMAP3-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/ti/wlan</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/libcore</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/ndk</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Calendar</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CALENDAR-COCKTAIL-P1.0</baseline>
+</project>
+<project>
+	<name>jrd/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/SecureClock</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SECURECLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Bluetooth_BRCMTestMode</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BLUETOOTH_BRCMTESTMODE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-VERSION-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/DataOnOffWidget</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DATAONOFFWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdLauncher</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDLAUNCHER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdFMRadio</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDDMRADIO-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/MusicWidget</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/MusicWidgetTMobile</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/OTAProvisioningClient</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-OTAPROVISIONINGCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/O2Ideas</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/LeMei</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LEIMEI-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/SpeedDial</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SPEEDDIAL-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/DrmUtility</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DRMUTILITY-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/TrafficManager</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-TRAFFICMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdTorch</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDTORCH-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/NotePad2</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDALCATEHELP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDTCLHELP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/AccountsAndSyncSettings</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-ACCOUNTSANDSYNCSETTING-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Bluetooth</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JRDMobileLog</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDMOBILELOG-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Browser</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Calculator</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Camera</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CAMWRA-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/CertInstaller</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Contacts</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-VERSION-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/DeskClock</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Email</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-Email-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/FM</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-FM-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Gallery3D</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-GALLERY3D-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Launcher2</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Mms</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Music</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Nfc</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Phone</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Protips</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Settings</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SETTING-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Stk</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-STK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/Tag</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/FastDormancy</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-FASTDORMANCY-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/SmartCardService</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/experimental</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/inputmethods/PinyinIME</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-PINYINIME-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DRMAGENTPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-APPLICATIONPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/DrmProvider</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-GOOGLECONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/MediaProvider</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/wallpapers/Basic</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-LIVERPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/wallpapers_gles20/Basic</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-VERSION-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/prebuilt</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-PREBUILT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/sdk</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/system/bluetooth</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/system/core</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/system/extras</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-EXTRAS-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/system/media</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/system/netd</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-NETD-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/system/qcom</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-QCOM-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/system/vold</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-VOLD-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/system/wlan/ti</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-TI-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom/opensource/webkit</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-WEBKIT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/jrdcom</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDCOM-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/aosp</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-AOSP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom-opensource/bt-wlan-coex</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BT-WLAN-COEX-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom-opensource/diag</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DIAG-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom-opensource/kernel-tests/mm-audio</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MM-AUDIO-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom-opensource/omx/mm-audio</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MM-AUDIO-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom-opensource/omx/mm-core</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MM-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom-opensource/omx/time-services</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-TIME-SERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom/android-open</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-android-open-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom/msm7630_fusion</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MSM7630_FUSION-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/device/qcom/msm7627a</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MSM7630-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom/msm7630_surf</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MSM7630_SURF-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom/msm7627_surf</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MSM7627_SURF-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom/msm8660_csfb</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MSM8660_CSFB-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom/msm8660_surf</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MSM8660_SURF-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/device/qcom/msm8960</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MSM8960-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom-proprietary</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-QCOM-PROPRIETARY-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/device/qcom/msm7630_cocktail</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MSM7630_COCKTAIL-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/qcom/msm7627_surf</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-MSM7627_SURF-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/nxp</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/invensense</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-INVENSENSE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/akmd8975</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-AKMD8975-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/external/drmagent</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-DRMAGENT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/JrdFota</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/SysPedTest</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SYSPEDTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/SensorAndroid-RollDice</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SENSORANDROID-ROLLDICE-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/TimeSync</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-TIMESYNC-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/FileManager</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-FILEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/vendor/broadcom</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BROADCOM-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/packages/apps/BrcmBluetoothServices</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BRCMBLUETOOTHSERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/broadcom/bt</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-BT-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/hardware/quintic</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-QUINTIC-P1.0</baseline>
+</project>
+<project>
+	<name>qaep/version-cocktail</name>
+	<branch>refs/heads/cocktail-v2.0-dint-israel</branch>
+	<baseline>COCKTAIL-ISRAEL-VERSION-COCKTAIL-P1.0</baseline>
+</project>
+</projects>

@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk8117/art</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ART-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/dalvik</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/build</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/libcore</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/vendor</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-VENDOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/device</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/system</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/ndk</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/abi</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/hardware</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/bionic</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/cts</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/frameworks</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/development</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/developers</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/sdk</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/mediatek</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/kernel</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/tools</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/modem</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MODEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/jhead</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libffi</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/svox</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/srec</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/proguard</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/jdiff</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/apache-http</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/harfbuzz</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/tremolo</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/strace</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/dhcpcd</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/webp</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/mtpd</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/skia</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/bouncycastle</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/dropbear</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libyuv</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libpng</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/clang</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/apache-xml</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/android-mock</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/liblzf</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/qemu</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/guava</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/dnsmasq</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/stlport</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/jpeg</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/ipsec-tools</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/netcat</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/blktrace</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/antlr</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/neven</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/jsr305</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/v8</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-V8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/ppp</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libpcap</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libphonenumber</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/junit</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/embunit</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/hyphenation</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/wpa_supplicant_8</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/yaffs2</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/opencv</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/jsilver</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/llvm</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/zlib</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/speex</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/srtp</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/mksh</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/genext2fs</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/eyes-free</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/nist-sip</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/safe-iop</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/kernel-headers</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/qemu-pc-bios</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/chromium</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/mesa3d</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/bzip2</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libgsm</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/iproute2</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/grub</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-GRUB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libxml2</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libnl-headers</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/oauth</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/bison</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/icu4c</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ICU4C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/webrtc</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libxslt</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/protobuf</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/emma</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/apache-harmony</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libvpx</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/google-diff-match-patch</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/gtest</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/tinyxml</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/expat</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/doclava</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/netperf</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/sqlite</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/fdlibm</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/tcpdump</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/freetype</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/bsdiff</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/bluetooth</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/giflib</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libnfc-nxp</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/tinyalsa</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/tagsoup</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/openssl</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/sonivox</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/flac</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/markdown</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/javassist</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/iptables</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/oprofile</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/e2fsprogs</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/mockwebserver</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/easymock</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/esd</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/javasqlite</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/elfutils</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/fsck_msdos</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/valgrind</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/xmlwriter</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/replicaisland</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/aac</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/checkpolicy</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/chromium-trace</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/compiler-rt</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/dexmaker</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/eclipse-basebuilder</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/ganymed-ssh2</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/gcc-demangle</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/jmdns</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/jmonkeyengine</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libmtp</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libselinux</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libsepol</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libusb</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libusb-compat</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/linux-tools-perf</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/littlemock</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/mdnsresponder</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/openfst</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/openssh</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/hamcrest</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/regex-re2</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/sepolicy</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/smali</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/zxing</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libifaddrs</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBIFADDRS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/wide-dhcpv6</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-WIDE-DHCPV6-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/ant-glob</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/arduino</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libnfc-nci</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libogg</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libppp</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libvorbis</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/mp4parser</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/naver-fonts</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/okhttp</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/stressapptest</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/tinyxml2</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libcap-ng</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/xmp_toolkit</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/eigen</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/chromium-libpac</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/chromium_org</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/droiddriver</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/harfbuzz_ng</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/iputils</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/LaunchPPPoe</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LAUNCHPPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/lzma</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/mockito</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/nist-pkits</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/noto-fonts</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/objenesis</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/open-vcdiff</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/pixman</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/pppoe</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/robolectric</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/scrypt</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/sfntly</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/sil-fonts</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SIL-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/smack</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SMACK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/timezonepicker-support</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/tinycompress</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/ceres-solver</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/libnativehelper</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/pdk</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/prebuilts</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/docs</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/bootable</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/experimental</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/providers/DrmProvider</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/providers/MediaProvider</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/wallpapers/Basic</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/inputmethods/PinyinIME</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PINYINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Browser</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/CertInstaller</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Music</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Calculator</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Contacts</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Gallery</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/SpareParts</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/KeyChain</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Protips</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Tag</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Stk</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-STK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Nfc</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Launcher2</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/MusicFX</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Provision</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Mms</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Email</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Calendar</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/VideoEditor</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Settings</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Bluetooth</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Exchange</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Camera</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Gallery2</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/DeskClock</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/DeviceTestApp</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DEVICETESTAPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/screensavers/Basic</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/screensavers/WebView</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Camera2</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Dialer</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/InCallUI</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/Launcher3</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/services</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SERVICES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/JrdWrapper</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDWRAPPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/mtk6582_wimdata_ng/wcustores</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/mtk6582_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/mtk6582_wimdata_ng/liv</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIV-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdGallery</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDGALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdCamera</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDCAMERA-P1.0</baseline>
+</project>
+
+<project>
+    <name>tcl/packages/apps/UrlReservedApps</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/O2Ideas</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdContainer</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDCONTAINER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSuperMode</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDSUPERMODE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdPlugger</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdElabel</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDELABEL-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdApp2SDCard</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDAPP2SDCARD-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdFota</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSdcardUpgrade</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdUserCenter</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDUSERCENTER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdUserCenterService</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDUSERCENTERSERVICE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/NotePad2</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSalesTracker</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDSALESTRACKER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/SyncMLClient</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSetupWizard</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/packages/apps/MMITest</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MMITEST-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/MusicWidget</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdWifiP2PTransfer</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDWIFIP2PTRANSFER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/AnalogClockWidget</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-ANALOGCLOCKWIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/DigitalClockWidget</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-DIGITALCLOCKWIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdWeather</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDWEATHER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/screenrecordtest</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SCREENRECORDTEST-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdLauncher</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDLAUNCHERR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/mtk8117_wimdata_ng/liv</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/mtk8117_wimdata_ng/wcustores</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/mtk8117_wimdata_ng/wlanguage</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/mtk8117_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdLockscreen</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDLOCKSCREEN-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdFileManager</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDFILEMANAGER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdIR</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDIR-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdPowerSaver</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdTethering</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDTETHERING-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdAlcatelHelp</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/ScreenRecorder</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-SCREENRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/OTBackup</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-OTBACKUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk8117/external/libscreenrecord</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-LIBSCREENRECORD-P1.0</baseline>
+</project>
+
+<project>
+    <name>tcl/packages/apps/JrdGuestMode</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDGUESTMODE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdWifiTransfer</name>
+    <branch>refs/heads/pixo7-v1.0-dint</branch>
+    <baseline>MTK8117-JRDWIFITRANSFER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdWifiDisplay</name>
+	<branch>refs/heads/pixo7-v1.0-dint</branch>
+	<baseline>MTK8117-JRDWIFIDISPLAY-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/FotaTools</name>
+	<branch>refs/heads/pixo7-v1.0-dint</branch>
+	<baseline>MTK8117-FOTATOOLS-P1.0</baseline>
+</project>
+</projects>

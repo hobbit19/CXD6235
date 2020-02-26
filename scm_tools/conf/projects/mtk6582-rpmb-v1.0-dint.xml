@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6582/art</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ART-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/dalvik</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/build</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/libcore</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/vendor</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-VENDOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/device</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/system</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/ndk</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/abi</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/hardware</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/bionic</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/cts</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/frameworks</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/development</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/developers</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/sdk</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/mediatek</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/kernel</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/tools</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/modem</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MODEM-P1.0</baseline>
+</project>
+
+<project>
+    <name>mtk6582/modem_yogio</name>
+    <branch>refs/heads/mtk6582-Yogio-F2-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MODEM-YOGIO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jhead</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libffi</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/svox</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/srec</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/proguard</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jdiff</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-http</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/harfbuzz</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tremolo</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/strace</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dhcpcd</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/webp</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mtpd</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/skia</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bouncycastle</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dropbear</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libyuv</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libpng</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/clang</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-xml</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/android-mock</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/liblzf</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/qemu</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/guava</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dnsmasq</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/stlport</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jpeg</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ipsec-tools</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/netcat</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/blktrace</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/antlr</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/neven</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jsr305</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/v8</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-V8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ppp</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libpcap</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libphonenumber</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/junit</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/embunit</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/hyphenation</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/wpa_supplicant_8</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/yaffs2</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/opencv</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jsilver</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/llvm</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/zlib</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/speex</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/srtp</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mksh</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/genext2fs</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eyes-free</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/nist-sip</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/safe-iop</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/kernel-headers</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/qemu-pc-bios</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mesa3d</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bzip2</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libgsm</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iproute2</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/grub</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-GRUB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libxml2</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnl-headers</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/oauth</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bison</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/icu4c</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ICU4C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/webrtc</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libxslt</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/protobuf</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/emma</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-harmony</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libvpx</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/google-diff-match-patch</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/gtest</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyxml</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/expat</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/doclava</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/netperf</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sqlite</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/fdlibm</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tcpdump</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/freetype</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bsdiff</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bluetooth</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/giflib</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnfc-nxp</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyalsa</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tagsoup</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openssl</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sonivox</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/flac</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/markdown</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/javassist</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iptables</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/oprofile</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/e2fsprogs</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mockwebserver</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/easymock</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/esd</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/javasqlite</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/elfutils</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/fsck_msdos</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/valgrind</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/xmlwriter</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/replicaisland</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/aac</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/checkpolicy</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium-trace</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/compiler-rt</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dexmaker</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eclipse-basebuilder</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ganymed-ssh2</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/gcc-demangle</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jmdns</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jmonkeyengine</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libmtp</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libselinux</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libsepol</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libusb</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libusb-compat</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/linux-tools-perf</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/littlemock</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mdnsresponder</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openfst</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openssh</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/hamcrest</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/regex-re2</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sepolicy</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/smali</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/zxing</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libifaddrs</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBIFADDRS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/wide-dhcpv6</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-WIDE-DHCPV6-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ant-glob</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/arduino</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnfc-nci</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libogg</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libppp</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libvorbis</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mp4parser</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/naver-fonts</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/okhttp</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/stressapptest</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyxml2</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libcap-ng</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/xmp_toolkit</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eigen</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium-libpac</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium_org</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/droiddriver</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/harfbuzz_ng</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iputils</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/LaunchPPPoe</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LAUNCHPPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/lzma</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mockito</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/nist-pkits</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/noto-fonts</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/objenesis</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/open-vcdiff</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/pixman</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/pppoe</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/robolectric</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/scrypt</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sfntly</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sil-fonts</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SIL-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/smack</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SMACK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/timezonepicker-support</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinycompress</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ceres-solver</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/libnativehelper</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/pdk</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/prebuilts</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/docs</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/bootable</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/experimental</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/DrmProvider</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/MediaProvider</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/Basic</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/PinyinIME</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PINYINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Browser</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/CertInstaller</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Music</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Calculator</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Contacts</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Gallery</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SpareParts</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/KeyChain</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Protips</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Tag</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Stk</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-STK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Nfc</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Launcher2</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/MusicFX</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Provision</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Mms</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Email</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Calendar</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/VideoEditor</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Settings</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Bluetooth</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Exchange</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Camera</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Gallery2</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/DeskClock</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/DeviceTestApp</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DEVICETESTAPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/Basic</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/WebView</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Camera2</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Dialer</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/InCallUI</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Launcher3</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/services</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SERVICES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/mtk6582_wimdata_ng/wcustores</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/mtk6582_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/mtk6582_wimdata_ng/liv</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-LIV-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdGallery</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDGALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdCamera</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDCAMERA-P1.0</baseline>
+</project>
+
+<project>
+    <name>tcl/packages/apps/UrlReservedApps</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/O2Ideas</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdContainer</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDCONTAINER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSuperMode</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDSUPERMODE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdPlugger</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdElabel</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDELABEL-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdApp2SDCard</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDAPP2SDCARD-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdFota</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSdcardUpgrade</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdUserCenter</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDUSERCENTER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdUserCenterService</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDUSERCENTERSERVICE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/NotePad2</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSalesTracker</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDSALESTRACKER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/SyncMLClient</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSetupWizard</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/MMITest</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MMITEST-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/MusicWidget</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdWifiP2PTransfer</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDWIFIP2PTRANSFER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/AnalogClockWidget</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-ANALOGCLOCKWIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/DigitalClockWidget</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-DIGITALCLOCKWIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdWeather</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDWEATHER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/ScreenRecorder</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SCREENRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/screenrecordtest</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-SCREENRECORDTEST-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdLauncher</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDLAUNCHERR-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdTethering</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDTETHERING-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/OTBackup</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-OTBACKUP-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdAlcatelHelp</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdGuestMode</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDGUESTMODE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdTCLHelp</name>
+    <branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+    <baseline>MTK6582-RPMB-JRDTCLHELP-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdWifiTransfer</name>
+	<branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+	<baseline>MTK6582-RPMB-JRDWIFITRANSFER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/FrequentContactsWidget</name>
+	<branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+	<baseline>MTK6582-RPMB-FREQUENTCONTACTSWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdLockscreen</name>
+	<branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+	<baseline>MTK6582-RPMB-JRDLOCKSCREEN-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTorch</name>
+	<branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+	<baseline>MTK6582-RPMB-JRDTORCH-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdWrapper</name>
+	<branch>refs/heads/mtk6582-rpmb-v1.0-dint</branch>
+	<baseline>MTK6582-RPMB-JRDWRAPPER-P1.0</baseline>
+</project>
+</projects>

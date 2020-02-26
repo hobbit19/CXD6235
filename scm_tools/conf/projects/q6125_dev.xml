@@ -1,0 +1,3614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>TCTROM/apps</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APPS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/proprietary</name>
+	<branch>refs/heads/TCTROM-Q-CORE</branch>
+	<baseline>TCTROM-Q-PROPRIETARY-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/aio_custom</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-AIO_CUSTOM-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/bluetooth</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TCL-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/build</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TCL-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/focd</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FOCD-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/frameworks</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TCL-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/hardware</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/nfc</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TCL-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/overlay</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OVERLAY-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/packages</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PACKAGES-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/qualcomm</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-QUALCOMM-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/system</name>
+	<branch>refs/heads/TCTROM-Q-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TCL-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/vendor/partner_gms</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>TCTROM-Q-PARTNER_GMS-P3.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/amlogic/yukawa</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-YUKAWA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/amlogic/yukawa-kernel</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-YUKAWA-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/common</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DEVICE-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/arm64</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ARM64-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/car</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GENERIC-CAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/common</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GENERIC-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/goldfish</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOLDFISH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOLDFISH-OPENGL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MINI-EMULATOR-ARM64-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MINI-EMULATOR-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MINI-EMULATOR-X86-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MINI-EMULATOR-X86_64-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/opengl-transport</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OPENGL-TRANSPORT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/qemu</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/trusty</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TRUSTY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/uml</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-UML-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/x86</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-X86-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/x86_64</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-X86_64-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/atv</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ATV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/contexthub</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CONTEXTHUB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CUTTLEFISH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_common</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CUTTLEFISH_COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_kernel</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CUTTLEFISH_KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_vmm</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CUTTLEFISH_VMM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/vrservices</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VRSERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/linaro/poplar</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-POPLAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/linaro/poplar-kernel</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-POPLAR-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/sample</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SAMPLE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/jrd/vendor/aio_resources</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-AIO_RESOURCES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/jrd/vendor/foc_resource</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-FOC_RESOURCE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/configs</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-CONFIGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/tests</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-KERNEL-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/art</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ART-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/bionic</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/bootable/recovery</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-RECOVERY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PLATFORM-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/blueprint</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BLUEPRINT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/kati</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-KATI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/soong</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SOONG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/compatibility/cdd</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CDD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/cts</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/dalvik</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/developers/build</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DEVELOPERS-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/development</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ARMComputeLibrary</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ARMCOMPUTELIBRARY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ImageMagick</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-IMAGEMAGICK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/Microsoft-GSL</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MICROSOFT-GSL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/Reactive-Extensions/RxCpp</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-RXCPP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/aac</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/adeb</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ADEB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/adhd</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ADHD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/adt-infra</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ADT-INFRA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/android-clat</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/androidplot</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-glob</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ANT_NATIVE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ANT_SERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/antlr</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-bcel</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APACHE-COMMONS-BCEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-compress</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APACHE-COMMONS-COMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-math</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-harmony</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-http</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-xml</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/archive-patcher</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ARCHIVE-PATCHER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/arm-optimized-routines</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ARM-OPTIMIZED-ROUTINES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/autotest</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-AUTOTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/avb</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-AVB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bcc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BCC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/blktrace</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/boringssl</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bouncycastle</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/brotli</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BROTLI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bsdiff</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bzip2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/caliper</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CALIPER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/capstone</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CAPSTONE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/catch2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CATCH2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cblas</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-libpac</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-trace</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-webview</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/clang</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cldr</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CLDR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cmockery</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cn-cbor</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CN-CBOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/compiler-rt</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/conscrypt</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/crcalc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cros/system_api</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SYSTEM_API-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/curl</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CURL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dagger2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DAGGER2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/SPIRV-Headers</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DEQP-DEPS-SPIRV-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/SPIRV-Tools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SPIRV-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/glslang</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GLSLANG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/desugar</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DESUGAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dexmaker</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dlmalloc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DLMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dng_sdk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DNG_SDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dnsmasq</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/doclava</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dokka</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DOKKA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/drm_hwcomposer</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/droiddriver</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/drrickorang</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DRRICKORANG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dtc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DTC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dynamic_depth</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DYNAMIC_DEPTH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/e2fsprogs</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/easymock</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/eigen</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/elfutils</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/emma</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/epid-sdk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EPID-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/error_prone</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ERROR_PRONE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/expat</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/f2fs-tools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fdlibm</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fec</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FEC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/flac</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/flatbuffers</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FLATBUFFERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fonttools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/freetype</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fsck_msdos</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fsverity-utils</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FSVERITY-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gemmlowp</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GEMMLOWP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gflags</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/giflib</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/glide</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/golang-protobuf</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOLANG-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-benchmark</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-breakpad</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/arbutus-slab</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ARBUTUS-SLAB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/arvo</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ARVO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CARROIS-GOTHIC-SC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-COMING-SOON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CUTIVE-MONO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DANCING-SCRIPT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/lato</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LATO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/rubik</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-RUBIK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/source-sans-pro</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SOURCE-SANS-PRO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/zilla-slab</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ZILLA-SLAB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fruit</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-FRUIT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-styleguide</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-STYLEGUIDE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/googletest</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLETEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gptfdisk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/grpc-grpc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GRPC-GRPC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/grpc-grpc-java</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GRPC-GRPC-JAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/guava</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/guice</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GUICE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/hamcrest</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/harfbuzz_ng</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/honggfuzz</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HONGGFUZZ-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/hyphenation-patterns</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/icu</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/image_io</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-IMAGE_IO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ims</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EXTERNAL-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iperf3</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-IPERF3-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iproute2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ipsec-tools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iptables</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iputils</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iw</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-IW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jacoco</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JACOCO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jarjar</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javaparser</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JAVAPARSER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javapoet</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JAVAPOET-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javasqlite</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jcommander</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JCOMMANDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jdiff</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jemalloc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jemalloc_new</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JEMALLOC_NEW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jline</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JLINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsilver</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsmn</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/json-c</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JSON-C-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsoncpp</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsr305</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsr330</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JSR330-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/junit</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/junit-params</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JUNIT-PARAMS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kernel-headers</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kmod</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-KMOD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kotlinc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-KOTLINC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ksoap2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libaom</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBAOM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libavc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libbackup</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBBACKUP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libbrillo</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBBRILLO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcap</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBCAP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcap-ng</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libchrome</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBCHROME-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcups</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBCUPS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcxx</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcxxabi</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdaemon</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBDAEMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdivsufsort</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBDIVSUFSORT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdrm</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libese</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBESE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libevent</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBEVENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libexif</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libffi</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libgsm</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libhevc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libjpeg-turbo</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBJPEG-TURBO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libkmsxx</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBKMSXX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libldac</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBLDAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libmpeg2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libmtp</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBNETFILTER_CONNTRACK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnfnetlink</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBNFNETLINK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnl</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libogg</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libopus</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libpcap</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libphonenumber</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libpng</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libprotobuf-mutator</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBPROTOBUF-MUTATOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libtextclassifier</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBTEXTCLASSIFIER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libunwind</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libunwind_llvm</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libusb</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libusb-compat</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libutf</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libvpx</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libvterm</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxaac</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBXAAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxcam</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBXCAM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxkbcommon</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBXKBCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxml2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libyuv</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/linux-kselftest</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LINUX-KSELFTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/llvm</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lmfit</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LMFIT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ltp</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LTP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lua</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LUA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lz4</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lzma</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/markdown</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mdnsresponder</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mesa3d</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/minigbm</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MINIGBM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/minijail</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MINIJAIL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mksh</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockftpserver</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockito</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockwebserver</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/modp_b64</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MODP_B64-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mp4parser</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mtpd</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nanohttpd</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nanopb-c</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/naver-fonts</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/neon_2_sse</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NEON_2_SSE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/neven</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/newfs_msdos</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NEWFS_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nfacct</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nist-pkits</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nist-sip</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/noto-fonts</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/oauth</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/objenesis</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/oj-libjdwp</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OJ-LIBJDWP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/okhttp</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/one-true-awk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ONE-TRUE-AWK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/opencensus-java</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OPENCENSUS-JAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/openssh</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/owasp/sanitizer</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SANITIZER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/parameter-framework</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/pcre</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/pdfium</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/perf_data_converter</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PERF_DATA_CONVERTER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/perfetto</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PERFETTO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/piex</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PIEX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ply</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EXTERNAL-PLY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ppp</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/proguard</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/protobuf</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EXTERNAL-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/protobuf-javalite</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PROTOBUF-JAVALITE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/puffin</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PUFFIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/Pillow</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PILLOW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/apitools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APITOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/appdirs</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APPDIRS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/asn1crypto</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ASN1CRYPTO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/atomicwrites</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ATOMICWRITES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/attrs</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ATTRS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cachetools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CACHETOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cffi</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CFFI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cpython2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CPYTHON2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cpython3</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CPYTHON3-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cryptography</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CRYPTOGRAPHY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/dateutil</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DATEUTIL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/dill</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DILL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/enum</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ENUM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/enum34</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ENUM34-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/funcsigs</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FUNCSIGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/future</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FUTURE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/futures</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FUTURES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/gapic-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GAPIC-GOOGLE-CLOUD-PUBSUB-V1-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-api-python-client</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-API-PYTHON-CLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-auth</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-AUTH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-auth-httplib2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-AUTH-HTTPLIB2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-cloud-core</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-CLOUD-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-cloud-pubsub</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-CLOUD-PUBSUB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-gax</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-GAX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/googleapis</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GOOGLEAPIS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/grpc-google-iam-v1</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GRPC-GOOGLE-IAM-V1-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/grpcio</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GRPCIO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/httplib2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HTTPLIB2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/matplotlib</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MATPLOTLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/mock</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/more-itertools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MORE-ITERTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/numpy</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NUMPY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/oauth2client</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OAUTH2CLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/olefile</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OLEFILE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/packaging</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PACKAGING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/parse</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PARSE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pluggy</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PLUGGY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/ply</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PYTHON-PLY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/proto-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PROTO-GOOGLE-CLOUD-PUBSUB-V1-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/protobuf</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PYTHON-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/py</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyasn1</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PYASN1-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyasn1-modules</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PYASN1-MODULES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pycparser</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PYCPARSER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyopenssl</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PYOPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyparsing</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PYPARSING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pytest</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PYTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/requests</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-REQUESTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/rsa</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-RSA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/scipy</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SCIPY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/setuptools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SETUPTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/six</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SIX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/uritemplates</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-URITEMPLATES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rapidjson</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-RAPIDJSON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rappor</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-RAPPOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/replicaisland</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rmi4utils</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-RMI4UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/robolectric</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/robolectric-shadows</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ROBOLECTRIC-SHADOWS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/roboto-fonts</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rootdev</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ROOTDEV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/scapy</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SCAPY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/scrypt</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/seccomp-tests</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SECCOMP-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/selinux</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/setupcompat</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SETUPCOMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/setupdesign</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SETUPDESIGN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sfntly</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/shaderc/spirv-headers</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SHADERC-SPIRV-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/shflags</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SHFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/skia</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sl4a</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SL4A-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/slf4j</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/smali</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/snakeyaml</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SNAKEYAML-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sonic</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sonivox</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/speex</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/spirv-llvm</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SPIRV-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sqlite</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/squashfs-tools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/strace</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/stressapptest</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/subsampling-scale-image-view</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SUBSAMPLING-SCALE-IMAGE-VIEW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/swiftshader</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SWIFTSHADER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/syzkaller</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SYZKALLER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tagsoup</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tcpdump</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tensorflow</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TENSORFLOW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/testng</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TESTNG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyalsa</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinycompress</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyxml</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyxml2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/toybox</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tremolo</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/turbine</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TURBINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/u-boot</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-U-BOOT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ukey2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-UKEY2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/unicode</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-UNICODE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/v4l2_codec2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-V4L2_CODEC2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/v8</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-V8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vboot_reference</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/virglrenderer</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VIRGLRENDERER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vixl</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vogar</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/volley</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VOLLEY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vulkan-headers</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VULKAN-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vulkan-validation-layers</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VULKAN-VALIDATION-LAYERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/walt</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WALT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wayland</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WAYLAND-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wayland-protocols</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WAYLAND-PROTOCOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/webp</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/webrtc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wpa_supplicant_8</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wycheproof</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WYCHEPROOF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xmp_toolkit</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xz-embedded</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-XZ-EMBEDDED-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xz-java</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-XZ-JAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/yapf</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-YAPF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zlib</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zopfli</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zxing</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/av</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FRAMEWORKS-AV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/base</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BASE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/libbcc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBBCC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/mclinker</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MCLINKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/slang</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SLANG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/ex</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/layoutlib</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LAYOUTLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/minikin</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MINIKIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/ml</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ML-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/multidex</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MULTIDEX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/native</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NATIVE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/bitmap</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BITMAP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/calendar</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OPT-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/car/services</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/car/setupwizard</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CAR-SETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/chips</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CHIPS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-COLORPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DATETIMEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ETHERNET-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ike</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-IKE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ims</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NET-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/voip</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VOIP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WIFI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PHOTOVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OPT-SETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/telephony</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OPT-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TIMEZONEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/vcard</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VCARD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/rs</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-RS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/wilhelm</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WILHELM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/apf</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-APF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/av</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-AV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/easel</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-EASEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/interfaces</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-GOOGLE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/libhardware</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-LIBHARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/libhardware_legacy</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-LIBHARDWARE_LEGACY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/nxp/nfc</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-NXP-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/nxp/secure_element</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-SECURE_ELEMENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-BOOTCTRL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/wlan</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-QCOM-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/ril</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-RIL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/ti/am57x</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-AM57X-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/libcore</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/libnativehelper</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Bluetooth</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APPS-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Browser2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BROWSER2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Calendar</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APPS-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Camera2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Cluster</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CLUSTER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CAR-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HVAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CAR-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Launcher</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LAUNCHER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LENSPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LinkViewer</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LINKVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LOCALMEDIAPLAYER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Media</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CAR-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MESSENGER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Notification</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NOTIFICATION-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Overview</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-OVERVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Radio</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-RADIO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Settings</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CAR-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Stream</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-STREAM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SYSTEMUPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/externallibs</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EXTERNALLIBS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/libs</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/tests</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CAR-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/CertInstaller</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Contacts</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DeskClock</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DevCamera</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DEVCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Dialer</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APPS-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DOCUMENTSUI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Email</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EMERGENCYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Gallery</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Gallery2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/KeyChain</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Launcher3</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Messaging</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Mms</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-APPS-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Music</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/MusicFX</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Nfc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APPS-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Protips</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Provision</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SAFETYREGULATORYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SampleLocationAttribution</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SAMPLELOCATIONATTRIBUTION-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SecureElement</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SECUREELEMENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Settings</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APPS-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SettingsIntelligence</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SETTINGSINTELLIGENCE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SNAPDRAGONCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonGallery</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SNAPDRAGONGALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonMusic</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-SNAPDRAGONMUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APPS-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SpareParts</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/StorageManager</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-STORAGEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TV</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Tag</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Terminal</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TEST-CONNECTIVITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/ThemePicker</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-THEMEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TIMEZONEDATA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TIMEZONEUPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Traceur</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TRACEUR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TvSettings</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WALLPAPERPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/WallpaperPicker2</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WALLPAPERPICKER2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-INPUTMETHODS-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/CaptivePortalLogin</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CAPTIVEPORTALLOGIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/ExtServices</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EXTSERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/ModuleMetadata</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MODULEMETADATA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/NetworkPermissionConfig</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NETWORKPERMISSIONCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/NetworkStack</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NETWORKSTACK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BLOCKEDNUMBERPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/MediaProvider</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/TvProvider</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/screensavers/Basic</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/AlternativeNetworkAccess</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ALTERNATIVENETWORKACCESS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BUILTINPRINTSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Car</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SERVICES-CAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Mms</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SERVICES-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Telephony</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SERVICES-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/pdk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/platform_testing</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ABI-DUMPS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ABI-DUMPS-VNDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/android-emulator</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/asuite</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PREBUILTS-ASUITE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/build-tools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BUILD-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/bundletool</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BUNDLETOOL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/checkcolor</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CHECKCOLOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/checkstyle</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CHECKSTYLE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/clang-tools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CLANG-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HOST-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/devtools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/fuchsia_sdk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FUCHSIA_SDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-AARCH64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ARM-EABI-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ARM-LINUX-ANDROIDEABI-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-X86_64-LINUX-GLIBC2.17-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-X86_64-W64-MINGW32-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-X86_64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GDB-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GO-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JDK8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/jdk/jdk9</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-JDK9-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/ktlint</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-KTLINT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/manifest-merger</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MANIFEST-MERGER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ANDROID-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BUMPTECH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/misc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/ndk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-2.7.5-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/r8</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-R8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/sdk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/tools</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/vndk/v27</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-V27-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/vndk/v28</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-V28-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/q_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/sdk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PLATFORM-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/apex</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APEX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ashmemd</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ASHMEMD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bpf</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BPF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bpfprogs</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BPFPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bt</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SYSTEM-BT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ca-certificates</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CA-CERTIFICATES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/chre</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CHRE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/connectivity/wificond</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WIFICOND-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/connectivity/wifilogd</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-WIFILOGD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/core</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/extras</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-EXTRAS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/gatekeeper</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GATEKEEPER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/gsid</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GSID-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/hardware/interfaces</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/hwservicemanager</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HWSERVICEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/iorap</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-IORAP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/keymaster</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libfmq</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBFMQ-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libhidl</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBHIDL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libhwbinder</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBHWBINDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libsysprop</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBSYSPROP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libufdt</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBUFDT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libvintf</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LIBVINTF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/linkerconfig</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LINKERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/media</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SYSTEM-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/netd</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NETD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/nfc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SYSTEM-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/nvram</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NVRAM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/qcom</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-QCOM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/security</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SYSTEM-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/sepolicy</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SYSTEM-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/server_configurable_flags</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SERVER_CONFIGURABLE_FLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/testing/gtest_extras</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GTEST_EXTRAS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/timezone</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TIMEZONE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/aidl</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-AIDL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/hidl</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HIDL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/sysprop</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SYSPROP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/xsdc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-XSDC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ucontainer</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-UCONTAINER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/update_engine</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-UPDATE_ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/vold</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VOLD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/framework</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/mlts/benchmark</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/mlts/models</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-MODELS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/suite_harness</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SUITE_HARNESS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/alert</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ALERT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/dashboard</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DASHBOARD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/fuzz_test_serving</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FUZZ_TEST_SERVING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/test_serving</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TEST_SERVING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-FUZZ-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/hal</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-HAL-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/kernel</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/nbu</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NBU-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/performance</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PERFORMANCE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/security</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VTS-TESTCASE-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/vndk</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-VTS-TESTCASE-VNDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/acloud</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-ACLOUD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/apksig</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APKSIG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/apkzlib</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-APKZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/asuite</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TOOLS-ASUITE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/currysrc</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CURRYSRC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/dexter</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-DEXTER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/loganalysis</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-LOGANALYSIS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/metalava</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-METALAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/ndkports</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-NDKPORTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/repohooks</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-REPOHOOKS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/security</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TOOLS-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/test/connectivity</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TEST-CONNECTIVITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/test/graphicsbenchmark</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-GRAPHICSBENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/tradefederation</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TRADEFEDERATION-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/tradefederation/contrib</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-CONTRIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/trebuchet</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-TREBUCHET-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/codeaurora/packages/apps/Dialer</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-APPS-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/codeaurora/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-APPS-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/interfaces/opensource/nfc</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-OPENSOURCE-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/external/libnfc-nci</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/frameworks</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-OPENSOURCE-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/halimpl</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-HALIMPL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/hidlimpl</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-HIDLIMPL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/packages/apps/Nfc</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-APPS-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/pixelworks</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-PIXELWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/audio</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-QCOM-OPENSOURCE-AUDIO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/audio-hal/st-hal</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-ST-HAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dataservices-commonsys</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-DATASERVICES-COMMONSYS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/display-commonsys-intf</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-DISPLAY-COMMONSYS-INTF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dpm</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-DPM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dpm-commonsys</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-DPM-COMMONSYS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/fm-commonsys</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-FM-COMMONSYS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/fst-manager</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-FST-MANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/healthd-ext</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-HEALTHD-EXT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/interfaces</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-QCOM-OPENSOURCE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/location</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-LOCATION-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/mmc-utils</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/recovery-ext</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-RECOVERY-EXT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/shortcut-fe</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-SHORTCUT-FE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/system/bt</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-SYSTEM-BT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/thermal-engine</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-QCOM-OPENSOURCE-THERMAL-ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/time-services</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-QCOM-OPENSOURCE-TIME-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/usb</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-USB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/vibrator</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-VIBRATOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wfd-commonsys</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-WFD-COMMONSYS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wigig</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-QCOM-OPENSOURCE-WIGIG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/fw-api</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-FW-API-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-QCA-WIFI-HOST-CMN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/qcacld-3.0</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-QCACLD-3.0-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-SIGMA-DUT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/wlan</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-QCOM-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/widevine</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-WIDEVINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/toolchain/pgo-profiles</name>
+	<branch>refs/heads/TCTROM-Q-QCT-V3.0-dev</branch>
+	<baseline>TCTROM-Q-PGO-PROFILES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/3rdparty/apps</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-3RDPARTY-APPS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/DDRTest</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-DDRTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/DiagProtector</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-DIAGPROTECTOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/ImsPlugin</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-IMSPLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/Iris</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-IRIS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/PlayAutoInstall</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-PLAYAUTOINSTALL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/cellular</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-CELLULAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/security</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-TCT-SOURCE-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/system</name>
+	<branch>refs/heads/q6150_dev</branch>
+	<baseline>TCTROM-Q-TCT-SOURCE-SYSTEM-P1.0</baseline>
+</project>
+
+</projects>

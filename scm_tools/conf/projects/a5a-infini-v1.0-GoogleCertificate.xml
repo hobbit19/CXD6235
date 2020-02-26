@@ -1,0 +1,1984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+
+<project>
+	<name>mtk6750t/packages/apps/QsSearch</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-QSSEARCH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/abi</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/art</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ART-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/bionic</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/bootable</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/build</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/compatibility</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-COMPATIBILITY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/cts</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/dalvik</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/development</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/device</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/docs</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/aac</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/android-clat</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/android-mock</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/androidplot</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ant-glob</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/antlr</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-commons-math</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-harmony</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-http</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-xml</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/autotest</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-AUTOTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/avahi</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-AVAHI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bison</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/blktrace</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/boringssl</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bouncycastle</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bsdiff</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bzip2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/c-ares</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-C-ARES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/caliper</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CALIPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cblas</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ceres-solver</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-libpac</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-trace</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-webview</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/clang</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cmockery</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/compiler-rt</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/conscrypt</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/crcalc</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cros</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CROS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/curl</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CURL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dagger2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DAGGER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dbus</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dbus-binding-generator</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DBUS-BINDING-GENERATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/deqp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-EXTERNAL-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dexmaker</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DHCPCD-6.8.2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dlmalloc</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DLMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dng_sdk</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DNG_SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dnsmasq</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/doclava</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/donuts</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DONUTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/drm_gralloc</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/drm_hwcomposer</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/droiddriver</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/e2fsprogs</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/easymock</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eclipse-basebuilder</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eigen</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/elfutils</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/embunit</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/emma</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/esd</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/expat</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eyes-free</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/f2fs-tools</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fdlibm</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fec</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-FEC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fio</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/flac</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fonttools</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/freetype</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fsck_msdos</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gemmlowp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GEMMLOWP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/giflib</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/glide</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gmock</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-benchmark</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GOOGLE-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-breakpad</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-fonts</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gptfdisk</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gtest</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/guava</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/guice</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GUICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/hamcrest</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/harfbuzz_ng</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/hyphenation-patterns</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/icu</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iproute2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ipsec-tools</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iptables</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iputils</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iw</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-IW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jacoco</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JACOCO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jarjar</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/javasqlite</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/javassist</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jcommander</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JCOMMANDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jdiff</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jemalloc</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jetty</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JETTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jhead</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jmdns</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jmonkeyengine</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsilver</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsmn</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsoncpp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsr305</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsr330</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JSR330-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/junit</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/kernel-headers</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ksoap2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libavc</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libbrillo</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBBRILLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcap</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcap-ng</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libchrome</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBCHROME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcxx</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcxxabi</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdaemon</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBDAEMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdivsufsort</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBDIVSUFSORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdrm</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libedit</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libevent</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBEVENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libexif</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libgsm</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libhevc</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libjpeg-turbo</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBJPEG-TURBO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/liblzf</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmicrohttpd</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBMICROHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmpeg2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmtp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnfc-nci</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnfc-nxp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnl</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libogg</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libopus</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libpcap</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libphonenumber</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libpng</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libselinux</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libunwind</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libunwind_llvm</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libusb</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libusb-compat</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libutf</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvncserver</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvorbis</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvpx</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvterm</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libweave</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBWEAVE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libxml2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libyuv</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/littlemock</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lld</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LLD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lldb</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LLDB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/llvm</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ltrace</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lz4</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lzma</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/marisa-trie</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/markdown</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mdnsresponder</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mesa3d</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/messageformat</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/minijail</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MINIJAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mksh</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mmc-utils</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockftpserver</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockito</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockwebserver</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/modp_b64</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MODP_B64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mp4parser</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mtpd</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nanohttpd</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nanopb-c</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/naver-fonts</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/netcat</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/netperf</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/neven</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nfacct</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nist-pkits</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nist-sip</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/noto-fonts</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/oauth</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/objenesis</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/okhttp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/opencv</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/opencv3</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-OPENCV3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/openfst</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-OPENFST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/openssh</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/owasp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-OWASP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/parameter-framework</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/pcre</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/pdfium</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/piex</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PIEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ppp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/proguard</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/protobuf</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/regex-re2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/replicaisland</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/rmi4utils</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-RMI4UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/robolectric</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/roboto-fonts</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/rootdev</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ROOTDEV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/safe-iop</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/scrypt</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/selinux</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sfntly</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/shflags</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SHFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/skia</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sl4a</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SL4A-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/slf4j</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/smali</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/snakeyaml</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SNAKEYAML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sonic</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sonivox</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/speex</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sqlite</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/squashfs-tools</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/srtp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SRTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/strace</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/svox</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tagsoup</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tcpdump</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/testng</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TESTNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/timezonepicker-support</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyalsa</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinycompress</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyxml</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyxml2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tlsdate</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TLSDATE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/toybox</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tpm2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TPM2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tremolo</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/unicode</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-UNICODE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/v8</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/valgrind</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vboot_reference</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vixl</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vogar</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vulkan-validation-layers</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-VULKAN-VALIDATION-LAYERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/webp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/webrtc</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/wpa_supplicant_8</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmlrpcpp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-XMLRPCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmlwriter</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmp_toolkit</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zlib</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zopfli</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zxing</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/frameworks</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/hardware</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/kernel</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/libcore</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/libnativehelper</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/modem</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MODEM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/ndk</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Bluetooth</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Browser2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BROWSER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Calculator</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Calendar</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Camera2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CertInstaller</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Contacts</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/DeskClock</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/DevCamera</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DEVCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Dialer</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Email</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-EMERGENCYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Gallery</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Gallery2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/KeyChain</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Launcher2</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Launcher3</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Messaging</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Music</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/MusicFX</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MUSICFX-P1.0</baseline>
+</project>
+<!--project>
+	<name>mtk6750t/packages/apps/Nfc</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NFC-P1.0</baseline>
+</project-->
+<project>
+	<name>mtk6750t/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Phone</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Protips</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Provision</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Settings</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SpareParts</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Stk</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Tag</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Terminal</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Test</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-APPS-TEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/TvSettings</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BLOCKEDNUMBERPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/JrdCustomizedUssd</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JRDCUSTOMIZEDUSSD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/MediaProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/TvProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/Basic</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SCREENSAVERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/WebView</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/services</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/Basic</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-WALLPAPERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GALAXY4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/pdk</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/platform_testing</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/android-emulator</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/host</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-CLANG-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/deqp</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PREBUILTS-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/devtools</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/eclipse</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DARWIN-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DARWIN-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DARWIN-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DARWIN-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DARWIN-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LINUX-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LINUX-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LINUX-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LINUX-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LINUX-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/libs</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/maven_repo</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/misc</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/ndk</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/ninja</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NINJA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/python</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PYTHON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/sdk</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/tools</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/sdk</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/system</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/test</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/tools</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/trusty</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TRUSTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/vendor</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-VENDOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/liv</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/wcustores</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdMMITest_N</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/providers/ChromeCustomizations</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-CHROMECUSTOMIZATIONS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/MagicLock</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MAGICLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdContainer</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JRDCONTAINER-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdCustomizedUssd</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JRDCUSTOMIZEDUSSD-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/ScreenshotEdit</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SCREENSHOTEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/ReliabilityTest</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-RELIBILITYTEST-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/providers/FingerprintProvider</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-FINGERPRINTPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/Arkamys</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-ARKAMYS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/developers</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/experimental</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gdb</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GDB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/go</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-GO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/toolchain</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-TOOLCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/makeperso</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-MAKEPERSO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/genericapp/DiracTune</name>
+	<branch>refs/heads/DiracTune_00</branch>
+	<baseline>DiracTune_00-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/LifeTime</name>
+	<branch>refs/heads/a5a-infini-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-LIFETIME-P1.0</baseline>
+</project>
+<project>
+       <name>tcl/packages/apps/SmartCardService</name>
+       <branch>refs/heads/buzz6t-4g-orange-n-v1.0-dint</branch>
+       <baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+      <name>tcl/packages/apps/NfcImpl</name>
+      <branch>refs/heads/nxp-7.5.0</branch>
+      <baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NFC-P1.0</baseline>
+</project>
+<project>
+      <name>tcl/Nfc</name>
+      <branch>refs/heads/nxp-7.5.0</branch>
+      <baseline>MTK6750T-N-A5A-INFINI-GOOGLECER-NFC-P1.0</baseline>
+</project>
+</projects>

@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>aosp/platform/bootable/bootloader/lk</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/bootable/bootloader/preloader</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PRELOADER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/mediatek</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/uiautomator</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-UIAUTOMATOR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/mediatek</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/kernel-3.10</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-KERNEL-3.10-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/cit-arm-linux-androideabi-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CIT-ARM-LINUX-ANDROIDEABI-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/gcc-arm-none-eabi-4_7-2012q4</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GCC-ARM-NONE-EABI-4_7-2012Q4-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/vendor</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-VENDOR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/modem</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MODEM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/build</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/abi/cpp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CPP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/art</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ART-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/bionic</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/bootable/bootloader/legacy</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LEGACY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/bootable/diskinstaller</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DISKINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/bootable/recovery</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-RECOVERY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/cts</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/dalvik</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/development</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/common</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-COMMON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/arm64</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM64-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/armv7-a-neon</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/common</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-COMMON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/goldfish</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GOLDFISH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/lionhead</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIONHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/mips</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/mini-emulator-arm64</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MINI-EMULATOR-ARM64-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/mini-emulator-armv7-a-neon</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MINI-EMULATOR-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/mini-emulator-mips</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MINI-EMULATOR-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/mini-emulator-x86</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MINI-EMULATOR-X86-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/mini-emulator-x86_64</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MINI-EMULATOR-X86_64-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/qemu</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/x86</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/x86_64</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86_64-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/google/atv</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ATV-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/lge/hammerhead</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-HAMMERHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/lge/hammerhead-kernel</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-HAMMERHEAD-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/sample</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SAMPLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/aac</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/actionbarsherlock</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ACTIONBARSHERLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/android-clat</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/android-mock</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/androidplot</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ant-glob</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/antlr</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/apache-harmony</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/apache-http</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/apache-qp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-APACHE-QP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/apache-xml</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/arduino</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/bison</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/blktrace</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/bluetooth/bluedroid</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BLUEDROID-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/bouncycastle</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/bsdiff</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/bzip2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ceres-solver</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/checkpolicy</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium-libpac</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium-trace</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/sdch/open-vcdiff</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/testing/gtest</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/WebKit</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WEBKIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/angle</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/brotli/src</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BRAILLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/freetype</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/icu</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ICU-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/leveldatabase/src</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/libaddressinput/src</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/libjingle/source/talk</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TALK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/libjpeg_turbo</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBJPEG_TURBO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PHONENUMBERS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/libphonenumber/src/resources</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-RESOURCES-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/libsrtp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBSRTP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/libvpx</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/libyuv</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/mesa/src</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/openmax_dl</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OPENMAX_DL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/openssl</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/opus/src</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/ots</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/sfntly/cpp/src</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/skia</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/smhasher/src</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/usrsctp/usrsctplib</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-USRSCTPLIB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/webrtc</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/yasm/source/patched-yasm</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PATCHED-YASM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/tools/grit</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GRIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/tools/gyp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GYP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/v8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-V8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/clang</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/cmockery</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/compiler-rt</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/conscrypt</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/deqp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DEQP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/dexmaker</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/dhcpcd</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/dnsmasq</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/doclava</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/droiddriver</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/e2fsprogs</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/easymock</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/eclipse-basebuilder</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/eigen</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/elfutils</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/embunit</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/emma</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/esd</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/expat</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/eyes-free</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/f2fs-tools</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/fdlibm</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/fio</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-FIO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/flac</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/fonttools</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/freetype</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/fsck_msdos</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ganymed-ssh2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/gcc-demangle</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/genext2fs</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/giflib</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/glide</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GLIDE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/google-diff-match-patch</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/google-fonts/coming-soon</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-COMING-SOON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/google-fonts/dancing-script</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DANCING-SCRIPT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/google-fonts/carrois-gothic-sc</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CARROIS-GOTHIC-SC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/google-tv-pairing-protocol</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/grub</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GRUB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/gtest</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/guava</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/hamcrest</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/harfbuzz_ng</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/icu</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ICU-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/icu4c</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ICU4C-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/iproute2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ipsec-tools</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/iptables</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/iputils</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jack</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JACK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jarjar</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JARJAR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/javasqlite</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/javassist</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jdiff</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jemalloc</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jetty</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JETTY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jhead</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jline</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JLINE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jmdns</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jmonkeyengine</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jpeg</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jsilver</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jsmn</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JSMN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jsoncpp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JSONCPP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jsr305</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/junit</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ksoap2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-KSOAP2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/kernel-headers</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libcap-ng</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libcxx</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBCXX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libcxxabi</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libcxxrt</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBCXXRT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libedit</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libexif</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libffi</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libhevc</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libgsm</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/liblzf</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libmtp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libnfc-nci</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libnfc-nxp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libnl</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBNL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libogg</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libopus</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libpcap</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libphonenumber</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libpng</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libppp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libseccomp-helper</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBSECCOMP-HELPER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libselinux</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libsepol</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libssh2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBSSH2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libunwind</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libusb</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libusb_aah</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBUSB_AAH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libusb-compat</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libutf</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBUTF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libvorbis</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libvpx</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libvterm</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libxml2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libyuv</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/linux-tools-perf</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/littlemock</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/lldb</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LLDB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/llvm</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ltrace</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/lzma</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/marisa-trie</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/markdown</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mdnsresponder</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mesa3d</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/messageformat</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mksh</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mockito</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mockwebserver</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mp4parser</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mtpd</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/nanohttpd</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/naver-fonts</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/netcat</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/netperf</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/neven</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/nfacct</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NFACCT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/nist-pkits</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/nist-sip</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/noto-fonts</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/oauth</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/objenesis</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/okhttp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/opencv</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/openfst</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/openssh</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/openssl</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/open-vcdiff</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/oprofile</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/owasp/sanitizer</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SANITIZER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/pcre</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PCRE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/pdfium</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PDFIUM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/pixman</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ppp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/proguard</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/protobuf</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/qemu</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/qemu-pc-bios</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/regex-re2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/replicaisland</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/robolectric</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/roboto-fonts</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/safe-iop</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/scrypt</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/sepolicy</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/sfntly</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/skia</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/smack</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SMACK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/smali</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/sonivox</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/speex</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/sqlite</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/srec</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/srtp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/stlport</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/strace</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/stressapptest</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/svox</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/syspatch</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SYSPATCH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tagsoup</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tcpdump</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/timezonepicker-support</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tinyalsa</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tinycompress</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tinyxml</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tinyxml2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tremolo</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/valgrind</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/vixl</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-VIXL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/webp</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/webrtc</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/wpa_supplicant_8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/xdelta3</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-XDELTA3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/xmlwriter</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/xmp_toolkit</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/yaffs2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/zlib</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/zopfli</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/zxing</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/av</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-AV-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/base</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BASE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/compile/libbcc</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBBCC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/compile/mclinker</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MCLINKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/compile/slang</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SLANG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/ex</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/mff</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MFF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/minikin</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MINIKIN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/ml</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ML-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/multidex</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MULTIDEX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/native</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NATIVE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/bitmap</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BITMAP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/bluetooth</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/calendar</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/carddav</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CARDDAV-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/chips</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CHIPS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/colorpicker</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-COLORPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/datetimepicker</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DATETIMEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/emoji</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EMOJI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/inputmethodcommon</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-INPUTMETHODCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/mms</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/net/ims</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-IMS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/net/voip</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-VOIP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/net/wifi</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WIFI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/net/ethernet</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ETHERNET-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/photoviewer</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PHOTOVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/setupwizard</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/telephony</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/timezonepicker</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TIMEZONEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/vcard</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-VCARD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/widget</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/rs</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-RS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/support</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/testing</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TESTING-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/volley</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-VOLLEY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/webview</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/wilhelm</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WILHELM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/broadcom/libbt</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBBT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/broadcom/wlan</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WLAN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/libhardware</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBHARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/libhardware_legacy</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBHARDWARE_LEGACY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/audio</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-AUDIO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/bt</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/display</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DISPLAY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/gps</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GPS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/keymaster</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/media</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MEDIA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/msm8x74</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MSM8X74-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/power</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-POWER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/sensors</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SENSORS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/wlan</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WLAN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/ril</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-RIL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/libcore</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/libnativehelper</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/ndk</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Bluetooth</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Browser</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Calculator</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Calendar</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Camera</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Camera2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/CertInstaller</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Contacts</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/DeskClock</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Dialer</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Email</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Exchange</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Gallery</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Gallery2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/InCallUI</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/KeyChain</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Launcher2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/ManagedProvisioning</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Mms</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Music</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/MusicFX</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Nfc</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/OMA-DM</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OMA-DM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Phone</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PHONE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Protips</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Provision</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Settings</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/SmartCardService</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/SpareParts</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Stk</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-STK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Tag</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Terminal</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TERMINAL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/TvSettings</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/experimental</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/inputmethods/PinyinIME</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PINYINIME-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/MediaProvider</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/TvProvider</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/screensavers/Basic</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/screensavers/WebView</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/services/Mms</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/services/Telecomm</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TELECOMM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/services/Telephony</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/Basic</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/pdk</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/android-emulator</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/3.1</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.1-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/3.2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/arm/3.3</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/host/3.4</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.4-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/host/3.5</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.5-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/mips/3.3</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/x86/3.3</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/3.1</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.1-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/3.2</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/arm/3.3</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/host/3.4</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.4-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/host/3.5</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.5-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/mips/3.3</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/x86/3.3</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/devtools</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/eclipse</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/eclipse-build-deps</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ECLIPSE-BUILD-DEPS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/eclipse-build-deps-sources</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ECLIPSE-BUILD-DEPS-SOURCES-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-AARCH64-LINUX-ANDROID-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-AARCH64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-EABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-EABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-EABI-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-LINUX-ANDROIDEABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-LINUX-ANDROIDEABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-LINUX-ANDROIDEABI-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/host/headers</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-I686-APPLE-DARWIN-4.2.1-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MIPS64EL-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MIPSEL-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MIPSEL-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MIPSEL-LINUX-ANDROID-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MIPS64EL-LINUX-ANDROID-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-I686-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-I686-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86_64-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86_64-LINUX-ANDROID-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86_64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-AARCH64-LINUX-ANDROID-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-AARCH64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-EABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-EABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-EABI-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-LINUX-ANDROIDEABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-LINUX-ANDROIDEABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ARM-LINUX-ANDROIDEABI-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-I686-LINUX-GLIBC2.7-4.4.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-I686-LINUX-GLIBC2.7-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86_64-LINUX-GLIBC2.7-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86_64-LINUX-GLIBC2.11-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86_64-LINUX-GLIBC2.11-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86_64-W64-MINGW32-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MIPS64EL-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MIPSEL-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MIPSEL-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MIPSEL-LINUX-ANDROID-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MIPS64EL-LINUX-ANDROID-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-I686-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-I686-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86_64-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86_64-LINUX-ANDROID-4.8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-X86_64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gradle-plugin</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/libs/libedit</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/maven_repo/android</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-ANDROID-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/misc</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MISC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/ndk</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/python/darwin-x86/2.7.5</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-2.7.5-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/python/linux-x86/2.7.5</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-2.7.5-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/qemu-kernel</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/runtime</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-RUNTIME-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/sdk</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/tools</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/sdk</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/core</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-CORE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/extras</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-EXTRAS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/keymaster</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/media</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-MEDIA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/netd</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-NETD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/security</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-SECURITY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/vold</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-VOLD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/androidl_wimdata_ng/wcustores</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/androidl_wimdata_ng/wlanguage</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/androidl_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/mtk82-l-release-LRW87G-INTOnly</branch>
+    <baseline>MTK82-ANDROID-L-LRW87G-INTONLY-WPROCEDURES-P1.0</baseline>
+</project>
+</projects>

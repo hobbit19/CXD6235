@@ -1,0 +1,3094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>avengers/codeaurora_msm8953/SPF2017/amss_la2.1</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-AMSS_LA2.1-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/abl/tianocore/edk2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EDK2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/common</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DEVICE-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/generic/arm64</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ARM64-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/generic/car</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GENERIC-CAR-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/generic/common</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GENERIC-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/generic/goldfish</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GENERIC-GOLDFISH-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/google/atv</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ATV-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/google/contexthub</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CONTEXTHUB-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/google/vrservices</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VRSERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/qcom/common</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/qcom/sepolicy</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/sample</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SAMPLE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/tct/sdm636</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SDM636-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/kernel/msm-4.4</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MSM-4.4-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/art</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ART-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/bionic</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/bootable/recovery</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-RECOVERY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/build</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/build/blueprint</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BLUEPRINT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/build/kati</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-KATI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/build/soong</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SOONG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/compatibility/cdd</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CDD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/cts</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/dalvik</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/development</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ImageMagick</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-IMAGEMAGICK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/Microsoft-GSL</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MICROSOFT-GSL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/aac</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/abi-compliance-checker</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ABI-COMPLIANCE-CHECKER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/abi-dumper</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ABI-DUMPER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/android-clat</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/androidplot</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ant-glob</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ANT_NATIVE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ANT_SERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/antlr</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/apache-commons-math</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/apache-harmony</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/apache-http</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/apache-xml</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/archive-patcher</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ARCHIVE-PATCHER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/autotest</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-AUTOTEST-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/avb</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-AVB-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/bart</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BART-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/bison</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/blktrace</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/boringssl</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/bouncycastle</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/brctl</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BRCTL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/brotli</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BROTLI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/bsdiff</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/bzip2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/c-ares</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-C-ARES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/caliper</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CALIPER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/cblas</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/chromium-libpac</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/chromium-trace</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/chromium-webview</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/clang</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/cmockery</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/compiler-rt</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/conscrypt</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/crcalc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/cros/system_api</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SYSTEM_API-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/curl</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CURL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dagger2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DAGGER2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/deqp</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EXTERNAL-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/desugar</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DESUGAR-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/devlib</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DEVLIB-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dexmaker</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DHCPCD-6.8.2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dlmalloc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DLMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dng_sdk</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DNG_SDK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dnsmasq</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/doclava</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/donuts</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DONUTS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/drm_gralloc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/drm_hwcomposer</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/droiddriver</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/drrickorang</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DRRICKORANG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dtc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DTC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/e2fsprogs</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/easymock</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ebtables</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EBTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/eclipse-basebuilder</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/eigen</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/elfutils</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/emma</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/esd</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/expat</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/eyes-free</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/f2fs-tools</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fdlibm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fec</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FEC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fio</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/flac</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/flatbuffers</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FLATBUFFERS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fmtlib</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FMTLIB-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fonttools</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/freetype</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fsck_msdos</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/gemmlowp</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GEMMLOWP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/giflib</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/glide</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-api-services-storage</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GOOGLE-API-SERVICES-STORAGE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-benchmark</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GOOGLE-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-breakpad</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CARROIS-GOTHIC-SC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-COMING-SOON-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CUTIVE-MONO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DANCING-SCRIPT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/googletest</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GOOGLETEST-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/gptfdisk</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/guava</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/guice</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GUICE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/hamcrest</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/harfbuzz_ng</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/hyphenation-patterns</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/icu</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ims</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EXTERNAL-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/iproute2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ipsec-tools</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/iptables</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/iputils</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/iw</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-IW-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jacoco</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JACOCO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jarjar</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/javasqlite</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/javassist</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jcommander</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JCOMMANDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jdiff</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jemalloc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jline</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JLINE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jmdns</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jsilver</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jsmn</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/json-c</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JSON-C-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jsoncpp</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jsr305</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jsr330</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JSR330-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/junit</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/junit-params</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JUNIT-PARAMS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/kernel-headers</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/kmod</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-KMOD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ksoap2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libavc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libbackup</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBBACKUP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libbrillo</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBBRILLO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libcap</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBCAP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libcap-ng</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libchrome</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBCHROME-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libconstrainedcrypto</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBCONSTRAINEDCRYPTO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libcups</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBCUPS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libcxx</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libcxxabi</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libdaemon</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBDAEMON-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libdivsufsort</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBDIVSUFSORT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libdrm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libedit</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EXTERNAL-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libese</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBESE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libevent</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBEVENT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libexif</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libgdx</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBGDX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libgsm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libhevc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libjpeg-turbo</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBJPEG-TURBO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libldac</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBLDAC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/liblzf</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libmicrohttpd</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBMICROHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libmojo</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBMOJO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libmpeg2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libmtp</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBNETFILTER_CONNTRACK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libnfnetlink</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBNFNETLINK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libnl</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libogg</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libopus</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libpcap</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libphonenumber</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libpng</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libtextclassifier</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBTEXTCLASSIFIER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libunwind</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libunwind_llvm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libusb</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libusb-compat</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libvncserver</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libvorbis</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libvpx</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libvterm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libweave</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBWEAVE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libxml2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libyuv</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/linux-kselftest</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LINUX-KSELFTEST-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/lisa</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LISA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/littlemock</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/lld</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LLD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/llvm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/lmfit</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LMFIT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ltp</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LTP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/lz4</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/lzma</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/markdown</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mdnsresponder</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mesa3d</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/messageformat</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/minijail</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MINIJAIL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mksh</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mm-dash</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MM-DASH-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mmc-utils</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EXTERNAL-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mockftpserver</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mockito</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mockwebserver</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/modp_b64</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MODP_B64-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mp4parser</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mtpd</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/nanohttpd</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/nanopb-c</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/naver-fonts</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/netcat</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/netperf</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/neven</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/nfacct</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/nist-pkits</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/nist-sip</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/noto-fonts</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/oauth</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/objenesis</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/okhttp</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/opencv</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/openssh</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/owasp/sanitizer</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SANITIZER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/parameter-framework</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/pcre</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/pdfium</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/piex</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PIEX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ply</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PLY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ppp</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/proguard</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/protobuf</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/python/cpython2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CPYTHON2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/python/cpython3</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CPYTHON3-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/r8</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-R8-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/regex-re2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/replicaisland</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/rmi4utils</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-RMI4UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/robolectric</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/roboto-fonts</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/rootdev</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ROOTDEV-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/safe-iop</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/scrypt</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/seccomp-tests</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SECCOMP-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/selinux</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/sfntly</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/shflags</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SHFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/skia</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/sl4a</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SL4A-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/slf4j</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/smali</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/snakeyaml</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SNAKEYAML-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/sonic</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/sonivox</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/speex</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/spirv-llvm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SPIRV-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/sqlite</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/squashfs-tools</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/strace</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/stressapptest</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/svox</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/swiftshader</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SWIFTSHADER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/syslinux</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SYSLINUX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tagsoup</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tcpdump</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/testng</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TESTNG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/timezonepicker-support</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tinyalsa</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tinycompress</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tinyxml</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tinyxml2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/toolchain-utils</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TOOLCHAIN-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/toybox</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tpm2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TPM2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/trappy</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TRAPPY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tremolo</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/unicode</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-UNICODE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/universal-tween-engine</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-UNIVERSAL-TWEEN-ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/v4l2_codec2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-V4L2_CODEC2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/v8</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-V8-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/valgrind</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/vboot_reference</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/vixl</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/vogar</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/volley</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VOLLEY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/vulkan-validation-layers</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VULKAN-VALIDATION-LAYERS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/walt</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WALT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/webp</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/webrtc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/wpa_supplicant_8</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/wycheproof</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WYCHEPROOF-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/x264</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-X264-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/xmlrpcpp</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-XMLRPCPP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/xmlwriter</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/xmp_toolkit</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/xz-embedded</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-XZ-EMBEDDED-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/zlib</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/zopfli</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/zxing</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/av</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-AV-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/base</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BASE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/compile/libbcc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBBCC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/compile/mclinker</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MCLINKER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/compile/slang</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SLANG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/data-binding</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DATA-BINDING-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/ex</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/layoutlib</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LAYOUTLIB-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/minikin</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MINIKIN-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/ml</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ML-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/multidex</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MULTIDEX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/native</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NATIVE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/bitmap</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BITMAP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/bluetooth</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-OPT-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/calendar</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-OPT-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/chips</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CHIPS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-COLORPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DATETIMEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/emoji</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EMOJI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/inputconnectioncommon</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-INPUTCONNECTIONCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/inputmethodcommon</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-INPUTMETHODCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ETHERNET-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/net/ims</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NET-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/net/lowpan</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LOWPAN-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/net/voip</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VOIP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WIFI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PHOTOVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-OPT-SETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/telephony</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-OPT-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TIMEZONEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/vcard</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VCARD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/rs</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-RS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/support</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/webview</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FRAMEWORKS-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/wilhelm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WILHELM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/akm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-AKM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/google/apf</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APF-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/interfaces</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/invensense</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-INVENSENSE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/libhardware</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBHARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/libhardware_legacy</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBHARDWARE_LEGACY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/audio</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-AUDIO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BOOTCTRL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/bt</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-BT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/camera</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/display</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-DISPLAY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/gps</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-GPS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/media</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/thermal</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-THERMAL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/vr</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VR-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/wlan</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/ril</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-RIL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/stm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-STM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/libcore</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/libnativehelper</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Bluetooth</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Calendar</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HVAC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CAR-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LENSPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LOCALMEDIAPLAYER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Media</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CAR-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MESSENGER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Overview</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-OVERVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Radio</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-RADIO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Settings</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CAR-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Stream</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-STREAM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SYSTEMUPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/UserManagement</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-USERMANAGEMENT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/libs</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/CertInstaller</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Contacts</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/DeskClock</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DOCUMENTSUI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Email</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EMERGENCYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Exchange</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Gallery2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/KeyChain</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Launcher3</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Messaging</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Mms</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Phone</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Protips</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Provision</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/RetailDemo</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-RETAILDEMO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SAFETYREGULATORYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Settings</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SmartCardService</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SNAPDRAGONCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SpareParts</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Stk</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-STK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/StorageManager</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-STORAGEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Tag</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Terminal</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TEST-CONNECTIVITY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TIMEZONEDATA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TIMEZONEUPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WALLPAPERPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-INPUTMETHODS-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BLOCKEDNUMBERPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/MediaProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/TvProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/screensavers/Basic</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/screensavers/WebView</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SCREENSAVERS-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BUILTINPRINTSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/Car</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SERVICES-CAR-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/Mms</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SERVICES-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/NetworkRecommendation</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NETWORKRECOMMENDATION-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/Telecomm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TELECOMM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/Telephony</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SERVICES-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/pdk</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/platform_testing</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/build-tools</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BUILD-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HOST-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/deqp</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PREBUILTS-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/devtools</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/eclipse</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ARM-ARM-EABI-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-AARCH64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ARM-ARM-EABI-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ARM-LINUX-ANDROIDEABI-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-X86_64-LINUX-GLIBC2.11-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-X86_64-LINUX-GLIBC2.15-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-X86_64-W64-MINGW32-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-X86_64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GO-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-JDK8-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/libs/libedit</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBS-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ANDROID-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BUMPTECH-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/misc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/ndk</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-2.7.5-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/sdk</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/tools</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/sdk</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PLATFORM-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/bt</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SYSTEM-BT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/ca-certificates</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CA-CERTIFICATES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/chre</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CHRE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/connectivity/wificond</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WIFICOND-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/connectivity/wifilogd</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WIFILOGD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/core</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/extras</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-EXTRAS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/gatekeeper</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-GATEKEEPER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/hardware/interfaces</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/hwservicemanager</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HWSERVICEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/keymaster</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/libfmq</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBFMQ-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/libhidl</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBHIDL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/libhwbinder</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBHWBINDER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/libufdt</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBUFDT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/libvintf</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LIBVINTF-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/media</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SYSTEM-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/netd</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NETD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/nfc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SYSTEM-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/nvram</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NVRAM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/qcom</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/security</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SYSTEM-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/sepolicy</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SYSTEM-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/timezone</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TIMEZONE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/tools/aidl</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-AIDL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/tools/hidl</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HIDL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/tpm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TPM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/update_engine</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-UPDATE_ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/vold</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VOLD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VTS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FUZZ-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/hal</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HAL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-HAL-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/kernel</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/performance</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PERFORMANCE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/security</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VTS-TESTCASE-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/vndk</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VNDK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/apksig</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APKSIG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/loganalysis</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LOGANALYSIS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/repohooks</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-REPOHOOKS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/test/connectivity</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TEST-CONNECTIVITY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/tradefederation</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TRADEFEDERATION-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/tradefederation/contrib</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CONTRIB-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/codeaurora/telephony</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CODEAURORA-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/bluetooth</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-OPENSOURCE-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/bluetooth_ext</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BLUETOOTH_EXT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/data-ipa-cfg-mgr</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DATA-IPA-CFG-MGR-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/dataservices</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DATASERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/dpm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DPM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/fm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-OPENSOURCE-FM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/fst-manager</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FST-MANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/interfaces</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-OPENSOURCE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/location</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LOCATION-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/mmc-utils</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-OPENSOURCE-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/rcs-service</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-RCS-SERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/shortcut-fe</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SHORTCUT-FE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/time-services</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-OPENSOURCE-TIME-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/tools</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-OPENSOURCE-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/wigig</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCOM-OPENSOURCE-WIGIG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/wlan/fw-api</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FW-API-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCA-WIFI-HOST-CMN-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/wlan/qcacld-3.0</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCACLD-3.0-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SIGMA-DUT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/falcon_32</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FALCON_32-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/falcon_64</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FALCON_64-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/SecProtect</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SECPROTECT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/SmartCardService</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROPRIETARY-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/android-perf</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ANDROID-PERF-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/biometrics</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-BIOMETRICS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/bluetooth</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROPRIETARY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/bt</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROPRIETARY-BT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/cne</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CNE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/common</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROPRIETARY-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/csm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-CSM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/data</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DATA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/diag</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-DIAG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/display</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROPRIETARY-DISPLAY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/fastcv</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FASTCV-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/fastmmi</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FASTMMI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/fm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROPRIETARY-FM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ftm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-FTM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/gps</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROPRIETARY-GPS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ims-ship</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-IMS-SHIP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/interfaces</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROPRIETARY-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/llvm-arm-toolchain-ship</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-LLVM-ARM-TOOLCHAIN-SHIP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mdm-helper</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MDM-HELPER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-audio</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MM-AUDIO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-camera</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MM-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-camerasdk</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MM-CAMERASDK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-core</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MM-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-osal</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MM-OSAL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-parser</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MM-PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-still</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MM-STILL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-video</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MM-VIDEO-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-video-utils</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MM-VIDEO-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/modem-apis</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-MODEM-APIS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/nqnfc-firmware</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-NQNFC-FIRMWARE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/prebuilt_HY11_SDM660</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PREBUILT_HY11_SDM660-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qcril</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCRIL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qcril-data-hal</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCRIL-DATA-HAL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qcril-hal</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCRIL-HAL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qcril-qmi-services</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCRIL-QMI-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qcrilOemHook</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QCRILOEMHOOK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qdssagent</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QDSSAGENT-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qmi</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QMI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qmi-framework</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QMI-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qrdplus</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-QRDPLUS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/remotefs</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-REMOTEFS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/scve</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SCVE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/securemsm</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SECUREMSM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/sensors</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SENSORS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ss-restart</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SS-RESTART-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ss-services</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-SS-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/tango_hal</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TANGO_HAL-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/telephony-apps</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TELEPHONY-APPS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/telephony-fwk</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-TELEPHONY-FWK-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/thermal-engine</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-THERMAL-ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/time-services</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROPRIETARY-TIME-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ui</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-UI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/uim_remote_service</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-UIM_REMOTE_SERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ultrasound</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ULTRASOUND-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/vpp</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VPP-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/wfd</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WFD-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/wigig</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROPRIETARY-WIGIG-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/wipower</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-WIPOWER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/wlan</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PROPRIETARY-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/buildtools</name>
+	<branch>refs/heads/bb/develop/tcl/jdm/aospo-sdm636-ts_HZ</branch>
+	<baseline>N4-BASE-BUILDTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tctalone/TctAppPackage/Robust</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-ROBUST-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/version</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-VERSION-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/partner_gms</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>N4-BASE-PARTNERGMS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Browser2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-BROWSER2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/CMFileManager</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-CMFILEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Camera2</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Dialer</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Music</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/MusicFX</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Nfc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-PACKAGES-APPS-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SnapdragonGallery</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-SNAPDRAGONGALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SnapdragonMusic</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-SNAPDRAGONMUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/nxp/interfaces/opensource/nfc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-OPENSOURCENFC-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/nxp/opensource/external/libnfc-nci</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-LIBNFCNCI-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/nxp/opensource/frameworks</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/nxp/opensource/packages/apps/Nfc</name>
+	<branch>refs/heads/aospo-sdm636-ts_NB</branch>
+	<baseline>N4-BASE-APPS-OPENSOURCE-NFC-P1.0</baseline>
+</project>
+
+</projects>

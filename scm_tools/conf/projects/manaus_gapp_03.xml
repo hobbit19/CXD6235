@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>genericapp_hz/JrdCompass</name>
+	<branch>refs/heads/Compass_Rel3_03</branch>
+	<baseline>MANAUS-GAPP-COMPASS_P0.3</baseline>
+</project>
+
+<project>
+	<name>manaus/JrdEmail</name>
+	<branch>refs/heads/Email_Rel4_03</branch>
+	<baseline>MANAUS-GAPP-JRDEMAIL_P0.3</baseline>
+</project>
+<project>
+	<name>manaus/JrdFMRadio</name>
+	<branch>refs/heads/FMRadio_Rel3_03</branch>
+	<baseline>MANAUS-GAPP-FMRADIO_P0.3</baseline>
+</project>
+<project>
+        <name>manaus/JrdSoundRecord</name>
+        <branch>refs/heads/SoundRecorder_03</branch>
+        <baseline>MANAUS-GAPP-SoundRecorder_P0.3</baseline>
+</project>
+<project>
+        <name>manaus/Calculator</name>
+        <branch>refs/heads/Calculator_Rel3_03</branch>
+        <baseline>MANAUS-GAPP-Calculator_P0.3</baseline>
+</project>
+</projects>

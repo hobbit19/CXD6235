@@ -1,0 +1,1788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6750t/abi</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ABI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/art</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ART-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/bionic</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BIONIC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/bootable</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BOOTABLE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/build</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BUILD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/cts</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/dalvik</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DALVIK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/developers</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DEVELOPERS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/development</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DEVELOPMENT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/device</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DEVICE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/docs</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DOCS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/aac</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-AAC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/android-clat</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ANDROID-CLAT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/androidplot</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ANDROIDPLOT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ant-glob</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ANT-GLOB-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/antlr</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ANTLR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-commons-math</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-APACHE-COMMONS-MATH-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-harmony</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-APACHE-HARMONY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-http</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-APACHE-HTTP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-xml</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-APACHE-XML-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/autotest</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-AUTOTEST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/avahi</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-AVAHI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bison</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BISON-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/blktrace</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BLKTRACE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/boringssl</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BORINGSSL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bouncycastle</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BOUNCYCASTLE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bsdiff</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BSDIFF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bzip2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BZIP2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/c-ares</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-C-ARES-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/caliper</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CALIPER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cblas</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CBLAS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ceres-solver</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CERES-SOLVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-libpac</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CHROMIUM-LIBPAC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-trace</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CHROMIUM-TRACE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-webview</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CHROMIUM-WEBVIEW-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/clang</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CLANG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cmockery</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CMOCKERY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/compiler-rt</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-COMPILER-RT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/conscrypt</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CONSCRYPT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/crcalc</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CRCALC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cros</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CROS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/curl</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CURL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dagger2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DAGGER2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dbus</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DBUS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dbus-binding-generator</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DBUS-BINDING-GENERATOR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/deqp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-EXTERNAL-DEQP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dexmaker</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DEXMAKER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DHCPCD-6.8.2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dlmalloc</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DLMALLOC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dng_sdk</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DNG_SDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dnsmasq</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DNSMASQ-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/doclava</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DOCLAVA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/donuts</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DONUTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/drm_gralloc</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DRM_GRALLOC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/drm_hwcomposer</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DRM_HWCOMPOSER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/droiddriver</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DROIDDRIVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/e2fsprogs</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-E2FSPROGS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/easymock</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-EASYMOCK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eclipse-basebuilder</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ECLIPSE-BASEBUILDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ECLIPSE-WINDOWBUILDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eigen</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-EIGEN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/elfutils</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ELFUTILS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/emma</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-EMMA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/esd</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ESD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/expat</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-EXPAT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eyes-free</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-EYES-FREE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/f2fs-tools</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-F2FS-TOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fdlibm</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-FDLIBM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fec</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-FEC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fio</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-FIO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/flac</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-FLAC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fonttools</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-FONTTOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/freetype</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-FREETYPE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fsck_msdos</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-FSCK_MSDOS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gemmlowp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GEMMLOWP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/giflib</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GIFLIB-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/glide</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GLIDE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gmock</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GMOCK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-benchmark</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GOOGLE-BENCHMARK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-breakpad</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GOOGLE-BREAKPAD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-fonts</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GOOGLE-FONTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GOOGLE-TV-PAIRING-PROTOCOL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gptfdisk</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GPTFDISK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gtest</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GTEST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/guava</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GUAVA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/guice</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GUICE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/hamcrest</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-HAMCREST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/harfbuzz_ng</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-HARFBUZZ_NG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/hyphenation-patterns</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-HYPHENATION-PATTERNS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/icu</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ICU-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iproute2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-IPROUTE2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ipsec-tools</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-IPSEC-TOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iptables</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-IPTABLES-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iputils</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-IPUTILS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iw</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-IW-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jacoco</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JACOCO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jarjar</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JARJAR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/javasqlite</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JAVASQLITE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/javassist</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JAVASSIST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jcommander</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JCOMMANDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jdiff</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JDIFF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jemalloc</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JEMALLOC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jetty</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JETTY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jhead</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JHEAD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jmdns</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JMDNS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsilver</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JSILVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsmn</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JSMN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsoncpp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JSONCPP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsr305</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JSR305-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsr330</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JSR330-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/junit</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-JUNIT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/kernel-headers</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-KERNEL-HEADERS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ksoap2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-KSOAP2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libavc</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBAVC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libbrillo</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBBRILLO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcap</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBCAP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcap-ng</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBCAP-NG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libchrome</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBCHROME-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcxx</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBCXX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcxxabi</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBCXXABI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdaemon</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBDAEMON-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdivsufsort</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBDIVSUFSORT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdrm</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBDRM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libedit</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBEDIT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libevent</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBEVENT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libexif</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBEXIF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libgsm</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBGSM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libhevc</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBHEVC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libjpeg-turbo</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBJPEG-TURBO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/liblzf</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBLZF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmicrohttpd</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBMICROHTTPD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmpeg2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBMPEG2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmtp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBMTP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnfc-nci</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBNFC-NCI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnfc-nxp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBNFC-NXP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnl</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBNL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libogg</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBOGG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libopus</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBOPUS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libpcap</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBPCAP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libphonenumber</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBPHONENUMBER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libpng</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBPNG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libselinux</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBSELINUX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libunwind</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBUNWIND-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libunwind_llvm</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBUNWIND_LLVM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libusb</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBUSB-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libusb-compat</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBUSB-COMPAT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libutf</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBUTF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvncserver</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBVNCSERVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvorbis</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBVORBIS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvpx</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBVPX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvterm</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBVTERM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libweave</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBWEAVE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libxml2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBXML2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libyuv</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBYUV-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/littlemock</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LITTLEMOCK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lld</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LLD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/llvm</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LLVM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ltrace</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LTRACE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lz4</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LZ4-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lzma</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LZMA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/markdown</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MARKDOWN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mdnsresponder</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MDNSRESPONDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mesa3d</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MESA3D-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/messageformat</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MESSAGEFORMAT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/minijail</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MINIJAIL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mksh</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MKSH-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mmc-utils</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MMC-UTILS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockftpserver</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MOCKFTPSERVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockito</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MOCKITO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockwebserver</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MOCKWEBSERVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/modp_b64</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MODP_B64-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mp4parser</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MP4PARSER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mtpd</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MTPD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nanohttpd</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NANOHTTPD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nanopb-c</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NANOPB-C-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/naver-fonts</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NAVER-FONTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/netcat</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NETCAT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/netperf</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NETPERF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/neven</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NEVEN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nfacct</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NFACCT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nist-pkits</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NIST-PKITS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nist-sip</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NIST-SIP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/noto-fonts</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NOTO-FONTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/oauth</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-OAUTH-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/objenesis</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-OBJENESIS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/okhttp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-OKHTTP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/opencv</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-OPENCV-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/opencv3</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-OPENCV3-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/owasp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-OWASP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/parameter-framework</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PARAMETER-FRAMEWORK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/pcre</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PCRE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/pdfium</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PDFIUM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/piex</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PIEX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ppp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PPP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/proguard</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PROGUARD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/protobuf</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PROTOBUF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/regex-re2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-REGEX-RE2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/replicaisland</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-REPLICAISLAND-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/rmi4utils</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-RMI4UTILS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/robolectric</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ROBOLECTRIC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/roboto-fonts</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ROBOTO-FONTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/rootdev</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ROOTDEV-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/safe-iop</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SAFE-IOP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/scrypt</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SCRYPT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/selinux</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SELINUX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sfntly</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SFNTLY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/shflags</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SHFLAGS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/skia</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SKIA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sl4a</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SL4A-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/slf4j</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SLF4J-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/smali</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SMALI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/snakeyaml</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SNAKEYAML-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sonic</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SONIC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sonivox</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SONIVOX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/speex</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SPEEX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sqlite</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SQLITE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/squashfs-tools</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SQUASHFS-TOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/srtp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SRTP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/strace</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-STRACE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/svox</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SVOX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tagsoup</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TAGSOUP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tcpdump</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TCPDUMP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/testng</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TESTNG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/timezonepicker-support</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TIMEZONEPICKER-SUPPORT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyalsa</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TINYALSA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinycompress</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TINYCOMPRESS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyxml</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TINYXML-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyxml2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TINYXML2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tlsdate</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TLSDATE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/toybox</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TOYBOX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tpm2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TPM2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tremolo</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TREMOLO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/unicode</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-UNICODE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/v8</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-V8-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/valgrind</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-VALGRIND-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vboot_reference</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-VBOOT_REFERENCE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vixl</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-VIXL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vogar</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-VOGAR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vulkan-validation-layers</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-VULKAN-VALIDATION-LAYERS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/webp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-WEBP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/webrtc</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-WEBRTC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/wpa_supplicant_8</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-WPA_SUPPLICANT_8-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmlrpcpp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-XMLRPCPP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmlwriter</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-XMLWRITER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmp_toolkit</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-XMP_TOOLKIT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zlib</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ZLIB-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zopfli</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ZOPFLI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zxing</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ZXING-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/frameworks</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-FRAMEWORKS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/hardware</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-HARDWARE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/kernel</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-KERNEL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/libcore</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBCORE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/libnativehelper</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBNATIVEHELPER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/modem</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MODEM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/ndk</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BASICSMSRECEIVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Bluetooth</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BLUETOOTH-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Browser2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BROWSER2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Calculator</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CALCULATOR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Calendar</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CALENDAR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Camera2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CAMERA2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CARRIERCONFIG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CELLBROADCASTRECEIVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CertInstaller</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CERTINSTALLER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Contacts</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CONTACTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CONTACTSCOMMON-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/DeskClock</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DESKCLOCK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/DevCamera</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DEVCAMERA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Dialer</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DIALER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Email</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-EMAIL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-EMERGENCYINFO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-EXACTCALCULATOR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Gallery</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GALLERY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Gallery2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GALLERY2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-HTMLVIEWER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/KeyChain</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-KEYCHAIN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Launcher2</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LAUNCHER2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Launcher3</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LAUNCHER3-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LEGACYCAMERA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MANAGEDPROVISIONING-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Messaging</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MESSAGING-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Music</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MUSIC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/MusicFX</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MUSICFX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Nfc</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NFC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ONETIMEINITIALIZER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PACKAGEINSTALLER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Phone</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PHONE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PHONECOMMON-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Protips</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PROTIPS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Provision</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PROVISION-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-QUICKSEARCHBOX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Settings</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SETTINGS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SOUNDRECORDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SpareParts</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SPAREPARTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SPEECHRECORDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Stk</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-STK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Tag</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TAG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Terminal</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TERMINAL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Test</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TEST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/TvSettings</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TVSETTINGS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-UNIFIEDEMAIL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/experimental</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-EXPERIMENTAL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LATINIME-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-OPENWNN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-APPLICATIONSPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BLOCKEDNUMBERPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BOOKMARKPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CALENDARPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CALLLOGPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CONTACTSPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DOWNLOADPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/MediaProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MEDIAPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PARTNERBOOKMARKSPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TELEPHONYPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/TvProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TVPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-USERDICTIONARYPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/Basic</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-BASIC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PHOTOTABLE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/WebView</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-WEBVIEW-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/services</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SERVICES-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIVEPICKER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/pdk</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/platform_testing</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PLATFORM_TESTING-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/android-emulator</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ANDROID-EMULATOR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DARWIN-X86-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/host</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-CLANG-HOST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LINUX-X86-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/deqp</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PREBUILTS-DEQP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/devtools</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DEVTOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/eclipse</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-ECLIPSE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DARWIN-X86-AARCH64-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DARWIN-X86-ARM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DARWIN-X86-HOST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DARWIN-X86-MIPS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-DARWIN-X86-X86-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LINUX-X86-AARCH64-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LINUX-X86-ARM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LINUX-X86-HOST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LINUX-X86-MIPS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LINUX-X86-X86-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gdb</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GDB-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/go</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-GRADLE-PLUGIN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/libs</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-LIBS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/maven_repo</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MAVEN_REPO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/misc</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-MISC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/ndk</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PREBUILTS-NDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/ninja</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-NINJA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/python</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PYTHON-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-QEMU-KERNEL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/sdk</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PREBUILTS-SDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/tools</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-PREBUILTS-TOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/sdk</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/system</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-SYSTEM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/toolchain</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TOOLCHAIN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/tools</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-TOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/vendor</name>
+	<branch>refs/heads/mtk6750t-n-a5a-infini-cn-v0.2-driveronly</branch>
+	<baseline>MT6750T-A5A-INFINI-CN-DRIVEONLY-VENDOR-P0.2</baseline>
+</project>
+</projects>

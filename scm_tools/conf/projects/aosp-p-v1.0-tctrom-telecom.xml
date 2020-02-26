@@ -1,0 +1,3383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>aosp/art</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ART-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/bionic</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/bootable/recovery</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-RECOVERY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/build/blueprint</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BLUEPRINT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/build/kati</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-KATI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/build/make</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MAKE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/build/soong</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SOONG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/compatibility/cdd</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CDD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/cts</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/dalvik</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/developers/build</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DEVELOPERS-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/developers/demos</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DEMOS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/developers/samples/android</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SAMPLES-ANDROID-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/development</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/common</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DEVICE-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/arm64</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ARM64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/car</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GENERIC-CAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/common</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GENERIC-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/goldfish</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOLDFISH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOLDFISH-OPENGL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MINI-EMULATOR-ARM64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MINI-EMULATOR-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-mips</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MINI-EMULATOR-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-mips64</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MINI-EMULATOR-MIPS64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MINI-EMULATOR-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MINI-EMULATOR-X86_64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mips</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mips64</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MIPS64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/qemu</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/uml</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-UML-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/x86</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/x86_64</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-X86_64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/accessory/arduino</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ARDUINO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/accessory/demokit</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DEMOKIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/atv</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ATV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/contexthub</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CONTEXTHUB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/cuttlefish</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CUTTLEFISH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/cuttlefish_common</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CUTTLEFISH_COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/cuttlefish_kernel</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CUTTLEFISH_KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/marlin</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MARLIN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/marlin-kernel</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MARLIN-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/muskie</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MUSKIE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/taimen</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TAIMEN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/vrservices</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VRSERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/wahoo</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WAHOO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/wahoo-kernel</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WAHOO-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/bootloader/OpenPlatformPkg</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OPENPLATFORMPKG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/bootloader/arm-trusted-firmware</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ARM-TRUSTED-FIRMWARE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/bootloader/edk2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EDK2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/hikey</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HIKEY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/hikey-kernel</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HIKEY-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/sample</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SAMPLE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ImageMagick</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-IMAGEMAGICK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/Microsoft-GSL</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MICROSOFT-GSL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/aac</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/abi-compliance-checker</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ABI-COMPLIANCE-CHECKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/abi-dumper</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ABI-DUMPER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/adhd</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ADHD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/adt-infra</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ADT-INFRA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/android-clat</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/androidplot</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/annotation-tools</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ANNOTATION-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ant-glob</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/antlr</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-commons-math</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-harmony</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-http</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-xml</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/archive-patcher</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ARCHIVE-PATCHER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/arm-neon-tests</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ARM-NEON-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/autotest</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-AUTOTEST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/avb</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-AVB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bart</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BART-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/blktrace</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/boringssl</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bouncycastle</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/brotli</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BROTLI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bsdiff</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bzip2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/caliper</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CALIPER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/capstone</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CAPSTONE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cblas</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/chromium-libpac</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/chromium-trace</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/chromium-webview</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/clang</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cmockery</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cn-cbor</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CN-CBOR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/compiler-rt</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/conscrypt</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/crcalc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cros/system_api</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SYSTEM_API-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/curl</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CURL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dagger2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DAGGER2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/deqp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EXTERNAL-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/desugar</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DESUGAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/devlib</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DEVLIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dexmaker</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DHCPCD-6.8.2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dlmalloc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DLMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dng_sdk</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DNG_SDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dnsmasq</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/doclava</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/drm_gralloc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/drm_hwcomposer</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/droiddriver</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/drrickorang</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DRRICKORANG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dtc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DTC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/e2fsprogs</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/easymock</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/eigen</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/elfutils</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/emma</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/error_prone</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ERROR_PRONE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/esd</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/expat</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/eyes-free</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/f2fs-tools</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fdlibm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fec</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FEC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fio</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/flac</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/flatbuffers</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FLATBUFFERS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fonttools</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/freetype</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fsck_msdos</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/gemmlowp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GEMMLOWP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/gflags</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/giflib</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/glide</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/golang-protobuf</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOLANG-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-api-services-storage</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-API-SERVICES-STORAGE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-benchmark</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-breakpad</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CARROIS-GOTHIC-SC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-COMING-SOON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CUTIVE-MONO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DANCING-SCRIPT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-styleguide</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-STYLEGUIDE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/googletest</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLETEST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/gptfdisk</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/guava</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/guice</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GUICE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/hamcrest</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/harfbuzz_ng</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/honggfuzz</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HONGGFUZZ-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/hyphenation-patterns</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/icu</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ims</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EXTERNAL-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iproute2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ipsec-tools</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iptables</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iputils</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iw</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-IW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jacoco</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JACOCO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jarjar</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/javaparser</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JAVAPARSER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/javasqlite</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/javassist</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jcommander</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JCOMMANDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jdiff</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jemalloc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jline</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JLINE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jmdns</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsilver</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsmn</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsoncpp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsr305</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsr330</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JSR330-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/junit</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/junit-params</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JUNIT-PARAMS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/kernel-headers</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/kmod</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-KMOD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/kotlinc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-KOTLINC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ksoap2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libavc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libbackup</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBBACKUP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libbrillo</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBBRILLO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcap</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBCAP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcap-ng</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libchrome</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBCHROME-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libconstrainedcrypto</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBCONSTRAINEDCRYPTO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcups</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBCUPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcxx</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcxxabi</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libdaemon</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBDAEMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libdivsufsort</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBDIVSUFSORT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libdrm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libedit</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EXTERNAL-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libese</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBESE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libevent</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBEVENT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libexif</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libffi</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libgsm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libhevc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libjpeg-turbo</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBJPEG-TURBO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libldac</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBLDAC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libmicrohttpd</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBMICROHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libmojo</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBMOJO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libmpeg2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libmtp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBNETFILTER_CONNTRACK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libnfnetlink</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBNFNETLINK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libnl</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libogg</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libopus</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libpcap</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libphonenumber</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libpng</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libtextclassifier</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBTEXTCLASSIFIER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libunwind</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libunwind_llvm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libusb</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libusb-compat</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libvncserver</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libvpx</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libvterm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libxaac</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBXAAC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libxcam</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBXCAM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libxkbcommon</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBXKBCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libxml2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libyuv</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/linux-kselftest</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LINUX-KSELFTEST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lisa</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LISA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/llvm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lmfit</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LMFIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ltp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LTP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lz4</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lzma</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/markdown</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mdnsresponder</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mesa3d</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/minijail</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MINIJAIL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mksh</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mmc-utils</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mockftpserver</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mockito</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mockwebserver</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/modp_b64</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MODP_B64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mp4parser</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mtpd</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nanohttpd</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nanopb-c</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/naver-fonts</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/netcat</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/neven</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nfacct</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nist-pkits</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nist-sip</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nos/host/android</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HOST-ANDROID-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nos/host/generic</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GENERIC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nos/test/system-test-harness</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SYSTEM-TEST-HARNESS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/noto-fonts</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/oauth</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/objenesis</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/oj-libjdwp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OJ-LIBJDWP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/okhttp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/one-true-awk</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ONE-TRUE-AWK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/opencv</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/owasp/sanitizer</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SANITIZER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/parameter-framework</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/pcre</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/pdfium</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/perf_data_converter</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PERF_DATA_CONVERTER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/perfetto</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PERFETTO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/piex</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PIEX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ply</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EXTERNAL-PLY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ppp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/proguard</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/protobuf</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EXTERNAL-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/puffin</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PUFFIN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/Pillow</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PILLOW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/appdirs</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APPDIRS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/cachetools</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CACHETOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/cpython2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CPYTHON2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/cpython3</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CPYTHON3-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/dill</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DILL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/enum</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ENUM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/enum34</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ENUM34-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/future</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FUTURE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/futures</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FUTURES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/gapic-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GAPIC-GOOGLE-CLOUD-PUBSUB-V1-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-api-python-client</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-API-PYTHON-CLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-auth</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-AUTH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-auth-httplib2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-AUTH-HTTPLIB2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-cloud-core</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-CLOUD-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-cloud-pubsub</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-CLOUD-PUBSUB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-gax</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-GAX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/googleapis</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLEAPIS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/grpc-google-iam-v1</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GRPC-GOOGLE-IAM-V1-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/grpcio</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GRPCIO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/httplib2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HTTPLIB2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/matplotlib</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MATPLOTLIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/numpy</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NUMPY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/oauth2client</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OAUTH2CLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/olefile</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OLEFILE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/packaging</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PACKAGING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/parse</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PARSE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/ply</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PYTHON-PLY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/proto-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PROTO-GOOGLE-CLOUD-PUBSUB-V1-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/protobuf</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PYTHON-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/pyasn1</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PYASN1-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/pyasn1-modules</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PYASN1-MODULES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/pyparsing</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PYPARSING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/requests</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-REQUESTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/rsa</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-RSA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/scipy</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SCIPY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/setuptools</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SETUPTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/six</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SIX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/uritemplates</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-URITEMPLATES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/rappor</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-RAPPOR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/replicaisland</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/rmi4utils</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-RMI4UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/robolectric</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/robolectric-shadows</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ROBOLECTRIC-SHADOWS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/roboto-fonts</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/rootdev</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ROOTDEV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/safe-iop</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/scapy</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SCAPY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/scrypt</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/seccomp-tests</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SECCOMP-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/selinux</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sfntly</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/shaderc/spirv-headers</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SPIRV-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/shflags</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SHFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/skia</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/skqp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SKQP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sl4a</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SL4A-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/slf4j</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/smali</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/snakeyaml</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SNAKEYAML-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sonic</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sonivox</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/speex</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/spirv-llvm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SPIRV-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sqlite</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/squashfs-tools</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/strace</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/stressapptest</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/subsampling-scale-image-view</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SUBSAMPLING-SCALE-IMAGE-VIEW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/swiftshader</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SWIFTSHADER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/syslinux</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SYSLINUX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tagsoup</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tcpdump</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tensorflow</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TENSORFLOW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/testng</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TESTNG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/timezonepicker-support</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinyalsa</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinycompress</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinyxml</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinyxml2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/toolchain-utils</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TOOLCHAIN-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/toybox</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tpm2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TPM2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/trappy</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TRAPPY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tremolo</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/turbine</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TURBINE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/unicode</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-UNICODE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/universal-tween-engine</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-UNIVERSAL-TWEEN-ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/v4l2_codec2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-V4L2_CODEC2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/v8</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-V8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/valgrind</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vboot_reference</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vixl</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vogar</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/volley</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VOLLEY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vulkan-validation-layers</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VULKAN-VALIDATION-LAYERS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/walt</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WALT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/wayland</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WAYLAND-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/wayland-protocols</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WAYLAND-PROTOCOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/webp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/webrtc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/webview_support_interfaces</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WEBVIEW_SUPPORT_INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/wpa_supplicant_8</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/wycheproof</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WYCHEPROOF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/x264</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-X264-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/xmlrpcpp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-XMLRPCPP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/xmp_toolkit</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/xz-embedded</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-XZ-EMBEDDED-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/zlib</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/zopfli</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/zxing</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/av</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FRAMEWORKS-AV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/base</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FRAMEWORKS-BASE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/compile/libbcc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBBCC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/compile/mclinker</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MCLINKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/compile/slang</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SLANG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/data-binding</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DATA-BINDING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/ex</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/layoutlib</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LAYOUTLIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/minikin</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MINIKIN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/ml</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ML-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/multidex</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MULTIDEX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/native</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NATIVE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/bitmap</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BITMAP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/calendar</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OPT-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/car/services</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/car/setupwizard</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CAR-SETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/chips</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CHIPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-COLORPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DATETIMEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/inputconnectioncommon</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-INPUTCONNECTIONCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/inputmethodcommon</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-INPUTMETHODCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ETHERNET-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/ims</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NET-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/lowpan</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LOWPAN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/voip</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VOIP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WIFI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PHOTOVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OPT-SETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/telephony</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OPT-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TIMEZONEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/vcard</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VCARD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/rs</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-RS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/support</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/wilhelm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WILHELM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/akm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-AKM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/broadcom/libbt</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBBT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/broadcom/wlan</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BROADCOM-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/google/apf</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/google/av</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-AV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/google/easel</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EASEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/google/interfaces</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/audio_media</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-AUDIO_MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/bootstub</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BOOTSTUB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/bd_prov</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BD_PROV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/libmix</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBMIX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/libstagefrighthw</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBSTAGEFRIGHTHW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/libva</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBVA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/libwsbm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBWSBM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/omx-components</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OMX-COMPONENTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/utils</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/wrs_omxil_core</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WRS_OMXIL_CORE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/img/hwcomposer</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/img/psb_headers</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PSB_HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/img/psb_video</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PSB_VIDEO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/sensors</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SENSORS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/interfaces</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/invensense</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-INVENSENSE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/libhardware</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBHARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/libhardware_legacy</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBHARDWARE_LEGACY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/marvell/bt</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MARVELL-BT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/nxp/nfc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NXP-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/nxp/secure_element</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SECURE_ELEMENT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/audio</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-AUDIO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BOOTCTRL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/bt</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-QCOM-BT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/camera</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/data/ipacfg-mgr</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-IPACFG-MGR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/display</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DISPLAY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/gps</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/keymaster</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-QCOM-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/media</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-QCOM-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8960</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MSM8960-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8994</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MSM8994-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8996</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MSM8996-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8998</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MSM8998-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8x09</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MSM8X09-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8x26</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MSM8X26-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8x27</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MSM8X27-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8x84</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MSM8X84-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/neuralnetworks/hvxservice</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HVXSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/power</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-POWER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/wlan</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-QCOM-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/ril</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-RIL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/kernel/configs</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CONFIGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/kernel/tests</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/libcore</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/libnativehelper</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Bluetooth</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Browser2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BROWSER2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Calendar</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APPS-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Camera2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CAR-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HVAC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CAR-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Launcher</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LAUNCHER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LENSPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LOCALMEDIAPLAYER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Media</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CAR-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MESSENGER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Overview</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OVERVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Radio</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-RADIO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Settings</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CAR-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Stream</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-STREAM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SYSTEMUPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/libs</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/CertInstaller</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Contacts</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/DeskClock</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/DevCamera</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DEVCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Dialer</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APPS-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DOCUMENTSUI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Email</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EMERGENCYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Gallery</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Gallery2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/KeyChain</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Launcher2</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Launcher3</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Messaging</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Music</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/MusicFX</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Nfc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APPS-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Protips</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Provision</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SAFETYREGULATORYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SecureElement</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SECUREELEMENT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Settings</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APPS-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SettingsIntelligence</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SETTINGSINTELLIGENCE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SpareParts</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Stk</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-STK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/StorageManager</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-STORAGEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TV</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Tag</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Terminal</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TEST-CONNECTIVITY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TIMEZONEDATA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TIMEZONEUPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Traceur</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TRACEUR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TvSettings</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WALLPAPERPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/experimental</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-INPUTMETHODS-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BLOCKEDNUMBERPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/MediaProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/TvProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/screensavers/Basic</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/screensavers/WebView</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BUILTINPRINTSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Car</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SERVICES-CAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Mms</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/NetworkRecommendation</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NETWORKRECOMMENDATION-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Telecomm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TELECOMM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Telephony</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SERVICES-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/pdk</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/platform_testing</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ABI-DUMPS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ABI-DUMPS-VNDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/android-emulator</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/build-tools</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BUILD-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/checkcolor</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CHECKCOLOR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/checkstyle</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CHECKSTYLE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/clang-tools</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CLANG-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/clang/host/darwin-x86</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HOST-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HOST-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/deqp</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PREBUILTS-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/devtools</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-AARCH64-AARCH64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ARM-ARM-LINUX-ANDROIDEABI-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-I686-APPLE-DARWIN-4.2.1-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MIPS-MIPS64EL-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-X86-X86_64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-AARCH64-AARCH64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ARM-ARM-LINUX-ANDROIDEABI-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-X86_64-LINUX-GLIBC2.15-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-X86_64-W64-MINGW32-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MIPS-MIPS64EL-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-X86-X86_64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gdb/darwin-x86</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GDB-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GDB-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/go/darwin-x86</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GO-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GO-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JDK8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/jdk/jdk9</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-JDK9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/ktlint</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-KTLINT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/libs/libedit</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBS-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MAVEN_REPO-ANDROID-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BUMPTECH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/maven_repo/google-play-service-client-libraries-3p</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GOOGLE-PLAY-SERVICE-CLIENT-LIBRARIES-3P-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/misc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/ndk</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/python/darwin-x86/2.7.5</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DARWIN-X86-2.7.5-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LINUX-X86-2.7.5-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/r8</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-R8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/sdk</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/tools</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/vndk/v27</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-V27-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/sdk</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/bt</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SYSTEM-BT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/ca-certificates</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CA-CERTIFICATES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/chre</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CHRE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/connectivity/wificond</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WIFICOND-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/connectivity/wifilogd</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-WIFILOGD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/core</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SYSTEM-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/extras</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-EXTRAS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/gatekeeper</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GATEKEEPER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/hardware/interfaces</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/hwservicemanager</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HWSERVICEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/iot/attestation</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ATTESTATION-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/keymaster</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SYSTEM-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libfmq</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBFMQ-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libhidl</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBHIDL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libhwbinder</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBHWBINDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libufdt</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBUFDT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libvintf</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LIBVINTF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/media</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SYSTEM-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/netd</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NETD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/nfc</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SYSTEM-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/nvram</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NVRAM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/security</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SYSTEM-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/sepolicy</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/timezone</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TIMEZONE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/tools/aidl</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-AIDL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/tools/hidl</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HIDL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/tpm</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TPM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/update_engine</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-UPDATE_ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/vold</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VOLD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/framework</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/suite_harness</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SUITE_HARNESS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vti/alert</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ALERT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vti/dashboard</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DASHBOARD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vti/fuzz_test_serving</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FUZZ_TEST_SERVING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vti/test_serving</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TEST_SERVING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FUZZ-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/hal</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HAL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-HAL-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/kernel</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/nbu</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-NBU-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/performance</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PERFORMANCE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/security</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VTS-TESTCASE-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/vndk</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-VTS-TESTCASE-VNDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/toolchain/benchmark</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/toolchain/binutils</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-BINUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/toolchain/pgo-profiles</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-PGO-PROFILES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/acloud</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ACLOUD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/adt/idea</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-ADT-IDEA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/apksig</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APKSIG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/apkzlib</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APKZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/appbundle</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-APPBUNDLE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/base</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TOOLS-BASE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/build</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TOOLS-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/dexter</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-DEXTER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/external/fat32lib</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-FAT32LIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/external/gradle</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-GRADLE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/idea</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TOOLS-IDEA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/loganalysis</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-LOGANALYSIS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/metalava</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-METALAVA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/motodev</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-MOTODEV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/repohooks</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-REPOHOOKS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/studio/cloud</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CLOUD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/swt</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-SWT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/test/connectivity</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TEST-CONNECTIVITY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/tradefederation/contrib</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-CONTRIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/tradefederation/core</name>
+	<branch>refs/heads/aosp-p-v1.0-tctrom-telecom</branch>
+	<baseline>AOSP-P-TCTROM-TELECOM-TRADEFEDERATION-CORE-P1.0</baseline>
+</project>
+</projects>

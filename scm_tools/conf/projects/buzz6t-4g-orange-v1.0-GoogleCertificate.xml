@@ -1,0 +1,1858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6753/dalvik</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DALVIK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/trusty</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TRUSTY-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdMMITest</name>
+        <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+        <baseline>BUZZ6T-4G-ORANGE-JRDMMITEST-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/ReliabilityTest</name>
+        <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+        <baseline>BUZZ6T-4G-ORANGE-RELIABLITYTEST-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/providers/FingerprintProvider</name>
+        <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+        <baseline>BUZZ6T-4G-ORANGE-FINGERPRINTPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdScreenShot</name>
+        <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+        <baseline>BUZZ6T-4G-ORANGE-SCREEDNSHOT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/build</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BUILD-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/libcore</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBCORE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/arkamys</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ARKAMYS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/dolby</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DOLBY-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/jrdchz</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JRDCHZ-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/mediatek</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MEDIATEK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/device</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DEVICE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/system</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SYSTEM-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/ndk</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NDK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/abi</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ABI-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/hardware</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-HARDWARE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/bionic</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BIONIC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/cts</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CTS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/frameworks</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-FRAMEWORKS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/development</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DEVELOPMENT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/sdk</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SDK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/kernel</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-KERNEL-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/modem/LWTG</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LWTG-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/modem/C2K</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-C2K-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/art</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ART-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/libnativehelper</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBNATIVEHELPER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/pdk</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PDK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/bootable</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BOOTABLE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/experimental</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-EXPERIMENTAL-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PARTNERBOOKMARKSPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-USERDICTIONARYPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-APPLICATIONSPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CALENDARPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DOWNLOADPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CONTACTSPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/MediaProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MEDIAPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TELEPHONYPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/TvProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TVPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIVEPICKER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LATINIME-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-OPENWNN-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CELLBROADCASTRECEIVER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BASICSMSRECEIVER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/CertInstaller</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CERTINSTALLER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-QUICKSEARCHBOX-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Music</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MUSIC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Calculator</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CALCULATOR-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Contacts</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CONTACTS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PACKAGEINSTALLER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Gallery</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GALLERY-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/SpareParts</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SPAREPARTS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/KeyChain</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-KEYCHAIN-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-HTMLVIEWER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Protips</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PROTIPS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Tag</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TAG-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Stk</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-STK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Nfc</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NFC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SOUNDRECORDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Launcher2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LAUNCHER2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/MusicFX</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MUSICFX-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Provision</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PROVISION-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Email</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-EMAIL-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Calendar</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CALENDAR-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Settings</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SETTINGS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Bluetooth</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BLUETOOTH-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SPEECHRECORDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LEGACYCAMERA-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/DeskClock</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DESKCLOCK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/screensavers/Basic</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BASIC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PHOTOTABLE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/screensavers/WebView</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-WEBVIEW-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Gallery2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GALLERY2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Dialer</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DIALER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Camera2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CAMERA2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Launcher3</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LAUNCHER3-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ONETIMEINITIALIZER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/TvSettings</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TVSETTINGS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CONTACTSCOMMON-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/ManagedProvisioning</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MANAGEDPROVISIONING-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PHONECOMMON-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Terminal</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TERMINAL-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/BlockedNumberProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BLOCKEDNUMBERPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Test</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TEST-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Browser2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BROWSER2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/DevCamera</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DEVCAMERA-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/EmergencyInfo</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-EMERGENCYINFO-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/services</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SERVICES-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/CarrierConfig</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CARRIERCONFIG-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/ExactCalculator</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-EXACTCALCULATOR-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Messaging</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MESSAGING-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/BookmarkProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BOOKMARKPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/CallLogProvider</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CALLLOGPROVIDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/platform_testing</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PLATFORM_TESTING-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/android-emulator</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ANDROID-EMULATOR-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/devtools</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DEVTOOLS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/eclipse</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ECLIPSE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gradle-plugin</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GRADLE-PLUGIN-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/libs</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/maven_repo</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MAVEN_REPO-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/misc</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MISC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/ndk</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NDK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/python</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PYTHON-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/qemu-kernel</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-QEMU-KERNEL-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/sdk</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SDK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/tools</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TOOLS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/clang/darwin-x86</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DARWIN-X86-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/clang/linux-x86</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LINUX-X86-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/aarch64</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-AARCH64-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/arm</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ARM-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/host</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-HOST-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/mips</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MIPS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/x86</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-X86-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/aarch64</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-AARCH64-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/arm</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ARM-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/host</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-HOST-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/mips</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MIPS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/x86</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-X86-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/go</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GO-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gdb</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GDB-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/clang</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CLANG-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/deqp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DEQP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/ninja</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NINJA-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/toolchain</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TOOLCHAIN-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/tools</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TOOLS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/developers</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DEVELOPERS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/docs</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DOCS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-commons-math</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-APACHE-COMMONS-MATH-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/boringssl</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BORINGSSL-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/cblas</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CBLAS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/chromium-webview</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CHROMIUM-WEBVIEW-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/crcalc</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CRCALC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/drm_gralloc</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DRM_GRALLOC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/drm_hwcomposer</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DRM_HWCOMPOSER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-breakpad</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GOOGLE-BREAKPAD-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gptfdisk</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GPTFDISK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/hyphenation-patterns</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-HYPHENATION-PATTERNS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libavc</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBAVC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libdrm</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBDRM-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libmpeg2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBMPEG2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvncserver</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBVNCSERVER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/lz4</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LZ4-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mockftpserver</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MOCKFTPSERVER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/parameter-framework</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PARAMETER-FRAMEWORK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/selinux</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SELINUX-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/slf4j</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SLF4J-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sonic</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SONIC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/squashfs-tools</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SQUASHFS-TOOLS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/toybox</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TOYBOX-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vboot_reference</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-VBOOT_REFERENCE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vogar</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-VOGAR-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/v8</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-V8-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/androidplot</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ANDROIDPLOT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jetty</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JETTY-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/messageformat</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MESSAGEFORMAT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/roboto-fonts</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ROBOTO-FONTS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/aac</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-AAC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jhead</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JHEAD-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/svox</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SVOX-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/proguard</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PROGUARD-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jdiff</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JDIFF-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-http</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-APACHE-HTTP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tremolo</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TREMOLO-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/strace</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-STRACE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/webp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-WEBP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mtpd</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MTPD-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/skia</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SKIA-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bouncycastle</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BOUNCYCASTLE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libyuv</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBYUV-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libpng</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBPNG-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/clang</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CLANG-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-xml</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-APACHE-XML-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/liblzf</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBLZF-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/guava</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GUAVA-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dnsmasq</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DNSMASQ-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ipsec-tools</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-IPSEC-TOOLS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/netcat</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NETCAT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/blktrace</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BLKTRACE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/antlr</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ANTLR-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/neven</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NEVEN-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsr305</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JSR305-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ppp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PPP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libpcap</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBPCAP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libphonenumber</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBPHONENUMBER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/junit</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JUNIT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/wpa_supplicant_8</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-WPA_SUPPLICANT_8-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/opencv</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-OPENCV-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsilver</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JSILVER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/llvm</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LLVM-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/zlib</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ZLIB-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/speex</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SPEEX-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/srtp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SRTP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mksh</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MKSH-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eyes-free</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-EYES-FREE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nist-sip</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NIST-SIP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/safe-iop</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SAFE-IOP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/kernel-headers</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-KERNEL-HEADERS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mesa3d</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MESA3D-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bzip2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BZIP2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libgsm</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBGSM-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iproute2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-IPROUTE2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libxml2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBXML2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/oauth</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-OAUTH-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bison</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BISON-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/webrtc</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-WEBRTC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/protobuf</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PROTOBUF-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/emma</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-EMMA-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-harmony</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-APACHE-HARMONY-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvpx</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBVPX-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gtest</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GTEST-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinyxml</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TINYXML-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/expat</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-EXPAT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/doclava</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DOCLAVA-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/netperf</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NETPERF-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sqlite</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SQLITE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fdlibm</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-FDLIBM-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tcpdump</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TCPDUMP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/freetype</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-FREETYPE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bsdiff</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-BSDIFF-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/giflib</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GIFLIB-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libnfc-nxp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBNFC-NXP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinyalsa</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TINYALSA-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tagsoup</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TAGSOUP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sonivox</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SONIVOX-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/flac</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-FLAC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/markdown</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MARKDOWN-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/javassist</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JAVASSIST-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iptables</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-IPTABLES-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/e2fsprogs</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-E2FSPROGS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mockwebserver</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MOCKWEBSERVER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/easymock</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-EASYMOCK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/esd</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ESD-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/javasqlite</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JAVASQLITE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/elfutils</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ELFUTILS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fsck_msdos</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-FSCK_MSDOS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/valgrind</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-VALGRIND-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/xmlwriter</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-XMLWRITER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/replicaisland</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-REPLICAISLAND-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/chromium-trace</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CHROMIUM-TRACE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/compiler-rt</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-COMPILER-RT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dexmaker</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DEXMAKER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eclipse-basebuilder</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ECLIPSE-BASEBUILDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ECLIPSE-WINDOWBUILDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jmdns</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JMDNS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libmtp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBMTP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libselinux</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBSELINUX-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libunwind</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBUNWIND-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libusb</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBUSB-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libusb-compat</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBUSB-COMPAT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/littlemock</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LITTLEMOCK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mdnsresponder</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MDNSRESPONDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/hamcrest</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-HAMCREST-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/regex-re2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-REGEX-RE2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/smali</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SMALI-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/zxing</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ZXING-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ant-glob</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ANT-GLOB-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libnfc-nci</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBNFC-NCI-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libogg</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBOGG-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvorbis</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBVORBIS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mp4parser</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MP4PARSER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/naver-fonts</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NAVER-FONTS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/okhttp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-OKHTTP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinyxml2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TINYXML2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcap-ng</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBCAP-NG-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/xmp_toolkit</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-XMP_TOOLKIT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eigen</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-EIGEN-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/harfbuzz_ng</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-HARFBUZZ_NG-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/lzma</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LZMA-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/robolectric</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ROBOLECTRIC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/droiddriver</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DROIDDRIVER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/android-clat</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ANDROID-CLAT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/owasp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-OWASP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nanopb-c</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NANOPB-C-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/timezonepicker-support</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TIMEZONEPICKER-SUPPORT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libexif</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBEXIF-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsoncpp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JSONCPP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/scrypt</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SCRYPT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ceres-solver</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CERES-SOLVER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/noto-fonts</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NOTO-FONTS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/icu</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ICU-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/zopfli</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ZOPFLI-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/glide</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GLIDE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nfacct</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NFACCT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcxx</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBCXX-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/f2fs-tools</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-F2FS-TOOLS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libutf</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBUTF-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcxxabi</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBCXXABI-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsmn</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JSMN-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iputils</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-IPUTILS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libedit</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBEDIT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libhevc</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBHEVC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ksoap2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-KSOAP2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nanohttpd</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NANOHTTPD-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vixl</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-VIXL-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libopus</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBOPUS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/pdfium</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PDFIUM-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jemalloc</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JEMALLOC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sfntly</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SFNTLY-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/cmockery</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CMOCKERY-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fonttools</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-FONTTOOLS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libnl</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBNL-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/chromium-libpac</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CHROMIUM-LIBPAC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ltrace</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LTRACE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-tv-pairing-protocol</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GOOGLE-TV-PAIRING-PROTOCOL-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/deqp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DEQP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinycompress</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TINYCOMPRESS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/objenesis</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-OBJENESIS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mockito</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MOCKITO-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jarjar</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JARJAR-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/conscrypt</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CONSCRYPT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-fonts</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GOOGLE-FONTS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fio</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-FIO-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nist-pkits</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-NIST-PKITS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvterm</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBVTERM-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/pcre</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PCRE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/autotest</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-AUTOTEST-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iw</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-IW-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/unicode</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-UNICODE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dbus</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DBUS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dbus-binding-generator</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DBUS-BINDING-GENERATOR-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/rootdev</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-ROOTDEV-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jcommander</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JCOMMANDER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/rmi4utils</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-RMI4UTILS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-benchmark</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GOOGLE-BENCHMARK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tlsdate</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TLSDATE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libbrillo</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBBRILLO-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/snakeyaml</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SNAKEYAML-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/caliper</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CALIPER-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsr330</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JSR330-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/testng</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TESTNG-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/modp_b64</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MODP_B64-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libdaemon</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBDAEMON-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/piex</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-PIEX-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mmc-utils</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MMC-UTILS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcap</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBCAP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/curl</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CURL-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libjpeg-turbo</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBJPEG-TURBO-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/guice</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GUICE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gemmlowp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GEMMLOWP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/opencv3</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-OPENCV3-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dlmalloc</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DLMALLOC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sl4a</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SL4A-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gmock</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GMOCK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vulkan-validation-layers</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-VULKAN-VALIDATION-LAYERS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libweave</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBWEAVE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libdivsufsort</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBDIVSUFSORT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libevent</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBEVENT-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dagger2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DAGGER2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/xmlrpcpp</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-XMLRPCPP-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/c-ares</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-C-ARES-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jacoco</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JACOCO-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libunwind_llvm</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBUNWIND_LLVM-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dng_sdk</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DNG_SDK-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libmicrohttpd</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBMICROHTTPD-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/minijail</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MINIJAIL-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fec</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-FEC-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/avahi</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-AVAHI-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dhcpcd-6.8.2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-DHCPCD-6.8.2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/shflags</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SHFLAGS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tpm2</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-TPM2-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/cros</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-CROS-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libchrome</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-LIBCHROME-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/mtk6737_53_wimdata_ng/wcustores</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-WCUSTORES-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/mtk6737_53_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-WPROCEDURES-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/jrdcom</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-JRDCOM-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/makeperso</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-MAKEPERSO-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/google</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-GOOGLE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/SmartCardService</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-SMARTCARDSERVICE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/hz_wlanguage</name>
+    <branch>refs/heads/master</branch>
+    <baseline>MICKEY6T-WLANGUAGE-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/hz_liv</name>
+    <branch>refs/heads/master</branch>
+    <baseline>MICKEY6T-master-CTS-TMP-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/WallpaperSelection</name>
+    <branch>refs/heads/buzz6t-4g-orange-v1.0-GoogleCertificate</branch>
+    <baseline>BUZZ6T-4G-ORANGE-WALLPAPERSELECTION-CTS-TMP-P1.0</baseline>
+</project>
+</projects>

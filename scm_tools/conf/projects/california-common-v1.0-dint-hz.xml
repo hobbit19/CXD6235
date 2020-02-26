@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6572/device</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DEVICE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/abi</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ABI-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/bionic</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BIONIC-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/bootable/bootloader</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BOOTLOADER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/bootable/diskinstaller</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DISKINSTALLER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/bootable/recovery</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-RECOVERY-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/build</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BUILD-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/cts</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CTS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/dalvik</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DALVIK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/development</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DEVELOPMENT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/docs</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DOCS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/aac</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-AAC-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/android-mock</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ANDROID-MOCK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ant-glob</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ANT-GLOB-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/antlr</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ANTLR-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/apache-harmony</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-APACHE-HARMONY-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/apache-http</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-APACHE-HTTP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/apache-xml</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-APACHE-XML-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/arduino</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ARDUINO-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/astl</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ASTL-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bison</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BISON-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/blktrace</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BLKTRACE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bluetooth</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BLUETOOTH-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bouncycastle</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BOUNCYCASTLE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bsdiff</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BSDIFF-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bzip2</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BZIP2-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/checkpolicy</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CHECKPOLICY-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/chromium</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CHROMIUM-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/chromium-trace</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CHROMIUM-TRACE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/cibu-fonts</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CIBU-FONTS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/clang</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CLANG-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/compiler-rt</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-COMPILER-RT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dbus</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DBUS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dexmaker</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DEXMAKER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dhcpcd</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DHCPCD-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dnsmasq</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DNSMASQ-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/doclava</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DOCLAVA-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dropbear</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DROPBEAR-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/e2fsprogs</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-E2FSPROGS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/easymock</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-EASYMOCK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eclipse-basebuilder</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ECLIPSE-BASEBUILDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ECLIPSE-WINDOWBUILDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/elfutils</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ELFUTILS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/embunit</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-EMBUNIT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/emma</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-EMMA-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/esd</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ESD-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/expat</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-EXPAT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eigen</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-EIGEN-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eyes-free</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-EYES-FREE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/fdlibm</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-FDLIBM-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/flac</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-FLAC-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/freetype</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-FREETYPE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/fsck_msdos</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-FSCK_MSDOS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ganymed-ssh2</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GANYMED-SSH2-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/gcc-demangle</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GCC-DEMANGLE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/genext2fs</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GENEXT2FS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/giflib</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GIFLIB-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/google-diff-match-patch</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GOOGLE-DIFF-MATCH-PATCH-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/grub</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GRUB-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/gtest</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GTEST-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/guava</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GUAVA-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/hamcrest</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-HAMCREST-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/harfbuzz</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-HARFBUZZ-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/hyphenation</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-HYPHENATION-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/icu4c</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ICU4C-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/iproute2</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-IPROUTE2-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ipsec-tools</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-IPSEC-TOOLS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/iptables</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-IPTABLES-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/javasqlite</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-JAVASQLITE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/javassist</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-JAVASSIST-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jdiff</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-JDIFF-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jhead</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-JHEAD-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jmdns</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-JMDNS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jmonkeyengine</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-JMONKEYENGINE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jpeg</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-JPEG-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jsilver</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-JSILVER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jsr305</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+   <baseline>CALIFORNIA-COMMON-JSR305-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/junit</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-JUNIT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/kernel-headers</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-KERNEL-HEADERS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libcap-ng</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBCAP-NG-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libffi</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+   <baseline>CALIFORNIA-COMMON-LIBFFI-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libgsm</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBGSM-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libifaddrs</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBIFADDRS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/liblzf</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBLZF-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libmtp</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBMTP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libnfc-nci</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBNFC-NCI-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libnfc-nxp</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBNFC-NXP-HZ-P1.0</baseline>
+</project>
+<project>
+  <name>mtk6572/external/libnfc-opennfc</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBNFC-OPENNFC-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libnl-headers</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBNL-HEADERS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libogg</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBOGG-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libpcap</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBPCAP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libphonenumber</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBPHONENUMBER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libpng</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBPNG-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libppp</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBPPP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libselinux</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBSELINUX-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libsepol</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBSEPOL-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libunwind</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBUNWIND-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libusb</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBUSB-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libusb-compat</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBUSB-COMPAT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libvorbis</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBVORBIS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libvpx</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBVPX-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libxml2</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBXML2-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libxslt</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBXSLT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libyuv</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBYUV-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/linux-tools-perf</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LINUX-TOOLS-PERF-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/littlemock</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LITTLEMOCK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/llvm</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LLVM-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/lohit-fonts</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LOHIT-FONTS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/markdown</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MARKDOWN-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mdnsresponder</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MDNSRESPONDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mesa3d</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MESA3D-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mksh</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MKSH-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mockwebserver</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MOCKWEBSERVER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mp4parser</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MP4PARSER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mtpd</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MTPD-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/naver-fonts</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-NAVER-FONTS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/netcat</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-NETCAT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/netperf</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-NETPERF-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/neven</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-NEVEN-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/nist-sip</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-NIST-SIP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/oauth</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-OAUTH-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/okhttp</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-OKHTTP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/opencv</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-OPENCV-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/openfst</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-OPENFST-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/openssh</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-OPENSSH-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/openssl</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-OPENSSL-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/oprofile</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-OPROFILE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ping</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PING-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ping6</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PING6-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ppp</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PPP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/proguard</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PROGUARD-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/protobuf</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PROTOBUF-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/qemu</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-QEMU-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/qemu-pc-bios</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-QEMU-PC-BIOS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/regex-re2</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-REGEX-RE2-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/replicaisland</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-REPLICAISLAND-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/safe-iop</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SAFE-IOP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/sepolicy</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SEPOLICY-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/skia</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SKIA-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/smali</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SMALI-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/sonivox</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SONIVOX-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/speex</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SPEEX-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/sqlite</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SQLITE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/srec</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SREC-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/srtp</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SRTP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/stlport</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-STLPORT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/strace</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-STRACE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/stressapptest</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-STRESSAPPTEST-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/svox</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SVOX-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tagsoup</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-TAGSOUP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tcpdump</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-TCPDUMP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tinyalsa</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-TINYALSA-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tinyxml</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-TINYXML-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tinyxml2</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-TINYXML2-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tremolo</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-TREMOLO-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/v8</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-V8-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/valgrind</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-VALGRIND-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/webkit</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-WEBKIT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/webp</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-WEBP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/webrtc</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-WEBRTC-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/wide-dhcpv6</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-WIDE-DHCPV6-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/wpa_supplicant_6</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-WPA_SUPPLICANT_6-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/wpa_supplicant_8</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-WPA_SUPPLICANT_8-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/xmlwriter</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-XMLWRITER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/xmp_toolkit</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-XMP_TOOLKIT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/yaffs2</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-YAFFS2-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/zlib</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ZLIB-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/zxing</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-ZXING-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/frameworks</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-FRAMEWORKS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/gdk</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GDK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/hardware</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-HARDWARE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/libcore</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBCORE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/libnativehelper</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIBNATIVEHELPER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/ndk</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-NDK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BASICSMSRECEIVER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Bluetooth</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BLUETOOTH-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Browser</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BROWSER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Calculator</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CALCULATOR-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Calendar</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CALENDAR-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Camera</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CAMERA-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CELLBROADCASTRECEIVER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/CertInstaller</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CERTINSTALLER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Contacts</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CONTACTS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/DeskClock</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DESKCLOCK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Email</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-EMAIL-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Exchange</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-EXCHANGE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Gallery</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GALLERY-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Gallery2</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GALLERY2-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-HTMLVIEWER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/KeyChain</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-KEYCHAIN-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Launcher2</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LAUNCHER2-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LEGACYCAMERA-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Mms</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MMS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Music</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MUSIC-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/MusicFX</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MUSICFX-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Nfc</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-NFC-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PACKAGEINSTALLER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Phone</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PHONE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Protips</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PROTIPS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Provision</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PROVISION-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-QUICKSEARCHBOX-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/SDKGallery</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SDKGALLERY-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Settings</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SETTINGS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SOUNDRECORDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/SpareParts</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SPAREPARTS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SPEECHRECORDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Stk</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-STK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Tag</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-TAG-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/VideoEditor</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-VIDEOEDITOR-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-VOICEDIALER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/experimental</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-EXPERIMENTAL-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LATINIME-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-OPENWNN-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/inputmethods/PinyinIME</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PINYINIME-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-APPLICATIONSPROVIDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CALENDARPROVIDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-CONTACTSPROVIDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DOWNLOADPROVIDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/DrmProvider</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-DRMPROVIDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/MediaProvider</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MEDIAPROVIDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PARTNERBOOKMARKSPROVIDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-TELEPHONYPROVIDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-USERDICTIONARYPROVIDER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/screensavers/Basic</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BASIC-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PHOTOTABLE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/screensavers/WebView</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-WEBVIEW-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/Basic</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-BASIC-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-GALAXY4-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-HOLOSPIRAL-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIVEPICKER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MAGICSMOKE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MUSICVISUALIZATION-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-NOISEFIELD-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PHASEBEAM-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/pdk</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PDK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/sdk</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SDK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/system</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-SYSTEM-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/kernel</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-KERNEL-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/vendor</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-VENDOR-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/tools</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-TOOLS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/prebuilts</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-PREBUILTS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/RCSe</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-RCSE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/mediatek</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MEDIATEK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/california_wimdata_ng/wcustores</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-WCUSTORES-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/california_wimdata_ng/wlanguage</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-WLANGUAGE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/california_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-WPROCEDURES-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/california_wimdata_ng/liv</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-LIV-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdAlcatelHelp</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDALCATELHELP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdContainer</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDCONTAINER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdDigitalClock</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDDIGITALCLOCK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdElabel</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDELABEL-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdFota</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDFOTA-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdLauncher</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDLAUNCHER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdMemo</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDMEMO-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdMenuKeyInduce</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDMENUKEYINDUCE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdPowerSaver</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDPOWERSAVER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdSalesTracker</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDSALESTRACKER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdSdcardUpgrade</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDSDCARDUPGRADE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdSetupWizard</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDSETUPWIZARD-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdSmartCardService</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDSMARTCARDSERVICE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdTCLHelp</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDTCLHELP-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdTethering</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDTETHERING-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdTorch</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDTORCH-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdWeather</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDWEATHER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdWifiP2PTransfer</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDWIFIP2PTRANSFER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdWorldClock</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDWORLDCLOCK-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/MusicWidget</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-MUSICWIDGET-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/NotePad2</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-NOTEPAD2-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/O2Ideas</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-O2IDEAS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/SyncMLClient</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-SYNCMLCLIENT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/TCLWatchDog</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-TCLWATCHDOG-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/UrlReservedApps</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-URLRESERVEDAPPS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdWrapper</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDWRAPPER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdCamera</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDCAMERA-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdGallery</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDGALLERY-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdDNAWeather</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDDNAWEATHER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdPlugger</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDPLUGGER-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/DigitalClockWidget</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-DIGITALCLOCKWIDGET-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdAudioEffect</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDAUDIOEFFECT-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdMMITest</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDMMITEST-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/WallpaperSelection</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-WALLPAPERSELECTION-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/SfrFota</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-SFRFOTA-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdTimeTool</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDTIMETOOL-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdSuperMode</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDSUPERMODE-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdCompass</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-JRDCOMPASS-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/FrequentContactsWidget</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-FREQUENTCONTACTSWIDGET-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/AnalogClockWidget</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>JRD-ANALOGCLOCKWIDGET-HZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/modem</name>
+    <branch>refs/heads/california-common-v1.0-dint-hz</branch>
+    <baseline>CALIFORNIA-COMMON-MODEM-HZ-P1.0</baseline>
+</project>
+</projects>

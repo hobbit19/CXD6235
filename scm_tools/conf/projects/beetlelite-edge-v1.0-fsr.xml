@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/liv</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-LIV-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wcustores</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WCUSTORES-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WLANGUAGE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wplmn</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WPLMN-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/beetlelite-edge-v1.0-fsr</branch>
+	<baseline>BEETLELITE-EDGE-WPROCEDURES-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wtheme</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WTHEME-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wtime</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WTIME-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bionic</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BIONIC-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bootable</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BOOTABLE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/build</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BUILD-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/cts</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CTS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/dalvik</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DALVIK-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/libcore</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-LIBCORE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/development</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DEVELOPMENT-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/device</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DEVICE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/apache-http</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-APACHE-HTTP-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/astl</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-ASTL-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bison</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BISON-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blisrc</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BLISRC-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blktrace</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BLKTRACE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/bluez</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BLUETOOTH-BLUEZ-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/glib</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BLUETOOTH-GLIB-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/hcidump</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BLUETOOTH-HCIDUMP-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bouncycastle</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BOUNCYCASTLE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bsdiff</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BSDIFF-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bzip2</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BZIP2-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/chromium</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CHROMIUM-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/clearsilver</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CLEARSILVER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dbus</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DBUS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dhcpcd</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DHCPCD-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dnsmasq</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DNSMASQ-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dropbear</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DROPBEAR-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/e2fsprogs</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-E2FSPROGS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/easymock</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-EASYMOCK-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfcopy</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-ELFCOPY-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfutils</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-ELFUTILS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/embunit</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-EMBUNIT-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/emma</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-EMMA-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/esd</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-esd-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/expat</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-EXPAT-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fdlibm</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-FDLIBM-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-FREETYPE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fsck_msdos</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-FSCK_MSDOS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/genext2fs</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-GENEXT2FS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/giflib</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-GIFLIB-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/grub</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-GRUB-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/gtest</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-GTEST-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/guava</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-GUAVA-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/icu4c</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-ICU4C-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iproute2</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-IPROUTE2-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ipsec-tools</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-IPSEC-TOOLS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-FREETYPE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iptables</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-IPTABLES-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jdiff</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JDIFF-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jhead</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JHEAD-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jpeg</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JPEG-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jsr305</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JSR305-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/junit</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JUNIT-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/kernel-headers</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-KERNEL-HEADERS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libffi</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-LIBFFI-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libgsm</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-LIBGSM-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libnfc-nxp</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-LIBNFC-NXP-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpcap</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-LIBPCAP-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpng</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-LIBPNG-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libvpx</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-libvpx-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libxml2</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-LIBXML2-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/mtpd</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-MTPD-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netcat</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-NETCAT-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netperf</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-NETPERF-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/neven</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-NEVEN-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/nist-sip</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-NIST-SIP-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oauth</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-OAUTH-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/opencore</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-OPENCORE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/openssl</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-OPENSSL-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oprofile</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-OPROFILE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ping</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-PING-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ppp</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-PPP-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/proguard</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-PROGUARD-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/protobuf</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-PROTOBUF-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/qemu</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-QEMU-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/safe-iop</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SAFE-IOP-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SKIA-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia_asm</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SKIA_ASM-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sonivox</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-sonivox-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/speex</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-speex-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sqlite</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SQLITE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/srec</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SREC-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/stlport</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-STLPORT-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/strace</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-STRACE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/svox</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SVOX-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tagsoup</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-tagsoup-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tcpdump</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-tcpdump-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tinyxml</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-tinyxml-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tremolo</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-TREMOLO-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/v8</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-V8-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/webkit</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WEBKIT-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WPA_SUPPLICANT-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant_6</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WPA_SUPPLICANT_6-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/xmlwriter</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-XMLWRITER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/yaffs2</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-YAFFS2-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/zlib</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-ZLIB-FSR-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/frameworks</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-FRAMEWORKS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/hardware</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-HARDWARE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/kernel</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-KERNEL-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mediatek</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-MEDIATEK-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/ndk</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-NDK-FSR-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/AccountsAndSyncSettings</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-ACCOUNTSANDSYNCSETTINGS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Bluetooth</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BLUETOOTH-FSR-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/Browser</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BROWSER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calculator</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CALCULATOR-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calendar</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CALENDAR-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Camera</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CAMERA-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CameraOpen</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CAMERAOPEN-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CellConnService</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CELLCONNSERVICE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CertInstaller</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CERTINSTALLER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Contacts</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CONTACTS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DeskClock</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DESKCLOCK-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Email</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-EMAIL-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-GALLERY-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery3D</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-GALLERY3D-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-HTMLViewer-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Launcher2</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-Launcher2-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Mms</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-MMS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Music</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-MUSIC-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-PACKAGEINSTALLER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Phone</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-PHONE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Protips</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-PROTIPS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Provision</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-Provision-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-QUICKSEARCHBOX-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Settings</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SETTINGS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SOUNDRECORDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SPEECHRECORDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Stk</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-STK-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Tag</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-TAG-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-VOICEDIALER-FSR-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/experimental</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-EXPERIMENTAL-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-LATINIME-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-OPENWNN-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-APPLICATIONSPROVIDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CALENDARPROVIDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-CONTACTSPROVIDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DOWNLOADPROVIDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DrmProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DRMPROVIDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-GOOGLECONTACTSPROVIDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/MediaProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-MEDIAPROVIDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-TELEPHONYPROVIDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-USERDICTIONARYPROVIDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/Basic</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-BASIC-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-LIVEPICKER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-MAGICSMOKE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-MUSICVISUALIZATION-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/Basic</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WALLPAPERS_GLES20-BASIC-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/LivePicker</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WALLPAPERS_GLES20-LIVEPICKER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MagicSmoke</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WALLPAPERS_GLES20-MAGICSMOKE-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MusicVisualization</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-WALLPAPERS_GLES20-MUSICVISUALIZATION-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MMITest</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-MMITEST-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JRDALCATELHELP-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdLauncher</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JRDLAUNCHER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JRDEMAILFEEDBACK-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdFota</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JRDFOTA-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JRDPOWERSAVER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JRDSETUPWIZARD-FSR-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JRDTCLHELP-FSR-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/TrafficManager</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-TRAFFICMANAGER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/NotePad2</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-NOTEPAD2-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SYNCMLCLIENT-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdContainer  </name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JRDCONTAINER-FSR-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/APKInstallerHelper </name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-APKINSTALLERHELPER-FSR-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-URLRESERVEDAPPS-FSR-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DRMAGENTPROVIDER-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DrmUtility</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DRMUTILITY-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/drmagent</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-DRMAGENT-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SecureClock</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SECURECLOCK-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MusicWidget</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-MUSICWIDGET-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-TCLWATCHDOG-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/O2Ideas</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-O2IDEAS-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-JRDEMAILFEEDBACK-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/prebuilt</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-PREBUILT-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/sdk</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SDK-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/system</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-SYSTEM-FSR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/vendor</name>
+	<branch>refs/heads/beetlelite-v1.0-fsr</branch>
+	<baseline>BEETLELITE-VENDOR-FSR-P1.0</baseline>
+</project>
+</projects>

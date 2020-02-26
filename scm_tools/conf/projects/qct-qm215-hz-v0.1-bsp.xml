@@ -1,0 +1,3778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>quicl/SPF2018/amss_2018_spf1.0.1</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-AMSS_2018_SPF1.0.1-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/common</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DEVICE-COMMON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/arm64</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ARM64-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ARMV7-A-NEON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/car</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GENERIC-CAR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/common</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GENERIC-COMMON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/goldfish</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOLDFISH-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOLDFISH-OPENGL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/lionhead</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIONHEAD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MINI-EMULATOR-ARM64-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MINI-EMULATOR-ARMV7-A-NEON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MINI-EMULATOR-X86-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MINI-EMULATOR-X86_64-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/qemu</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QEMU-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/uml</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-UML-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/x86</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-X86-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/x86_64</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-X86_64-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/google/accessory/arduino</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ARDUINO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/google/accessory/demokit</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DEMOKIT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/google/atv</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ATV-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/google/contexthub</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CONTEXTHUB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/google/muskie</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MUSKIE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/google/taimen</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TAIMEN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/google/vrservices</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VRSERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/qcom/common</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-COMMON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/qcom/qssi</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QSSI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/qcom/sepolicy</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-SEPOLICY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/device/sample</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SAMPLE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/kernel/configs</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CONFIGS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/kernel/lk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/kernel/msm-4.9</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MSM-4.9-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/art</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ART-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/bionic</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BIONIC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/bootable/recovery</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-RECOVERY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/build</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PLATFORM-BUILD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/build/blueprint</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BLUEPRINT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/build/kati</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-KATI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/build/soong</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SOONG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/compatibility/cdd</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CDD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/cts</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CTS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/dalvik</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DALVIK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/developers/build</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DEVELOPERS-BUILD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/developers/demos</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DEMOS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/developers/samples/android</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SAMPLES-ANDROID-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/development</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DEVELOPMENT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ImageMagick</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-IMAGEMAGICK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/Microsoft-GSL</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MICROSOFT-GSL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/aac</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-AAC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/abi-compliance-checker</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ABI-COMPLIANCE-CHECKER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/abi-dumper</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ABI-DUMPER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/adhd</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ADHD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/adt-infra</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ADT-INFRA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/android-clat</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ANDROID-CLAT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/androidplot</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ANDROIDPLOT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/annotation-tools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ANNOTATION-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ant-glob</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ANT-GLOB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ANT_NATIVE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ANT_SERVICE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/antlr</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ANTLR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/apache-commons-math</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APACHE-COMMONS-MATH-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/apache-harmony</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APACHE-HARMONY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/apache-http</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APACHE-HTTP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/apache-xml</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APACHE-XML-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/archive-patcher</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ARCHIVE-PATCHER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/arm-optimized-routines</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ARM-OPTIMIZED-ROUTINES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/autotest</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-AUTOTEST-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/avb</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-AVB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/bart</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BART-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/blktrace</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BLKTRACE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/boringssl</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BORINGSSL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/bouncycastle</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BOUNCYCASTLE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/brotli</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BROTLI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/bsdiff</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BSDIFF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/bzip2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BZIP2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/caliper</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CALIPER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/capstone</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CAPSTONE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/cblas</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CBLAS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/chromium-libpac</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CHROMIUM-LIBPAC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/chromium-trace</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CHROMIUM-TRACE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/chromium-webview</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CHROMIUM-WEBVIEW-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/clang</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CLANG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/cmockery</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CMOCKERY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/cn-cbor</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CN-CBOR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/compiler-rt</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-COMPILER-RT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/conscrypt</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CONSCRYPT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/crcalc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CRCALC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/cros/system_api</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SYSTEM_API-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/curl</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CURL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dagger2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DAGGER2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/deqp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EXTERNAL-DEQP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/desugar</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DESUGAR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/devlib</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DEVLIB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dexmaker</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DEXMAKER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DHCPCD-6.8.2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dlmalloc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DLMALLOC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dng_sdk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DNG_SDK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dnsmasq</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DNSMASQ-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/doclava</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DOCLAVA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/donuts</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DONUTS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/drm_gralloc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DRM_GRALLOC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/drm_hwcomposer</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DRM_HWCOMPOSER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/droiddriver</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DROIDDRIVER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/drrickorang</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DRRICKORANG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dtc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DTC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/e2fsprogs</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-E2FSPROGS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/easymock</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EASYMOCK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/eigen</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EIGEN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/elfutils</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ELFUTILS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/emma</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EMMA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/error_prone</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ERROR_PRONE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/esd</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ESD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/expat</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EXPAT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/eyes-free</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EYES-FREE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/f2fs-tools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-F2FS-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/fdlibm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FDLIBM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/fec</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FEC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/fio</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FIO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/flac</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FLAC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/flatbuffers</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FLATBUFFERS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/fmtlib</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FMTLIB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/fonttools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FONTTOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/freetype</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FREETYPE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/fsck_msdos</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FSCK_MSDOS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/gemmlowp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GEMMLOWP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/gflags</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GFLAGS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/giflib</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GIFLIB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/glide</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GLIDE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/golang-protobuf</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOLANG-PROTOBUF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-api-services-storage</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-API-SERVICES-STORAGE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-benchmark</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-BENCHMARK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-breakpad</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-BREAKPAD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CARROIS-GOTHIC-SC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-COMING-SOON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CUTIVE-MONO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DANCING-SCRIPT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-styleguide</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-STYLEGUIDE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-TV-PAIRING-PROTOCOL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/googletest</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLETEST-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/gptfdisk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GPTFDISK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/guava</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GUAVA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/guice</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GUICE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/hamcrest</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HAMCREST-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/harfbuzz_ng</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HARFBUZZ_NG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/honggfuzz</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HONGGFUZZ-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/hyphenation-patterns</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HYPHENATION-PATTERNS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/icu</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ICU-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ims</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EXTERNAL-IMS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/iproute2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-IPROUTE2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ipsec-tools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-IPSEC-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/iptables</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-IPTABLES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/iputils</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-IPUTILS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/iw</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-IW-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jacoco</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JACOCO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jarjar</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JARJAR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/javaparser</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JAVAPARSER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/javasqlite</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JAVASQLITE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/javassist</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JAVASSIST-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jcommander</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JCOMMANDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jdiff</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JDIFF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jemalloc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JEMALLOC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jline</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JLINE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jmdns</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JMDNS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jsilver</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JSILVER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jsmn</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JSMN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/json-c</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JSON-C-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jsoncpp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JSONCPP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jsr305</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JSR305-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jsr330</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JSR330-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/junit</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JUNIT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/junit-params</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JUNIT-PARAMS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/kernel-headers</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-KERNEL-HEADERS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/kmod</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-KMOD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/kotlinc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-KOTLINC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ksoap2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-KSOAP2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libavc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBAVC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libbackup</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBBACKUP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libbrillo</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBBRILLO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libcap</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBCAP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libcap-ng</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBCAP-NG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libchrome</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBCHROME-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libconstrainedcrypto</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBCONSTRAINEDCRYPTO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libcups</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBCUPS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libcxx</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBCXX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libcxxabi</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBCXXABI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libdaemon</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBDAEMON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libdivsufsort</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBDIVSUFSORT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libdrm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBDRM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libedit</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EXTERNAL-LIBEDIT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libese</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBESE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libevent</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBEVENT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libexif</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBEXIF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libffi</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBFFI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libgsm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBGSM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libhevc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBHEVC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libjpeg-turbo</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBJPEG-TURBO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libldac</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBLDAC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/liblzf</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBLZF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libmicrohttpd</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBMICROHTTPD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libmojo</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBMOJO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libmpeg2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBMPEG2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libmtp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBMTP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBNETFILTER_CONNTRACK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libnfnetlink</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBNFNETLINK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libnl</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBNL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libogg</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBOGG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libopus</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBOPUS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libpcap</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBPCAP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libphonenumber</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBPHONENUMBER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libpng</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBPNG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libtextclassifier</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBTEXTCLASSIFIER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libunwind</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBUNWIND-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libunwind_llvm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBUNWIND_LLVM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libusb</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBUSB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libusb-compat</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBUSB-COMPAT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libvncserver</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBVNCSERVER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libvorbis</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBVORBIS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libvpx</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBVPX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libvterm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBVTERM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libxaac</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBXAAC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libxcam</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBXCAM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libxkbcommon</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBXKBCOMMON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libxml2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBXML2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libyuv</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBYUV-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/linux-kselftest</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LINUX-KSELFTEST-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/lisa</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LISA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/littlemock</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LITTLEMOCK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/lld</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LLD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/llvm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LLVM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/lmfit</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LMFIT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ltp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LTP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/lz4</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LZ4-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/lzma</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LZMA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/markdown</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MARKDOWN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mdnsresponder</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MDNSRESPONDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mesa3d</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MESA3D-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/messageformat</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MESSAGEFORMAT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/minijail</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MINIJAIL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mksh</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MKSH-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mmc-utils</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EXTERNAL-MMC-UTILS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mockftpserver</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MOCKFTPSERVER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mockito</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MOCKITO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mockwebserver</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MOCKWEBSERVER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/modp_b64</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MODP_B64-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mp4parser</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MP4PARSER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mtpd</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MTPD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nanohttpd</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NANOHTTPD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nanopb-c</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NANOPB-C-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/naver-fonts</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NAVER-FONTS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/netcat</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NETCAT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/neven</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NEVEN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nfacct</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NFACCT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nist-pkits</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NIST-PKITS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nist-sip</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NIST-SIP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nos/host/android</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HOST-ANDROID-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nos/host/generic</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GENERIC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nos/test/system-test-harness</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SYSTEM-TEST-HARNESS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/noto-fonts</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NOTO-FONTS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/oauth</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OAUTH-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/objenesis</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OBJENESIS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/oj-libjdwp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OJ-LIBJDWP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/okhttp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OKHTTP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/one-true-awk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ONE-TRUE-AWK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/opencv</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OPENCV-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/openssh</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OPENSSH-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/owasp/sanitizer</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SANITIZER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/parameter-framework</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PARAMETER-FRAMEWORK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/pcre</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PCRE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/pdfium</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PDFIUM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/perf_data_converter</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PERF_DATA_CONVERTER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/perfetto</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PERFETTO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/piex</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PIEX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ply</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EXTERNAL-PLY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ppp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PPP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/proguard</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROGUARD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/protobuf</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EXTERNAL-PROTOBUF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/puffin</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PUFFIN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/Pillow</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PILLOW-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/appdirs</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APPDIRS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/cachetools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CACHETOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/cpython2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CPYTHON2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/cpython3</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CPYTHON3-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/dill</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DILL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/enum</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ENUM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/enum34</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ENUM34-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/future</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FUTURE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/futures</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FUTURES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/gapic-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GAPIC-GOOGLE-CLOUD-PUBSUB-V1-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-api-python-client</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-API-PYTHON-CLIENT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-auth</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-AUTH-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-auth-httplib2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-AUTH-HTTPLIB2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-cloud-core</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-CLOUD-CORE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-cloud-pubsub</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-CLOUD-PUBSUB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-gax</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-GAX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/googleapis</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLEAPIS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/grpc-google-iam-v1</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GRPC-GOOGLE-IAM-V1-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/grpcio</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GRPCIO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/httplib2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HTTPLIB2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/matplotlib</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MATPLOTLIB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/numpy</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NUMPY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/oauth2client</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OAUTH2CLIENT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/olefile</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OLEFILE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/packaging</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PACKAGING-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/parse</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PARSE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/ply</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PYTHON-PLY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/proto-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROTO-GOOGLE-CLOUD-PUBSUB-V1-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/protobuf</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PYTHON-PROTOBUF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/pyasn1</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PYASN1-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/pyasn1-modules</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PYASN1-MODULES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/pyparsing</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PYPARSING-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/requests</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-REQUESTS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/rsa</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-RSA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/scipy</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SCIPY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/setuptools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SETUPTOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/six</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SIX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/uritemplates</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-URITEMPLATES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/rappor</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-RAPPOR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/replicaisland</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-REPLICAISLAND-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/rmi4utils</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-RMI4UTILS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/robolectric</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ROBOLECTRIC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/robolectric-shadows</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ROBOLECTRIC-SHADOWS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/roboto-fonts</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ROBOTO-FONTS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/rootdev</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ROOTDEV-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/safe-iop</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SAFE-IOP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/scapy</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SCAPY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/scrypt</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SCRYPT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/seccomp-tests</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SECCOMP-TESTS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/selinux</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SELINUX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/sfntly</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SFNTLY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/shaderc/spirv-headers</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SPIRV-HEADERS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/shflags</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SHFLAGS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/skia</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SKIA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/sl4a</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SL4A-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/slf4j</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SLF4J-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/smali</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SMALI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/snakeyaml</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SNAKEYAML-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/sonic</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SONIC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/sonivox</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SONIVOX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/speex</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SPEEX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/spirv-llvm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SPIRV-LLVM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/sqlite</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SQLITE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/squashfs-tools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SQUASHFS-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/strace</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-STRACE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/stressapptest</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-STRESSAPPTEST-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/swiftshader</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SWIFTSHADER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/syslinux</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SYSLINUX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tagsoup</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TAGSOUP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tcpdump</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TCPDUMP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tensorflow</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TENSORFLOW-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/testng</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TESTNG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/timezonepicker-support</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TIMEZONEPICKER-SUPPORT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tinyalsa</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TINYALSA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tinycompress</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TINYCOMPRESS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tinyxml</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TINYXML-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tinyxml2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TINYXML2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/toybox</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TOYBOX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tpm2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TPM2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/trappy</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TRAPPY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tremolo</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TREMOLO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/turbine</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TURBINE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/unicode</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-UNICODE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/universal-tween-engine</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-UNIVERSAL-TWEEN-ENGINE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/v4l2_codec2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-V4L2_CODEC2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/v8</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-V8-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/valgrind</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VALGRIND-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/vboot_reference</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VBOOT_REFERENCE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/vixl</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VIXL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/vogar</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VOGAR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/volley</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VOLLEY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/vulkan-validation-layers</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VULKAN-VALIDATION-LAYERS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/walt</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WALT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/wayland</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WAYLAND-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/wayland-protocols</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WAYLAND-PROTOCOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/webp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WEBP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/webrtc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WEBRTC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/webview_support_interfaces</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WEBVIEW_SUPPORT_INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/wpa_supplicant_8</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WPA_SUPPLICANT_8-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/wycheproof</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WYCHEPROOF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/x264</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-X264-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/xmlrpcpp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-XMLRPCPP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/xmlwriter</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-XMLWRITER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/xmp_toolkit</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-XMP_TOOLKIT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/xz-embedded</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-XZ-EMBEDDED-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/zlib</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ZLIB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/zopfli</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ZOPFLI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/zxing</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ZXING-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/av</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FRAMEWORKS-AV-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/base</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BASE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/compile/libbcc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBBCC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/compile/mclinker</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MCLINKER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/compile/slang</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SLANG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/data-binding</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DATA-BINDING-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/ex</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HARDWARE-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/layoutlib</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LAYOUTLIB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/minikin</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MINIKIN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/ml</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ML-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/multidex</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MULTIDEX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/native</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NATIVE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/bitmap</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BITMAP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/calendar</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OPT-CALENDAR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/car/services</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/car/setupwizard</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CAR-SETUPWIZARD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/chips</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CHIPS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-COLORPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DATETIMEPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/inputconnectioncommon</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-INPUTCONNECTIONCOMMON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/inputmethodcommon</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-INPUTMETHODCOMMON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ETHERNET-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/net/ims</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NET-IMS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/net/lowpan</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LOWPAN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/net/voip</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VOIP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WIFI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PHOTOVIEWER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OPT-SETUPWIZARD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/telephony</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OPT-TELEPHONY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TIMEZONEPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/vcard</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VCARD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/rs</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-RS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/support</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SUPPORT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/wilhelm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WILHELM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/akm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-AKM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/google/apf</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/google/av</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-AV-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/google/easel</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EASEL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/google/interfaces</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/interfaces</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HARDWARE-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/invensense</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-INVENSENSE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/libhardware</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBHARDWARE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/libhardware_legacy</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBHARDWARE_LEGACY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/nxp/nfc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NXP-NFC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/nxp/secure_element</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SECURE_ELEMENT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/audio</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-AUDIO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BOOTCTRL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/bt</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-BT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/camera</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/display</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-DISPLAY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/gps</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-GPS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/media</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-MEDIA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/thermal</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-THERMAL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/vr</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/wlan</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-WLAN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/ril</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-RIL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/libcore</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBCORE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/libnativehelper</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBNATIVEHELPER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BASICSMSRECEIVER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Bluetooth</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APPS-BLUETOOTH-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Browser2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BROWSER2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/CMFileManager</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CMFILEMANAGER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Calendar</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APPS-CALENDAR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Camera2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CAMERA2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CAR-DIALER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HVAC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CAR-LATINIME-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Launcher</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LAUNCHER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LENSPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LOCALMEDIAPLAYER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Media</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CAR-MEDIA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MESSENGER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Overview</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OVERVIEW-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Radio</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-RADIO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Settings</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CAR-SETTINGS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Stream</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-STREAM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SYSTEMUPDATER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/UserManagement</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-USERMANAGEMENT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/libs</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CARRIERCONFIG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CELLBROADCASTRECEIVER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/CertInstaller</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CERTINSTALLER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Contacts</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CONTACTS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/DeskClock</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DESKCLOCK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/DevCamera</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DEVCAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Dialer</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APPS-DIALER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DOCUMENTSUI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Email</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EMAIL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EMERGENCYINFO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EXACTCALCULATOR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Exchange</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EXCHANGE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Gallery</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GALLERY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Gallery2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GALLERY2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HTMLVIEWER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/KeyChain</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-KEYCHAIN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Launcher2</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LAUNCHER2-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Launcher3</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LAUNCHER3-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LEGACYCAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MANAGEDPROVISIONING-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Messaging</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MESSAGING-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Mms</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APPS-MMS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Music</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MUSIC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/MusicFX</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MUSICFX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Nfc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APPS-NFC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ONETIMEINITIALIZER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PACKAGEINSTALLER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PHONECOMMON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Protips</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROTIPS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Provision</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROVISION-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QUICKSEARCHBOX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SAFETYREGULATORYINFO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SecureElement</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SECUREELEMENT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Settings</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APPS-SETTINGS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SettingsIntelligence</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SETTINGSINTELLIGENCE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SmartCardService</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APPS-SMARTCARDSERVICE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SNAPDRAGONCAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SnapdragonGallery</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SNAPDRAGONGALLERY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SnapdragonMusic</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SNAPDRAGONMUSIC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SOUNDRECORDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SpareParts</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SPAREPARTS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Stk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-STK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/StorageManager</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-STORAGEMANAGER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/TV</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TV-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Tag</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TAG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Terminal</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TERMINAL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TEST-CONNECTIVITY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TIMEZONEDATA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TIMEZONEUPDATER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Traceur</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TRACEUR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/TvSettings</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TVSETTINGS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-UNIFIEDEMAIL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WALLPAPERPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/experimental</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EXPERIMENTAL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-INPUTMETHODS-LATINIME-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OPENWNN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APPLICATIONSPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BLOCKEDNUMBERPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BOOKMARKPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CALENDARPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CALLLOGPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CONTACTSPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DOWNLOADPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/MediaProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MEDIAPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PARTNERBOOKMARKSPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TELEPHONYPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/TvProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TVPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-USERDICTIONARYPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/screensavers/Basic</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BASIC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PHOTOTABLE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/screensavers/WebView</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WEBVIEW-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BUILTINPRINTSERVICE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/Car</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SERVICES-CAR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/Mms</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SERVICES-MMS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/NetworkRecommendation</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NETWORKRECOMMENDATION-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/Rcs</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-RCS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/Telecomm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TELECOMM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/Telephony</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SERVICES-TELEPHONY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIVEPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/pdk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PDK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/platform_testing</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PLATFORM_TESTING-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ABI-DUMPS-NDK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ABI-DUMPS-VNDK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/android-emulator</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ANDROID-EMULATOR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/build-tools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BUILD-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/checkcolor</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CHECKCOLOR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/checkstyle</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CHECKSTYLE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/clang-tools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CLANG-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HOST-LINUX-X86-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/deqp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PREBUILTS-DEQP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/devtools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DEVTOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-AARCH64-LINUX-ANDROID-4.9-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ARM-EABI-4.8-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ARM-LINUX-ANDROIDEABI-4.9-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-X86_64-LINUX-GLIBC2.15-4.8-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-X86_64-W64-MINGW32-4.8-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-X86_64-LINUX-ANDROID-4.9-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GDB-LINUX-X86-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GO-LINUX-X86-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GRADLE-PLUGIN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JDK8-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/jdk/jdk9</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-JDK9-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/libs/libedit</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBS-LIBEDIT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MAVEN_REPO-ANDROID-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BUMPTECH-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/misc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MISC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/ndk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PREBUILTS-NDK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-2.7.5-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QEMU-KERNEL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/r8</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-R8-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/sdk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PREBUILTS-SDK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/tools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PREBUILTS-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/vndk/v27</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-V27-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/sdk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PLATFORM-SDK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/bt</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SYSTEM-BT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/ca-certificates</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CA-CERTIFICATES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/chre</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CHRE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/connectivity/wificond</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WIFICOND-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/connectivity/wifilogd</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WIFILOGD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/core</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CORE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/extras</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-EXTRAS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/gatekeeper</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GATEKEEPER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/hardware/interfaces</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HARDWARE-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/hwservicemanager</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HWSERVICEMANAGER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/iot/attestation</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ATTESTATION-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/keymaster</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-KEYMASTER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/libfmq</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBFMQ-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/libhidl</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBHIDL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/libhwbinder</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBHWBINDER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/libufdt</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBUFDT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/libvintf</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBVINTF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/media</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SYSTEM-MEDIA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/netd</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NETD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/nfc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SYSTEM-NFC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/nvram</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NVRAM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/qcom</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/security</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SYSTEM-SECURITY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/sepolicy</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SYSTEM-SEPOLICY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/timezone</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TIMEZONE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/tools/aidl</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-AIDL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/tools/hidl</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HIDL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/tpm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TPM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/update_engine</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-UPDATE_ENGINE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/vold</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VOLD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/framework</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FRAMEWORK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/sts</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-STS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/suite_harness</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SUITE_HARNESS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vti/alert</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ALERT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vti/dashboard</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DASHBOARD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vti/fuzz_test_serving</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FUZZ_TEST_SERVING-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vti/test_serving</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TEST_SERVING-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VTS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FUZZ-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/hal</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HAL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HAL-TRACE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/kernel</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-KERNEL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/nbu</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NBU-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/performance</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PERFORMANCE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/security</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VTS-TESTCASE-SECURITY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/vndk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VTS-TESTCASE-VNDK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/acloud</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ACLOUD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/apksig</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APKSIG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/apkzlib</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APKZLIB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/dexter</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DEXTER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/external/fat32lib</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FAT32LIB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/external/gradle</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GRADLE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/loganalysis</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LOGANALYSIS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/metalava</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-METALAVA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/repohooks</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-REPOHOOKS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/test/connectivity</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TEST-CONNECTIVITY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/tradefederation</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TRADEFEDERATION-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/tradefederation/contrib</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CONTRIB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/vendor/google_prebuilts/arc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ARC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/codeaurora/packages/apps/Dialer</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APPS-DIALER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/codeaurora/telephony</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CODEAURORA-TELEPHONY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/google_easel</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE_EASEL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/google_paintbox</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-GOOGLE_PAINTBOX-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/interfaces/opensource/nfc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-OPENSOURCE-NFC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/opensource/external/libnfc-nci</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LIBNFC-NCI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/opensource/frameworks</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FRAMEWORKS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/opensource/halimpl</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HALIMPL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/opensource/hidlimpl</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HIDLIMPL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/opensource/packages/apps/Nfc</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APPS-NFC-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/opensource/audio-kernel</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-AUDIO-KERNEL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/audio</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-OPENSOURCE-AUDIO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/bluetooth</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-OPENSOURCE-BLUETOOTH-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/bluetooth_ext</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BLUETOOTH_EXT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/core-modules</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CORE-MODULES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/core-utils</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CORE-UTILS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/cryptfs_hw</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CRYPTFS_HW-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/data-ipa-cfg-mgr</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DATA-IPA-CFG-MGR-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/dataservices</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DATASERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/dataservices-commonsys</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DATASERVICES-COMMONSYS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/dpm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-OPENSOURCE-DPM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/dpm-commonsys</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DPM-COMMONSYS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/fm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-OPENSOURCE-FM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/fm-commonsys</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FM-COMMONSYS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/fst-manager</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FST-MANAGER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/healthd-ext</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-HEALTHD-EXT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/interfaces</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-OPENSOURCE-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/location</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LOCATION-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/mmc-utils</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-OPENSOURCE-MMC-UTILS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/power</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-POWER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/recovery-ext</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-RECOVERY-EXT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/shortcut-fe</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SHORTCUT-FE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/system/bt</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SYSTEM-BT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/thermal-engine</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-OPENSOURCE-THERMAL-ENGINE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/time-services</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-OPENSOURCE-TIME-SERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/tools</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-OPENSOURCE-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/usb</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-USB-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/wigig</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-OPENSOURCE-WIGIG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/wlan/prima</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PRIMA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SIGMA-DUT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/apq8098_latv</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-APQ8098_LATV-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/cobalt</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-COBALT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/falcon_32</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FALCON_32-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/falcon_64</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FALCON_64-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/ferrum</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FERRUM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/msm8909go</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MSM8909GO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/msm8937_32go</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MSM8937_32GO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/PowerOffAlarm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-POWEROFFALARM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/SecProtect</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SECPROTECT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/SmartCardService</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-SMARTCARDSERVICE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/android-perf</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ANDROID-PERF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/biometrics</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-BIOMETRICS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/bluetooth</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-BLUETOOTH-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/bt</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-BT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/cne</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CNE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/common</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-COMMON-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/commonsys</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-COMMONSYS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/commonsys-intf</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-COMMONSYS-INTF-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/csm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-CSM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/data</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DATA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/diag</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-DIAG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/display</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-DISPLAY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/dpm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-DPM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/fastcv</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FASTCV-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/fastmmi</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FASTMMI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/fm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-FM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/ftm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-FTM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/gps</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-GPS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/ims-ship</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-IMS-SHIP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/interfaces</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/llvm-arm-toolchain-ship</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-LLVM-ARM-TOOLCHAIN-SHIP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mdm-helper</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MDM-HELPER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-audio</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MM-AUDIO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-audio-cal</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MM-AUDIO-CAL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-audio-external</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MM-AUDIO-EXTERNAL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-camera</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MM-CAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-camerasdk</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MM-CAMERASDK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-core</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MM-CORE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-osal</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MM-OSAL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-parser</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MM-PARSER-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-still</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MM-STILL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-video</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MM-VIDEO-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-video-utils</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MM-VIDEO-UTILS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/modem-apis</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-MODEM-APIS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/nqnfc-firmware</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-NQNFC-FIRMWARE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/prebuilt_HY11_QM215</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PREBUILT_HY11_QM215-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qcril</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCRIL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qcril-data-hal</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCRIL-DATA-HAL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qcril-hal</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCRIL-HAL-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qcril-qmi-services</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCRIL-QMI-SERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qcril-qmi-services-headers</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCRIL-QMI-SERVICES-HEADERS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qdssagent</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QDSSAGENT-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qmi</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QMI-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qmi-framework</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QMI-FRAMEWORK-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qrdplus</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QRDPLUS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/remotefs</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-REMOTEFS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/resource-overlay</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-RESOURCE-OVERLAY-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/scve</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SCVE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/securemsm</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SECUREMSM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/sensors</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SENSORS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/ss-restart</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SS-RESTART-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/ss-services</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-SS-SERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/telephony-apps</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TELEPHONY-APPS-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/thermal-engine</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-THERMAL-ENGINE-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/time-services</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-TIME-SERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/ultrasound</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-ULTRASOUND-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/vpp</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-VPP-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/wfd</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-WFD-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/wigig</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-WIGIG-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/wlan</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-PROPRIETARY-WLAN-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/thorium_32</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-THORIUM_32-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/thorium_64</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-THORIUM_64-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/thulium</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-THULIUM-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/titanium_32</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TITANIUM_32-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/titanium_64</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-TITANIUM_64-P0.1</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/wlan</name>
+	<branch>refs/heads/qct-qm215-hz-v0.1-bsp</branch>
+	<baseline>QM215-QCOM-WLAN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/jrdtools</name>
+	<branch>refs/heads/qct-sdm429-la.um.6.6.2.r1-watt-v0.1-bsp</branch>
+	<baseline>QM215-JRDTOOLS-P0.1</baseline>
+</project>
+</projects>

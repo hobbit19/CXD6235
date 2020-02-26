@@ -1,0 +1,246 @@
+#!/usr/bin/python
+#coding=utf-8
+
+import os
+import re
+import sys
+
+def diffManifest():
+	curDict = {}
+	lastDict = {}
+	diffDict = {}
+	projectInfos = {'pixi335-v1.0-dint.xml':'pixi335','yarism-v1.0-dint.xml':'yarism','pixo7-v1.0-dint.xml':'pixo7','pixi34-tmous-v1.0-dint.xml':'pixi34na','yaris35-orange-v1.0-dint.xml':'yaris35_orange','mtk6582-v1.0-dint.xml':'soul45','yaris35-v1.0-dint.xml':'yaris35','pixo-v1.0-dint.xml':'pixo','beetlelite-v1.0-dint.xml':'beetle_lite','pixi34-tf-v2.0-dint.xml':'pixi34tf','pixi3-35-tf-dint-v1.0.xml':'pixi335tf'}
+	cmd="ls -l --time-style=long-iso .repo | grep 'manifest.xml' | awk '{print $10}'"
+	local_manifest_path=os.popen(cmd).read().strip()
+	branch_name=local_manifest_path.split("/")[1][0:-4]
+	projectName=projectInfos[local_manifest_path.split("/")[1]]
+	lastVersion = sys.argv[1]
+	isDailyVersionLast=isDailyVersion(lastVersion)
+	noBandDailyList=['pixo','beetle_lite','pixo7']
+	bandList=['EU','US','US1','US2','US_ATT']
+	lastManifest=".repo/manifests/int/"+projectName+"/v"+lastVersion+".xml"
+	if projectName not in noBandDailyList and isDailyVersionLast=="yes":
+		for eachBand in bandList:
+			if os.path.exists(".repo/manifests/int/"+projectName+"/v"+lastVersion+"-"+eachBand+".xml"):
+				lastManifest = ".repo/manifests/int/"+projectName+"/v"+lastVersion+"-"+eachBand+".xml"
+				break
+	if len(sys.argv) == 3:
+		curVersion = sys.argv[2]
+		isDailyVersionCurrent=isDailyVersion(curVersion)
+		curManifest = ".repo/manifests/int/"+projectName+"/v"+curVersion+".xml"
+		if projectName not in noBandDailyList and isDailyVersionCurrent=="yes":
+			for eachBand in bandList:
+				if os.path.exists(".repo/manifests/int/"+projectName+"/v"+curVersion+"-"+eachBand+".xml"):
+					curManifest = ".repo/manifests/int/"+projectName+"/v"+curVersion+"-"+eachBand+".xml"
+					break 
+	elif len(sys.argv) == 2:
+		curManifest = ".repo/"+local_manifest_path
+		curVersion = "Local Code"
+	else:
+		print "the args are wrong"
+
+	for line in file(curManifest).readlines():
+		match = re.search('<default\s+remote\s*=\s*\"([^\"]+)\"/>', line)
+		if match:
+			defRemote = match.group(1)
+	for line in file(curManifest).readlines():
+		if len(sys.argv) == 3: 
+			match = re.search('<project\s+name=\"([^\"]+)\"\s+path=\"([^\"]+)\"\s+revision=\"([^\"]+)\"', line)
+			if match:
+				curDict[match.group(2).strip()] = [match.group(1).strip(), match.group(3).strip()]
+		elif len(sys.argv) == 2:
+			match = re.search('<project\s+name=\"([^\"]+)\"\s+path=\"([^\"]+)\"', line)
+			if match:
+				localGitPath=match.group(2).strip()
+				cmdGetLocalCommitId='cd '+localGitPath+';git log -1 | head -n 1 |awk \'{print $2}\''
+				localCommitId=os.popen(cmdGetLocalCommitId).read().strip()
+				curDict[match.group(2).strip()] = [match.group(1).strip(), localCommitId]
+	for line in file(lastManifest).readlines():
+		match = re.search('<project\s+name=\"([^\"]+)\"\s+path=\"([^\"]+)\"\s+revision=\"([^\"]+)\"', line)
+		if match:
+			lastDict[match.group(2).strip()] = [match.group(1).strip(), match.group(3).strip()]
+	for key in sorted(curDict.keys()):
+		if key in lastDict.keys():
+			curVal = curDict.pop(key)
+			lastVal = lastDict.pop(key)
+			if key[:8] in ['version', 'version-', 'version_']:
+				continue
+			if os.path.basename(curVal[0])[:8] in ['version', 'version-', 'version_']:
+				continue
+			if curVal[1] != lastVal[1]:
+				lastValCmp = lastVal[1]
+				curValCmp = curVal[1]
+				if isCommitId(lastValCmp)=="no":
+					lastValCmp=tagToCommitId(key,lastValCmp)
+				if isCommitId(curValCmp)=="no":
+					curValCmp=tagToCommitId(key,curValCmp)
+				if lastValCmp != curValCmp:
+					diffDict[key]=[curVal[0],[lastValCmp,curValCmp]]
+		else:
+			curVal=curDict.pop(key)
+			diffDict[key]=[curVal[0],["",curVal[1]]]
+	i=1
+	html = '<html xmlns="http://www.w3.org/1999/xhtml"><br/>'
+        html += '<head><br>'
+        html += '<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />'
+        html += '<style type="text/css">'
+        html += '</style>'
+        html += '<title>Diff Manifest</title>'
+        html += '</head>'
+	html += "<script> function toggle(id,key){ var show=document.getElementById(id).style.display;if(show=='none'){document.getElementById(id).style.display='block';document.getElementById(key).innerHTML='Comments Hide'} else{document.getElementById(id).style.display='none';document.getElementById(key).innerHTML='Comments Details'}}</script>"
+	html += "<script> function toggle_(id,key){ var show=document.getElementById(id).style.display;if(show=='none'){document.getElementById(id).style.display='block';document.getElementById(key).innerHTML='Modified Files Hide'} else{document.getElementById(id).style.display='none';document.getElementById(key).innerHTML='Modified Files Details'}}</script>"
+	html += "<script> function toggle2(id,key){ var show=document.getElementById(id).style.display;if(show=='none'){document.getElementById(id).style.display='block';document.getElementById(key).innerHTML='Between "+lastVersion+" and "+curVersion+" Commits Hide'} else{document.getElementById(id).style.display='none';document.getElementById(key).innerHTML='Between "+lastVersion+" and "+curVersion+" Commits Details(from old to new)'}}</script>"
+	html += '<body><h1><span style="color:blue">'+projectName+'</span><br/><span style="color:red">'+lastVersion+'</span>'+' and '+'<span style="color:red">'+curVersion+'</span>'+' Diff Result</h1><br/>'
+	html += '<table>'
+	#print diffDict
+	for key in sorted(diffDict.keys()):
+		diffVal = diffDict.pop(key)
+		html += '<tr><td><b style="font-size:18px">'+str(i)+')'+diffVal[0]+'</b></td></tr>'
+		splitPath=diffVal[0].split("/",1)
+		if(diffVal[1][0] == ""):
+			html += '<tr><td style="color:red">this git did not exists in '+lastVersion+' or didn\'t use it</td><tr/>'
+			html += '<tr><td><br/></td></tr>'
+		else:
+			cmdLast='cd '+key+';git log '+diffVal[1][0]+' -1 | sed \':label;N;s/\\n/<br\/>/;b label\''
+			cmdCurrent='cd '+key+';git log '+diffVal[1][1]+' -1 | sed \':label;N;s/\\n/<br\/>/;b label\''
+			if isCommitId(diffVal[1][0].strip())=="no":
+				commitIdLast=tagToCommitId(key,diffVal[1][0])
+			else:
+				commitIdLast=diffVal[1][0].strip()
+			if isCommitId(diffVal[1][1].strip())=="no":
+				commitIdCurrent=tagToCommitId(key,diffVal[1][1])
+			else:
+				commitIdCurrent=diffVal[1][1].strip()
+			cmdDiffCommitId='cd '+key+';git diff --name-only '+commitIdLast+'..'+commitIdCurrent+' | sed \':label;N;s/\\n/<br\/>/;b label\''
+			gitCommentLast=os.popen(cmdLast).read()
+			gitCommentCurrent=os.popen(cmdCurrent).read()
+			gitDiff=os.popen(cmdDiffCommitId).read()
+			diffManifest_name = os.popen("basename "+sys.argv[0]).read().strip()
+			diffManifest_path = sys.argv[0][0:-len(diffManifest_name)]
+			fota_conf_path=diffManifest_path+"../conf/impact_fota/"+branch_name+"_conf"
+			sys_conf_path=diffManifest_path+"../conf/impact_sys/"+branch_name+"_conf"
+			git_name=diffVal[0].split('/',1)[1]
+			if(os.path.exists(fota_conf_path)):
+				gitDiff=checkFotaAndSys(gitDiff,fota_conf_path,sys_conf_path,branch_name,diffManifest_path,git_name)
+				isOnlyImpactFota=gitDiff.find('color:red')
+				isOnlyImpactSys=gitDiff.find('color:purple')
+				isImpactFotaAndSys=gitDiff.find('color:yellow')
+				if isOnlyImpactFota != -1:
+					html += '<tr><td><b style="font-size:15px;color:red">There are some changes may impact fota</b></td></tr>'
+				if isOnlyImpactSys !=-1:
+					html += '<tr><td><b style="font-size:15px;color:red">There are some changes may impact system</b></td></tr>'
+				if isImpactFotaAndSys != -1:
+					html += '<tr><td><b style="font-size:15px;color:red">There are some changes may impact fota and system</b></td></tr>'
+			cmdBetweenCommitId='cd '+key+';git rev-list '+commitIdLast+'..'+commitIdCurrent+' | grep -v '+commitIdCurrent
+			gitBetweenCommitIds=os.popen(cmdBetweenCommitId).read()
+			if gitBetweenCommitIds != '':
+				betweenCommitIdList=gitBetweenCommitIds.splitlines()
+				betweenCommitIdList.reverse()
+			html += '<tr><td><b style="color:red">'+sys.argv[1]+':</b>'+diffVal[1][0]+'</td></tr>'
+			html += '<tr><td><a href=http://10.92.32.10/sdd2/gitweb-'+splitPath[0]+'/?p='+splitPath[1]+'.git;a=commit;h='+diffVal[1][0]+'>10.92.32.10/sdd2/gitweb-'+splitPath[0]+'/?p='+splitPath[1]+'.git;a=commit;h='+diffVal[1][0]+'</a></td></tr>'
+			html += '<tr><td><div id=\'showLast'+str(i)+'\' onclick=\"toggle(\'commentLast'+str(i)+'\',\'showLast'+str(i)+'\');\" style="font-size:20px;cursor:pointer;color:#FF6600">Comments Details</div></td></tr>'
+			html += '<tr><td><div id=\'commentLast'+str(i)+'\' style="display:none;background-color:#FFCC33">'+gitCommentLast+'<span></div></td></tr>'
+			html += '<tr><td><div id=\'showBetween'+str(i)+'\' onclick=\"toggle2(\'commentBetween'+str(i)+'\',\'showBetween'+str(i)+'\');\" style="font-size:20px;cursor:pointer;color:Green">Between '+lastVersion+' and '+curVersion+' Commits Details(from old to new)</div></td></tr>'
+			html += '<tr><td><div id=\'commentBetween'+str(i)+'\' style="display:none;background-color:Aqua">'
+			if gitBetweenCommitIds != '':
+				for index in range(len(betweenCommitIdList)):
+					html += '<br/><a href=http://10.92.32.10/sdd2/gitweb-'+splitPath[0]+'/?p='+splitPath[1]+'.git;a=commit;h='+betweenCommitIdList[index]+'>10.92.32.10/sdd2/gitweb-'+splitPath[0]+'/?p='+splitPath[1]+'.git;a=commit;h='+betweenCommitIdList[index]+'</a><br/>'
+			html += '<br/></div></td></tr>'
+			if len(sys.argv) == 3:
+				html += '<tr><td><b style="color:red">'+sys.argv[2]+':</b>'+diffVal[1][1]+'</td></tr>'
+				html += '<tr><td><a href=http://10.92.32.10/sdd2/gitweb-'+splitPath[0]+'/?p='+splitPath[1]+'.git;a=commit;h='+diffVal[1][1]+'>10.92.32.10/sdd2/gitweb-'+splitPath[0]+'/?p='+splitPath[1]+'.git;a=commit;h='+diffVal[1][1]+'</a></td></tr>'
+				html += '<tr><td><div id=\'showCurrent'+str(i)+'\' onclick=\"toggle(\'commentCurrent'+str(i)+'\',\'showCurrent'+str(i)+'\');\" style="font-size:20px;cursor:pointer;color:#FF6600">Comments Details</div></td></tr>'
+				html += '<tr><td><div id=\'commentCurrent'+str(i)+'\' style="display:none;background-color:#FFCC33">'+gitCommentCurrent+'</div></td></tr>'
+				html += '<tr><td><div id=\'showDiff'+str(i)+'\' onclick=\"toggle_(\'diff'+str(i)+'\',\'showDiff'+str(i)+'\');\" style="font-size:20px;cursor:pointer;color:#006699">Modified Files Details</div></td></tr>'
+				html += '<tr><td><div id=\'diff'+str(i)+'\' style="display:none;background-color:#3399CC">'+gitDiff+'</div></td></tr>'
+			elif len(sys.argv) == 2:
+				html += '<tr><td><b style="color:red">Local Code:</b>'+diffVal[1][1]+'</td></tr>'
+				html += '<tr><td><a href=http://10.92.32.10/sdd2/gitweb-'+splitPath[0]+'/?p='+splitPath[1]+'.git;a=commit;h='+diffVal[1][1]+'>10.92.32.10/sdd2/gitweb-'+splitPath[0]+'/?p='+splitPath[1]+'.git;a=commit;h='+diffVal[1][1]+'</a></td></tr>'
+				html += '<tr><td><div id=\'showCurrent'+str(i)+'\' onclick=\"toggle(\'commentCurrent'+str(i)+'\',\'showCurrent'+str(i)+'\');\" style="font-size:20px;cursor:pointer;color:#FF6600">Comments Details</div></td></tr>'
+				html += '<tr><td><div id=\'commentCurrent'+str(i)+'\' style="display:none;background-color:#FFCC33">'+gitCommentCurrent+'</div></td></tr>'
+				html += '<tr><td><div id=\'showDiff'+str(i)+'\' onclick=\"toggle_(\'diff'+str(i)+'\',\'showDiff'+str(i)+'\');\" style="font-size:20px;cursor:pointer;color:#006699">Modified Files Details</div></td></tr>'
+				html += '<tr><td><div id=\'diff'+str(i)+'\' style="display:none;background-color:#3399CC">'+gitDiff+'</div></td></tr>'
+			html += '<tr><td><br/></td></tr>'
+		i=i+1
+	html += '</table></body></html>'
+	output=open('diffResult.html','w')
+	output.write(html)
+	output.close()
+
+def checkFotaAndSys(modifiedFiles,fota_conf_path,sys_conf_path,branch_name,diffManifest_path,git_name):
+	modifiedFiles_list=modifiedFiles.strip('\n').split('<br/>')
+	modifiedFiles_new=""
+	if modifiedFiles_list[0] != '':
+		for each_modifiedFile in modifiedFiles_list:
+			isImpactFota=checkFota(each_modifiedFile,fota_conf_path,branch_name,diffManifest_path,git_name)
+			isImpactSys=checkSys(each_modifiedFile,sys_conf_path,branch_name,diffManifest_path,git_name)
+			if isImpactFota=="yes" and isImpactSys=="no":
+				modifiedFiles_new += "<span style='color:red'>"+each_modifiedFile+"</span><br/>"
+			elif isImpactFota=="no" and isImpactSys=="yes":
+				modifiedFiles_new += "<span style='color:purple'>"+each_modifiedFile+"</span><br/>"
+			elif isImpactFota=="no" and isImpactSys=="yes":
+				modifiedFiles_new += "<span style='color:yellow'>"+each_modifiedFile+"</span><br/>"
+			else:
+				modifiedFiles_new += each_modifiedFile+"<br/>"
+	return modifiedFiles_new
+
+def checkFota(each_modifiedFile,fota_conf_path,branch_name,diffManifest_path,git_name):
+	isImpactFota="no"
+	if os.path.exists(fota_conf_path+"/"+branch_name+".file_conf"):
+ 		fota_file_info=os.popen("cat "+fota_conf_path+"/"+branch_name+".file_conf | grep "+git_name+"/"+each_modifiedFile).read().strip()
+		if fota_file_info == '':
+			if os.path.exists(fota_conf_path+"/"+branch_name+".dir_conf"):
+				fota_dir_info=os.popen(diffManifest_path+"find_fota_from_dir.sh "+diffManifest_path+" "+branch_name+" "+each_modifiedFile).read().strip();
+				if fota_dir_info != '':
+					isImpactFota="yes"
+				else:
+					isImpactFota="no"
+		else:
+			isImpactFota="yes"
+	return isImpactFota
+
+def checkSys(each_modifiedFile,sys_conf_path,branch_name,diffManifest_path,git_name):
+	isImpactSys="no"
+	if os.path.exists(sys_conf_path+"/"+branch_name+".file_conf"):
+		mm="cat "+sys_conf_path+"/"+branch_name+".file_conf | grep "+git_name+"/"+each_modifiedFile
+		if git_name=='frameworks':
+			print mm
+		sys_file_info=os.popen("cat "+sys_conf_path+"/"+branch_name+".file_conf | grep "+git_name+"/"+each_modifiedFile).read().strip()
+		if sys_file_info == '':
+			if os.path.exists(sys_conf_path+"/"+branch_name+".dir_conf"):
+				sys_dir_info=os.popen(diffManifest_path+"find_sys_from_dir.sh "+diffManifest_path+" "+branch_name+" "+each_modifiedFile).read().strip();
+				if sys_dir_info != '':
+					isImpactSys="yes"
+				else:
+					isImpactSys="no"
+		else:
+			isImpactSys="yes"
+	return isImpactSys
+
+def tagToCommitId(key,tag):
+	commitId=''
+	cmdTagToCommitId='cd '+key+';git show -s --format=%H '+tag
+	commitIdLines=os.popen(cmdTagToCommitId).read().strip()
+	commitIdInfos=commitIdLines.split('\n')
+	for eachInfo in commitIdInfos:
+		match=re.search('[a-z0-9]{40}',eachInfo)
+		if match:
+			commitId=eachInfo.strip()
+	return commitId
+			
+def isCommitId(commitIdOrTag):
+	match=re.match('[a-z0-9]{40}',commitIdOrTag)
+	if match:
+		return "yes"
+	else:
+		return "no"
+
+def isDailyVersion(version):
+	cmdIsDaily = 'echo '+version+' | grep \'-\''
+	if os.popen(cmdIsDaily).read().strip()!='':
+		return "yes"
+	else:
+		return "no"
+
+if __name__ == '__main__':
+	diffManifest()

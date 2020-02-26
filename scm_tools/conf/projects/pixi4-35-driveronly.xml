@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>sdd1/odm/abi</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/art</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ART-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/bionic</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/bootable</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/build</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/cts</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/dalvik</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/developers</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/development</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/device</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/docs</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/aac</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/android-clat</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/ant-glob</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/antlr</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/apache-harmony</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/apache-http</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/apache-xml</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/arduino</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ARDUINO-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/bison</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/blktrace</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/bluetooth</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-EXTERNAL-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/bouncycastle</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/bsdiff</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/bzip2</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/ceres-solver</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/checkpolicy</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/chromium-libpac</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/chromium-trace</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/chromium_org</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/clang</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/cmockery</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/compiler-rt</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/conscrypt</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/deqp</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/dexmaker</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/dhcpcd</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/dnsmasq</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/doclava</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/droiddriver</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/e2fsprogs</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/easymock</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/eclipse-basebuilder</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/eigen</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/elfutils</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/emma</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/esd</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/expat</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/eyes-free</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/f2fs-tools</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/fdlibm</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/fio</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/flac</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/fonttools</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/freetype</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/fsck_msdos</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/gcc-demangle</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/genext2fs</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/giflib</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/glide</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/google-diff-match-patch</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/google-fonts</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/gtest</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/guava</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/hamcrest</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/harfbuzz_ng</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/icu</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/iproute2</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/ipsec-tools</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/iptables</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/iputils</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/jarjar</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/javasqlite</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/javassist</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/jdiff</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/jemalloc</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/jhead</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/jmdns</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/jpeg</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/jsilver</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/jsmn</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/jsoncpp</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/jsr305</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/junit</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/kernel-headers</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/ksoap2</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libcap-ng</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libcxx</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libcxxabi</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libedit</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libexif</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libgsm</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libhevc</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/liblzf</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libmtp</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libnfc-nci</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libnfc-nxp</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libnl</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libogg</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libopus</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libpcap</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libphonenumber</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libpng</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libselinux</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libsepol</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libunwind</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libusb</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libusb-compat</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libutf</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libvorbis</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libvpx</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libvterm</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libxml2</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/libyuv</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/linux-tools-perf</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/littlemock</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/lldb</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LLDB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/llvm</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/lohit-fonts</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LOHIT-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/ltrace</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/lzma</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/markdown</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/mdnsresponder</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/mesa</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MESA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/mesa3d</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/mksh</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/mockito</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/mockwebserver</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/mp4parser</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/mtpd</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/nanohttpd</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/nanopb-c</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/naver-fonts</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/netcat</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/netperf</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/neven</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/nfacct</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/nist-pkits</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/nist-sip</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/noto-fonts</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/oauth</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/objenesis</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/okhttp</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/opencv</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/openfst</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-OPENFST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/openssl</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-OPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/oprofile</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-OPROFILE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/owasp</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-OWASP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/pcre</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/pdfium</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/pixman</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PIXMAN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/ppp</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/proguard</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/protobuf</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/qemu</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/qemu-pc-bios</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/regex-re2</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/replicaisland</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/robolectric</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/safe-iop</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/scrypt</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/sepolicy</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/sfntly</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/skia</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/smack</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SMACK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/smali</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/sonivox</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/speex</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/sqlite</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/srec</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SREC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/srtp</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SRTP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/stlport</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-STLPORT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/strace</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/stressapptest</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/svox</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/tagsoup</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/tcpdump</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/timezonepicker-support</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/tinyalsa</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/tinycompress</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/tinyxml</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/tinyxml2</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/tremolo</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/valgrind</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/vixl</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/webp</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/webrtc</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/wpa_supplicant_8</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/xmlwriter</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/xmp_toolkit</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/yaffs2</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-YAFFS2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/zlib</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/zopfli</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/external/zxing</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/frameworks</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/hardware</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/kernel</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/libcore</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/libnativehelper</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/md32</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MD32-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/modem</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MODEM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/ndk</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Bluetooth</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-APPS-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Browser</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Calculator</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Calendar</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Camera</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Camera2</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/CertInstaller</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Contacts</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/DeskClock</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Dialer</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Email</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Exchange</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/FMRadio</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-FMRADIO-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Gallery</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Gallery2</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/InCallUI</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-INCALLUI-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/KeyChain</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Launcher2</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Launcher3</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Mms</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-APPS-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Music</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/MusicFX</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Nfc</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/OMA-DM</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-OMA-DM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Protips</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Provision</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Settings</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/SpareParts</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Stk</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-STK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Tag</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/Terminal</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/TvSettings</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/experimental</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/providers/MediaProvider</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/providers/TvProvider</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/screensavers/Basic</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SCREENSAVERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/screensavers/WebView</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/services/Mms</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SERVICES-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/services/Telecomm</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TELECOMM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/services/Telephony</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/wallpapers/Basic</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-WALLPAPERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-GALAXY4-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/pdk</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/prebuilts</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/sdk</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/system</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/tools</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/vendor</name>
+	<branch>refs/heads/pixi4-35-driveronly</branch>
+	<baseline>PIXI4-35-DRIVERONLY-VENDOR-P1.0</baseline>
+</project>
+</projects>

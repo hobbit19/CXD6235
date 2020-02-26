@@ -1,0 +1,1728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6737/abi</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/art</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ART-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/bionic</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/bootable</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/build</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/cts</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/dalvik</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/developers</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/development</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/device</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/docs</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/android-clat</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/android-mock</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/aac</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/androidplot</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ant-glob</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/antlr</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-commons-math</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-harmony</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-http</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-xml</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bison</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/blktrace</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/boringssl</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bouncycastle</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bsdiff</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bzip2</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/cblas</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ceres-solver</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/chromium-libpac</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/chromium-trace</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/chromium-webview</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/clang</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/cmockery</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/compiler-rt</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/conscrypt</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/crcalc</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/deqp</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/dexmaker</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/dhcpcd</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/dnsmasq</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/doclava</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/donuts</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DONUTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/drm_gralloc</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/drm_hwcomposer</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/droiddriver</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/e2fsprogs</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/easymock</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eclipse-basebuilder</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eigen</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/elfutils</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/embunit</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/emma</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/esd</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/expat</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eyes-free</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/f2fs-tools</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fdlibm</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fio</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/flac</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fonttools</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/freetype</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fsck_msdos</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/giflib</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/glide</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/google-breakpad</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/google-fonts</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/gptfdisk</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/gtest</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/guava</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/hamcrest</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/harfbuzz_ng</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/hyphenation-patterns</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/icu</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/iproute2</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ipsec-tools</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/iptables</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/iputils</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jack</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JACK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jarjar</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/javasqlite</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/javassist</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jdiff</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jemalloc</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jetty</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JETTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jhead</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jmdns</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jmonkeyengine</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jpeg</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsilver</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsmn</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsoncpp</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsr305</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/junit</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/kernel-headers</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ksoap2</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libavc</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libcap-ng</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libcxx</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libcxxabi</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libdrm</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libedit</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libexif</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libgsm</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libhevc</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/liblzf</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libmpeg2</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libmtp</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libnfc-nci</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libnfc-nxp</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libnl</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libogg</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libopus</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libpcap</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libphonenumber</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libpng</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libseccomp-helper</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBSECCOMP-HELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libselinux</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libssh2</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBSSH2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libunwind</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libusb</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libusb-compat</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libutf</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvncserver</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvorbis</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvpx</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvterm</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libxml2</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libyuv</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/linux-tools-perf</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/littlemock</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lld</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LLD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lldb</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LLDB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/llvm</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ltrace</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lz4</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lzma</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/marisa-trie</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/markdown</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mdnsresponder</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mesa3d</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/messageformat</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mksh</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mockftpserver</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mockito</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mockwebserver</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mp4parser</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mtpd</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nanohttpd</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nanopb-c</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/naver-fonts</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/netcat</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/netperf</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/neven</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nfacct</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nist-pkits</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nist-sip</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/noto-fonts</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/oauth</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/objenesis</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/okhttp</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/opencv</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/openfst</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-OPENFST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/openssh</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/owasp</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-OWASP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/parameter-framework</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/pcre</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/pdfium</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ppp</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/proguard</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/protobuf</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/regex-re2</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/replicaisland</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/robolectric</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/roboto-fonts</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/safe-iop</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/scrypt</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/selinux</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sepolicy</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sfntly</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/skia</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/slf4j</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/smali</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sonic</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sonivox</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/speex</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sqlite</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/squashfs-tools</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/srtp</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SRTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/strace</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/svox</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tagsoup</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tcpdump</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/timezonepicker-support</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinyalsa</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinycompress</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinyxml</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinyxml2</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/toybox</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tremolo</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/v8</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/valgrind</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/vboot_reference</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/vixl</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/vogar</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/webp</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/webrtc</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/wpa_supplicant_8</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/xmlwriter</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/xmp_toolkit</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/zlib</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/zopfli</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/zxing</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/frameworks</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/hardware</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/kernel</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/libcore</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/libnativehelper</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/modem</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MODEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/mtk6737_wimdata_ng/liv</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/mtk6737_wimdata_ng/wcustores</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/mtk6737_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/mtk6737_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/ndk</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MTK6735-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/FMRadio</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-FMRADIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Bluetooth</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Browser</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Calculator</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Calendar</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Camera</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Camera2</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/CertInstaller</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/Contacts</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL--CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/DeskClock</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Dialer</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Email</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Exchange</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Gallery</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Gallery2</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/InCallUI</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-INCALLUI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/KeyChain</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Launcher2</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Launcher3</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Messaging</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Music</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/MusicFX</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Nfc</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Phone</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Protips</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Provision</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Settings</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SmartCardService</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SpareParts</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Stk</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Tag</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Terminal</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/TvSettings</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/experimental</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/MediaProvider</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/TvProvider</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/screensavers/Basic</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SCREENSAVERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/screensavers/WebView</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/services</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/Basic</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-WALLPAPERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GALAXY4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/pdk</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/platform_testing</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/android-emulator</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/devtools</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/eclipse</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DARWIN-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DARWIN-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DARWIN-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DARWIN-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DARWIN-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LINUX-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LINUX-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LINUX-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LINUX-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LINUX-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/libs</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/maven_repo</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/misc</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/ndk</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/python</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PYTHON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/sdk</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/tools</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/sdk</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MTK6735-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/system</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/tools</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MTK6735-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/arkamys</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-ARKAMYS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/silead</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-SILEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/dolby</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-DOLBY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/google</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-GOOGLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/jrdchz</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JRDCHZ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/jrdcom</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-JRDCOM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/mediatek</name>
+	<branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+	<baseline>MTK6737-GLOBAL-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6737/trusty</name>
+        <branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+        <baseline>MTK6737-GLOBAL-TRUSTY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdMMITest</name>
+        <branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+        <baseline>MTK6737-GLOBAL-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdSdcardUpgrade</name>
+        <branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+        <baseline>MTK6737-GLOBAL-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdFindMyPhone</name>
+        <branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+        <baseline>MTK6737-GLOBAL-JRDFINDMYPHONE-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdPlugger</name>
+        <branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+        <baseline>MTK6737-GLOBAL-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/QuickTranslate</name>
+        <branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+        <baseline>MTK6737-GLOBAL-QUICKTRANSLATE-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/AdvancedMobileLocation</name>
+        <branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+        <baseline>MTK6737-GLOBAL-ADVANCEDMOBILELOCATION-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/TclTest</name>
+        <branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+        <baseline>MTK6737-GLOBAL-TCLTEST-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/Mms</name>
+    <branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+    <baseline>MTK67MTK6737-GLOBALL-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6737/external/libvisidon_facebeauty</name>
+    <branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+    <baseline>MTK6737-GLOBAL-LIBVISIDON-FACEBEAUTY-P1.0</baseline>
+</project>
+</projects>

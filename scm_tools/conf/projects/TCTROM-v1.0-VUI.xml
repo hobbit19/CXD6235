@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>TCTROM/qualcomm</name>
+	<branch>refs/heads/TCTROM-v1.0-VUI</branch>
+	<baseline>TCTROM-QUALCOMM-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/mediatek</name>
+	<branch>refs/heads/TCTROM-v1.0-VUI</branch>
+	<baseline>TCTROM-MMEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl</name>
+	<branch>refs/heads/TCTROM-v1.0-VUI</branch>
+	<baseline>TCTROM-TCL-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/aosp</name>
+	<branch>refs/heads/TCTROM-v1.0-VUI</branch>
+	<baseline>TCTROM-AOSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/apps</name>
+	<branch>refs/heads/TCTROM-v1.0-VUI</branch>
+	<baseline>TCTROM-APPS-P1.0</baseline>
+</project>
+<project>
+        <name>genericapp/custo_wimdata_ng/wcustores</name>
+        <branch>refs/heads/TCTROM-v1.0-VUI</branch>
+        <baseline>ROM-ANDROID-8.1-R33-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+        <name>genericapp/custo_wimdata_ng/wlanguage</name>
+        <branch>refs/heads/TCTROM-v1.0-VUI</branch>
+        <baseline>ROM-ANDROID-8.1-R33-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+        <name>genericapp/custo_wimdata_ng/wprocedures</name>
+        <branch>refs/heads/TCTROM-v1.0-VUI</branch>
+        <baseline>ROM-ANDROID-8.1-R33-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+        <name>genericapp/jrdcom</name>
+        <branch>refs/heads/TCTROM-v1.0-VUI</branch>
+        <baseline>ROM-ANDROID-8.1-R33-JRDCOM-P1.0</baseline>
+</project>
+<project>
+        <name>genericapp/makeperso</name>
+        <branch>refs/heads/TCTROM-v1.0-VUI</branch>
+        <baseline>ROM-ANDROID-8.1-R33-MAKEPERSO-P1.0</baseline>
+</project>
+</projects>

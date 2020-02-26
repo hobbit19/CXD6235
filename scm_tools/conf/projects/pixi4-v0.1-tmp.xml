@@ -1,0 +1,1596 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6580/abi</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ABI-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/art</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ART-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/bionic</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-BIONIC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/bootable</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-BOOTABLE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/build</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-BUILD-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/cts</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CTS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/dalvik</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DALVIK-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/developers</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DEVELOPERS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/development</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DEVELOPMENT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/device</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DEVICE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/docs</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DOCS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/aac</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-AAC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/android-clat</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ANDROID-CLAT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ant-glob</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ANT-GLOB-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/antlr</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ANTLR-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-harmony</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-APACHE-HARMONY-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-http</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-APACHE-HTTP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-xml</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-APACHE-XML-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/arduino</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ARDUINO-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bison</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-BISON-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/blktrace</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-BLKTRACE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bluetooth</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-EXTERNAL-BLUETOOTH-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bouncycastle</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-BOUNCYCASTLE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bsdiff</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-BSDIFF-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bzip2</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-BZIP2-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ceres-solver</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CERES-SOLVER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/checkpolicy</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CHECKPOLICY-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-libpac</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CHROMIUM-LIBPAC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-trace</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CHROMIUM-TRACE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium_org</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CHROMIUM_ORG-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/clang</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CLANG-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/cmockery</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CMOCKERY-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/compiler-rt</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-COMPILER-RT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/conscrypt</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CONSCRYPT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/deqp</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DEQP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dexmaker</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DEXMAKER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dhcpcd</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DHCPCD-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dnsmasq</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DNSMASQ-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/doclava</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DOCLAVA-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/droiddriver</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DROIDDRIVER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/e2fsprogs</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-E2FSPROGS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/easymock</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-EASYMOCK-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eclipse-basebuilder</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ECLIPSE-BASEBUILDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ECLIPSE-WINDOWBUILDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eigen</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-EIGEN-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/elfutils</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ELFUTILS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/emma</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-EMMA-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/esd</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ESD-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/expat</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-EXPAT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eyes-free</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-EYES-FREE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/f2fs-tools</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-F2FS-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fdlibm</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-FDLIBM-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fio</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-FIO-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/flac</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-FLAC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fonttools</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-FONTTOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/freetype</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-FREETYPE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fsck_msdos</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-FSCK_MSDOS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/gcc-demangle</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GCC-DEMANGLE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/genext2fs</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GENEXT2FS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/giflib</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GIFLIB-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/glide</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GLIDE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-diff-match-patch</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GOOGLE-DIFF-MATCH-PATCH-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-fonts</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GOOGLE-FONTS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GOOGLE-TV-PAIRING-PROTOCOL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/gtest</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GTEST-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/guava</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GUAVA-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/hamcrest</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-HAMCREST-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/harfbuzz_ng</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-HARFBUZZ_NG-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/icu</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ICU-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iproute2</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-IPROUTE2-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ipsec-tools</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-IPSEC-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iptables</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-IPTABLES-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iputils</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-IPUTILS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jarjar</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JARJAR-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/javasqlite</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JAVASQLITE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/javassist</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JAVASSIST-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jdiff</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JDIFF-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jemalloc</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JEMALLOC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jhead</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JHEAD-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jmdns</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JMDNS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jpeg</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JPEG-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsilver</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JSILVER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsmn</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JSMN-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsoncpp</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JSONCPP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsr305</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JSR305-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/junit</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JUNIT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/kernel-headers</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-KERNEL-HEADERS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ksoap2</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-KSOAP2-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcap-ng</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBCAP-NG-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcxx</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBCXX-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcxxabi</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBCXXABI-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libedit</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBEDIT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libexif</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBEXIF-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libgsm</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBGSM-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libhevc</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBHEVC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/liblzf</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBLZF-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libmtp</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBMTP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnfc-nci</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBNFC-NCI-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnfc-nxp</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBNFC-NXP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnl</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBNL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libogg</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBOGG-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libopus</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBOPUS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libpcap</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBPCAP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libphonenumber</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBPHONENUMBER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libpng</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBPNG-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libselinux</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBSELINUX-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libsepol</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBSEPOL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libunwind</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBUNWIND-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libusb</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBUSB-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libusb-compat</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBUSB-COMPAT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libutf</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBUTF-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvorbis</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBVORBIS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvpx</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBVPX-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libxml2</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBXML2-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libyuv</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBYUV-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/linux-tools-perf</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LINUX-TOOLS-PERF-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/littlemock</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LITTLEMOCK-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lldb</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LLDB-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/llvm</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LLVM-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ltrace</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LTRACE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lzma</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LZMA-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/markdown</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MARKDOWN-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mdnsresponder</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MDNSRESPONDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mesa3d</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MESA3D-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mksh</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MKSH-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockito</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MOCKITO-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockwebserver</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MOCKWEBSERVER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mp4parser</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MP4PARSER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mtpd</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MTPD-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nanohttpd</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NANOHTTPD-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nanopb-c</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NANOPB-C-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/naver-fonts</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NAVER-FONTS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/netcat</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NETCAT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/netperf</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NETPERF-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/neven</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NEVEN-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nfacct</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NFACCT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nist-pkits</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NIST-PKITS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nist-sip</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NIST-SIP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/noto-fonts</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NOTO-FONTS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/oauth</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-OAUTH-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/objenesis</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-OBJENESIS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/okhttp</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-OKHTTP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/opencv</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-OPENCV-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/openssl</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-OPENSSL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/oprofile</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-OPROFILE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/owasp</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-OWASP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/pdfium</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PDFIUM-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/pixman</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PIXMAN-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ppp</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PPP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/proguard</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PROGUARD-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/protobuf</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PROTOBUF-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/qemu</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-QEMU-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/qemu-pc-bios</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-QEMU-PC-BIOS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/regex-re2</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-REGEX-RE2-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/replicaisland</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-REPLICAISLAND-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/robolectric</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ROBOLECTRIC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/safe-iop</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SAFE-IOP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/scrypt</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SCRYPT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sepolicy</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SEPOLICY-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sfntly</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SFNTLY-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/skia</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SKIA-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/smack</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SMACK-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/smali</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SMALI-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sonivox</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SONIVOX-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/speex</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SPEEX-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sqlite</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SQLITE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/srec</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SREC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/srtp</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SRTP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/stlport</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-STLPORT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/strace</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-STRACE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/stressapptest</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-STRESSAPPTEST-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/svox</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SVOX-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tagsoup</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TAGSOUP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tcpdump</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TCPDUMP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/timezonepicker-support</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TIMEZONEPICKER-SUPPORT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyalsa</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TINYALSA-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinycompress</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TINYCOMPRESS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyxml</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TINYXML-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyxml2</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TINYXML2-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tremolo</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TREMOLO-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/valgrind</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-VALGRIND-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vixl</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-VIXL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/webp</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-WEBP-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/webrtc</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-WEBRTC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/wpa_supplicant_8</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-WPA_SUPPLICANT_8-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/xmlwriter</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-XMLWRITER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/xmp_toolkit</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-XMP_TOOLKIT-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/yaffs2</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-YAFFS2-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zlib</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ZLIB-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zopfli</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ZOPFLI-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zxing</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ZXING-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/frameworks</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-FRAMEWORKS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/hardware</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-HARDWARE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/kernel</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-KERNEL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/libcore</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBCORE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/libnativehelper</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBNATIVEHELPER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/md32</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MD32-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/modem</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MODEM-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/ndk</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NDK-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/JrdElabel</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JRDELABEL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/JrdGuestMode</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JRDGUESTMODE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/JrdContainer</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JRDCONTAINER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/JrdMMITest</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JRDMMITEST-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-BASICSMSRECEIVER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Bluetooth</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-APPS-BLUETOOTH-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Browser</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-BROWSER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Calculator</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CALCULATOR-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Calendar</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CALENDAR-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Camera</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Camera2</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CAMERA2-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CELLBROADCASTRECEIVER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CertInstaller</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CERTINSTALLER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Contacts</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CONTACTS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CONTACTSCOMMON-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/DeskClock</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DESKCLOCK-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Dialer</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DIALER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Email</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-EMAIL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Exchange</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-EXCHANGE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Gallery</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GALLERY-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Gallery2</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GALLERY2-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-HTMLVIEWER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/InCallUI</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-INCALLUI-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/KeyChain</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-KEYCHAIN-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Launcher2</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LAUNCHER2-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Launcher3</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LAUNCHER3-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LEGACYCAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MANAGEDPROVISIONING-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Mms</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MMS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Music</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MUSIC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/MusicFX</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MUSICFX-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Nfc</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NFC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/OMA-DM</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-OMA-DM-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ONETIMEINITIALIZER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PACKAGEINSTALLER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PHONECOMMON-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Protips</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PROTIPS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Provision</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PROVISION-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-QUICKSEARCHBOX-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Settings</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SETTINGS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SOUNDRECORDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SpareParts</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SPAREPARTS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SPEECHRECORDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Stk</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-STK-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Tag</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TAG-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/TvSettings</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TVSETTINGS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-UNIFIEDEMAIL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-VOICEDIALER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/experimental</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-EXPERIMENTAL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LATINIME-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-OPENWNN-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-APPLICATIONSPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CALENDARPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CONTACTSPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DOWNLOADPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/MediaProvider</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MEDIAPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PARTNERBOOKMARKSPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TELEPHONYPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/TvProvider</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TVPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-USERDICTIONARYPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/Basic</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SCREENSAVERS-BASIC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PHOTOTABLE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/WebView</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-WEBVIEW-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/services</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/Basic</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-WALLPAPERS-BASIC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GALAXY4-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-HOLOSPIRAL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIVEPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MAGICSMOKE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MUSICVISUALIZATION-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-NOISEFIELD-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PHASEBEAM-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/JrdFota</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JRDFOTA-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/JrdSdcardUpgrade</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JRDSDCARDUPGRADE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/JrdCustomizedUssd</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JRDCUSTOMIZEDUSSD-P0.1</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JRDPLUGGER-P0.1</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-URLRESERVEDAPPS-P0.1</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SYNCMLCLIENT-P0.1</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdTorch</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JRDTORCH-P0.1</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdApp2SDCard</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JRDAPP2SDCARD-P0.1</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdFindMyPhone</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-JRDFINDMYPHONE-P0.1</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/providers/ChromeCustomizations</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-CHROMECUSTOMIZATIONS-P0.1</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/QuickTranslate</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-QUICKTRANSLATE-P0.1</baseline>
+</project>
+
+<project>
+	<name>mtk6580/packages/apps/FMRadio</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-FMRADIO-P0.1</baseline>
+</project>
+
+<project>
+	<name>mtk6580/pdk</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PDK-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/liv</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIV-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wcustores</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-WCUSTORES-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-WLANGUAGE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-WPROCEDURES-P0.1</baseline>
+</project>
+
+<project>
+	<name>mtk6580/prebuilts/android-emulator</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ANDROID-EMULATOR-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DARWIN-X86-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LINUX-X86-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/devtools</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DEVTOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/eclipse</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-ECLIPSE-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DARWIN-X86-AARCH64-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DARWIN-X86-ARM-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DARWIN-X86-HOST-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DARWIN-X86-MIPS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-DARWIN-X86-X86-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LINUX-X86-AARCH64-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LINUX-X86-ARM-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LINUX-X86-HOST-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LINUX-X86-MIPS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LINUX-X86-X86-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-GRADLE-PLUGIN-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/libs</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-LIBS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/maven_repo</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MAVEN_REPO-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/misc</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-MISC-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/ndk</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PREBUILTS-NDK-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/python</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PYTHON-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-QEMU-KERNEL-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/sdk</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PREBUILTS-SDK-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/tools</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-PREBUILTS-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/sdk</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SDK-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/system</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-SYSTEM-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/tools</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/vendor</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-VENDOR-P0.1</baseline>
+</project>
+<project>
+	<name>sdd1/alps/version_babyd</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-VERSION_MTK6580-P0.1</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/services/Telephony</name>
+	<branch>refs/heads/pixi4-v0.1-tmp</branch>
+	<baseline>PIXI4-TELEPHONY-P0.1</baseline>
+</project>
+</projects>

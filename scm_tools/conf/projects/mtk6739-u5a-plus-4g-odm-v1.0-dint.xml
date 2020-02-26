@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+
+<project>
+	<name>mtk6737/vendor/mediatek/proprietary/custom</name>
+	<branch>refs/heads/mtk6739-u5a-plus-4g-odm-v1.0-dint</branch>
+	<baseline>MTK6739-U5A-ODM-CUSTOM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/mediatek/proprietary/hardware/mtkcam</name>
+	<branch>refs/heads/mtk6739-u5a-plus-4g-odm-v1.0-dint</branch>
+	<baseline>MTK6739-U5A-ODM-MTKCAM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/mediatek/proprietary/hardware/audio</name>
+	<branch>refs/heads/mtk6739-u5a-plus-4g-odm-v1.0-dint</branch>
+	<baseline>MTK6739-U5A-ODM-AUDIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/mediatek/proprietary/bootable/bootloader/lk</name>
+	<branch>refs/heads/mtk6739-u5a-plus-4g-odm-v1.0-dint</branch>
+	<baseline>MTK6739-U5A-ODM-LK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/mediatek/proprietary/bootable/bootloader/preloader</name>
+	<branch>refs/heads/mtk6739-u5a-plus-4g-odm-v1.0-dint</branch>
+	<baseline>MTK6739-U5A-ODM-PRELOADER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/mediatek/libs/u5a_plus_4g_odm</name>
+	<branch>refs/heads/mtk6739-u5a-plus-4g-odm-v1.0-dint</branch>
+	<baseline>MTK6739-U5A-ODM-VENDORLIBS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/device/mediateksample/u5a_plus_4g_odm</name>
+	<branch>refs/heads/mtk6739-u5a-plus-4g-odm-v1.0-dint</branch>
+	<baseline>MTK6739-U5A-ODM-DEVICEU5A-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/kernel-4.4</name>
+	<branch>refs/heads/mtk6739-u5a-plus-4g-odm-v1.0-dint</branch>
+	<baseline>MTK6739-U5A-ODM-KERNEL-P1.0</baseline>
+</project>
+
+
+</projects>

@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>sdd3/mtk6735m/abi</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/art</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ART-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/bionic</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/bootable</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/build</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/cts</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/dalvik</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DAlVIK-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/developers</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/development</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/device</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/docs</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/aac</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/android-clat</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/ant-glob</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/antlr</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/apache-http</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/apache-harmony</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/apache-xml</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/arduino</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/bison</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/blktrace</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/bluetooth</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/bouncycastle</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/bsdiff</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/bzip2</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/ceres-solver</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/checkpolicy</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/chromium-libpac</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/chromium_org</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/chromium-trace</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/clang</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/cmockery</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/compiler-rt</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/conscrypt</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/deqp</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DEQP-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/dexmaker</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DEXMAKER-P1.0</baseline>
+</project>     
+<project>
+    <name>sdd3/mtk6735m/external/dhcpcd</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DHCPCD-P1.0</baseline>
+</project> 
+<project>
+    <name>sdd3/mtk6735m/external/dnsmasq</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DNSMASQ-P1.0</baseline>
+</project> 
+<project>
+    <name>sdd3/mtk6735m/external/doclava</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DOCLAVA-P1.0</baseline>
+</project>    
+<project>
+    <name>sdd3/mtk6735m/external/droiddriver</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/e2fsprogs</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/easymock</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/eclipse-basebuilder</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/eigen</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/elfutils</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/emma</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/esd</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/expat</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/eyes-free</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/f2fs-tools</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/fdlibm</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/fio</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-FIO-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/flac</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-FLACP1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/fonttools</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/freetype</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/fsck_msdos</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/gcc-demangle</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/genext2fs</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GENEXT2fs-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/giflib</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/glide</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GLIDE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/google-diff-match-patch</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/google-fonts</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/google-tv-pairing-protocol</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/gtest</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/guava</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/hamcrest</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/harfbuzz_ng</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-HARBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/icu</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ICU-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/iproute2</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/ipsec-tools</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/iptables</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/iputils</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/jarjar</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JARJAR-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/javasqlite</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/javassist</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/jdiff</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/jemalloc</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/jhead</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/jmdns</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/jpeg</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/jsilver</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/jsmn</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JSMN-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/jsoncpp</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JSONCPP-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/jsr305</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/junit</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/kernel-headers</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/ksoap2</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-KSOAP2-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libcap-ng</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libcxx</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBCXX-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libcxxabi</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libedit</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libexif</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBXIF-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libgsm</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBGSM-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libhevc</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/liblzf</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libmtp</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libnfc-nci</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libnfc-nxp</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libnl</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBNL-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libogg</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libopus</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libpcap</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libphonenumber</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libpng</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libselinux</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libsepol</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libunwind</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libusb</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libusb-compat</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libutf</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBUTF-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libvorbis</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libvpx</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libvterm</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libxml2</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/libyuv</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBYUV-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/linux-tools-perf</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/littlemock</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/lldb</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LLDB-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/llvm</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/lohit-fonts</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LOHIT-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/ltrace</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/lzma</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/markdown</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/mdnsresponder</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/mesa3d</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/mksh</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/mockito</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/mockwebserver</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/mp4parser</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/mtpd</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/nanohttpd</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/nanopb-c</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/naver-fonts</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/netcat</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/netperf</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/neven</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/nfacct</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NFACCT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/nist-pkits</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/nist-sip</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/noto-fonts</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NOTO-FONTS_8-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/oauth</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/objenesis</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/okhttp</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/opencv</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/openfst</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/openssl</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/oprofile</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/owasp</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-OWASP-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/pcre</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PCRE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/pdfium</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PDFIUM-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/pixman</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/ppp</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/proguard</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/protobuf</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/qemu</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/qemu-pc-bios</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/regex-re2</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/replicaisland</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/robolectric</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/safe-iop</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/scrypt</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SCRYPT-P1.0</baseline>
+</project>   
+<project>
+    <name>sdd3/mtk6735m/external/sepolicy</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SEPOLICY-P1.0</baseline>
+</project>  
+<project>
+    <name>sdd3/mtk6735m/external/sfntly</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SFNTLY-P1.0</baseline>
+</project>    
+<project>
+    <name>sdd3/mtk6735m/external/skia</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SKIA-P1.0</baseline>
+</project> 
+<project>
+    <name>sdd3/mtk6735m/external/smack</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SMACK-P1.0</baseline>
+</project> 
+<project>
+    <name>sdd3/mtk6735m/external/smali</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SMALI-P1.0</baseline>
+</project>  
+<project>
+    <name>sdd3/mtk6735m/external/sonivox</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SONIVOX-P1.0</baseline>
+</project> 
+<project>
+    <name>sdd3/mtk6735m/external/speex</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SPEEX-P1.0</baseline>
+</project>  
+<project>
+    <name>sdd3/mtk6735m/external/sqlite</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SQLITE-P1.0</baseline>
+</project> 
+<project>
+    <name>sdd3/mtk6735m/external/srec</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SREC-P1.0</baseline>
+</project>   
+<project>
+    <name>sdd3/mtk6735m/external/srtp</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SRTP-P1.0</baseline>
+</project> 
+<project>
+    <name>sdd3/mtk6735m/external/stlport</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/strace</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/stressapptest</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/svox</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SVOX-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/tagsoup</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TAGSOUP-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/tcpdump</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TCPDUMP-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/timezonepicker-support</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TIMEZONEPICKER-SUPPORT-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/tinyalsa</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/tinycompress</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/tinyxml</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/tinyxml2</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/tremolo</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TREMOLO-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/valgrind</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-VALGRIND-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/vixl</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-VIXL-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/webp</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-WEBP-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/webrtc</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-WEBRTC-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/wpa_supplicant_8</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/xmlwriter</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/xmp_toolkit</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-X86_XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/yaffs2</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/zlib</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/zopfli</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/external/zxing</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/frameworks</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/hardware</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/jrdcom-version</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-jrdcom-version-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/kernel</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/libcore</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/libnativehelper</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/md32</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MD32-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/modem</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MODEM-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/ndk</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BASICSMSRECEIVER-P1.0</baseline>
+</project>   
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Bluetooth</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BLUETOOTH-P1.0</baseline>
+</project> 
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Browser</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Calculator</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Calendar</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Camera</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CAMERA-P1.0</baseline>
+</project>   
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Camera2</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CAMERA2-KERNEL-P1.0</baseline>
+</project> 
+<project>
+    <name>sdd3/mtk6735m/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project> 
+<project>
+    <name>sdd3/mtk6735m/packages/apps/CertInstaller</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CERTINSTALLER-CLAT-P1.0</baseline>
+</project>  
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Contacts</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CONTACTS-P1.0</baseline>
+</project> 
+<project>
+    <name>sdd3/mtk6735m/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/DeskClock</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Dialer</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Email</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Exchange</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Gallery</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Gallery2</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/InCallUI</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/KeyChain</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Launcher2</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Launcher3</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/ManagedProvisioning</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Mms</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Music</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/MusicFX</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Nfc</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/OMA-DM</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-OMA-DM-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Protips</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Provision</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Settings</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/SpareParts</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Stk</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-STK-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Tag</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/Terminal</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TERMINAL-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/TvSettings</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/experimental</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/providers/MediaProvider</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/providers/TvProvider</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/screensavers/Basic</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/screensavers/WebView</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/services</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SERVICES-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/wallpapers/Basic</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/pdk</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/prebuilts</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/sdk</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/system</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/tools</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/vendor</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-VENDOR-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/mtk6735_wimdata_ng/wcustores</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/mtk6735_wimdata_ng/wlanguage</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/mtk6735_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/JrdMMITest</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+    <name>sdd3/mtk6735m/packages/apps/JrdSdcardUpgrade</name>
+    <branch>refs/heads/pixi45-ct-v1.0-dint</branch>
+    <baseline>PIXI45-CT-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+</projects>
+   

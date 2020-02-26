@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>firefox/quic/lf/b2g/mozilla-b2g/gonk-misc</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GONK-MISK-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/mozilla/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/mozilla/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/asus/deb</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DEB-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/asus/flo</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-FLO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/asus/flo-kernel</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-FLO-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/asus/grouper</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GROUPER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/asus/tilapia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TILAPIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/common</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-COMMON-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/generic/armv7-a-neon</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/generic/common</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-COMMON-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/generic/goldfish</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GOLDFISH-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/generic/mini-emulator-armv7-a-neon</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MINI-EMULATOR-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/generic/mini-emulator-mips</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MINI-EMULATOR-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/generic/mini-emulator-x86</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MINI-EMULATOR-X86-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/generic/mips</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/generic/x86</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-X86-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/google/accessory/arduino</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/google/accessory/demokit</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DEMOKIT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/lge/mako</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MAKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/lge/mako-kernel</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MAKO-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/sample</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SAMPLE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/samsung/maguro</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MAGURO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/samsung/manta</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MANTA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/samsung/toro</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TORO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/samsung/toroplus</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TOROPLUS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/samsung/tuna</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TUNA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/kernel/lk</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LK-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/abi/cpp</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CPP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/bionic</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/bootable/diskinstaller</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DISKINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/bootable/recovery</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-RECOVERY-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/build</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/aac</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/arduino</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/bison</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BISON-P1.0</baseline>
+</project>     
+<project>
+    <name>firefox/platform/external/blktrace</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BLKTRACE-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/external/bluetooth/bluedroid</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BLUEDROID-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/external/bsdiff</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BSDIFF-P1.0</baseline>
+</project>    
+<project>
+    <name>firefox/platform/external/bzip2</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/ceres-solver</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/checkpolicy</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/clang</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/compiler-rt</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/dhcpcd</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/dnsmasq</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DNSMASP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/dropbear</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/e2fsprogs</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/eigen</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/elfutils</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/embunit</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/esd</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/expat</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/fdlibm</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/flac</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/freetype</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/fsck_msdos</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/gcc-demangle</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/genext2fs</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GENEXT2fs-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/giflib</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/grub</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GRUB-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/gtest</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/harfbuzz</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/harfbuzz_ng</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/hyphenation</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/icu4c</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ICU4C-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/iproute2</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/ipsec-tools</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/iptables</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/jhead</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/jpeg</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/kernel-headers</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libcap-ng</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libffi</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libgsm</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/liblzf</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libmtp</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libnfc-nci</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libnfc-nxp</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libnl-headers</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libogg</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libpcap</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libpng</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libppp</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libselinux</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libsepol</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libusb</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libusb-compat</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libvorbis</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libvpx</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libxml2</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libxslt</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libyuv</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/linux-tools-perf</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/llvm</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/marisa-trie</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/markdown</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/mdnsresponder</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/mksh</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/mockito</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/mtpd</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/naver-fonts</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/netcat</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/netperf</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/neven</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/nist-pkits</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/noto-fonts</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/open-vcdiff</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/opencv</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/openfst</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/openssh</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/openssl</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/oprofile</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/ppp</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/protobuf</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/qemu-pc-bios</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/regex-re2</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/robolectric</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/safe-iop</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/sepolicy</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/skia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/smack</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SMACK-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/sonivox</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/speex</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/sqlite</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/srec</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/srtp</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/stlport</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/strace</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/stressapptest</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/svox</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/tcpdump</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/timezonepicker-support</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/tinyalsa</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/tinyxml</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/tinyxml2</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/tremolo</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/v8</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-V8-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/valgrind</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/webp</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/webrtc</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/wpa_supplicant_8</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/yaffs2</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/zlib</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/av</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-AV-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/base</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BASE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/compile/libbcc</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBBCC-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/firefox/platform/frameworks/compile/mclinker</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MCLINKER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/native</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NATIVE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/rs</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-RS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/webview</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/wilhelm</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-WILHELM-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/broadcom/libbt</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBBT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/broadcom/wlan</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-WLAN-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/invensense</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-INVENSENSE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/libhardware</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBHARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/libhardware_legacy</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBHARDWARE_LEGACY-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/qcom/audio</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-AUDIO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/qcom/bt</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/qcom/camera</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/qcom/display</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DISPLAY-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/qcom/keymaster</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/qcom/media</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MEDIA-P1.0</baseline>
+</project>   
+<project>
+    <name>firefox/platform/hardware/qcom/msm8960</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MSM8960-P1.0</baseline>
+</project>  
+<project>
+    <name>firefox/platform/hardware/qcom/wlan</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-WLAN-P1.0</baseline>
+</project>    
+<project>
+    <name>firefox/platform/hardware/ril</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-RIL-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/hardware/samsung_slsi/exynos5</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EXYNOS5-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/hardware/ti/omap3</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OMAP3-P1.0</baseline>
+</project>  
+<project>
+    <name>firefox/platform/hardware/ti/omap4xxx</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OMAP4XXX-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/hardware/ti/wlan</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-WLAN-P1.0</baseline>
+</project>  
+<project>
+    <name>firefox/platform/hardware/ti/wpan</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-WPAN-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/libcore</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBCORE-P1.0</baseline>
+</project>   
+<project>
+    <name>firefox/platform/libnativehelper</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBNATIVEHELPER-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/ndk</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/clang/linux-x86/3.1</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-3.1-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/devtools</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ARM-EABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ARM-EABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ARM-LINUX-ANDROIDEABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ARM-LINUX-ANDROIDEABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-I686-APPLE-DARWIN-4.2.1-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MIPSEL-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MIPSEL-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-I686-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-I686-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ARM-EABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ARM-EABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ARM-LINUX-ANDROIDEABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ARM-LINUX-ANDROIDEABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-I686-LINUX-GLIBC2.7-4.4.3-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-I686-LINUX-GLIBC2.7-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-X86_64-LINUX-GLIBC2.7-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MIPSEL-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MIPSEL-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-I686-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-I686-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/misc</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MISC-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/ndk</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/qemu-kernel</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/sdk</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/tools</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/system/core</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CORE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/system/extras</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EXTRAS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/system/media</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MEDIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/system/netd</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NETD-P1.0</baseline>
+</project>   
+<project>
+    <name>firefox/platform/system/security</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SECURITY-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/system/vold</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-VOLD-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/developers</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/kernel/preloader</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-PRELOADER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/lge/hammerhead</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-HAMMERHEAD-P1.0</baseline>
+</project>   
+<project>
+    <name>firefox/device/lge/hammerhead-kernel</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-HAMMERHEAD-KERNEL-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/device/mediatek</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MEDIATEK-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/external/android-clat</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ANDROID-CLAT-P1.0</baseline>
+</project>  
+<project>
+    <name>firefox/platform/external/android-mock</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ANDROID-MOCK-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/external/ant-glob</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/antlr</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/apache-harmony</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/apache-http</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/apache-xml</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/bouncycastle</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/chromium</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/chromium-libpac</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/chromium-trace</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/chromium_org</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CHROMIUM-ORG-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/dexmaker</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/doclava</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/droiddriver</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/easymock</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/eclipse-basebuilder</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ECLIPSE-WINDOWBULDER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/emma</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/eyes-free</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/ganymed-ssh2</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/google-diff-match-patch</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/guava</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/hamcrest</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/iputils</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/javasqlite</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/javassist</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/jdiff</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/jmdns</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/jmonkeyengine</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/jsilver</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/jsr305</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/junit</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libifaddrs</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBIFADDRS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/libphonenumber</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/littlemock</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/lzma</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/mesa3d</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/mockwebserver</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/mp4parser</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/nist-sip</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/oauth</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/objenesis</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/okhttp</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/pixman</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/proguard</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/qemu</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/replicaisland</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/scrypt</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/sfntly</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/sil-fonts</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SIL-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/smali</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/tagsoup</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/tinycompress</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/wide-dhcpv6</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-WIDE-DHCPV6-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/xmlwriter</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/xmp_toolkit</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-XMP_TOOLIT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/zxing</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/compile/slang</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SLANG-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/ex</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EX-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/ml</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ML-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/opt</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OPT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/support</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/testing</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TESTING-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/uiautomator</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-UIAUTOMATOR-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/frameworks/volley</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-VOLLEY-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/akm</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-AKM-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/mediatek</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/qcom/msm8x74</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MSM8X74-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/hardware/qcom/power</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-POWER-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/kernel-3.4</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-KERNEL-3.4-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/rilproxy</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-RILPROXY-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/sdk</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SDK-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/tools</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TOOLS-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/platform/system/mobile_toolkit</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MOBILE_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/vendor/mediatek</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/vendor/jrdcom</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JRDCOM-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/vendor/jrdcom-version</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JRDCOM-VERSION-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/eclipse</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/python</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-PYTHON-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/prebuilts/runtime</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-RUNTIME-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/ffos_wimdata_ng</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-FFOS_WIMDATA_NG-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/compare-locales</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-COMPARE-LOCALES-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/fr/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-FR-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/fr/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-FR-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/nl/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NL-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/nl/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NL-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/tr/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TR-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/tr/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TR-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/zh-CN/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CN-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/zh-CN/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CN-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/it/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-IT-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/mk/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MK-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/mk/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MK-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/bg/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BG-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/bg/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BG-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ru/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-RU-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ru/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-RU-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ca/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CA-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ca/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CA-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/es-MX/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ES-MX-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/es-MX/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ES-MX-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/cs/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CS-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/cs/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CS-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/de/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DE-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/de/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DE-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/el/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EL-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/el/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EL-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/en-US/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EN-US-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/es-ES/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ES-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/es/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ES-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/hr/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-HR-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/hr/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-HR-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/hu/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-HU-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/hu/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-HU-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/it/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-IT-GEIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/pl/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-PL-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/pl/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-PL-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/pt-BR/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-PT-BR-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/pt-BR/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-PT-BR-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ro/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-RO-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ro/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-RO-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/sk/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SK-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/sk/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SK-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/sr-Cyrl/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SR-CYRL-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/sr-Latn/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SR-LATN-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/sr/gecko</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SR-GECKO-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/modem</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MODEM-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/external/moztt</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MOZTT-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ar/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-AR-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/as/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-AS-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ast/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-AST-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/bn-BD/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BN-BD-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/bn-IN/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BN-IN-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/bs/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-BS-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/cy/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-CY-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/da/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-DA-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/eo/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EO-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/et/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ET-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/eu/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-EU-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ff/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-FF-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/fy-NL/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-FY-NL-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ga-IE/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GA-IE-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/gd/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GD-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/gl/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GL-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/gu/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GU-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/he/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-GE-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/hi-IN/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-HI-IN-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/id/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ID-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ja/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JA-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ja/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JA-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/km/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-KM-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/kn/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-KN-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ko/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-KO-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/lij/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIJ-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/lt/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LT-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/mai/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MAI-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ml/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ML-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/mr/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MR-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ms/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-MS-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/nb-NO/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NB-NO-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ne-NP/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-NE-NP-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/or/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-OR-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/pa/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-PA-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/si/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SI-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/sl/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SL-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/son/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SON-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/sq/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SQ-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/sv-SE/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SV-SE-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/sw/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-SW-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ta/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TA-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/te/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TE-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/th/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-TH-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/ur/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-UR-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/vi/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-VI-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/xh/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-XH-GAIA-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/quic/lf/b2g/releases/l10n/zh-TW/gaia</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-ZH-TW-GAIA-P1.0</baseline>
+</project> 
+<project>
+    <name>firefox/quic/lf/b2g/mozilla-b2g/librecovery</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-LIBRECOVERY-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/device/jrdhz</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-JRDHZ-P1.0</baseline>
+</project>
+<project>
+    <name>firefox/platform/vendor/jrdhz</name>
+    <branch>refs/heads/soul35-ff-fsr-dint</branch>
+    <baseline>FIREFOX-VENDOR-JRDHZ-P1.0</baseline>
+</project>
+</projects>

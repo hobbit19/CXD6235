@@ -1,0 +1,1943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6750t/abi</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/art</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ART-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/bionic</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/bootable</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/build</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/compatibility</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-COMPATIBILITY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/cts</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/dalvik</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/development</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/device</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/docs</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/aac</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/android-clat</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/android-mock</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/androidplot</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ant-glob</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/antlr</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-commons-math</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-harmony</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-http</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-xml</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/autotest</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-AUTOTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/avahi</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-AVAHI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bison</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/blktrace</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/boringssl</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bouncycastle</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bsdiff</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bzip2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/c-ares</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-C-ARES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/caliper</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CALIPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cblas</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ceres-solver</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-libpac</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-trace</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-webview</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/clang</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cmockery</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/compiler-rt</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/conscrypt</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/crcalc</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cros</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CROS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/curl</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CURL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dagger2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DAGGER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dbus</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dbus-binding-generator</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DBUS-BINDING-GENERATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/deqp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-EXTERNAL-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dexmaker</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DHCPCD-6.8.2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dlmalloc</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DLMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dng_sdk</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DNG_SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dnsmasq</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/doclava</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/donuts</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DONUTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/drm_gralloc</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/drm_hwcomposer</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/droiddriver</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/e2fsprogs</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/easymock</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eclipse-basebuilder</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eigen</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/elfutils</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/embunit</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/emma</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/esd</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/expat</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eyes-free</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/f2fs-tools</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fdlibm</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fec</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-FEC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fio</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/flac</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fonttools</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/freetype</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fsck_msdos</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gemmlowp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GEMMLOWP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/giflib</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/glide</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gmock</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-benchmark</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GOOGLE-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-breakpad</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-fonts</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gptfdisk</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gtest</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/guava</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/guice</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GUICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/hamcrest</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/harfbuzz_ng</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/hyphenation-patterns</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/icu</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iproute2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ipsec-tools</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iptables</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iputils</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iw</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-IW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jacoco</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JACOCO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jarjar</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/javasqlite</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/javassist</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jcommander</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JCOMMANDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jdiff</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jemalloc</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jetty</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JETTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jhead</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jmdns</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jmonkeyengine</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsilver</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsmn</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsoncpp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsr305</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsr330</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JSR330-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/junit</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/kernel-headers</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ksoap2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libavc</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libbrillo</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBBRILLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcap</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcap-ng</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libchrome</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBCHROME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcxx</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcxxabi</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdaemon</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBDAEMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdivsufsort</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBDIVSUFSORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdrm</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libedit</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libevent</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBEVENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libexif</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libgsm</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libhevc</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libjpeg-turbo</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBJPEG-TURBO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/liblzf</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmicrohttpd</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBMICROHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmpeg2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmtp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnfc-nci</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnfc-nxp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnl</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libogg</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libopus</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libpcap</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libphonenumber</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libpng</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libselinux</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libunwind</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libunwind_llvm</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libusb</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libusb-compat</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libutf</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvncserver</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvorbis</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvpx</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvterm</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libweave</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBWEAVE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libxml2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libyuv</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/littlemock</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lld</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LLD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lldb</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LLDB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/llvm</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ltrace</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lz4</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lzma</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/marisa-trie</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/markdown</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mdnsresponder</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mesa3d</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/messageformat</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/minijail</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MINIJAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mksh</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mmc-utils</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockftpserver</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockito</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockwebserver</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/modp_b64</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MODP_B64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mp4parser</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mtpd</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nanohttpd</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nanopb-c</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/naver-fonts</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/netcat</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/netperf</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/neven</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nfacct</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nist-pkits</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nist-sip</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/noto-fonts</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/oauth</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/objenesis</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/okhttp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/opencv</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/opencv3</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-OPENCV3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/openfst</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-OPENFST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/openssh</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/owasp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-OWASP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/parameter-framework</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/pcre</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/pdfium</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/piex</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PIEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ppp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/proguard</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/protobuf</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/regex-re2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/replicaisland</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/rmi4utils</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-RMI4UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/robolectric</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/roboto-fonts</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/rootdev</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ROOTDEV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/safe-iop</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/scrypt</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/selinux</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sfntly</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/shflags</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SHFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/skia</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sl4a</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SL4A-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/slf4j</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/smali</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/snakeyaml</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SNAKEYAML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sonic</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sonivox</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/speex</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sqlite</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/squashfs-tools</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/srtp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SRTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/strace</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/svox</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tagsoup</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tcpdump</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/testng</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TESTNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/timezonepicker-support</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyalsa</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinycompress</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyxml</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyxml2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tlsdate</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TLSDATE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/toybox</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tpm2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TPM2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tremolo</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/unicode</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-UNICODE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/v8</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/valgrind</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vboot_reference</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vixl</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vogar</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vulkan-validation-layers</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-VULKAN-VALIDATION-LAYERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/webp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/webrtc</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/wpa_supplicant_8</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmlrpcpp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-XMLRPCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmlwriter</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmp_toolkit</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zlib</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zopfli</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zxing</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/frameworks</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/hardware</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/kernel</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/libcore</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/libnativehelper</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/modem</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MODEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/ndk</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Bluetooth</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Browser2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BROWSER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Calculator</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Calendar</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Camera2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CertInstaller</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Contacts</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/DeskClock</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/DevCamera</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DEVCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Dialer</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Email</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-EMERGENCYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Gallery</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Gallery2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/KeyChain</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Launcher2</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Launcher3</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Messaging</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Music</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/MusicFX</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Nfc</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Phone</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Protips</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Provision</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Settings</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SpareParts</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Stk</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Tag</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Terminal</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Test</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-APPS-TEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/TvSettings</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BLOCKEDNUMBERPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/MediaProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/TvProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/Basic</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SCREENSAVERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/WebView</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/services</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/Basic</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-WALLPAPERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GALAXY4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/pdk</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/platform_testing</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/android-emulator</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/host</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-CLANG-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/deqp</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PREBUILTS-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/devtools</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/eclipse</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DARWIN-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DARWIN-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DARWIN-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DARWIN-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DARWIN-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LINUX-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LINUX-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LINUX-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LINUX-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LINUX-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/libs</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/maven_repo</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/misc</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/ndk</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/ninja</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-NINJA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/python</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PYTHON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/sdk</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/tools</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/sdk</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/system</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/test</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/tools</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/trusty</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TRUSTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/vendor</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-VENDOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/liv</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/wcustores</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdMMITest_N</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/providers/ChromeCustomizations</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-CHROMECUSTOMIZATIONS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/MagicLock</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-MAGICLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdContainer</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JRDCONTAINER-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdCustomizedUssd</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JRDCUSTOMIZEDUSSD-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/ScreenshotEdit</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-SCREENSHOTEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/ReliabilityTest</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-RELIBILITYTEST-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/providers/FingerprintProvider</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-FINGERPRINTPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/Arkamys</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-ARKAMYS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/developers</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/experimental</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gdb</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GDB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/go</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-GO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/toolchain</name>
+	<branch>refs/heads/elsa6t-n-v1.0-dint</branch>
+	<baseline>MTK6750T-N-ELSA6T-TOOLCHAIN-P1.0</baseline>
+</project>
+</projects>

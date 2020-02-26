@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>jrd_sdd1/packages/apps/Arkamys</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>MT6580-M-PIXI4-4-ORANGE-ARKAMYS-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/QuickTranslate</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>MT6580-M-PIXI4-4-ORANGE-QUICKTRANSLATE-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JRDPLUGGER-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SYNCMLCLIENT-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdContainer</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JRDCONTAINER-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdMMITest</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JRDMMITEST-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdCustomizedUssd</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JRDCUSTOMIZEDUSSD-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/providers/ChromeCustomizations</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CHROMECUSTOMIZATIONS-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-URLRESERVEDAPPS-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdElabel</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JRDELABEL-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdFota</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JRDFOTA-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdSdcardUpgrade</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JRDSDCARDUPGRADE-P2.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/Notes</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JRDNOTES-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Mms</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MMS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/abi</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ABI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/art</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ART-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/bionic</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BIONIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/bootable</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BOOTABLE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/RunInTest</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI-4-35-V2.0-RUNINTESET-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/build</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BUILD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/cts</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/dalvik</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DALVIK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/developers</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DEVELOPERS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/development</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DEVELOPMENT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/device</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DEVICE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/docs</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DOCS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvisidon_facebeauty</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-FACEBEAUTY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/aac</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-AAC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/android-clat</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ANDROID-CLAT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/android-mock</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ANDROID-MOCK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/androidplot</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ANDROIDPLOT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ant-glob</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ANT-GLOB-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/antlr</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ANTLR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-commons-math</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-APACHE-COMMONS-MATH-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-harmony</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-APACHE-HARMONY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-http</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-APACHE-HTTP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-xml</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-APACHE-XML-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bison</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BISON-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/blktrace</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BLKTRACE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/boringssl</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BORINGSSL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bouncycastle</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BOUNCYCASTLE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bsdiff</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BSDIFF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bzip2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BZIP2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/cblas</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CBLAS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ceres-solver</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CERES-SOLVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-libpac</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CHROMIUM-LIBPAC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-trace</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CHROMIUM-TRACE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-webview</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CHROMIUM-WEBVIEW-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/clang</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CLANG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/cmockery</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CMOCKERY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/compiler-rt</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-COMPILER-RT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/conscrypt</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CONSCRYPT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/crcalc</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CRCALC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/deqp</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DEQP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dexmaker</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DEXMAKER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dhcpcd</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DHCPCD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dnsmasq</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DNSMASQ-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/doclava</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DOCLAVA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/donuts</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DONUTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/drm_gralloc</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DRM_GRALLOC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/drm_hwcomposer</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DRM_HWCOMPOSER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/droiddriver</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DROIDDRIVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/e2fsprogs</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-E2FSPROGS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/easymock</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-EASYMOCK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eclipse-basebuilder</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ECLIPSE-BASEBUILDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ECLIPSE-WINDOWBUILDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eigen</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-EIGEN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/elfutils</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ELFUTILS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/embunit</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-EMBUNIT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/emma</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-EMMA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/esd</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ESD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/expat</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-EXPAT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eyes-free</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-EYES-FREE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/f2fs-tools</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-F2FS-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fdlibm</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-FDLIBM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fio</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-FIO-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/flac</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-FLAC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fonttools</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-FONTTOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/freetype</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-FREETYPE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fsck_msdos</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-FSCK_MSDOS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/giflib</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GIFLIB-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/glide</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GLIDE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-breakpad</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GOOGLE-BREAKPAD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GOOGLE-FONTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GOOGLE-TV-PAIRING-PROTOCOL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/gptfdisk</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GPTFDISK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/gtest</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GTEST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/guava</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GUAVA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/hamcrest</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-HAMCREST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/harfbuzz_ng</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-HARFBUZZ_NG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/hyphenation-patterns</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-HYPHENATION-PATTERNS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/icu</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ICU-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iproute2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-IPROUTE2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ipsec-tools</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-IPSEC-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iptables</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-IPTABLES-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iputils</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-IPUTILS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jack</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JACK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jarjar</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JARJAR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/javasqlite</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JAVASQLITE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/javassist</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JAVASSIST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jdiff</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JDIFF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jemalloc</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JEMALLOC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jetty</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JETTY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jhead</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JHEAD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jmdns</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JMDNS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jmonkeyengine</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JMONKEYENGINE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jpeg</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JPEG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsilver</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JSILVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsmn</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JSMN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsoncpp</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JSONCPP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsr305</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JSR305-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/junit</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-JUNIT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/kernel-headers</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-KERNEL-HEADERS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ksoap2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-KSOAP2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libavc</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBAVC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcap-ng</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBCAP-NG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcxx</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBCXX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcxxabi</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBCXXABI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libdrm</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBDRM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libedit</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBEDIT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libexif</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBEXIF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libgsm</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBGSM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libhevc</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBHEVC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/liblzf</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBLZF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libmpeg2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBMPEG2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libmtp</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBMTP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnfc-nci</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBNFC-NCI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnfc-nxp</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBNFC-NXP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnl</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBNL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libogg</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBOGG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libopus</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBOPUS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libpcap</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBPCAP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libphonenumber</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBPHONENUMBER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libpng</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBPNG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libseccomp-helper</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBSECCOMP-HELPER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libselinux</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBSELINUX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libssh2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBSSH2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libunwind</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBUNWIND-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libusb</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBUSB-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libusb-compat</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBUSB-COMPAT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libutf</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBUTF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvncserver</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBVNCSERVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvorbis</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBVORBIS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvpx</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBVPX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvterm</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBVTERM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libxml2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBXML2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libyuv</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBYUV-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/linux-tools-perf</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LINUX-TOOLS-PERF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/littlemock</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LITTLEMOCK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lld</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LLD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lldb</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LLDB-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/llvm</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LLVM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ltrace</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LTRACE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lz4</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LZ4-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lzma</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LZMA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/marisa-trie</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MARISA-TRIE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/markdown</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MARKDOWN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mdnsresponder</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MDNSRESPONDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mesa3d</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MESA3D-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/messageformat</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MESSAGEFORMAT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mksh</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MKSH-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockftpserver</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MOCKFTPSERVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockito</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MOCKITO-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockwebserver</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MOCKWEBSERVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mp4parser</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MP4PARSER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mtpd</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MTPD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nanohttpd</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NANOHTTPD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nanopb-c</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NANOPB-C-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/naver-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NAVER-FONTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/netcat</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NETCAT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/netperf</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NETPERF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/neven</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NEVEN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nfacct</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NFACCT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nist-pkits</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NIST-PKITS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nist-sip</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NIST-SIP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/noto-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NOTO-FONTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/oauth</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-OAUTH-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/objenesis</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-OBJENESIS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/okhttp</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-OKHTTP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/opencv</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-OPENCV-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/openfst</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-OPENFST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/openssh</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-OPENSSH-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/owasp</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-OWASP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/parameter-framework</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PARAMETER-FRAMEWORK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/pcre</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PCRE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/pdfium</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PDFIUM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ppp</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PPP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/proguard</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PROGUARD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/protobuf</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PROTOBUF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/regex-re2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-REGEX-RE2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/replicaisland</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-REPLICAISLAND-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/robolectric</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ROBOLECTRIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/roboto-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ROBOTO-FONTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/safe-iop</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SAFE-IOP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/scrypt</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SCRYPT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/selinux</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SELINUX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sepolicy</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SEPOLICY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sfntly</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SFNTLY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/skia</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SKIA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/slf4j</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SLF4J-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/smali</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SMALI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sonic</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SONIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sonivox</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SONIVOX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/speex</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SPEEX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sqlite</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SQLITE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/squashfs-tools</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SQUASHFS-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/srtp</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SRTP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/strace</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-STRACE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/svox</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SVOX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tagsoup</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TAGSOUP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tcpdump</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TCPDUMP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/timezonepicker-support</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TIMEZONEPICKER-SUPPORT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyalsa</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TINYALSA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinycompress</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TINYCOMPRESS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyxml</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TINYXML-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyxml2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TINYXML2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/toybox</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TOYBOX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tremolo</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TREMOLO-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/v8</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-V8-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/valgrind</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-VALGRIND-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vboot_reference</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-VBOOT_REFERENCE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vixl</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-VIXL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vogar</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-VOGAR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/webp</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-WEBP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/webrtc</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-WEBRTC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/wpa_supplicant_8</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-WPA_SUPPLICANT_8-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/xmlwriter</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-XMLWRITER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/xmp_toolkit</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-XMP_TOOLKIT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zlib</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ZLIB-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zopfli</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ZOPFLI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zxing</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ZXING-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/frameworks</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-FRAMEWORKS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/hardware</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-HARDWARE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/kernel</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-KERNEL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/libcore</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBCORE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/libnativehelper</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBNATIVEHELPER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/modem</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MODEM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/liv</name>
+	<branch>refs/heads/pixi4-4-v1.0-dint</branch>
+	<baseline>PIXI4-4-V1.0-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wcustores2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-WCUSTORES-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/pixi4-4_3g-v1.0-dint</branch>
+	<baseline>PIXI4-4-V1.0-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-WPROCEDURES-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/alps/version_babyd</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-VERSION_MTK6580-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/ndk</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NDK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BASICSMSRECEIVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Bluetooth</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BLUETOOTH-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Browser</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BROWSER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Calculator</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CALCULATOR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Calendar</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CALENDAR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Camera</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CAMERA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Camera2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CAMERA2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CARRIERCONFIG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CELLBROADCASTRECEIVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CertInstaller</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CERTINSTALLER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Contacts</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CONTACTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CONTACTSCOMMON-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/DeskClock</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DESKCLOCK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Dialer</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DIALER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Email</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-EMAIL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-EXACTCALCULATOR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Exchange</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-EXCHANGE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/FMRadio</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-FMRADIO-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Gallery</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GALLERY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Gallery2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GALLERY2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-HTMLVIEWER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/InCallUI</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-INCALLUI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/KeyChain</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-KEYCHAIN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Launcher2</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LAUNCHER2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Launcher3</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LAUNCHER3-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LEGACYCAMERA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MANAGEDPROVISIONING-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Messaging</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MESSAGING-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Music</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MUSIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/MusicFX</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MUSICFX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Nfc</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NFC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ONETIMEINITIALIZER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PACKAGEINSTALLER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Phone</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PHONE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PHONECOMMON-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Protips</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PROTIPS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Provision</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PROVISION-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-QUICKSEARCHBOX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Settings</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SETTINGS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SmartCardService</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SMARTCARDSERVICE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SOUNDRECORDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SpareParts</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SPAREPARTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SPEECHRECORDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Stk</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-STK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Tag</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TAG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Terminal</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TERMINAL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/TvSettings</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TVSETTINGS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-UNIFIEDEMAIL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/experimental</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-EXPERIMENTAL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LATINIME-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-OPENWNN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-APPLICATIONSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-BOOKMARKPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CALENDARPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CALLLOGPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-CONTACTSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DOWNLOADPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/MediaProvider</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MEDIAPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PARTNERBOOKMARKSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TELEPHONYPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/TvProvider</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TVPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-USERDICTIONARYPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/Basic</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SCREENSAVERS-BASIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PHOTOTABLE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/WebView</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-WEBVIEW-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/services</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SERVICES-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/Basic</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-WALLPAPERS-BASIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GALAXY4-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-HOLOSPIRAL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIVEPICKER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MAGICSMOKE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MUSICVISUALIZATION-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-NOISEFIELD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PHASEBEAM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/pdk</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PDK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/platform_testing</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PLATFORM_TESTING-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/android-emulator</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ANDROID-EMULATOR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DARWIN-X86-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LINUX-X86-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/devtools</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DEVTOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/eclipse</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-ECLIPSE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DARWIN-X86-AARCH64-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DARWIN-X86-ARM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DARWIN-X86-HOST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DARWIN-X86-MIPS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-DARWIN-X86-X86-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LINUX-X86-AARCH64-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LINUX-X86-ARM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LINUX-X86-HOST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LINUX-X86-MIPS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LINUX-X86-X86-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-GRADLE-PLUGIN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/libs</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-LIBS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/maven_repo</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MAVEN_REPO-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/misc</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-MISC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/ndk</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PREBUILTS-NDK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/python</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PYTHON-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-QEMU-KERNEL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/sdk</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PREBUILTS-SDK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/tools</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-PREBUILTS-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/sdk</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SDK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/system</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-SYSTEM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/tools</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/trusty</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-TRUSTY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/vendor</name>
+	<branch>refs/heads/pixi4-4_3g-orange-v2.0-dint</branch>
+	<baseline>PIXI4-4-ORANGE-VENDOR-P2.0</baseline>
+</project>
+</projects>

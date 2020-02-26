@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>jrd_sdd1/packages/apps/Arkamys</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>MT6580-M-PIXI4-4-TELUS-ARKAMYS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/QuickTranslate</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>MT6580-M-PIXI4-4-TELUS-QUICKTRANSLATE-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdContainer</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JRDCONTAINER-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdMMITest</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdCustomizedUssd</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JRDCUSTOMIZEDUSSD-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/providers/ChromeCustomizations</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CHROMECUSTOMIZATIONS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdElabel</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JRDELABEL-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdFota</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdSdcardUpgrade</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/Notes</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JRDNOTES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Mms</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/abi</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/art</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ART-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/bionic</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/bootable</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/odm/packages/apps/RunInTest</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI-4-35-V2.0-RUNINTESET-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/build</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/cts</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/dalvik</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/developers</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/development</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/device</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/docs</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvisidon_facebeauty</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-FACEBEAUTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/aac</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/android-clat</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/android-mock</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/androidplot</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ant-glob</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/antlr</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-commons-math</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-harmony</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-http</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-xml</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bison</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/blktrace</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/boringssl</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bouncycastle</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bsdiff</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bzip2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/cblas</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ceres-solver</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-libpac</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-trace</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-webview</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/clang</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/cmockery</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/compiler-rt</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/conscrypt</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/crcalc</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/deqp</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dexmaker</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dhcpcd</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dnsmasq</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/doclava</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/donuts</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DONUTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/drm_gralloc</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/drm_hwcomposer</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/droiddriver</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/e2fsprogs</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/easymock</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eclipse-basebuilder</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eigen</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/elfutils</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/embunit</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/emma</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/esd</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/expat</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eyes-free</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/f2fs-tools</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fdlibm</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fio</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/flac</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fonttools</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/freetype</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fsck_msdos</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/giflib</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/glide</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-breakpad</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/gptfdisk</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/gtest</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/guava</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/hamcrest</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/harfbuzz_ng</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/hyphenation-patterns</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/icu</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iproute2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ipsec-tools</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iptables</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iputils</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jack</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JACK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jarjar</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/javasqlite</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/javassist</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jdiff</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jemalloc</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jetty</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JETTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jhead</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jmdns</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jmonkeyengine</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jpeg</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsilver</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsmn</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsoncpp</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsr305</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/junit</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/kernel-headers</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ksoap2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libavc</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcap-ng</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcxx</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcxxabi</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libdrm</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libedit</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libexif</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libgsm</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libhevc</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/liblzf</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libmpeg2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libmtp</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnfc-nci</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnfc-nxp</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnl</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libogg</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libopus</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libpcap</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libphonenumber</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libpng</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libseccomp-helper</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBSECCOMP-HELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libselinux</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libssh2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBSSH2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libunwind</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libusb</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libusb-compat</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libutf</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvncserver</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvorbis</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvpx</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvterm</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libxml2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libyuv</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/linux-tools-perf</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/littlemock</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lld</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LLD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lldb</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LLDB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/llvm</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ltrace</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lz4</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lzma</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/marisa-trie</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/markdown</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mdnsresponder</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mesa3d</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/messageformat</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mksh</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockftpserver</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockito</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockwebserver</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mp4parser</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mtpd</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nanohttpd</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nanopb-c</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/naver-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/netcat</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/netperf</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/neven</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nfacct</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nist-pkits</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nist-sip</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/noto-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/oauth</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/objenesis</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/okhttp</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/opencv</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/openfst</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-OPENFST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/openssh</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/owasp</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-OWASP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/parameter-framework</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/pcre</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/pdfium</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ppp</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/proguard</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/protobuf</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/regex-re2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/replicaisland</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/robolectric</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/roboto-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/safe-iop</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/scrypt</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/selinux</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sepolicy</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sfntly</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/skia</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/slf4j</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/smali</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sonic</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sonivox</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/speex</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sqlite</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/squashfs-tools</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/srtp</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SRTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/strace</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/svox</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tagsoup</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tcpdump</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/timezonepicker-support</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyalsa</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinycompress</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyxml</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyxml2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/toybox</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tremolo</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/v8</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/valgrind</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vboot_reference</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vixl</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vogar</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/webp</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/webrtc</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/wpa_supplicant_8</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/xmlwriter</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/xmp_toolkit</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zlib</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zopfli</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zxing</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/frameworks</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/hardware</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/kernel</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/libcore</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/libnativehelper</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/modem</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MODEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/liv</name>
+	<branch>refs/heads/pixi4-4-v1.0-dint</branch>
+	<baseline>PIXI4-4-V1.0-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wcustores2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/pixi4-4_3g-v1.0-dint</branch>
+	<baseline>PIXI4-4-V1.0-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/alps/version_babyd</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-VERSION_MTK6580-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/ndk</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Bluetooth</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Browser</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Calculator</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Calendar</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Camera</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Camera2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CertInstaller</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Contacts</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/DeskClock</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Dialer</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Email</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Exchange</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/FMRadio</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-FMRADIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Gallery</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Gallery2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/InCallUI</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-INCALLUI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/KeyChain</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Launcher2</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Launcher3</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Messaging</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Music</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/MusicFX</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Nfc</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Phone</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Protips</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Provision</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Settings</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SmartCardService</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SpareParts</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Stk</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Tag</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Terminal</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/TvSettings</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/experimental</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/MediaProvider</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/TvProvider</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/Basic</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SCREENSAVERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/WebView</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/services</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/Basic</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-WALLPAPERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GALAXY4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/pdk</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/platform_testing</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/android-emulator</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/devtools</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/eclipse</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DARWIN-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DARWIN-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DARWIN-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DARWIN-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-DARWIN-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LINUX-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LINUX-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LINUX-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LINUX-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LINUX-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/libs</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/maven_repo</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/misc</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/ndk</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/python</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PYTHON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/sdk</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/tools</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/sdk</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/system</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/tools</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/trusty</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-TRUSTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/vendor</name>
+	<branch>refs/heads/pixi4-4_3g-Telus-v1.0-dint</branch>
+	<baseline>PIXI4-4-TELUS-VENDOR-P1.0</baseline>
+</project>
+</projects>

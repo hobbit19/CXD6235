@@ -1,0 +1,3448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>aosp/art</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ART-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/bionic</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BIONIC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/bootable/recovery</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-RECOVERY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/build/blueprint</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BLUEPRINT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/build/kati</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-KATI-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/build/make</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MAKE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/build/soong</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SOONG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/compatibility/cdd</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CDD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/cts</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/dalvik</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DALVIK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/developers/build</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BUILD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/development</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DEVELOPMENT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/amlogic/yukawa</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-YUKAWA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/amlogic/yukawa-kernel</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-YUKAWA-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/common</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DEVICE-COMMON-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/arm64</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ARM64-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ARMV7-A-NEON-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/car</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GENERIC-CAR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/common</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GENERIC-COMMON-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/goldfish</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOLDFISH-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOLDFISH-OPENGL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/lionhead</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIONHEAD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MINI-EMULATOR-ARM64-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MINI-EMULATOR-ARMV7-A-NEON-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MINI-EMULATOR-X86-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MINI-EMULATOR-X86_64-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/opengl-transport</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OPENGL-TRANSPORT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/qemu</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-QEMU-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/trusty</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TRUSTY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/uml</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-UML-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/x86</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-X86-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/x86_64</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-X86_64-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/atv</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ATV-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/contexthub</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CONTEXTHUB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/cuttlefish</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CUTTLEFISH-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/cuttlefish_common</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CUTTLEFISH_COMMON-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/cuttlefish_kernel</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CUTTLEFISH_KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/cuttlefish_vmm</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CUTTLEFISH_VMM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/vrservices</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VRSERVICES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/hikey</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HIKEY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/hikey-kernel</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HIKEY-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/poplar</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-POPLAR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/poplar-kernel</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-POPLAR-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/sample</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SAMPLE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/ti/beagle_x15</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BEAGLE_X15-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/device/ti/beagle_x15-kernel</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BEAGLE_X15-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ARMComputeLibrary</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ARMCOMPUTELIBRARY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ImageMagick</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-IMAGEMAGICK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/Microsoft-GSL</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MICROSOFT-GSL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/Reactive-Extensions/RxCpp</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-RXCPP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/aac</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-AAC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/adeb</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ADEB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/adhd</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ADHD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/android-clat</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ANDROID-CLAT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/androidplot</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ANDROIDPLOT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ant-glob</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ANT-GLOB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/antlr</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ANTLR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-commons-bcel</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APACHE-COMMONS-BCEL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-commons-compress</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APACHE-COMMONS-COMPRESS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-commons-math</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APACHE-COMMONS-MATH-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-harmony</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APACHE-HARMONY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-http</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APACHE-HTTP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-xml</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APACHE-XML-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/archive-patcher</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ARCHIVE-PATCHER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/arm-optimized-routines</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ARM-OPTIMIZED-ROUTINES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/autotest</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-AUTOTEST-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/avb</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-AVB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bcc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BCC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/blktrace</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BLKTRACE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/boringssl</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BORINGSSL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bouncycastle</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BOUNCYCASTLE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/brotli</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BROTLI-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bsdiff</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BSDIFF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bzip2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BZIP2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/caliper</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CALIPER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/capstone</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CAPSTONE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/catch2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CATCH2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cblas</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CBLAS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/chromium-libpac</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CHROMIUM-LIBPAC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/chromium-trace</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CHROMIUM-TRACE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/chromium-webview</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CHROMIUM-WEBVIEW-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/clang</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CLANG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cldr</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CLDR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cmockery</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CMOCKERY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cn-cbor</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CN-CBOR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/compiler-rt</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-COMPILER-RT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/conscrypt</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CONSCRYPT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/crcalc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CRCALC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cros/system_api</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SYSTEM_API-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/curl</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CURL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dagger2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DAGGER2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/deqp</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DEQP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/deqp-deps/SPIRV-Headers</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DEQP-DEPS-SPIRV-HEADERS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/deqp-deps/SPIRV-Tools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SPIRV-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/deqp-deps/glslang</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GLSLANG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/desugar</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DESUGAR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dexmaker</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DEXMAKER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dlmalloc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DLMALLOC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dng_sdk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DNG_SDK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dnsmasq</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DNSMASQ-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/doclava</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DOCLAVA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dokka</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DOKKA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/drm_hwcomposer</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DRM_HWCOMPOSER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/droiddriver</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DROIDDRIVER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/drrickorang</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DRRICKORANG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dtc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DTC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dynamic_depth</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DYNAMIC_DEPTH-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/e2fsprogs</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-E2FSPROGS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/easymock</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EASYMOCK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/eigen</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EIGEN-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/elfutils</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ELFUTILS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/emma</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EMMA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/epid-sdk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EPID-SDK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/error_prone</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ERROR_PRONE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/expat</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EXPAT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/f2fs-tools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-F2FS-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fdlibm</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FDLIBM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fec</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FEC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/flac</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FLAC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/flatbuffers</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FLATBUFFERS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fonttools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FONTTOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/freetype</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FREETYPE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fsck_msdos</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FSCK_MSDOS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fsverity-utils</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FSVERITY-UTILS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/gemmlowp</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GEMMLOWP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/gflags</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GFLAGS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/giflib</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GIFLIB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/glide</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GLIDE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/golang-protobuf</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOLANG-PROTOBUF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-benchmark</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-BENCHMARK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-breakpad</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-BREAKPAD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/arbutus-slab</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ARBUTUS-SLAB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/arvo</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ARVO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CARROIS-GOTHIC-SC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-COMING-SOON-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CUTIVE-MONO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DANCING-SCRIPT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/lato</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LATO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/rubik</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-RUBIK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/source-sans-pro</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SOURCE-SANS-PRO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/zilla-slab</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ZILLA-SLAB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fruit</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-FRUIT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-styleguide</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-STYLEGUIDE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/googletest</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLETEST-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/gptfdisk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GPTFDISK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/grpc-grpc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GRPC-GRPC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/grpc-grpc-java</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GRPC-GRPC-JAVA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/guava</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GUAVA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/guice</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GUICE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/hamcrest</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HAMCREST-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/harfbuzz_ng</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HARFBUZZ_NG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/honggfuzz</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HONGGFUZZ-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/hyphenation-patterns</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HYPHENATION-PATTERNS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/icu</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ICU-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/image_io</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-IMAGE_IO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ims</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EXTERNAL-IMS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iperf3</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-IPERF3-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iproute2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-IPROUTE2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ipsec-tools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-IPSEC-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iptables</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-IPTABLES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iputils</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-IPUTILS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iw</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-IW-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jacoco</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JACOCO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jarjar</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JARJAR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/javaparser</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JAVAPARSER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/javapoet</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JAVAPOET-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/javasqlite</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JAVASQLITE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jcommander</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JCOMMANDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jdiff</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JDIFF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jemalloc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JEMALLOC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jemalloc_new</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JEMALLOC_NEW-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jline</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JLINE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsilver</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JSILVER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsmn</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JSMN-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsoncpp</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JSONCPP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsr305</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JSR305-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsr330</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JSR330-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/junit</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JUNIT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/junit-params</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JUNIT-PARAMS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/kernel-headers</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-KERNEL-HEADERS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/kmod</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-KMOD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/kotlinc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-KOTLINC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ksoap2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-KSOAP2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libaom</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBAOM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libavc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBAVC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libbackup</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBBACKUP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libbrillo</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBBRILLO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcap</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBCAP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcap-ng</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBCAP-NG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libchrome</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBCHROME-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcups</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBCUPS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcxx</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBCXX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcxxabi</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBCXXABI-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libdaemon</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBDAEMON-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libdivsufsort</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBDIVSUFSORT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libdrm</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBDRM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libese</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBESE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libevent</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBEVENT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libexif</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBEXIF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libffi</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBFFI-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libgsm</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBGSM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libhevc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBHEVC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libjpeg-turbo</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBJPEG-TURBO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libkmsxx</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBKMSXX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libldac</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBLDAC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libmpeg2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBMPEG2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libmtp</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBMTP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBNETFILTER_CONNTRACK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libnfnetlink</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBNFNETLINK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libnl</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBNL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libogg</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBOGG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libopus</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBOPUS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libpcap</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBPCAP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libphonenumber</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBPHONENUMBER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libpng</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBPNG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libprotobuf-mutator</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBPROTOBUF-MUTATOR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libtextclassifier</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBTEXTCLASSIFIER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libunwind</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBUNWIND-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libunwind_llvm</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBUNWIND_LLVM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libusb</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBUSB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libusb-compat</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBUSB-COMPAT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libutf</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBUTF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libvpx</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBVPX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libvterm</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBVTERM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libxaac</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBXAAC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libxcam</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBXCAM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libxkbcommon</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBXKBCOMMON-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libxml2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBXML2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libyuv</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBYUV-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/linux-kselftest</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LINUX-KSELFTEST-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/llvm</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LLVM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lmfit</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LMFIT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ltp</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LTP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lua</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LUA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lz4</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LZ4-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lzma</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LZMA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/markdown</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MARKDOWN-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mdnsresponder</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MDNSRESPONDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mesa3d</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MESA3D-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/minigbm</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MINIGBM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/minijail</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MINIJAIL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mksh</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MKSH-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mockftpserver</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MOCKFTPSERVER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mockito</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MOCKITO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mockwebserver</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MOCKWEBSERVER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/modp_b64</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MODP_B64-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mp4parser</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MP4PARSER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mtpd</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MTPD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nanohttpd</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NANOHTTPD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nanopb-c</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NANOPB-C-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/naver-fonts</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NAVER-FONTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/neon_2_sse</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NEON_2_SSE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/neven</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NEVEN-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/newfs_msdos</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NEWFS_MSDOS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nfacct</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NFACCT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nist-pkits</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NIST-PKITS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nist-sip</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NIST-SIP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/noto-fonts</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NOTO-FONTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/oauth</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OAUTH-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/objenesis</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OBJENESIS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/oj-libjdwp</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OJ-LIBJDWP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/okhttp</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OKHTTP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/one-true-awk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ONE-TRUE-AWK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/opencensus-java</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OPENCENSUS-JAVA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/openssh</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OPENSSH-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/owasp/sanitizer</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SANITIZER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/parameter-framework</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PARAMETER-FRAMEWORK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/pcre</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PCRE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/pdfium</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PDFIUM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/perf_data_converter</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PERF_DATA_CONVERTER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/perfetto</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PERFETTO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/piex</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PIEX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ply</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EXTERNAL-PLY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ppp</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PPP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/proguard</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PROGUARD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/protobuf</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EXTERNAL-PROTOBUF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/protobuf-javalite</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PROTOBUF-JAVALITE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/puffin</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PUFFIN-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/Pillow</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PILLOW-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/apitools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APITOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/appdirs</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APPDIRS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/asn1crypto</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ASN1CRYPTO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/atomicwrites</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ATOMICWRITES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/attrs</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ATTRS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/cachetools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CACHETOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/cffi</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CFFI-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/cpython2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CPYTHON2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/cpython3</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CPYTHON3-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/cryptography</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CRYPTOGRAPHY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/dateutil</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DATEUTIL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/dill</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DILL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/enum</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ENUM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/enum34</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ENUM34-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/funcsigs</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FUNCSIGS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/future</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FUTURE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/futures</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FUTURES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/gapic-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GAPIC-GOOGLE-CLOUD-PUBSUB-V1-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-api-python-client</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-API-PYTHON-CLIENT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-auth</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-AUTH-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-auth-httplib2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-AUTH-HTTPLIB2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-cloud-core</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-CLOUD-CORE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-cloud-pubsub</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-CLOUD-PUBSUB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/google-gax</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-GAX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/googleapis</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLEAPIS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/grpc-google-iam-v1</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GRPC-GOOGLE-IAM-V1-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/grpcio</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GRPCIO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/httplib2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HTTPLIB2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/matplotlib</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MATPLOTLIB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/mock</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MOCK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/more-itertools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MORE-ITERTOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/numpy</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NUMPY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/oauth2client</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OAUTH2CLIENT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/olefile</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OLEFILE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/packaging</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PACKAGING-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/parse</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PARSE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/pluggy</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PLUGGY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/ply</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PYTHON-PLY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/proto-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PROTO-GOOGLE-CLOUD-PUBSUB-V1-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/protobuf</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PYTHON-PROTOBUF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/py</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/pyasn1</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PYASN1-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/pyasn1-modules</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PYASN1-MODULES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/pycparser</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PYCPARSER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/pyopenssl</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PYOPENSSL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/pyparsing</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PYPARSING-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/pytest</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PYTEST-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/requests</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-REQUESTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/rsa</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-RSA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/scipy</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SCIPY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/setuptools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SETUPTOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/six</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SIX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/uritemplates</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-URITEMPLATES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/rapidjson</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-RAPIDJSON-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/rappor</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-RAPPOR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/replicaisland</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-REPLICAISLAND-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/rmi4utils</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-RMI4UTILS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/robolectric</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ROBOLECTRIC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/robolectric-shadows</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ROBOLECTRIC-SHADOWS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/roboto-fonts</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ROBOTO-FONTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/rootdev</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ROOTDEV-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/scapy</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SCAPY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/scrypt</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SCRYPT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/seccomp-tests</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SECCOMP-TESTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/selinux</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SELINUX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/setupcompat</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SETUPCOMPAT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/setupdesign</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SETUPDESIGN-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sfntly</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SFNTLY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/shaderc/spirv-headers</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SHADERC-SPIRV-HEADERS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/shflags</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SHFLAGS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/skia</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SKIA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sl4a</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SL4A-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/slf4j</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SLF4J-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/smali</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SMALI-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/snakeyaml</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SNAKEYAML-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sonic</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SONIC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sonivox</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SONIVOX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/speex</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SPEEX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/spirv-llvm</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SPIRV-LLVM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sqlite</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SQLITE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/squashfs-tools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SQUASHFS-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/strace</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-STRACE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/stressapptest</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-STRESSAPPTEST-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/subsampling-scale-image-view</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SUBSAMPLING-SCALE-IMAGE-VIEW-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/swiftshader</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SWIFTSHADER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/syzkaller</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SYZKALLER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tagsoup</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TAGSOUP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tcpdump</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TCPDUMP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tensorflow</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TENSORFLOW-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/testng</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TESTNG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinyalsa</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TINYALSA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinycompress</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TINYCOMPRESS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinyxml</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TINYXML-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinyxml2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TINYXML2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/toybox</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TOYBOX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tremolo</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TREMOLO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/turbine</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TURBINE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/u-boot</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-U-BOOT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ukey2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-UKEY2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/unicode</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-UNICODE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/v4l2_codec2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-V4L2_CODEC2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/v8</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-V8-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vboot_reference</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VBOOT_REFERENCE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/virglrenderer</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VIRGLRENDERER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vixl</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VIXL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vogar</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VOGAR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/volley</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VOLLEY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vulkan-headers</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VULKAN-HEADERS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vulkan-validation-layers</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VULKAN-VALIDATION-LAYERS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/walt</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WALT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/wayland</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WAYLAND-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/wayland-protocols</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WAYLAND-PROTOCOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/webp</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WEBP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/webrtc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WEBRTC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/wpa_supplicant_8</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WPA_SUPPLICANT_8-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/wycheproof</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WYCHEPROOF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/xmp_toolkit</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-XMP_TOOLKIT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/xz-embedded</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-XZ-EMBEDDED-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/xz-java</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-XZ-JAVA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/yapf</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-YAPF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/zlib</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ZLIB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/zopfli</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ZOPFLI-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/external/zxing</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ZXING-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/av</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FRAMEWORKS-AV-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/base</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BASE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/compile/libbcc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBBCC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/compile/mclinker</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MCLINKER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/compile/slang</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SLANG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/ex</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HARDWARE-INTERFACES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/layoutlib</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LAYOUTLIB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/minikin</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MINIKIN-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/ml</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ML-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/multidex</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MULTIDEX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/native</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NATIVE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/bitmap</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BITMAP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/calendar</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OPT-CALENDAR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/car/services</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SERVICES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/car/setupwizard</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CAR-SETUPWIZARD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/chips</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CHIPS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-COLORPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DATETIMEPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ETHERNET-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/ike</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-IKE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/ims</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NET-IMS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/voip</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VOIP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WIFI-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PHOTOVIEWER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OPT-SETUPWIZARD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/telephony</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OPT-TELEPHONY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TIMEZONEPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/vcard</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VCARD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/rs</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-RS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/wilhelm</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WILHELM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/broadcom/libbt</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBBT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/broadcom/wlan</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BROADCOM-WLAN-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/google/apf</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/google/av</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-AV-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/google/easel</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EASEL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/google/interfaces</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE-INTERFACES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/interfaces</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HARDWARE-INTERFACES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/invensense</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-INVENSENSE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/libhardware</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBHARDWARE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/libhardware_legacy</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBHARDWARE_LEGACY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/nxp/nfc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NXP-NFC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/nxp/secure_element</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NXP-SECURE_ELEMENT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/audio</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-AUDIO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BOOTCTRL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/bt</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-QCOM-BT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/camera</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CAMERA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/data/ipacfg-mgr</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-IPACFG-MGR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/display</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DISPLAY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/gps</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GPS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/keymaster</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-QCOM-KEYMASTER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/media</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-QCOM-MEDIA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8960</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MSM8960-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8994</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MSM8994-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8996</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MSM8996-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8998</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MSM8998-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8x26</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MSM8X26-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8x27</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MSM8X27-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8x84</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MSM8X84-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/power</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-POWER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/wlan</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-QCOM-WLAN-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/ril</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-RIL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/st/nfc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ST-NFC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/st/secure_element</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ST-SECURE_ELEMENT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/ti/am57x</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-AM57X-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/kernel/configs</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CONFIGS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/kernel/tests</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TESTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/libcore</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBCORE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/libnativehelper</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBNATIVEHELPER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BASICSMSRECEIVER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Bluetooth</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BLUETOOTH-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Browser2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BROWSER2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Calendar</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APPS-CALENDAR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Camera2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CAMERA2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CAR-DIALER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HVAC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CAR-LATINIME-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Launcher</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LAUNCHER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LENSPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/LinkViewer</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LINKVIEWER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LOCALMEDIAPLAYER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Media</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CAR-MEDIA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MESSENGER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Notification</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NOTIFICATION-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Overview</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-OVERVIEW-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Radio</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-RADIO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Settings</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CAR-SETTINGS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Stream</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-STREAM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SYSTEMUPDATER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/externallibs</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EXTERNALLIBS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/libs</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CARRIERCONFIG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CELLBROADCASTRECEIVER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/CertInstaller</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CERTINSTALLER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Contacts</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CONTACTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/DeskClock</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DESKCLOCK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/DevCamera</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DEVCAMERA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Dialer</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APPS-DIALER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DOCUMENTSUI-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Email</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EMAIL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EMERGENCYINFO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Gallery</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GALLERY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Gallery2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GALLERY2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HTMLVIEWER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/KeyChain</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-KEYCHAIN-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Launcher3</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LAUNCHER3-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LEGACYCAMERA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MANAGEDPROVISIONING-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Messaging</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MESSAGING-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Music</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MUSIC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/MusicFX</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MUSICFX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Nfc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APPS-NFC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ONETIMEINITIALIZER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/PermissionController</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PERMISSIONCONTROLLER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PHONECOMMON-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Protips</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PROTIPS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Provision</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PROVISION-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-QUICKSEARCHBOX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SAFETYREGULATORYINFO-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SampleLocationAttribution</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SAMPLELOCATIONATTRIBUTION-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SecureElement</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SECUREELEMENT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Settings</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APPS-SETTINGS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SettingsIntelligence</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SETTINGSINTELLIGENCE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SOUNDRECORDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SpareParts</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SPAREPARTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Stk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-STK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/StorageManager</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-STORAGEMANAGER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TV</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TV-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Tag</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TAG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Terminal</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TERMINAL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TEST-CONNECTIVITY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/ThemePicker</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-THEMEPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TIMEZONEDATA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TIMEZONEUPDATER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Traceur</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TRACEUR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TvSettings</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TVSETTINGS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-UNIFIEDEMAIL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WALLPAPERPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/WallpaperPicker2</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WALLPAPERPICKER2-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-INPUTMETHODS-LATINIME-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/modules/ModuleMetadata</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MODULEMETADATA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APPLICATIONSPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BLOCKEDNUMBERPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BOOKMARKPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CALENDARPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CALLLOGPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CONTACTSPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DOWNLOADPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/MediaProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MEDIAPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PARTNERBOOKMARKSPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TELEPHONYPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/TvProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TVPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-USERDICTIONARYPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/screensavers/Basic</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BASIC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PHOTOTABLE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/AlternativeNetworkAccess</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ALTERNATIVENETWORKACCESS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BUILTINPRINTSERVICE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Car</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SERVICES-CAR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Mms</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MMS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Telecomm</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TELECOMM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Telephony</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SERVICES-TELEPHONY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIVEPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/pdk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PDK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/platform_testing</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PLATFORM_TESTING-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ABI-DUMPS-NDK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ABI-DUMPS-VNDK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/android-emulator</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ANDROID-EMULATOR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/asuite</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PREBUILTS-ASUITE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/build-tools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BUILD-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/bundletool</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BUNDLETOOL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/checkcolor</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CHECKCOLOR-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/checkstyle</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CHECKSTYLE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/clang-tools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CLANG-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/clang/host/darwin-x86</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HOST-DARWIN-X86-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HOST-LINUX-X86-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/devtools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DEVTOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/fuchsia_sdk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FUCHSIA_SDK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-AARCH64-AARCH64-LINUX-ANDROID-4.9-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ARM-ARM-LINUX-ANDROIDEABI-4.9-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-I686-APPLE-DARWIN-4.2.1-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MIPS-MIPS64EL-LINUX-ANDROID-4.9-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-X86-X86_64-LINUX-ANDROID-4.9-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-AARCH64-AARCH64-LINUX-ANDROID-4.9-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ARM-ARM-LINUX-ANDROIDEABI-4.9-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-X86_64-LINUX-GLIBC2.17-4.8-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-X86_64-W64-MINGW32-4.8-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MIPS-MIPS64EL-LINUX-ANDROID-4.9-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-X86-X86_64-LINUX-ANDROID-4.9-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gdb/darwin-x86</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GDB-DARWIN-X86-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GDB-LINUX-X86-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/go/darwin-x86</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GO-DARWIN-X86-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GO-LINUX-X86-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GRADLE-PLUGIN-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JDK8-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/jdk/jdk9</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-JDK9-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/manifest-merger</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MANIFEST-MERGER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ANDROID-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BUMPTECH-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/misc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MISC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/ndk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PREBUILTS-NDK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/python/darwin-x86/2.7.5</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DARWIN-X86-2.7.5-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LINUX-X86-2.7.5-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-QEMU-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/r8</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-R8-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/sdk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PREBUILTS-SDK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/tools</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/vndk/v27</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-V27-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/vndk/v28</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-V28-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/sdk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SDK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/apex</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APEX-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/ashmemd</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ASHMEMD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/bpf</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BPF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/bpfprogs</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BPFPROGS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/bt</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SYSTEM-BT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/ca-certificates</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CA-CERTIFICATES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/chre</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CHRE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/connectivity/wificond</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WIFICOND-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/connectivity/wifilogd</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-WIFILOGD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/core</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SYSTEM-CORE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/extras</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-EXTRAS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/gatekeeper</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GATEKEEPER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/gsid</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GSID-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/hardware/interfaces</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HARDWARE-INTERFACES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/hwservicemanager</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HWSERVICEMANAGER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/iorap</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-IORAP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/keymaster</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SYSTEM-KEYMASTER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libfmq</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBFMQ-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libhidl</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBHIDL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libhwbinder</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBHWBINDER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libsysprop</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBSYSPROP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libufdt</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBUFDT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libvintf</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LIBVINTF-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/linkerconfig</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LINKERCONFIG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/media</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SYSTEM-MEDIA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/netd</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NETD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/nfc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SYSTEM-NFC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/nvram</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NVRAM-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/security</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SYSTEM-SECURITY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/sepolicy</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SEPOLICY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/server_configurable_flags</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SERVER_CONFIGURABLE_FLAGS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/testing/gtest_extras</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GTEST_EXTRAS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/timezone</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TIMEZONE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/tools/aidl</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-AIDL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/tools/hidl</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HIDL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/tools/sysprop</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SYSPROP-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/tools/xsdc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-XSDC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/ucontainer</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-UCONTAINER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/update_engine</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-UPDATE_ENGINE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/system/vold</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VOLD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/framework</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FRAMEWORK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/mlts/benchmark</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-BENCHMARK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/mlts/models</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-MODELS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/sts</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-STS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/suite_harness</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-SUITE_HARNESS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vti/alert</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ALERT-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vti/dashboard</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DASHBOARD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vti/fuzz_test_serving</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FUZZ_TEST_SERVING-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vti/test_serving</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TEST_SERVING-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-FUZZ-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/hal</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HAL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-HAL-TRACE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/kernel</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/nbu</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NBU-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/performance</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PERFORMANCE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/security</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VTS-TESTCASE-SECURITY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/vndk</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-VTS-TESTCASE-VNDK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/toolchain/pgo-profiles</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PGO-PROFILES-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/acloud</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ACLOUD-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/apksig</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APKSIG-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/apkzlib</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-APKZLIB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/asuite</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TOOLS-ASUITE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/currysrc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CURRYSRC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/dexter</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-DEXTER-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/loganalysis</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-LOGANALYSIS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/metalava</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-METALAVA-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/ndkports</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-NDKPORTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/repohooks</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-REPOHOOKS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/security</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TOOLS-SECURITY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/test/connectivity</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TEST-CONNECTIVITY-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/test/graphicsbenchmark</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GRAPHICSBENCHMARK-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/tradefederation/contrib</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-CONTRIB-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/tradefederation/core</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TRADEFEDERATION-CORE-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/trebuchet</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-TREBUCHET-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/vendor/google_prebuilts/arc</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-ARC-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/vendor/google_vts</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-GOOGLE_VTS-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/vendor/partner_gms</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>AOSP-Q-TCTROM-PARTNER_GMS-P3.0</baseline>
+</project>
+</projects>

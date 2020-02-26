@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6753/dalvik</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/trusty</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TRUSTY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdMMITest</name>
+        <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+        <baseline>MICKEY6T-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/ReliabilityTest</name>
+        <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+        <baseline>MICKEY6T-RELIABLITYTEST-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/providers/FingerprintProvider</name>
+        <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+        <baseline>MICKEY6T-FINGERPRINTPROVIDER-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdScreenShot</name>
+        <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+        <baseline>MICKEY6T-SCREEDNSHOT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/build</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/libcore</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/arkamys</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ARKAMYS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/dolby</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DOLBY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/jrdchz</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JRDCHZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/mediatek</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/device</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/system</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/ndk</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/abi</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/hardware</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/bionic</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/cts</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/frameworks</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/development</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/sdk</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/kernel</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/modem/LWTG</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LWTG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/modem/C2K</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-C2K-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/art</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ART-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/libnativehelper</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/pdk</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/bootable</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/experimental</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/MediaProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/TvProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/CertInstaller</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Music</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Calculator</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Contacts</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Gallery</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/SpareParts</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/KeyChain</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Protips</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Tag</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Stk</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-STK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Nfc</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Launcher2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/MusicFX</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Provision</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Email</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Calendar</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Settings</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Bluetooth</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/DeskClock</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/screensavers/Basic</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/screensavers/WebView</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Gallery2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Dialer</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Camera2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Launcher3</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/TvSettings</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/ManagedProvisioning</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Terminal</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TERMINAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/BlockedNumberProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BLOCKEDNUMBERPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Test</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Browser2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BROWSER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/DevCamera</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DEVCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/EmergencyInfo</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-EMERGENCYINFO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/services</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SERVICES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/CarrierConfig</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/ExactCalculator</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Messaging</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MESSAGING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/BookmarkProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/CallLogProvider</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/platform_testing</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/android-emulator</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/devtools</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/eclipse</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gradle-plugin</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/libs</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/maven_repo</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/misc</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MISC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/ndk</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/python</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PYTHON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/qemu-kernel</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/sdk</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/tools</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/clang/darwin-x86</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/clang/linux-x86</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/aarch64</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-AARCH64-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/arm</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ARM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/host</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-HOST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/mips</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/x86</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/aarch64</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-AARCH64-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/arm</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ARM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/host</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-HOST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/mips</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/x86</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/go</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gdb</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GDB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/clang</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/deqp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DEQP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/ninja</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NINJA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/toolchain</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TOOLCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/tools</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/developers</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/docs</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-commons-math</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/boringssl</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/cblas</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CBLAS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/chromium-webview</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/crcalc</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CRCALC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/drm_gralloc</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/drm_hwcomposer</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-breakpad</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gptfdisk</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/hyphenation-patterns</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libavc</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBAVC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libdrm</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBDRM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libmpeg2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvncserver</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/lz4</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LZ4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mockftpserver</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/parameter-framework</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/selinux</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/slf4j</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SLF4J-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sonic</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/squashfs-tools</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/toybox</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TOYBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vboot_reference</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vogar</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-VOGAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/v8</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-V8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/androidplot</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jetty</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JETTY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/messageformat</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/roboto-fonts</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/aac</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jhead</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/svox</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/proguard</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jdiff</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-http</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tremolo</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/strace</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/webp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mtpd</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/skia</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bouncycastle</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libyuv</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libpng</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/clang</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-xml</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/liblzf</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/guava</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dnsmasq</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ipsec-tools</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/netcat</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/blktrace</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/antlr</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/neven</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsr305</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ppp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libpcap</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libphonenumber</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/junit</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/wpa_supplicant_8</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/opencv</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsilver</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/llvm</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/zlib</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/speex</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/srtp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mksh</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eyes-free</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nist-sip</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/safe-iop</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/kernel-headers</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mesa3d</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bzip2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libgsm</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iproute2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libxml2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/oauth</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bison</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/webrtc</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/protobuf</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/emma</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-harmony</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvpx</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gtest</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinyxml</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/expat</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/doclava</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/netperf</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sqlite</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fdlibm</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tcpdump</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/freetype</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bsdiff</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/giflib</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libnfc-nxp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinyalsa</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tagsoup</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sonivox</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/flac</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/markdown</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/javassist</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iptables</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/e2fsprogs</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mockwebserver</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/easymock</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/esd</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/javasqlite</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/elfutils</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fsck_msdos</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/valgrind</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/xmlwriter</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/replicaisland</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/chromium-trace</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/compiler-rt</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dexmaker</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eclipse-basebuilder</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jmdns</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libmtp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libselinux</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libunwind</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libusb</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libusb-compat</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/littlemock</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mdnsresponder</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/hamcrest</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/regex-re2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/smali</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/zxing</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ant-glob</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libnfc-nci</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libogg</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvorbis</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mp4parser</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/naver-fonts</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/okhttp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinyxml2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcap-ng</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/xmp_toolkit</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eigen</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/harfbuzz_ng</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/lzma</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/robolectric</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/droiddriver</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/android-clat</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/owasp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-OWASP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nanopb-c</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/timezonepicker-support</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libexif</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsoncpp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JSONCPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/scrypt</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ceres-solver</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/noto-fonts</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/icu</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ICU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/zopfli</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/glide</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GLIDE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nfacct</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NFACCT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcxx</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBCXX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/f2fs-tools</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libutf</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBUTF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcxxabi</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsmn</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JSMN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iputils</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libedit</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libhevc</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ksoap2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-KSOAP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nanohttpd</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vixl</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-VIXL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libopus</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/pdfium</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PDFIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jemalloc</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sfntly</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/cmockery</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fonttools</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libnl</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBNL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/chromium-libpac</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ltrace</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-tv-pairing-protocol</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/deqp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DEQP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinycompress</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/objenesis</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mockito</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jarjar</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JARJAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/conscrypt</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-fonts</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fio</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-FIO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nist-pkits</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvterm</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/pcre</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PCRE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/autotest</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-AUTOTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iw</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-IW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/unicode</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-UNICODE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dbus</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DBUS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dbus-binding-generator</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DBUS-BINDING-GENERATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/rootdev</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-ROOTDEV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jcommander</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JCOMMANDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/rmi4utils</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-RMI4UTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-benchmark</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GOOGLE-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tlsdate</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TLSDATE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libbrillo</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBBRILLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/snakeyaml</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SNAKEYAML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/caliper</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CALIPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsr330</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JSR330-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/testng</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TESTNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/modp_b64</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MODP_B64-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libdaemon</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBDAEMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/piex</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-PIEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mmc-utils</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcap</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/curl</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CURL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libjpeg-turbo</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBJPEG-TURBO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/guice</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GUICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gemmlowp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GEMMLOWP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/opencv3</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-OPENCV3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dlmalloc</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DLMALLOC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sl4a</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SL4A-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gmock</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vulkan-validation-layers</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-VULKAN-VALIDATION-LAYERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libweave</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBWEAVE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libdivsufsort</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBDIVSUFSORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libevent</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBEVENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dagger2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DAGGER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/xmlrpcpp</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-XMLRPCPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/c-ares</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-C-ARES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jacoco</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JACOCO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libunwind_llvm</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dng_sdk</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DNG_SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libmicrohttpd</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBMICROHTTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/minijail</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MINIJAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fec</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-FEC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/avahi</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-AVAHI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dhcpcd-6.8.2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-DHCPCD-6.8.2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/shflags</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SHFLAGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tpm2</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-TPM2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/cros</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-CROS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libchrome</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-LIBCHROME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/mtk6737_53_wimdata_ng/wcustores</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/mtk6737_53_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/jrdcom</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-JRDCOM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/makeperso</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-MAKEPERSO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/google</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-GOOGLE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/SmartCardService</name>
+    <branch>refs/heads/simba6l-gapp-v0.1-temp</branch>
+    <baseline>MICKEY6T-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+</projects>

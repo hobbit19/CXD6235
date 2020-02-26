@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6750t/abi</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ABI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/art</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ART-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/bionic</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BIONIC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/bootable</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BOOTABLE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/build</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BUILD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/compatibility</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-COMPATIBILITY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/cts</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/dalvik</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DALVIK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/development</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DEVELOPMENT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/device</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DEVICE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/docs</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DOCS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/aac</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-AAC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/android-clat</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ANDROID-CLAT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/android-mock</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ANDROID-MOCK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/androidplot</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ANDROIDPLOT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ant-glob</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ANT-GLOB-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/antlr</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ANTLR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-commons-math</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-APACHE-COMMONS-MATH-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-harmony</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-APACHE-HARMONY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-http</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-APACHE-HTTP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-xml</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-APACHE-XML-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/autotest</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-AUTOTEST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/avahi</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-AVAHI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bison</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BISON-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/blktrace</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BLKTRACE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/boringssl</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BORINGSSL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bouncycastle</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BOUNCYCASTLE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bsdiff</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BSDIFF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bzip2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BZIP2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/c-ares</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-C-ARES-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/caliper</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CALIPER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cblas</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CBLAS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ceres-solver</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CERES-SOLVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-libpac</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CHROMIUM-LIBPAC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-trace</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CHROMIUM-TRACE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-webview</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CHROMIUM-WEBVIEW-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/clang</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CLANG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cmockery</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CMOCKERY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/compiler-rt</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-COMPILER-RT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/conscrypt</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CONSCRYPT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/crcalc</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CRCALC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cros</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CROS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/curl</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CURL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dagger2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DAGGER2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dbus</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DBUS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dbus-binding-generator</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DBUS-BINDING-GENERATOR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/deqp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-EXTERNAL-DEQP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dexmaker</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DEXMAKER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DHCPCD-6.8.2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dlmalloc</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DLMALLOC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dng_sdk</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DNG_SDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dnsmasq</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DNSMASQ-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/doclava</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DOCLAVA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/donuts</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DONUTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/drm_gralloc</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DRM_GRALLOC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/drm_hwcomposer</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DRM_HWCOMPOSER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/droiddriver</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DROIDDRIVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/e2fsprogs</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-E2FSPROGS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/easymock</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-EASYMOCK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eclipse-basebuilder</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ECLIPSE-BASEBUILDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ECLIPSE-WINDOWBUILDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eigen</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-EIGEN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/elfutils</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ELFUTILS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/embunit</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-EMBUNIT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/emma</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-EMMA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/esd</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ESD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/expat</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-EXPAT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eyes-free</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-EYES-FREE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/f2fs-tools</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-F2FS-TOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fdlibm</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-FDLIBM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fec</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-FEC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fio</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-FIO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/flac</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-FLAC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fonttools</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-FONTTOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/freetype</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-FREETYPE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fsck_msdos</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-FSCK_MSDOS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gemmlowp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GEMMLOWP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/giflib</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GIFLIB-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/glide</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GLIDE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gmock</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GMOCK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-benchmark</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GOOGLE-BENCHMARK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-breakpad</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GOOGLE-BREAKPAD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-fonts</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GOOGLE-FONTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GOOGLE-TV-PAIRING-PROTOCOL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gptfdisk</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GPTFDISK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gtest</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GTEST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/guava</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GUAVA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/guice</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GUICE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/hamcrest</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-HAMCREST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/harfbuzz_ng</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-HARFBUZZ_NG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/hyphenation-patterns</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-HYPHENATION-PATTERNS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/icu</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ICU-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iproute2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-IPROUTE2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ipsec-tools</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-IPSEC-TOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iptables</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-IPTABLES-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iputils</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-IPUTILS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iw</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-IW-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jacoco</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JACOCO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jarjar</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JARJAR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/javasqlite</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JAVASQLITE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/javassist</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JAVASSIST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jcommander</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JCOMMANDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jdiff</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JDIFF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jemalloc</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JEMALLOC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jetty</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JETTY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jhead</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JHEAD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jmdns</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JMDNS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jmonkeyengine</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JMONKEYENGINE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsilver</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JSILVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsmn</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JSMN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsoncpp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JSONCPP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsr305</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JSR305-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsr330</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JSR330-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/junit</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-JUNIT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/kernel-headers</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-KERNEL-HEADERS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ksoap2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-KSOAP2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libavc</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBAVC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libbrillo</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBBRILLO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcap</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBCAP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcap-ng</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBCAP-NG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libchrome</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBCHROME-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcxx</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBCXX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcxxabi</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBCXXABI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdaemon</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBDAEMON-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdivsufsort</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBDIVSUFSORT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdrm</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBDRM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libedit</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBEDIT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libevent</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBEVENT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libexif</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBEXIF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libgsm</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBGSM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libhevc</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBHEVC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libjpeg-turbo</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBJPEG-TURBO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/liblzf</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBLZF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmicrohttpd</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBMICROHTTPD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmpeg2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBMPEG2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmtp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBMTP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnfc-nci</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBNFC-NCI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnfc-nxp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBNFC-NXP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnl</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBNL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libogg</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBOGG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libopus</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBOPUS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libpcap</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBPCAP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libphonenumber</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBPHONENUMBER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libpng</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBPNG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libselinux</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBSELINUX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libunwind</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBUNWIND-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libunwind_llvm</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBUNWIND_LLVM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libusb</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBUSB-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libusb-compat</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBUSB-COMPAT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libutf</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBUTF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvncserver</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBVNCSERVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvorbis</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBVORBIS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvpx</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBVPX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvterm</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBVTERM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libweave</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBWEAVE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libxml2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBXML2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libyuv</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBYUV-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/littlemock</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LITTLEMOCK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lld</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LLD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lldb</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LLDB-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/llvm</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LLVM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ltrace</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LTRACE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lz4</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LZ4-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lzma</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LZMA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/marisa-trie</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MARISA-TRIE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/markdown</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MARKDOWN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mdnsresponder</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MDNSRESPONDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mesa3d</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MESA3D-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/messageformat</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MESSAGEFORMAT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/minijail</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MINIJAIL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mksh</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MKSH-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mmc-utils</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MMC-UTILS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockftpserver</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MOCKFTPSERVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockito</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MOCKITO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockwebserver</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MOCKWEBSERVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/modp_b64</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MODP_B64-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mp4parser</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MP4PARSER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mtpd</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MTPD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nanohttpd</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NANOHTTPD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nanopb-c</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NANOPB-C-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/naver-fonts</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NAVER-FONTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/netcat</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NETCAT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/netperf</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NETPERF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/neven</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NEVEN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nfacct</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NFACCT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nist-pkits</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NIST-PKITS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nist-sip</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NIST-SIP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/noto-fonts</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NOTO-FONTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/oauth</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-OAUTH-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/objenesis</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-OBJENESIS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/okhttp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-OKHTTP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/opencv</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-OPENCV-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/opencv3</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-OPENCV3-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/openfst</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-OPENFST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/openssh</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-OPENSSH-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/owasp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-OWASP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/parameter-framework</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PARAMETER-FRAMEWORK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/pcre</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PCRE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/pdfium</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PDFIUM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/piex</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PIEX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ppp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PPP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/proguard</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PROGUARD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/protobuf</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PROTOBUF-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/regex-re2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-REGEX-RE2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/replicaisland</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-REPLICAISLAND-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/rmi4utils</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-RMI4UTILS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/robolectric</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ROBOLECTRIC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/roboto-fonts</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ROBOTO-FONTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/rootdev</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ROOTDEV-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/safe-iop</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SAFE-IOP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/scrypt</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SCRYPT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/selinux</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SELINUX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sfntly</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SFNTLY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/shflags</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SHFLAGS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/skia</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SKIA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sl4a</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SL4A-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/slf4j</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SLF4J-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/smali</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SMALI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/snakeyaml</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SNAKEYAML-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sonic</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SONIC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sonivox</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SONIVOX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/speex</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SPEEX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sqlite</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SQLITE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/squashfs-tools</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SQUASHFS-TOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/srtp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SRTP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/strace</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-STRACE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/svox</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SVOX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tagsoup</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TAGSOUP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tcpdump</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TCPDUMP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/testng</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TESTNG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/timezonepicker-support</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TIMEZONEPICKER-SUPPORT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyalsa</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TINYALSA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinycompress</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TINYCOMPRESS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyxml</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TINYXML-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyxml2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TINYXML2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tlsdate</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TLSDATE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/toybox</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TOYBOX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tpm2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TPM2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tremolo</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TREMOLO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/unicode</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-UNICODE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/v8</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-V8-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/valgrind</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-VALGRIND-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vboot_reference</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-VBOOT_REFERENCE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vixl</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-VIXL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vogar</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-VOGAR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vulkan-validation-layers</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-VULKAN-VALIDATION-LAYERS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/webp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-WEBP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/webrtc</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-WEBRTC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/wpa_supplicant_8</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-WPA_SUPPLICANT_8-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmlrpcpp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-XMLRPCPP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmlwriter</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-XMLWRITER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmp_toolkit</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-XMP_TOOLKIT-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zlib</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ZLIB-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zopfli</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ZOPFLI-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zxing</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ZXING-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/frameworks</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-FRAMEWORKS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/hardware</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-HARDWARE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/kernel</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-KERNEL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/libcore</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBCORE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/libnativehelper</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBNATIVEHELPER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/modem</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MODEM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/ndk</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BASICSMSRECEIVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Bluetooth</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BLUETOOTH-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Browser2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BROWSER2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Calculator</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CALCULATOR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Calendar</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CALENDAR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Camera2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CAMERA2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CARRIERCONFIG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CELLBROADCASTRECEIVER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CertInstaller</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CERTINSTALLER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Contacts</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CONTACTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CONTACTSCOMMON-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/DeskClock</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DESKCLOCK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/DevCamera</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DEVCAMERA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Dialer</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DIALER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Email</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-EMAIL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-EMERGENCYINFO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-EXACTCALCULATOR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Gallery</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GALLERY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Gallery2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GALLERY2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-HTMLVIEWER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/KeyChain</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-KEYCHAIN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Launcher2</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LAUNCHER2-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Launcher3</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LAUNCHER3-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LEGACYCAMERA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MANAGEDPROVISIONING-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Messaging</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MESSAGING-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Music</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MUSIC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/MusicFX</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MUSICFX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Nfc</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NFC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ONETIMEINITIALIZER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PACKAGEINSTALLER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Phone</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PHONE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PHONECOMMON-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Protips</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PROTIPS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Provision</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PROVISION-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-QUICKSEARCHBOX-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Settings</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SETTINGS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SOUNDRECORDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SpareParts</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SPAREPARTS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SPEECHRECORDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Stk</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-STK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Tag</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TAG-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Terminal</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TERMINAL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Test</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-APPS-TEST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/TvSettings</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TVSETTINGS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-UNIFIEDEMAIL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LATINIME-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-OPENWNN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-APPLICATIONSPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BLOCKEDNUMBERPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-BOOKMARKPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CALENDARPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CALLLOGPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CONTACTSPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DOWNLOADPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/MediaProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MEDIAPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PARTNERBOOKMARKSPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TELEPHONYPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/TvProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TVPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-USERDICTIONARYPROVIDER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/Basic</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SCREENSAVERS-BASIC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PHOTOTABLE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/WebView</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-WEBVIEW-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/services</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SERVICES-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/Basic</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-WALLPAPERS-BASIC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GALAXY4-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-HOLOSPIRAL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIVEPICKER-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MAGICSMOKE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NOISEFIELD-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PHASEBEAM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/pdk</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/platform_testing</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PLATFORM_TESTING-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/android-emulator</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ANDROID-EMULATOR-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DARWIN-X86-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/host</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-CLANG-HOST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LINUX-X86-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/deqp</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PREBUILTS-DEQP-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/devtools</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DEVTOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/eclipse</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-ECLIPSE-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DARWIN-X86-AARCH64-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DARWIN-X86-ARM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DARWIN-X86-HOST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DARWIN-X86-MIPS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-DARWIN-X86-X86-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LINUX-X86-AARCH64-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LINUX-X86-ARM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LINUX-X86-HOST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LINUX-X86-MIPS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LINUX-X86-X86-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-GRADLE-PLUGIN-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/libs</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-LIBS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/maven_repo</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MAVEN_REPO-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/misc</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-MISC-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/ndk</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PREBUILTS-NDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/ninja</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-NINJA-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/python</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PYTHON-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-QEMU-KERNEL-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/sdk</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PREBUILTS-SDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/tools</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-PREBUILTS-TOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/sdk</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SDK-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/system</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-SYSTEM-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/test</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TEST-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/tools</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TOOLS-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/trusty</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-TRUSTY-P0.2</baseline>
+</project>
+<project>
+	<name>mtk6750t/vendor</name>
+	<branch>refs/heads/mtk6750t-n-v0.2-driveronly</branch>
+	<baseline>MTK6750T-N-DRIVERONLY-VENDOR-P0.2</baseline>
+</project>
+</projects>

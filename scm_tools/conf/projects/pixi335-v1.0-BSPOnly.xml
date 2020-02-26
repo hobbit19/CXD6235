@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6572/abi</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/developers</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/docs</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/libnativehelper</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/bionic</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/bootable</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/build</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/cts</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/dalvik</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/libcore</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/development</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/device</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/apache-http</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bison</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/blktrace</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bluetooth</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bouncycastle</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bsdiff</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bzip2</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/chromium</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dhcpcd</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dnsmasq</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dropbear</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/e2fsprogs</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/easymock</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/elfutils</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/embunit</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/emma</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/esd</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/expat</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/fdlibm</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/freetype</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/fsck_msdos</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/genext2fs</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/giflib</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/grub</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-GRUB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/gtest</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/guava</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/icu4c</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ICU4C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/iproute2</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ipsec-tools</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/iptables</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/iputils</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jdiff</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jhead</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jpeg</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jsr305</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/junit</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/kernel-headers</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libffi</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libgsm</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libnfc-nxp</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libpcap</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libpng</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libvpx</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libxml2</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mtpd</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/netcat</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/netperf</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/neven</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/nist-sip</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/nist-pkits</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/oauth</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/openssl</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/oprofile</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/pixman</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ppp</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/proguard</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/protobuf</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/qemu</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/safe-iop</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/skia</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/sonivox</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/speex</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/sqlite</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/srec</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/stlport</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/strace</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/svox</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tagsoup</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tcpdump</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tinyxml</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tremolo</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/v8</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-V8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/xmlwriter</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/yaffs2</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/zlib</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/aac</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/android-clat</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/android-mock</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ant-glob</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/antlr</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/apache-harmony</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/apache-xml</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/arduino</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/checkpolicy</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/chromium-trace</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/clang</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/compiler-rt</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dexmaker</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/doclava</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eclipse-basebuilder</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eyes-free</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/flac</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ganymed-ssh2</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/gcc-demangle</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/google-diff-match-patch</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/hamcrest</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/harfbuzz</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/hyphenation</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/javasqlite</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/javassist</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jmdns</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jmonkeyengine</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jsilver</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libcap-ng</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libifaddrs</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBIFADDRS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/liblzf</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libmtp</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libnfc-nci</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libnl-headers</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libogg</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libphonenumber</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libppp</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libselinux</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libsepol</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libusb</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libusb-compat</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libvorbis</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libxslt</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libyuv</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/linux-tools-perf</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/littlemock</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/llvm</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/markdown</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mdnsresponder</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mesa3d</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mksh</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mockwebserver</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mp4parser</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/naver-fonts</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/okhttp</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/opencv</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/openfst</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/openssh</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/qemu-pc-bios</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/regex-re2</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/replicaisland</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/sepolicy</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/smali</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/srtp</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/stressapptest</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tinyalsa</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tinyxml2</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/valgrind</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/webp</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/webrtc</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/wide-dhcpv6</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-WIDE-DHCPV6-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/xmp_toolkit</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/zxing</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/wpa_supplicant_8</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eigen</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/frameworks</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/hardware</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/kernel</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/mediatek</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/modem</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MODEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/ndk</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Bluetooth</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Browser</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Calculator</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Calendar</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Camera</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/CertInstaller</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Contacts</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/DeskClock</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Email</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Gallery</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Launcher2</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Mms</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Music</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Protips</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Provision</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Settings</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Stk</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-STK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Tag</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/experimental</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/inputmethods/PinyinIME</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PINYINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/DrmProvider</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/MediaProvider</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/Basic</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Exchange</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Gallery2</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/KeyChain</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/MusicFX</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Nfc</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/SpareParts</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/VideoEditor</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/screensavers/Basic</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/screensavers/WebView</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/pdk</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/tools</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/prebuilts</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/sdk</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/system</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/vendor</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-VENDOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/art</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ART-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ceres-solver</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/chromium-libpac</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/chromium_org</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/droiddriver</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/harfbuzz_ng</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/LaunchPPPoe</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LAUNCHPPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/lzma</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/marisa-trie</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mockito</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/noto-fonts</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/objenesis</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/open-vcdiff</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/pppoe</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/robolectric</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/scrypt</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/sfntly</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/sil-fonts</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SIL-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/smack</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-SMACK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/timezonepicker-support</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tinycompress</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Camera2</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/DeviceTestApp</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DEVICETESTAPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Dialer</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/InCallUI</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Launcher3</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/services/Telephony</name>
+    <branch>refs/heads/pixi335-v1.0-BSPOnly</branch>
+    <baseline>PIXI335-BSPONLY-TELEPHONY-P1.0</baseline>
+</project>
+</projects>

@@ -1,0 +1,4208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>TCTROM/apps</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/proprietary</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/aio_custom</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-AIO_CUSTOM-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/bluetooth</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TCL-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/build</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TCL-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/focd</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FOCD-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/frameworks</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TCL-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/hardware</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/nfc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TCL-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/overlay</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OVERLAY-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/packages</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PACKAGES-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/qualcomm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QUALCOMM-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/system</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TCL-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/vendor/partner_gms</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PARTNER_GMS-P1.0</baseline>
+</project>
+<project>
+	<name>qcom/version_babyd</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VERSION_BABYD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/SPF2020/amss_nicobar_la2.0</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-AMSS_NICOBAR_LA2.0-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/abl/tianocore/edk2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EDK2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/amlogic/yukawa</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-YUKAWA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/amlogic/yukawa-kernel</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-YUKAWA-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/common</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DEVICE-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/arm64</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ARM64-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/car</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GENERIC-CAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/common</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GENERIC-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/goldfish</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOLDFISH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOLDFISH-OPENGL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MINI-EMULATOR-ARM64-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MINI-EMULATOR-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MINI-EMULATOR-X86-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MINI-EMULATOR-X86_64-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/opengl-transport</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OPENGL-TRANSPORT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/qemu</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/trusty</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TRUSTY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/uml</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-UML-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/x86</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-X86-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/x86_64</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-X86_64-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/atv</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ATV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/contexthub</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CONTEXTHUB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CUTTLEFISH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_common</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CUTTLEFISH_COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_kernel</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CUTTLEFISH_KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_vmm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CUTTLEFISH_VMM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/vrservices</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VRSERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/linaro/poplar</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-POPLAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/linaro/poplar-kernel</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-POPLAR-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/qcom/common</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/qcom/qssi</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QSSI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/qcom/sepolicy</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/sample</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SAMPLE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/jrd/vendor/aio_resources</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-AIO_RESOURCES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/jrd/vendor/foc_resource</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FOC_RESOURCE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/configs</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CONFIGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/msm-4.14</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MSM-4.14-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/tests</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-KERNEL-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/art</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ART-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/bionic</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/bootable/recovery</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RECOVERY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PLATFORM-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/blueprint</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BLUEPRINT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/kati</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-KATI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/soong</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SOONG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/cts</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/dalvik</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/developers/build</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DEVELOPERS-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/developers/demos</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DEMOS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/developers/samples/android</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SAMPLES-ANDROID-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/development</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ARMComputeLibrary</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ARMCOMPUTELIBRARY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ImageMagick</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IMAGEMAGICK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/Microsoft-GSL</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MICROSOFT-GSL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/Reactive-Extensions/RxCpp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RXCPP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/aac</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/adeb</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ADEB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/adhd</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ADHD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/android-clat</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/androidplot</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-glob</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ANT_NATIVE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ANT_SERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/antlr</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-bcel</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-COMMONS-BCEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-compress</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-COMMONS-COMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-math</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-harmony</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-http</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-xml</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/archive-patcher</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ARCHIVE-PATCHER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/arm-neon-tests</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ARM-NEON-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/arm-optimized-routines</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ARM-OPTIMIZED-ROUTINES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/autotest</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-AUTOTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/avb</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-AVB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bcc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BCC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/blktrace</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/boringssl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bouncycastle</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/brotli</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BROTLI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bsdiff</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bzip2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/caliper</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CALIPER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/capstone</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CAPSTONE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/catch2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CATCH2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cblas</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-libpac</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-trace</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-webview</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/clang</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cldr</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CLDR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cmockery</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cn-cbor</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CN-CBOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/compiler-rt</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/conscrypt</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/crcalc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cros/system_api</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM_API-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/curl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CURL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dagger2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DAGGER2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/SPIRV-Headers</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DEQP-DEPS-SPIRV-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/SPIRV-Tools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SPIRV-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/glslang</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GLSLANG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/desugar</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DESUGAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dexmaker</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dlmalloc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DLMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dng_sdk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DNG_SDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dnsmasq</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/doclava</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dokka</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DOKKA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/drm_hwcomposer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/droiddriver</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/drrickorang</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DRRICKORANG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dtc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DTC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dynamic_depth</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DYNAMIC_DEPTH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/e2fsprogs</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/easymock</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/eigen</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/elfutils</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/emma</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/epid-sdk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EPID-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/error_prone</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ERROR_PRONE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/expat</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/f2fs-tools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fdlibm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fec</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FEC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/flac</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/flatbuffers</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FLATBUFFERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fonttools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/freetype</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fsck_msdos</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fsverity-utils</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FSVERITY-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gemmlowp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GEMMLOWP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gflags</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/giflib</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/glide</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/golang-protobuf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOLANG-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-benchmark</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-breakpad</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/arbutus-slab</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ARBUTUS-SLAB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/arvo</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ARVO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CARROIS-GOTHIC-SC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-COMING-SOON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CUTIVE-MONO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DANCING-SCRIPT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/lato</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LATO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/rubik</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RUBIK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/source-sans-pro</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SOURCE-SANS-PRO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/zilla-slab</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ZILLA-SLAB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fruit</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-FRUIT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-styleguide</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-STYLEGUIDE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/googletest</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLETEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gptfdisk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/grpc-grpc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GRPC-GRPC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/grpc-grpc-java</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GRPC-GRPC-JAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/guava</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/guice</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GUICE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/hamcrest</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/harfbuzz_ng</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/honggfuzz</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HONGGFUZZ-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/hyphenation-patterns</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/icu</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/image_io</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IMAGE_IO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ims</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EXTERNAL-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iperf3</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IPERF3-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iproute2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ipsec-tools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iptables</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iputils</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iw</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jacoco</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JACOCO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jarjar</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javaparser</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JAVAPARSER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javapoet</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JAVAPOET-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javasqlite</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jcommander</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JCOMMANDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jdiff</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jemalloc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jemalloc_new</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JEMALLOC_NEW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jline</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JLINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsilver</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsmn</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/json-c</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JSON-C-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsoncpp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsr305</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsr330</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JSR330-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/junit</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/junit-params</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JUNIT-PARAMS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kernel-headers</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kmod</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-KMOD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kotlinc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-KOTLINC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ksoap2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libaom</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBAOM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libavc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libbackup</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBBACKUP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libbrillo</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBBRILLO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcap</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBCAP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcap-ng</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libchrome</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBCHROME-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcups</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBCUPS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcxx</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcxxabi</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdaemon</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBDAEMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdivsufsort</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBDIVSUFSORT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdrm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libese</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBESE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libevent</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBEVENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libexif</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libffi</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libgsm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libhevc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libjpeg-turbo</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBJPEG-TURBO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libkmsxx</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBKMSXX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libldac</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBLDAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libmpeg2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libmtp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBNETFILTER_CONNTRACK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnfnetlink</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBNFNETLINK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libogg</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libopus</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libpcap</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libphonenumber</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libpng</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libprotobuf-mutator</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBPROTOBUF-MUTATOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libtextclassifier</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBTEXTCLASSIFIER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libunwind</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libunwind_llvm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libusb</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libusb-compat</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libutf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libvpx</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libvterm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxaac</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBXAAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxcam</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBXCAM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxkbcommon</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBXKBCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxml2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libyuv</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/linux-kselftest</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LINUX-KSELFTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/llvm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lmfit</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LMFIT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ltp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LTP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lua</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LUA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lz4</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lzma</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/markdown</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mdnsresponder</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mesa3d</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/minigbm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MINIGBM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/minijail</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MINIJAIL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mksh</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockftpserver</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockito</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockwebserver</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/modp_b64</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MODP_B64-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mp4parser</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mtpd</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nanohttpd</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nanopb-c</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/naver-fonts</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/neon_2_sse</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NEON_2_SSE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/neven</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/newfs_msdos</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NEWFS_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nfacct</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nist-pkits</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nist-sip</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nos/host/android</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HOST-ANDROID-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nos/host/generic</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GENERIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nos/test/system-test-harness</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-TEST-HARNESS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/noto-fonts</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/oauth</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/objenesis</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/oj-libjdwp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OJ-LIBJDWP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/okhttp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/one-true-awk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ONE-TRUE-AWK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/opencensus-java</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OPENCENSUS-JAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/openssh</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/owasp/sanitizer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SANITIZER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/parameter-framework</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/pcre</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/pdfium</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/perf_data_converter</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PERF_DATA_CONVERTER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/perfetto</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PERFETTO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/piex</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PIEX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ply</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EXTERNAL-PLY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ppp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/proguard</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/protobuf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EXTERNAL-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/protobuf-javalite</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROTOBUF-JAVALITE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/puffin</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PUFFIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/Pillow</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PILLOW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/apitools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APITOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/appdirs</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPDIRS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/asn1crypto</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ASN1CRYPTO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/atomicwrites</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ATOMICWRITES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/attrs</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ATTRS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cachetools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CACHETOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cffi</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CFFI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cpython2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CPYTHON2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cpython3</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CPYTHON3-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cryptography</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CRYPTOGRAPHY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/dateutil</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DATEUTIL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/dill</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DILL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/enum</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ENUM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/enum34</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ENUM34-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/funcsigs</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FUNCSIGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/future</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FUTURE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/futures</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FUTURES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/gapic-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GAPIC-GOOGLE-CLOUD-PUBSUB-V1-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-api-python-client</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-API-PYTHON-CLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-auth</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-AUTH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-auth-httplib2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-AUTH-HTTPLIB2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-cloud-core</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-CLOUD-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-cloud-pubsub</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-CLOUD-PUBSUB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-gax</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-GAX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/googleapis</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLEAPIS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/grpc-google-iam-v1</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GRPC-GOOGLE-IAM-V1-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/grpcio</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GRPCIO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/httplib2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HTTPLIB2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/matplotlib</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MATPLOTLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/mock</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/more-itertools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MORE-ITERTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/numpy</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NUMPY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/oauth2client</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OAUTH2CLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/olefile</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OLEFILE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/packaging</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PACKAGING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/parse</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PARSE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pluggy</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PLUGGY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/ply</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PYTHON-PLY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/proto-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROTO-GOOGLE-CLOUD-PUBSUB-V1-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/protobuf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PYTHON-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/py</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyasn1</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PYASN1-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyasn1-modules</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PYASN1-MODULES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pycparser</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PYCPARSER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyopenssl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PYOPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyparsing</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PYPARSING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pytest</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PYTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/requests</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-REQUESTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/rsa</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RSA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/scipy</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SCIPY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/setuptools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SETUPTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/six</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SIX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/uritemplates</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-URITEMPLATES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rapidjson</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RAPIDJSON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rappor</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RAPPOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/replicaisland</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rmi4utils</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RMI4UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/robolectric</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/robolectric-shadows</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ROBOLECTRIC-SHADOWS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/roboto-fonts</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rootdev</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ROOTDEV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/scapy</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SCAPY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/scrypt</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/seccomp-tests</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SECCOMP-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/selinux</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/setupcompat</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SETUPCOMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/setupdesign</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SETUPDESIGN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sfntly</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/shaderc/spirv-headers</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SHADERC-SPIRV-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/shflags</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SHFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/skia</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/skqp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SKQP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sl4a</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SL4A-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/slf4j</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/smali</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/snakeyaml</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SNAKEYAML-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sonic</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sonivox</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/speex</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/spirv-llvm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SPIRV-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sqlite</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/squashfs-tools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/strace</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/stressapptest</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/subsampling-scale-image-view</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SUBSAMPLING-SCALE-IMAGE-VIEW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/swiftshader</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SWIFTSHADER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/syzkaller</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SYZKALLER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tagsoup</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tcpdump</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tensorflow</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TENSORFLOW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/testng</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TESTNG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyalsa</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinycompress</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyxml</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyxml2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/toolchain-utils</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TOOLCHAIN-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/toybox</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tremolo</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/turbine</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TURBINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/u-boot</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-U-BOOT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ukey2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-UKEY2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/unicode</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-UNICODE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/universal-tween-engine</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-UNIVERSAL-TWEEN-ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/v4l2_codec2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-V4L2_CODEC2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/v8</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-V8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vboot_reference</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/virglrenderer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VIRGLRENDERER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vixl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vogar</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/volley</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VOLLEY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vulkan-headers</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VULKAN-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vulkan-validation-layers</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VULKAN-VALIDATION-LAYERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/walt</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WALT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wayland</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WAYLAND-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wayland-protocols</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WAYLAND-PROTOCOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/webp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/webrtc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wpa_supplicant_8</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wycheproof</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WYCHEPROOF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xmp_toolkit</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xz-embedded</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-XZ-EMBEDDED-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xz-java</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-XZ-JAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/yapf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-YAPF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zlib</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zopfli</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zxing</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/av</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FRAMEWORKS-AV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/base</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BASE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/libbcc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBBCC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/mclinker</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MCLINKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/slang</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SLANG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/ex</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/layoutlib</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LAYOUTLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/minikin</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MINIKIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/ml</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ML-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/multidex</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MULTIDEX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/native</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NATIVE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/bitmap</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BITMAP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/calendar</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OPT-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/car/services</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/car/setupwizard</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CAR-SETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/chips</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CHIPS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-COLORPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DATETIMEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/gamesdk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GAMESDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ETHERNET-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ike</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IKE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ims</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NET-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/voip</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VOIP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WIFI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PHOTOVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OPT-SETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/telephony</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OPT-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TIMEZONEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/vcard</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VCARD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/rs</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/wilhelm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WILHELM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/apf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/av</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-AV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/easel</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EASEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/interfaces</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/pixel</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PIXEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/interfaces</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/invensense</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-INVENSENSE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/libhardware</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBHARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/libhardware_legacy</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBHARDWARE_LEGACY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/nxp/nfc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NXP-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/nxp/secure_element</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SECURE_ELEMENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/audio</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-AUDIO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BOOTCTRL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/camera</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/display</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-DISPLAY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/gps</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-GPS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/media</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/thermal</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-THERMAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/vr</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/wlan</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/ril</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RIL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/ti/am57x</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-AM57X-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/libcore</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/libnativehelper</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Bluetooth</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPS-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Browser2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BROWSER2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Calendar</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPS-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Camera2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Cluster</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CLUSTER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CAR-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HVAC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CAR-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Launcher</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LAUNCHER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LENSPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LinkViewer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LINKVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LOCALMEDIAPLAYER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Media</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CAR-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MESSENGER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Notification</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NOTIFICATION-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Overview</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OVERVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Radio</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RADIO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Settings</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CAR-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Stream</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-STREAM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEMUPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/externallibs</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EXTERNALLIBS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/libs</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/tests</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CAR-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/CertInstaller</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Contacts</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DeskClock</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DevCamera</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DEVCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Dialer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPS-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DOCUMENTSUI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Email</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EMERGENCYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Gallery</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Gallery2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/KeyChain</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Launcher3</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Messaging</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Mms</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPS-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Music</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/MusicFX</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Nfc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPS-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Protips</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Provision</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SAFETYREGULATORYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SampleLocationAttribution</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SAMPLELOCATIONATTRIBUTION-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SecureElement</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SECUREELEMENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Settings</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPS-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SettingsIntelligence</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SETTINGSINTELLIGENCE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SNAPDRAGONCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonGallery</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SNAPDRAGONGALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonMusic</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SNAPDRAGONMUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPS-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SpareParts</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/StorageManager</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-STORAGEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TV</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Tag</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Terminal</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TEST-CONNECTIVITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/ThemePicker</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-THEMEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TIMEZONEDATA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TIMEZONEUPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Traceur</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TRACEUR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TvSettings</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/UniversalMediaPlayer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-UNIVERSALMEDIAPLAYER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WALLPAPERPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/WallpaperPicker2</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WALLPAPERPICKER2-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-INPUTMETHODS-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/CaptivePortalLogin</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CAPTIVEPORTALLOGIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/ExtServices</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EXTSERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/ModuleMetadata</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MODULEMETADATA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/NetworkPermissionConfig</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NETWORKPERMISSIONCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/NetworkStack</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NETWORKSTACK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/TestModule</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TESTMODULE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BLOCKEDNUMBERPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/MediaProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/TvProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/screensavers/Basic</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/AlternativeNetworkAccess</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ALTERNATIVENETWORKACCESS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BUILTINPRINTSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Car</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SERVICES-CAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Mms</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SERVICES-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Telecomm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TELECOMM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Telephony</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SERVICES-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/pdk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/platform_testing</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ABI-DUMPS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ABI-DUMPS-VNDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/android-emulator</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/asuite</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PREBUILTS-ASUITE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/build-tools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BUILD-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/bundletool</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BUNDLETOOL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/checkcolor</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CHECKCOLOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/checkstyle</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CHECKSTYLE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/clang-tools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CLANG-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HOST-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/devtools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/fuchsia_sdk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FUCHSIA_SDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-AARCH64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ARM-EABI-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ARM-LINUX-ANDROIDEABI-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-X86_64-LINUX-GLIBC2.17-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-X86_64-W64-MINGW32-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-X86_64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GDB-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GO-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JDK8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/jdk/jdk9</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-JDK9-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/ktlint</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-KTLINT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/manifest-merger</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MANIFEST-MERGER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MAVEN_REPO-ANDROID-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BUMPTECH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/maven_repo/google-play-service-client-libraries-3p</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-PLAY-SERVICE-CLIENT-LIBRARIES-3P-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/misc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/ndk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-2.7.5-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/r8</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-R8-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/sdk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/tools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/vndk/v27</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-V27-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/vndk/v28</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-V28-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/q_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/sdk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PLATFORM-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/apex</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APEX-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ashmemd</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ASHMEMD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bpf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BPF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bpfprogs</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BPFPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bt</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-BT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ca-certificates</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CA-CERTIFICATES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/chre</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CHRE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/connectivity/wificond</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WIFICOND-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/connectivity/wifilogd</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WIFILOGD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/core</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/extras</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EXTRAS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/gatekeeper</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GATEKEEPER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/gsid</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GSID-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/hardware/interfaces</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/hwservicemanager</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HWSERVICEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/iorap</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IORAP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/keymaster</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libfmq</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBFMQ-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libhidl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBHIDL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libhwbinder</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBHWBINDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libsysprop</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBSYSPROP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libufdt</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBUFDT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libvintf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBVINTF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/linkerconfig</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LINKERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/media</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/netd</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NETD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/nfc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/nvram</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NVRAM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/qcom</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/security</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/sepolicy</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/server_configurable_flags</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SERVER_CONFIGURABLE_FLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/testing/gtest_extras</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GTEST_EXTRAS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/timezone</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TIMEZONE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/aidl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-AIDL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/hidl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HIDL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/sysprop</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SYSPROP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/xsdc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-XSDC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ucontainer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-UCONTAINER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/update_engine</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-UPDATE_ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/vold</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VOLD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/framework</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/mlts/benchmark</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MLTS-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/mlts/models</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MODELS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/mts</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/suite_harness</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SUITE_HARNESS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/alert</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ALERT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/dashboard</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DASHBOARD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/fuzz_test_serving</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FUZZ_TEST_SERVING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/test_serving</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TEST_SERVING-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FUZZ-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/hal</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HAL-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/kernel</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/nbu</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NBU-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/performance</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PERFORMANCE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/security</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VTS-TESTCASE-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/vndk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VTS-TESTCASE-VNDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/acloud</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ACLOUD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/apksig</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APKSIG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/apkzlib</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APKZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/asuite</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TOOLS-ASUITE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/currysrc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CURRYSRC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/dexter</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DEXTER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/external/fat32lib</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FAT32LIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/external/gradle</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GRADLE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/external_updater</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-EXTERNAL_UPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/loganalysis</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LOGANALYSIS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/metalava</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-METALAVA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/ndkports</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NDKPORTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/repohooks</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-REPOHOOKS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/security</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TOOLS-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/test/connectivity</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TEST-CONNECTIVITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/test/graphicsbenchmark</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GRAPHICSBENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/tradefederation</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TRADEFEDERATION-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/tradefederation/contrib</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CONTRIB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/trebuchet</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TREBUCHET-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/codeaurora/packages/apps/Dialer</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPS-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/codeaurora/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPS-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/codeaurora/telephony</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CODEAURORA-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/interfaces/opensource/nfc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OPENSOURCE-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/external/libnfc-nci</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/frameworks</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-OPENSOURCE-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/halimpl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HALIMPL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/hidlimpl</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HIDLIMPL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/packages/apps/Nfc</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-APPS-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/opensource/audio-kernel</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-AUDIO-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/pixelworks</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PIXELWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/audio</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-AUDIO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/audio-hal/st-hal</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ST-HAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/bluetooth</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/bluetooth-commonsys-intf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BLUETOOTH-COMMONSYS-INTF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/bluetooth_ext</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BLUETOOTH_EXT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/core-utils</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CORE-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/cryptfs_hw</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CRYPTFS_HW-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/data-ipa-cfg-mgr</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DATA-IPA-CFG-MGR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/data-kernel</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DATA-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dataservices</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DATASERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dataservices-commonsys</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DATASERVICES-COMMONSYS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/display-commonsys-intf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DISPLAY-COMMONSYS-INTF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dpm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DPM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dpm-commonsys</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DPM-COMMONSYS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/fm-commonsys</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FM-COMMONSYS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/fst-manager</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FST-MANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/healthd-ext</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-HEALTHD-EXT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/interfaces</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/location</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LOCATION-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/mmc-utils</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/power</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-POWER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/recovery-ext</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RECOVERY-EXT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/shortcut-fe</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SHORTCUT-FE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/system/bt</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-BT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/thermal-engine</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-THERMAL-ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/time-services</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-TIME-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/tools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/usb</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-USB-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/vibrator</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VIBRATOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wfd-commonsys</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WFD-COMMONSYS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wigig</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-WIGIG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/fw-api</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FW-API-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCA-WIFI-HOST-CMN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/qcacld-3.0</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCACLD-3.0-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SIGMA-DUT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/ferrum</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FERRUM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/msm8909go</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MSM8909GO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/msmnile</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MSMNILE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/android-perf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-ANDROID-PERF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/bluetooth</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/cne</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CNE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/common</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/commonsys</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-COMMONSYS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/commonsys-intf</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-COMMONSYS-INTF-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/configstore</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CONFIGSTORE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/coretech-config-vendor</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CORETECH-CONFIG-VENDOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/cv</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CV-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/data</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DATA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/diag</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DIAG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/display</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-DISPLAY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/dspservices_ship</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DSPSERVICES_SHIP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/fastmmi</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FASTMMI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/fm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ftm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FTM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/fwk-utils</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-FWK-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/gles</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GLES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/gps</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-GPS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/gps-release</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-GPS-RELEASE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ims-ship</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IMS-SHIP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/interfaces</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/llvm-arm-toolchain-ship</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-LLVM-ARM-TOOLCHAIN-SHIP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mdm-helper</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MDM-HELPER-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MM-AUDIO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio-auto</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MM-AUDIO-AUTO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio-auto-cal</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MM-AUDIO-AUTO-CAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio-cal</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MM-AUDIO-CAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio-external</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MM-AUDIO-EXTERNAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-camera</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MM-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-camerasdk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MM-CAMERASDK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-core</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MM-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-still</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MM-STILL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-video</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MM-VIDEO-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-video-utils</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MM-VIDEO-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/nqnfc-firmware</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-NQNFC-FIRMWARE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/prebuilt_HY11_SM6150</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PREBUILT_HY11_SM6150-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCRIL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-data-hal</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCRIL-DATA-HAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-hal</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCRIL-HAL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-qmi-services</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCRIL-QMI-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-qmi-services-headers</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCRIL-QMI-SERVICES-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qdssagent</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QDSSAGENT-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qmi</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QMI-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qmi-framework</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QMI-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qrdplus</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QRDPLUS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qrsp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QRSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/remotefs</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-REMOTEFS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/resource-overlay</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-RESOURCE-OVERLAY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/sectools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SECTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/securemsm</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SECUREMSM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/sensors-see</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SENSORS-SEE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ss-restart</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SS-RESTART-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ss-services</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SS-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/telephony-apps</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TELEPHONY-APPS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/thermal-engine</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-THERMAL-ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/time-services</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-TIME-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/vpp</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-VPP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/wfd</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WFD-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/wigig</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-WIGIG-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/wlan</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/skunk</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-SKUNK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/steppe</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-STEPPE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/thulium</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-THULIUM-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/trinket</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TRINKET-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/trinket_32</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TRINKET_32-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/wlan</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/widevine</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-WIDEVINE-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/toolchain/benchmark</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TOOLCHAIN-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/toolchain/pgo-profiles</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PGO-PROFILES-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/3rdparty/apps</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-3RDPARTY-APPS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/DDRTest</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DDRTEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/DiagProtector</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-DIAGPROTECTOR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/ImsPlugin</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IMSPLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/Iris</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-IRIS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/PlayAutoInstall</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-PLAYAUTOINSTALL-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/buildtools</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-BUILDTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/cellular</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-CELLULAR-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/mmitest</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-MMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/qcn</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-QCN-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/security</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TCT-SOURCE-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/system</name>
+	<branch>refs/heads/q6125_portotmo</branch>
+	<baseline>Q6125-PORTOTMO-TCT-SOURCE-SYSTEM-P1.0</baseline>
+</project>
+</projects>

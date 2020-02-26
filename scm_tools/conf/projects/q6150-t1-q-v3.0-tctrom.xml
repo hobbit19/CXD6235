@@ -1,0 +1,3975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+
+<project>
+	<name>quicl/vendor/tct-source/system</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TCTSOURCE-SYSTEM-P3.0</baseline>
+</project>
+
+<project>
+	<name>quicl/SPF2019/amss_2019_spf2.0</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-AMSS_2019_SPF2.0-P3.0</baseline>
+</project>
+<project>
+	<name>aosp/vendor/partner_gms</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PARTNER_GMS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/abl/tianocore/edk2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EDK2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/amlogic/yukawa</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-YUKAWA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/amlogic/yukawa-kernel</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-YUKAWA-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/common</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DEVICE-COMMON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/arm64</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ARM64-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ARMV7-A-NEON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/car</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GENERIC-CAR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/common</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GENERIC-COMMON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/goldfish</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOLDFISH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/lionhead</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIONHEAD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MINI-EMULATOR-ARM64-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MINI-EMULATOR-ARMV7-A-NEON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MINI-EMULATOR-X86-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MINI-EMULATOR-X86_64-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/opengl-transport</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OPENGL-TRANSPORT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/qemu</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QEMU-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/trusty</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TRUSTY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/uml</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-UML-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/x86</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-X86-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/generic/x86_64</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-X86_64-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/google/atv</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ATV-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/google/contexthub</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CONTEXTHUB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/google/cuttlefish</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CUTTLEFISH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/google/cuttlefish_common</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CUTTLEFISH_COMMON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/google/cuttlefish_kernel</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CUTTLEFISH_KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/google/cuttlefish_vmm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CUTTLEFISH_VMM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/google/cuttlestone</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CUTTLESTONE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/google/vrservices</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VRSERVICES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/linaro/poplar</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-POPLAR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/linaro/poplar-kernel</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-POPLAR-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/qcom/common</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-COMMON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/qcom/qssi</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QSSI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/qcom/sepolicy</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-SEPOLICY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/sample</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SAMPLE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/device/tct/t1</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-T1-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/kernel/configs</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CONFIGS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/kernel/msm-4.14</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MSM-4.14-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/kernel/tests</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-KERNEL-TESTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/art</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ART-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/bionic</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BIONIC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/bootable/recovery</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RECOVERY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/build</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PLATFORM-BUILD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/build/blueprint</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BLUEPRINT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/build/kati</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-KATI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/build/soong</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SOONG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/compatibility/cdd</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CDD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/cts</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/dalvik</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DALVIK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/developers/build</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DEVELOPERS-BUILD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/development</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DEVELOPMENT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ARMComputeLibrary</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ARMCOMPUTELIBRARY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ImageMagick</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-IMAGEMAGICK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/Microsoft-GSL</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MICROSOFT-GSL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/Reactive-Extensions/RxCpp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RXCPP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/aac</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-AAC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/adeb</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ADEB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/adhd</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ADHD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/adt-infra</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ADT-INFRA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/android-clat</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ANDROID-CLAT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/androidplot</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ANDROIDPLOT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ant-glob</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ANT-GLOB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ANT_NATIVE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ANT_SERVICE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/antlr</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ANTLR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/apache-commons-bcel</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APACHE-COMMONS-BCEL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/apache-commons-compress</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APACHE-COMMONS-COMPRESS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/apache-commons-math</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APACHE-COMMONS-MATH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/apache-harmony</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APACHE-HARMONY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/apache-http</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APACHE-HTTP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/apache-xml</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APACHE-XML-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/archive-patcher</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ARCHIVE-PATCHER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/arm-optimized-routines</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ARM-OPTIMIZED-ROUTINES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/autotest</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-AUTOTEST-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/avb</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-AVB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/bcc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BCC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/blktrace</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BLKTRACE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/boringssl</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BORINGSSL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/bouncycastle</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BOUNCYCASTLE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/brotli</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BROTLI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/bsdiff</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BSDIFF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/bzip2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BZIP2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/caliper</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CALIPER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/capstone</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CAPSTONE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/catch2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CATCH2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/cblas</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CBLAS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/chromium-libpac</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CHROMIUM-LIBPAC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/chromium-trace</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CHROMIUM-TRACE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/chromium-webview</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CHROMIUM-WEBVIEW-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/clang</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CLANG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/cldr</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CLDR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/cmockery</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CMOCKERY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/cn-cbor</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CN-CBOR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/compiler-rt</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-COMPILER-RT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/conscrypt</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CONSCRYPT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/crcalc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CRCALC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/cros/system_api</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SYSTEM_API-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/curl</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CURL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dagger2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DAGGER2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/deqp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DEQP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/deqp-deps/SPIRV-Headers</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DEQP-DEPS-SPIRV-HEADERS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/deqp-deps/SPIRV-Tools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SPIRV-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/deqp-deps/glslang</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GLSLANG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/desugar</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DESUGAR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dexmaker</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DEXMAKER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dlmalloc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DLMALLOC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dng_sdk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DNG_SDK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dnsmasq</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DNSMASQ-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/doclava</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DOCLAVA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dokka</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DOKKA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/drm_hwcomposer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DRM_HWCOMPOSER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/droiddriver</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DROIDDRIVER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/drrickorang</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DRRICKORANG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dtc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DTC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/dynamic_depth</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DYNAMIC_DEPTH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/e2fsprogs</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-E2FSPROGS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/easymock</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EASYMOCK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/eigen</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EIGEN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/elfutils</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ELFUTILS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/emma</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EMMA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/epid-sdk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EPID-SDK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/error_prone</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ERROR_PRONE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/expat</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EXPAT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/f2fs-tools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-F2FS-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/fdlibm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FDLIBM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/fec</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FEC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/flac</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FLAC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/flatbuffers</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FLATBUFFERS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/fonttools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FONTTOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/freetype</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FREETYPE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/fsck_msdos</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FSCK_MSDOS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/fsverity-utils</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FSVERITY-UTILS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/gemmlowp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GEMMLOWP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/gflags</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GFLAGS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/giflib</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GIFLIB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/glide</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GLIDE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/golang-protobuf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOLANG-PROTOBUF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-benchmark</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-BENCHMARK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-breakpad</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-BREAKPAD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/arbutus-slab</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ARBUTUS-SLAB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/arvo</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ARVO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CARROIS-GOTHIC-SC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-COMING-SOON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CUTIVE-MONO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DANCING-SCRIPT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/lato</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LATO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/rubik</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RUBIK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/source-sans-pro</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SOURCE-SANS-PRO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fonts/zilla-slab</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ZILLA-SLAB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-fruit</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-FRUIT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/google-styleguide</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-STYLEGUIDE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/googletest</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLETEST-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/gptfdisk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GPTFDISK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/grpc-grpc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GRPC-GRPC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/grpc-grpc-java</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GRPC-GRPC-JAVA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/guava</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GUAVA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/guice</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GUICE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/hamcrest</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HAMCREST-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/harfbuzz_ng</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HARFBUZZ_NG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/honggfuzz</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HONGGFUZZ-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/hyphenation-patterns</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HYPHENATION-PATTERNS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/icu</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ICU-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/image_io</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-IMAGE_IO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ims</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EXTERNAL-IMS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/iperf3</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-IPERF3-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/iproute2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-IPROUTE2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ipsec-tools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-IPSEC-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/iptables</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-IPTABLES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/iputils</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-IPUTILS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/iw</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-IW-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jacoco</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JACOCO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jarjar</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JARJAR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/javaparser</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JAVAPARSER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/javapoet</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JAVAPOET-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/javasqlite</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JAVASQLITE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jcommander</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JCOMMANDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jdiff</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JDIFF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jemalloc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JEMALLOC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jemalloc_new</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JEMALLOC_NEW-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jline</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JLINE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jsilver</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JSILVER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jsmn</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JSMN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/json-c</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JSON-C-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jsoncpp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JSONCPP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jsr305</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JSR305-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/jsr330</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JSR330-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/junit</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JUNIT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/junit-params</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JUNIT-PARAMS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/kernel-headers</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-KERNEL-HEADERS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/kmod</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-KMOD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/kotlinc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-KOTLINC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ksoap2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-KSOAP2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libaom</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBAOM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libavc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBAVC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libbackup</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBBACKUP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libbrillo</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBBRILLO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libcap</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBCAP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libcap-ng</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBCAP-NG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libchrome</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBCHROME-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libcups</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBCUPS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libcxx</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBCXX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libcxxabi</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBCXXABI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libdaemon</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBDAEMON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libdivsufsort</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBDIVSUFSORT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libdrm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBDRM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libese</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBESE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libevent</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBEVENT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libexif</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBEXIF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libffi</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBFFI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libgsm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBGSM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libhevc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBHEVC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libjpeg-turbo</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBJPEG-TURBO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libkmsxx</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBKMSXX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libldac</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBLDAC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libmpeg2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBMPEG2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libmtp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBMTP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBNETFILTER_CONNTRACK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libnfnetlink</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBNFNETLINK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libnl</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBNL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libogg</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBOGG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libopus</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBOPUS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libpcap</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBPCAP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libphonenumber</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBPHONENUMBER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libpng</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBPNG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libprotobuf-mutator</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBPROTOBUF-MUTATOR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libtextclassifier</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBTEXTCLASSIFIER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libunwind</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBUNWIND-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libunwind_llvm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBUNWIND_LLVM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libusb</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBUSB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libusb-compat</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBUSB-COMPAT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libutf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBUTF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libvpx</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBVPX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libvterm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBVTERM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libxaac</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBXAAC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libxcam</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBXCAM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libxkbcommon</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBXKBCOMMON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libxml2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBXML2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/libyuv</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBYUV-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/linux-kselftest</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LINUX-KSELFTEST-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/llvm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LLVM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/lmfit</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LMFIT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ltp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LTP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/lua</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LUA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/lz4</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LZ4-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/lzma</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LZMA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/markdown</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MARKDOWN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mdnsresponder</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MDNSRESPONDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mesa3d</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MESA3D-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/minigbm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MINIGBM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/minijail</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MINIJAIL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mksh</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MKSH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mockftpserver</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MOCKFTPSERVER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mockito</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MOCKITO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mockwebserver</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MOCKWEBSERVER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/modp_b64</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MODP_B64-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mp4parser</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MP4PARSER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/mtpd</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MTPD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nanohttpd</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NANOHTTPD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nanopb-c</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NANOPB-C-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/naver-fonts</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NAVER-FONTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/neon_2_sse</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NEON_2_SSE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/neven</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NEVEN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/newfs_msdos</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NEWFS_MSDOS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nfacct</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NFACCT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nist-pkits</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NIST-PKITS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/nist-sip</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NIST-SIP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/noto-fonts</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NOTO-FONTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/oauth</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OAUTH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/objenesis</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OBJENESIS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/oj-libjdwp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OJ-LIBJDWP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/okhttp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OKHTTP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/one-true-awk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ONE-TRUE-AWK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/opencensus-java</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OPENCENSUS-JAVA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/openssh</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OPENSSH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/owasp/sanitizer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SANITIZER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/parameter-framework</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PARAMETER-FRAMEWORK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/pcre</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PCRE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/pdfium</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PDFIUM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/perf_data_converter</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PERF_DATA_CONVERTER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/perfetto</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PERFETTO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/piex</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PIEX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ply</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EXTERNAL-PLY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ppp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PPP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/proguard</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROGUARD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/protobuf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EXTERNAL-PROTOBUF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/protobuf-javalite</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROTOBUF-JAVALITE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/puffin</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PUFFIN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/Pillow</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PILLOW-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/apitools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APITOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/appdirs</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPDIRS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/asn1crypto</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ASN1CRYPTO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/atomicwrites</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ATOMICWRITES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/attrs</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ATTRS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/cachetools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CACHETOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/cffi</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CFFI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/cpython2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CPYTHON2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/cpython3</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CPYTHON3-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/cryptography</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CRYPTOGRAPHY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/dateutil</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DATEUTIL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/dill</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DILL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/enum</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ENUM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/enum34</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ENUM34-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/funcsigs</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FUNCSIGS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/future</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FUTURE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/futures</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FUTURES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/gapic-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GAPIC-GOOGLE-CLOUD-PUBSUB-V1-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-api-python-client</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-API-PYTHON-CLIENT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-auth</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-AUTH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-auth-httplib2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-AUTH-HTTPLIB2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-cloud-core</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-CLOUD-CORE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-cloud-pubsub</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-CLOUD-PUBSUB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/google-gax</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-GAX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/googleapis</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLEAPIS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/grpc-google-iam-v1</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GRPC-GOOGLE-IAM-V1-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/grpcio</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GRPCIO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/httplib2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HTTPLIB2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/matplotlib</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MATPLOTLIB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/mock</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MOCK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/more-itertools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MORE-ITERTOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/numpy</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NUMPY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/oauth2client</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OAUTH2CLIENT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/olefile</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OLEFILE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/packaging</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PACKAGING-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/parse</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PARSE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/pluggy</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PLUGGY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/ply</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PYTHON-PLY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/proto-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROTO-GOOGLE-CLOUD-PUBSUB-V1-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/protobuf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PYTHON-PROTOBUF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/py</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/pyasn1</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PYASN1-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/pyasn1-modules</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PYASN1-MODULES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/pycparser</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PYCPARSER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/pyopenssl</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PYOPENSSL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/pyparsing</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PYPARSING-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/pytest</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PYTEST-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/requests</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-REQUESTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/rsa</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RSA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/scipy</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SCIPY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/setuptools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SETUPTOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/six</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SIX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/python/uritemplates</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-URITEMPLATES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/rapidjson</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RAPIDJSON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/rappor</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RAPPOR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/replicaisland</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-REPLICAISLAND-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/rmi4utils</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RMI4UTILS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/robolectric</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ROBOLECTRIC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/robolectric-shadows</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ROBOLECTRIC-SHADOWS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/roboto-fonts</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ROBOTO-FONTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/rootdev</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ROOTDEV-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/scapy</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SCAPY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/scrypt</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SCRYPT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/seccomp-tests</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SECCOMP-TESTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/selinux</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SELINUX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/setupcompat</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SETUPCOMPAT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/setupdesign</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SETUPDESIGN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/sfntly</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SFNTLY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/shaderc/spirv-headers</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SHADERC-SPIRV-HEADERS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/shflags</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SHFLAGS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/skia</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SKIA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/sl4a</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SL4A-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/slf4j</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SLF4J-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/smali</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SMALI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/snakeyaml</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SNAKEYAML-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/sonic</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SONIC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/sonivox</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SONIVOX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/speex</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SPEEX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/spirv-llvm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SPIRV-LLVM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/sqlite</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SQLITE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/squashfs-tools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SQUASHFS-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/strace</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-STRACE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/stressapptest</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-STRESSAPPTEST-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/subsampling-scale-image-view</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SUBSAMPLING-SCALE-IMAGE-VIEW-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/swiftshader</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SWIFTSHADER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/syzkaller</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SYZKALLER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tagsoup</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TAGSOUP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tcpdump</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TCPDUMP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tensorflow</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TENSORFLOW-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/testng</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TESTNG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tinyalsa</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TINYALSA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tinycompress</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TINYCOMPRESS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tinyxml</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TINYXML-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tinyxml2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TINYXML2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/toybox</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TOYBOX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/tremolo</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TREMOLO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/turbine</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TURBINE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/u-boot</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-U-BOOT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/ukey2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-UKEY2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/unicode</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-UNICODE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/v4l2_codec2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-V4L2_CODEC2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/v8</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-V8-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/vboot_reference</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VBOOT_REFERENCE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/virglrenderer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VIRGLRENDERER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/vixl</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VIXL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/vogar</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VOGAR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/volley</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VOLLEY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/vulkan-headers</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VULKAN-HEADERS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/vulkan-validation-layers</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VULKAN-VALIDATION-LAYERS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/walt</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WALT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/wayland</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WAYLAND-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/wayland-protocols</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WAYLAND-PROTOCOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/webp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WEBP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/webrtc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WEBRTC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/wpa_supplicant_8</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WPA_SUPPLICANT_8-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/wycheproof</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WYCHEPROOF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/xmp_toolkit</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-XMP_TOOLKIT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/xz-embedded</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-XZ-EMBEDDED-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/xz-java</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-XZ-JAVA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/yapf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-YAPF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/zlib</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ZLIB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/zopfli</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ZOPFLI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/external/zxing</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ZXING-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/av</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FRAMEWORKS-AV-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/base</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BASE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/compile/libbcc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBBCC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/compile/mclinker</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MCLINKER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/compile/slang</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SLANG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/ex</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HARDWARE-INTERFACES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/layoutlib</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LAYOUTLIB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/minikin</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MINIKIN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/ml</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ML-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/multidex</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MULTIDEX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/native</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NATIVE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/bitmap</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BITMAP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/calendar</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OPT-CALENDAR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/car/services</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SERVICES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/car/setupwizard</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CAR-SETUPWIZARD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/chips</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CHIPS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-COLORPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DATETIMEPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ETHERNET-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/net/ike</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-IKE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/net/ims</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NET-IMS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/net/voip</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VOIP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WIFI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PHOTOVIEWER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OPT-SETUPWIZARD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/telephony</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OPT-TELEPHONY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TIMEZONEPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/opt/vcard</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VCARD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/rs</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/frameworks/wilhelm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WILHELM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/google/apf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/google/av</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-AV-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/google/easel</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EASEL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/google/interfaces</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE-INTERFACES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/interfaces</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HARDWARE-INTERFACES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/libhardware</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBHARDWARE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/libhardware_legacy</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBHARDWARE_LEGACY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/nxp/nfc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NXP-NFC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/nxp/secure_element</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NXP-SECURE_ELEMENT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/audio</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-AUDIO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BOOTCTRL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/display</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-DISPLAY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/gps</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-GPS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/media</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-MEDIA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/thermal</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-THERMAL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/vr</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/qcom/wlan</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-WLAN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/ril</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RIL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/st/nfc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ST-NFC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/st/secure_element</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ST-SECURE_ELEMENT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/hardware/ti/am57x</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-AM57X-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/libcore</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBCORE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/libnativehelper</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBNATIVEHELPER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BASICSMSRECEIVER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Bluetooth</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPS-BLUETOOTH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Browser2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BROWSER2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/CMFileManager</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CMFILEMANAGER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Calendar</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPS-CALENDAR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Camera2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CAMERA2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Cluster</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CLUSTER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CAR-DIALER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HVAC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CAR-LATINIME-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Launcher</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LAUNCHER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LENSPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/LinkViewer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LINKVIEWER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LOCALMEDIAPLAYER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Media</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CAR-MEDIA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MESSENGER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Notification</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NOTIFICATION-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Overview</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OVERVIEW-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Radio</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RADIO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Settings</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CAR-SETTINGS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/Stream</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-STREAM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SYSTEMUPDATER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/externallibs</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EXTERNALLIBS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/libs</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Car/tests</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CAR-TESTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CARRIERCONFIG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CELLBROADCASTRECEIVER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/CertInstaller</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CERTINSTALLER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Contacts</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CONTACTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/DeskClock</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DESKCLOCK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/DevCamera</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DEVCAMERA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Dialer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPS-DIALER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DOCUMENTSUI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Email</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EMAIL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EMERGENCYINFO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Exchange</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EXCHANGE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Gallery</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GALLERY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Gallery2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GALLERY2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HTMLVIEWER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/KeyChain</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-KEYCHAIN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Launcher3</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LAUNCHER3-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LEGACYCAMERA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MANAGEDPROVISIONING-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Messaging</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MESSAGING-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Mms</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPS-MMS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Music</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MUSIC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/MusicFX</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MUSICFX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Nfc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPS-NFC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ONETIMEINITIALIZER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PACKAGEINSTALLER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PHONECOMMON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Protips</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROTIPS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Provision</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROVISION-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QUICKSEARCHBOX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SAFETYREGULATORYINFO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SampleLocationAttribution</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SAMPLELOCATIONATTRIBUTION-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SecureElement</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SECUREELEMENT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Settings</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPS-SETTINGS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SettingsIntelligence</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SETTINGSINTELLIGENCE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SNAPDRAGONCAMERA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SnapdragonGallery</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SNAPDRAGONGALLERY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SnapdragonMusic</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SNAPDRAGONMUSIC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPS-SOUNDRECORDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/SpareParts</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SPAREPARTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Stk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-STK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/StorageManager</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-STORAGEMANAGER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/TV</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TV-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Tag</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TAG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Terminal</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TERMINAL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TEST-CONNECTIVITY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/ThemePicker</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-THEMEPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TIMEZONEDATA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TIMEZONEUPDATER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/Traceur</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TRACEUR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/TvSettings</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TVSETTINGS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-UNIFIEDEMAIL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WALLPAPERPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/apps/WallpaperPicker2</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WALLPAPERPICKER2-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-INPUTMETHODS-LATINIME-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/modules/ModuleMetadata</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MODULEMETADATA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPLICATIONSPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BLOCKEDNUMBERPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BOOKMARKPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CALENDARPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CALLLOGPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CONTACTSPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DOWNLOADPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/MediaProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MEDIAPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PARTNERBOOKMARKSPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TELEPHONYPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/TvProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TVPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-USERDICTIONARYPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/screensavers/Basic</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BASIC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PHOTOTABLE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/AlternativeNetworkAccess</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ALTERNATIVENETWORKACCESS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BUILTINPRINTSERVICE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/Car</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SERVICES-CAR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/Mms</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SERVICES-MMS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/Telecomm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TELECOMM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/services/Telephony</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SERVICES-TELEPHONY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIVEPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/pdk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PDK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/platform_testing</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PLATFORM_TESTING-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ABI-DUMPS-NDK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ABI-DUMPS-VNDK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/android-emulator</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ANDROID-EMULATOR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/asuite</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PREBUILTS-ASUITE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/build-tools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BUILD-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/bundletool</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BUNDLETOOL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/checkcolor</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CHECKCOLOR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/checkstyle</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CHECKSTYLE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/clang-tools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CLANG-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HOST-LINUX-X86-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/devtools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DEVTOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/fuchsia_sdk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FUCHSIA_SDK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-AARCH64-LINUX-ANDROID-4.9-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ARM-EABI-4.8-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ARM-LINUX-ANDROIDEABI-4.9-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-X86_64-LINUX-GLIBC2.17-4.8-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-X86_64-W64-MINGW32-4.8-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-X86_64-LINUX-ANDROID-4.9-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GDB-LINUX-X86-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GO-LINUX-X86-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GRADLE-PLUGIN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JDK8-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/jdk/jdk9</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-JDK9-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/manifest-merger</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MANIFEST-MERGER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ANDROID-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BUMPTECH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/misc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MISC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/ndk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PREBUILTS-NDK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-2.7.5-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QEMU-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/r8</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-R8-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/sdk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PREBUILTS-SDK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/tools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PREBUILTS-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/vndk/v27</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-V27-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/prebuilts/vndk/v28</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-V28-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/sdk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PLATFORM-SDK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/apex</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APEX-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/ashmemd</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ASHMEMD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/bpf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BPF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/bpfprogs</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BPFPROGS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/bt</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SYSTEM-BT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/ca-certificates</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CA-CERTIFICATES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/chre</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CHRE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/connectivity/wificond</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WIFICOND-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/connectivity/wifilogd</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WIFILOGD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/core</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CORE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/extras</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-EXTRAS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/gatekeeper</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GATEKEEPER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/gsid</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GSID-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/hardware/interfaces</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HARDWARE-INTERFACES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/hwservicemanager</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HWSERVICEMANAGER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/iorap</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-IORAP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/keymaster</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-KEYMASTER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/libfmq</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBFMQ-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/libhidl</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBHIDL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/libhwbinder</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBHWBINDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/libsysprop</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBSYSPROP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/libufdt</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBUFDT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/libvintf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBVINTF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/linkerconfig</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LINKERCONFIG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/media</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SYSTEM-MEDIA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/netd</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NETD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/nfc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SYSTEM-NFC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/nvram</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NVRAM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/qcom</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/security</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SYSTEM-SECURITY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/sepolicy</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SYSTEM-SEPOLICY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/server_configurable_flags</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SERVER_CONFIGURABLE_FLAGS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/testing/gtest_extras</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GTEST_EXTRAS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/timezone</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TIMEZONE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/tools/aidl</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-AIDL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/tools/hidl</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HIDL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/tools/sysprop</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SYSPROP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/tools/xsdc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-XSDC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/ucontainer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-UCONTAINER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/update_engine</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-UPDATE_ENGINE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/system/vold</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VOLD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/framework</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FRAMEWORK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/mlts/benchmark</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BENCHMARK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/mlts/models</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MODELS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/sts</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-STS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/suite_harness</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SUITE_HARNESS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vti/alert</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ALERT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vti/dashboard</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DASHBOARD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vti/fuzz_test_serving</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FUZZ_TEST_SERVING-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vti/test_serving</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TEST_SERVING-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FUZZ-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/hal</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HAL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HAL-TRACE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/kernel</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/nbu</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NBU-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/performance</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PERFORMANCE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/security</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VTS-TESTCASE-SECURITY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/test/vts-testcase/vndk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VTS-TESTCASE-VNDK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/acloud</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ACLOUD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/apksig</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APKSIG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/apkzlib</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APKZLIB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/asuite</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TOOLS-ASUITE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/currysrc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CURRYSRC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/dexter</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DEXTER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/loganalysis</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LOGANALYSIS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/metalava</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-METALAVA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/ndkports</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NDKPORTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/repohooks</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-REPOHOOKS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/security</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TOOLS-SECURITY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/test/connectivity</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TEST-CONNECTIVITY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/test/graphicsbenchmark</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GRAPHICSBENCHMARK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/tradefederation</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TRADEFEDERATION-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/tradefederation/contrib</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CONTRIB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/trebuchet</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TREBUCHET-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/tools/vendor/google_prebuilts/arc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ARC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/codeaurora/packages/apps/Dialer</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPS-DIALER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/codeaurora/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPS-SOUNDRECORDER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/codeaurora/telephony</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CODEAURORA-TELEPHONY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/google_vts</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GOOGLE_VTS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/interfaces/opensource/nfc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-OPENSOURCE-NFC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/opensource/external/libnfc-nci</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LIBNFC-NCI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/opensource/frameworks</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FRAMEWORKS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/opensource/halimpl</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HALIMPL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/opensource/hidlimpl</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HIDLIMPL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/nxp/opensource/packages/apps/Nfc</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-APPS-NFC-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/opensource/audio-kernel</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-AUDIO-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/audio</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-OPENSOURCE-AUDIO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/audio-hal/st-hal</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ST-HAL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/bluetooth</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-OPENSOURCE-BLUETOOTH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/bluetooth-commonsys-intf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BLUETOOTH-COMMONSYS-INTF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/bluetooth_ext</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BLUETOOTH_EXT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/core-utils</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CORE-UTILS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/cryptfs_hw</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CRYPTFS_HW-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/data-ipa-cfg-mgr</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DATA-IPA-CFG-MGR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/data-kernel</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DATA-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/dataservices</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DATASERVICES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/dataservices-commonsys</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DATASERVICES-COMMONSYS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/display-commonsys-intf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DISPLAY-COMMONSYS-INTF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/dpm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DPM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/dpm-commonsys</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DPM-COMMONSYS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/fm-commonsys</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FM-COMMONSYS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/fst-manager</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FST-MANAGER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/healthd-ext</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-HEALTHD-EXT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/interfaces</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-OPENSOURCE-INTERFACES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/location</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LOCATION-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/mmc-utils</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MMC-UTILS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/power</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-POWER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/recovery-ext</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RECOVERY-EXT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/shortcut-fe</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SHORTCUT-FE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/system/bt</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SYSTEM-BT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/thermal-engine</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-OPENSOURCE-THERMAL-ENGINE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/time-services</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-OPENSOURCE-TIME-SERVICES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/tools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-OPENSOURCE-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/usb</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-USB-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/vibrator</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VIBRATOR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/wfd-commonsys</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WFD-COMMONSYS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/wigig</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-OPENSOURCE-WIGIG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/wlan/fw-api</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FW-API-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCA-WIFI-HOST-CMN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/wlan/qcacld-3.0</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCACLD-3.0-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom-opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SIGMA-DUT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/ferrum</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FERRUM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/msm8909go</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MSM8909GO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/msmnile</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MSMNILE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/android-perf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-ANDROID-PERF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/bluetooth</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROPRIETARY-BLUETOOTH-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/chi-cdk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CHI-CDK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/cne</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CNE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/common</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROPRIETARY-COMMON-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/commonsys</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-COMMONSYS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/commonsys-intf</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-COMMONSYS-INTF-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/configstore</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CONFIGSTORE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/coretech-config-vendor</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CORETECH-CONFIG-VENDOR-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/cv</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-CV-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/data</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DATA-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/diag</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DIAG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/display</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROPRIETARY-DISPLAY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/dspservices_ship</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-DSPSERVICES_SHIP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/fastmmi</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FASTMMI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/fm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/ftm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FTM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/fwk-utils</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-FWK-UTILS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/gps</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROPRIETARY-GPS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/gps-release</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-GPS-RELEASE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/ims-ship</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-IMS-SHIP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/interfaces</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROPRIETARY-INTERFACES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/llvm-arm-toolchain-ship</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-LLVM-ARM-TOOLCHAIN-SHIP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mdm-helper</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MDM-HELPER-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-audio</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MM-AUDIO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-audio-auto-cal</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MM-AUDIO-AUTO-CAL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-audio-cal</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MM-AUDIO-CAL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-audio-external</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MM-AUDIO-EXTERNAL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-core</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MM-CORE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-video</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MM-VIDEO-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/mm-video-utils</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-MM-VIDEO-UTILS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/nqnfc-firmware</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-NQNFC-FIRMWARE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/prebuilt_HY11_SM6150</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PREBUILT_HY11_SM6150-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qcril</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCRIL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qcril-data-hal</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCRIL-DATA-HAL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qcril-hal</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCRIL-HAL-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qcril-qmi-services</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCRIL-QMI-SERVICES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qcril-qmi-services-headers</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCRIL-QMI-SERVICES-HEADERS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qdssagent</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QDSSAGENT-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qmi</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QMI-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qmi-framework</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QMI-FRAMEWORK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qrdplus</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QRDPLUS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/qrsp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QRSP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/remotefs</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-REMOTEFS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/resource-overlay</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-RESOURCE-OVERLAY-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/sectools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SECTOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/securemsm</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SECUREMSM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/sensors-see</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SENSORS-SEE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/ss-restart</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SS-RESTART-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/ss-services</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SS-SERVICES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/telephony-apps</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-TELEPHONY-APPS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/thermal-engine</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROPRIETARY-THERMAL-ENGINE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/time-services</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROPRIETARY-TIME-SERVICES-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/vpp</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VPP-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/wfd</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-WFD-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/wigig</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROPRIETARY-WIGIG-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/proprietary/wlan</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-PROPRIETARY-WLAN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/skunk</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-SKUNK-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/steppe</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-STEPPE-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/thulium</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-THULIUM-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/platform/vendor/qcom/wlan</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-QCOM-WLAN-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/vendor/tct-source/buildtools</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-BUILDTOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>quicl/version</name>
+	<branch>refs/heads/q6150-t1-q-v3.0-tctrom</branch>
+	<baseline>Q6150-Q-T1-TCTROM-VERSION-P3.0</baseline>
+</project>
+</projects>

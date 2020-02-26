@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6572/abi</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/docs</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/gdk</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-GDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/libnativehelper</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/bionic</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/bootable</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/build</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/cts</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/libcore</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/dalvik</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/development</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/device</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/apache-http</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/astl</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-ASTL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/bison</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BISON-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6572/external/blktrace</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/bluetooth</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/bouncycastle</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/bsdiff</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/bzip2</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/chromium</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/dbus</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/dhcpcd</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/dnsmasq</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/dropbear</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/e2fsprogs</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/easymock</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/elfutils</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/embunit</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/emma</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/esd</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-esd-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/expat</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/fdlibm</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/freetype</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/fsck_msdos</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/genext2fs</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/giflib</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/grub</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-GRUB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/gtest</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/guava</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/icu4c</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-ICU4C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/iproute2</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/ipsec-tools</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/freetype</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/iptables</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/jdiff</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/jhead</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/jpeg</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/jsr305</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/junit</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/kernel-headers</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libffi</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libgsm</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libnfc-nxp</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libpcap</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libpng</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libvpx</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-libvpx-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libxml2</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/mtpd</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/netcat</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/netperf</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/neven</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/nist-sip</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/oauth</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/openssl</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-OPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/oprofile</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-OPROFILE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/ping</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-PING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/ppp</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/proguard</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/protobuf</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/qemu</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/safe-iop</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/skia</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/sonivox</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-sonivox-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/speex</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-speex-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/sqlite</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/srec</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SREC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/stlport</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-STLPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/strace</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/svox</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/tagsoup</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-tagsoup-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/tcpdump</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-tcpdump-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/tinyxml</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-tinyxml-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/tremolo</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/v8</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/webkit</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-WEBKIT-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6572/external/wpa_supplicant_6</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-WPA_SUPPLICANT_6-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/xmlwriter</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/yaffs2</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-YAFFS2-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/aac</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-AAC-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/android-mock</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/ant-glob</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/antlr</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-ANTLR-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/apache-harmony</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/apache-xml</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/arduino</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-ARDUINO-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/checkpolicy</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/chromium-trace</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/cibu-fonts</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-CIBU-FONTS-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/clang</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-CLANG-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/compiler-rt</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/dexmaker</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/doclava</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/eclipse-basebuilder</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/eclipse-windowbuilder</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/eyes-free</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/flac</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-FLAC-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/ganymed-ssh2</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/gcc-demangle</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/google-diff-match-patch</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/hamcrest</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-HAMCREST-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/harfbuzz</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/hyphenation</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/javasqlite</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/javassist</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/jmdns</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-JMDNS-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/jmonkeyengine</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/jsilver</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-JSILVER-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libcap-ng</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libifaddrs</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBIFADDRS-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/liblzf</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBLZF-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libmtp</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBMTP-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libnfc-nci</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libnfc-opennfc</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBNFC-OPENNFC-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libnl-headers</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libogg</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBOGG-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libphonenumber</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libppp</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBPPP-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libselinux</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libsepol</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libunwind</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libusb-compat</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libvorbis</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libxslt</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libyuv</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LIBYUV-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/linux-tools-perf</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/littlemock</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/llvm</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LLVM-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/lohit-fonts</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LOHIT-FONTS-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/markdown</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/mdnsresponder</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/mesa3d</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-MESA3D-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/mksh</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-MKSH-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/mockwebserver</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/mp4parser</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/naver-fonts</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/okhttp</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-OKHTTP-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/opencv</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-OPENCV-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/openfst</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-OPENFST-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/openssh</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-OPENSSH-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/ping6</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-PING6-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/qemu-pc-bios</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/regex-re2</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/replicaisland</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/sepolicy</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/smali</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-SMALI-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/srtp</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-SRTP-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/stressapptest</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/tinyalsa</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-TINYALSA-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/tinyxml2</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-TINYXML2-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/valgrind</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-VALGRIND-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/webp</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-WEBP-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/webrtc</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-WEBRTC-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/wide-dhcpv6</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-WIDE-DHCPV6-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/xmp_toolkit</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/zxing</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-ZXING-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/wpa_supplicant_8</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/zlib</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-ZLIB-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6572/frameworks</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/hardware</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/kernel</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/mediatek</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/ndk</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Bluetooth</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BLUETOOTH-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6572/packages/apps/Browser</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Calculator</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Calendar</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Camera</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/CertInstaller</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Contacts</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/DeskClock</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Email</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Gallery</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-HTMLViewer-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Launcher2</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-Launcher2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Mms</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Music</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Phone</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Protips</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Provision</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-Provision-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Settings</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Stk</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Tag</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/experimental</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/DrmProvider</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-GOOGLECONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/MediaProvider</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/wallpapers/Basic</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6572/packages/apps/MMITest</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-MMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/APKInstallerHelper</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-APKINSTALLERHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DRMAGENTPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/DrmUtility</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DRMUTILITY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/drmagent</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DRMAGENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/inbidi</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-INBIDI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/eigen</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/SecureClock</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SECURECLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDEMAILFEEDBACK-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/CellBroadcastReceiver</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/inputmethods/PinyinIME</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-PINYINIME-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/BasicSmsReceiver</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/Exchange</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/Gallery2</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-GALLERY2-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/KeyChain</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/LegacyCamera</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/MusicFX</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-MUSICFX-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/Nfc</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-NFC-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/SDKGallery</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-SDKGALLERY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/SpareParts</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/VideoEditor</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/providers/PartnerBookmarksProvider</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/screensavers/Basic</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-BASIC-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/screensavers/PhotoTable</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/screensavers/WebView</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/wallpapers/Galaxy4</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-GALAXY4-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/wallpapers/HoloSpiral</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/wallpapers/NoiseField</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/wallpapers/PhaseBeam</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/pdk</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-PDK-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/tools</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-TOOLS-P1.0</baseline>
+</project>
+
+
+<project>
+	<name>mtk6572/prebuilts</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/sdk</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/system</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/vendor</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-VENDOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/modem</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-MODEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/mtk6572_wimdata_ng/liv</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/mtk6572_wimdata_ng/wcustores</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/mtk6572_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/mtk6572_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-WPROCEDURES-P1.0</baseline>
+</project>
+
+<project>
+        <name>tcl/packages/apps/JrdFileManagerEx</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-JRDFILEMANAGEREX-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdUserCardService</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-JRDUSERCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdLauncher</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-JRDLAUNCHER-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdCamera</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-JRDCAMERA-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdGallery</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-JRDGALLERY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/UrlReservedApps</name>
+        <branch>refs/heads/yarism-v1.0-cta</branch>
+        <baseline>MTK6572-CTA-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdSalesTracker</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDSALESTRACKER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/MusicWidget</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-MUSICWIDGET-P1.0</baseline>
+</project>
+
+
+<project>
+	<name>tcl/packages/apps/JrdWorldClock</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDWORLDCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDTCLHELP-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/TrafficManager</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-TRAFFICMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/NotePad2</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/O2Ideas</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdFota</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdSdcardUpgrade</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdContainer</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDCONTAINER-P1.0</baseline>
+</project> 
+<project>
+	<name>tcl/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDEMAILFEEDBACK-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-TCLWATCHDOG-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdApp2SDCard</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDAPP2SDCARD-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTorch</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDTORCH-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdDigitalClock</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDDIGITALCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTethering</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDTETHERING-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdDeskClock</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDDESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdElabel</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDELABEL-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdWeather</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDWEATHER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTimeTool</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-JRDTIMETOOL-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/FrequentContactsWidget</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-FREQUENTCONTACTSWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/AnalogClockWidget</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-ANALOGCLOCKWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/DigitalClockWidget</name>
+	<branch>refs/heads/yarism-v1.0-cta</branch>
+	<baseline>MTK6572-CTA-DIGITALCLOCKWIDGET-P1.0</baseline>
+</project>
+
+</projects>

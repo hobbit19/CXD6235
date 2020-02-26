@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6572/device</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/abi</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/bionic</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/bootable/bootloader</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BOOTLOADER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/bootable/diskinstaller</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DISKINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/bootable/recovery</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-RECOVERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/build</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/cts</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/dalvik</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/development</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/docs</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/aac</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/android-mock</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ant-glob</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/antlr</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/apache-harmony</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/apache-http</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/apache-xml</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/arduino</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/astl</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ASTL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bison</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/blktrace</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bluetooth</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bouncycastle</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bsdiff</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/bzip2</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/checkpolicy</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/chromium</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/chromium-trace</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/cibu-fonts</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CIBU-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/clang</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/compiler-rt</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dbus</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DBUS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dexmaker</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dhcpcd</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dnsmasq</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/doclava</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/dropbear</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/e2fsprogs</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/easymock</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eclipse-basebuilder</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/elfutils</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/embunit</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/emma</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/esd</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/expat</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eigen</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/eyes-free</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/fdlibm</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/flac</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/freetype</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/fsck_msdos</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ganymed-ssh2</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/gcc-demangle</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/genext2fs</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/giflib</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/google-diff-match-patch</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/grub</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GRUB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/gtest</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/guava</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/hamcrest</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/harfbuzz</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/hyphenation</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/icu4c</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ICU4C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/iproute2</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ipsec-tools</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/iptables</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/javasqlite</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/javassist</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jdiff</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jhead</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jmdns</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jmonkeyengine</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jpeg</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jsilver</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/jsr305</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+   <baseline>CALIFORNIA-SW-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/junit</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/kernel-headers</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libcap-ng</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libffi</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+   <baseline>CALIFORNIA-SW-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libgsm</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libifaddrs</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBIFADDRS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/liblzf</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libmtp</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libnfc-nci</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libnfc-nxp</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+  <name>mtk6572/external/libnfc-opennfc</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBNFC-OPENNFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libnl-headers</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libogg</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libpcap</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libphonenumber</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libpng</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libppp</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libselinux</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libsepol</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libunwind</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libusb</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libusb-compat</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libvorbis</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libvpx</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libxml2</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libxslt</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/libyuv</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/linux-tools-perf</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/littlemock</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/llvm</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/lohit-fonts</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LOHIT-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/markdown</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mdnsresponder</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mesa3d</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mksh</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mockwebserver</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mp4parser</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/mtpd</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/naver-fonts</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/netcat</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/netperf</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/neven</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/nist-sip</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/oauth</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/okhttp</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/opencv</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/openfst</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/openssh</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/openssl</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/oprofile</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ping</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ping6</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PING6-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/ppp</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/proguard</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/protobuf</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/qemu</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/qemu-pc-bios</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/regex-re2</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/replicaisland</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/safe-iop</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/sepolicy</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/skia</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/smali</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/sonivox</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/speex</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/sqlite</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/srec</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/srtp</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/stlport</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/strace</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/stressapptest</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/svox</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tagsoup</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tcpdump</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tinyalsa</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tinyxml</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tinyxml2</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/tremolo</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/v8</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-V8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/valgrind</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/webkit</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-WEBKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/webp</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/webrtc</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/wide-dhcpv6</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-WIDE-DHCPV6-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/wpa_supplicant_6</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-WPA_SUPPLICANT_6-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/wpa_supplicant_8</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/xmlwriter</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/xmp_toolkit</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/yaffs2</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/zlib</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/external/zxing</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/frameworks</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/gdk</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/hardware</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/libcore</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/libnativehelper</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/ndk</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Bluetooth</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Browser</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Calculator</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Calendar</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Camera</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/CertInstaller</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Contacts</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/DeskClock</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Email</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Exchange</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Gallery</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Gallery2</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/KeyChain</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Launcher2</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Mms</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Music</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/MusicFX</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Nfc</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Phone</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PHONE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Protips</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Provision</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/SDKGallery</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SDKGALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Settings</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/SpareParts</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Stk</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-STK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/Tag</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/VideoEditor</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/experimental</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/inputmethods/PinyinIME</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PINYINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/DrmProvider</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/MediaProvider</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/screensavers/Basic</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/screensavers/WebView</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/Basic</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/pdk</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/sdk</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/system</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/kernel</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/vendor</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-VENDOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/tools</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/prebuilts</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/packages/apps/RCSe</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-RCSE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/mediatek</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/california_wimdata_ng/wcustores</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/california_wimdata_ng/wlanguage</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/california_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/california_wimdata_ng/liv</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-LIV-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdAlcatelHelp</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdContainer</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDCONTAINER-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdDigitalClock</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDDIGITALCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdElabel</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDELABEL-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdFota</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdLauncher</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDLAUNCHER-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdMemo</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDMEMO-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdMenuKeyInduce</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDMENUKEYINDUCE-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdPowerSaver</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdSalesTracker</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDSALESTRACKER-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdSdcardUpgrade</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdSetupWizard</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdSmartCardService</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDSMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdTCLHelp</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDTCLHELP-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdTethering</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDTETHERING-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdTorch</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDTORCH-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdWeather</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDWEATHER-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdWifiP2PTransfer</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDWIFIP2PTRANSFER-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdWorldClock</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDWORLDCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/MusicWidget</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/NotePad2</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/O2Ideas</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/SyncMLClient</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/TCLWatchDog</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-TCLWATCHDOG-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/UrlReservedApps</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdWrapper</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDWRAPPER-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdCamera</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdGallery</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDGALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdDNAWeather</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDDNAWEATHER-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdPlugger</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/DigitalClockWidget</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-DIGITALCLOCKWIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdAudioEffect</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDAUDIOEFFECT-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdMMITest</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/WallpaperSelection</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-WALLPAPERSELECTION-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/SfrFota</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-SFRFOTA-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdTimeTool</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDTIMETOOL-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdSuperMode</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDSUPERMODE-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/JrdCompass</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-JRDCOMPASS-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/FrequentContactsWidget</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-FREQUENTCONTACTSWIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>jrd_hz/packages/apps/AnalogClockWidget</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>JRD-ANALOGCLOCKWIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6572/modem</name>
+    <branch>refs/heads/california-sw-v1.0-dint</branch>
+    <baseline>CALIFORNIA-SW-MODEM-P1.0</baseline>
+</project>
+</projects>

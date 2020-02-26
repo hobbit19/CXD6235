@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6581/abi</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/art</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYART-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/docs</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDOCS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/libnativehelper</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/bionic</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/bootable</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/build</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/cts</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/dalvik</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/libcore</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/development</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/developers</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/device</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/aac</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYAAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/android-clat</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/android-mock</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/ant-glob</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/antlr</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/apache-harmony</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYAPACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/apache-http</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYAPACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/apache-xml</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYAPACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/arduino</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/bison</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/blktrace</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/bluetooth</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/bouncycastle</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/bsdiff</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/bzip2</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/ceres-solver</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/checkpolicy</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/chromium</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCHROMIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/chromium-libpac</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/chromium_org</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/chromium-trace</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/clang</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/compiler-rt</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCOMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/dexmaker</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/dhcpcd</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/dnsmasq</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/doclava</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/droiddriver</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/dropbear</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDROPBEAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/e2fsprogs</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYE2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/easymock</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYEASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/eclipse-basebuilder</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/eigen</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYEIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/elfutils</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/embunit</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYEMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/emma</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYEMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/esd</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/expat</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYEXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/eyes-free</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYEYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/fdlibm</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYFDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/flac</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYFLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/freetype</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYFREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/fsck_msdos</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYFSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/ganymed-ssh2</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYGANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/gcc-demangle</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYGCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/genext2fs</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYGENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/giflib</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYGIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/google-diff-match-patch</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYGOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/grub</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYGRUB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/gtest</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYGTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/guava</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYGUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/hamcrest</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYHAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/harfbuzz</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYHARFBUZZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/harfbuzz_ng</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYHARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/hyphenation</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYHYPHENATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/icu4c</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYICU4C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/iproute2</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYIPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/ipsec-tools</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYIPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/iptables</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYIPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/iputils</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYIPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/javasqlite</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/javassist</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/jdiff</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/jhead</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/jmdns</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/jmonkeyengine</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/jpeg</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJPEG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/jsilver</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/jsr305</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/junit</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/kernel-headers</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYKERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/LaunchPPPoe</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLAUNCHPPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libcap-ng</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libffi</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libgsm</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libifaddrs</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBIFADDRS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/liblzf</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libmtp</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libnfc-nci</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libnfc-nxp</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libnl-headers</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libogg</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libpcap</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libphonenumber</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libpng</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libppp</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libselinux</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libsepol</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libusb</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libusb-compat</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libvorbis</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libvpx</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libxml2</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libxslt</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBXSLT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/libyuv</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/linux-tools-perf</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/littlemock</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/llvm</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/lzma</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLZMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/marisa-trie</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/markdown</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/mdnsresponder</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/mesa3d</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/mksh</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/mockito</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/mockwebserver</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/mp4parser</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/mtpd</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/naver-fonts</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYNAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/netcat</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYNETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/netperf</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYNETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/neven</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYNEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/nist-pkits</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYNIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/nist-sip</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYNIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/noto-fonts</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYNOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/oauth</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYOAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/objenesis</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYOBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/okhttp</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYOKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/opencv</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYOPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/openfst</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYOPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/openssh</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYOPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/openssl</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYOPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/open-vcdiff</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYOPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/oprofile</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYOPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/pixman</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/ppp</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/pppoe</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/proguard</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/protobuf</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/qemu</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYQEMU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/qemu-pc-bios</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYQEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/regex-re2</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYREGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/replicaisland</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYREPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/robolectric</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/safe-iop</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/scrypt</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/sepolicy</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/sfntly</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/sil-fonts</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSIL-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/skia</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/smack</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSMACK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/smali</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/sonivox</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/speex</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/sqlite</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/srec</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSREC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/srtp</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/stlport</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSTLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/strace</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/stressapptest</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSTRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/svox</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/tagsoup</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/tcpdump</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/timezonepicker-support</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/tinyalsa</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/tinycompress</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/tinyxml</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/tinyxml2</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/tremolo</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/v8</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYV8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/valgrind</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYVALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/webp</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYWEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/webrtc</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYWEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/wide-dhcpv6</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYWIDE-DHCPV6-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/wpa_supplicant_8</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYWPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/xmlwriter</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYXMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/xmp_toolkit</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYXMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/yaffs2</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYYAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/zlib</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/external/zxing</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/frameworks</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYFRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/hardware</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYHARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/kernel</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYKERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/mediatek</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/modem</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMODEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/ndk</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYNDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Bluetooth</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Browser</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Calculator</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Calendar</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Camera</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/CertInstaller</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Contacts</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/DeskClock</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Email</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Gallery</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYGALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYHTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Launcher2</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Mms</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Music</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Protips</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Provision</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYQUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Settings</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Stk</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSTK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Tag</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYVOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/DeviceTestApp</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDEVICETESTAPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Camera2</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Dialer</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/InCallUI</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYINCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Launcher3</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYUNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/services/Telephony</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTELEPHONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/experimental</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYEXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYOPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/inputmethods/PinyinIME</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPINYINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYAPPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYCONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/providers/DrmProvider</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYDRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/providers/MediaProvider</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYUSERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/wallpapers/Basic</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Exchange</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYEXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Gallery2</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYGALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/KeyChain</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYKEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/MusicFX</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/Nfc</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYNFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/SpareParts</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/VideoEditor</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYVIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/screensavers/Basic</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYBASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/screensavers/WebView</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYWEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYGALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYHOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYNOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/packages/apps/JrdApp2SDCard</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDAPP2SDCARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/mtk6581_wimdata_ng/liv</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYLIV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/mtk6581_wimdata_ng/wcustores</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYWCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/mtk6581_wimdata_ng/wlanguage</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYWLANGUAGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/mtk6581_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYWPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdMMITest</name>
+    <branch>refs/heads/JrdMMITest-v1.0-dint</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDMMITEST-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdFota</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDFOTA-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdTethering</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDTETHERING-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdElabel</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDELABEL-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdAlcatelHelp</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdTimeTool</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDTIMETOOL-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdWeather</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDWEATHER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdCompass</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDCOMPASS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSetupWizard</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDSETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/NoteNew</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYNOTENEW-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdLauncher</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDLAUNCHER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdCamera</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdGallery</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDGALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdLockscreen</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYJRDLOCKSCREEN-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/MusicWidget</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYMUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/pdk</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/tools</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/prebuilts</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYPREBUILTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/sdk</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/system</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYSYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6581/vendor</name>
+    <branch>refs/heads/pixi34-tmous-v1.0-SYS</branch>
+    <baseline>PIXI34-TMOUS-PRESTUDYVENDOR-P1.0</baseline>
+</project>
+</projects>

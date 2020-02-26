@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>genericapp_hz/OnetouchBooster</name>
+	<branch>refs/heads/OnetouchBooster_TCTROM_dev</branch>
+	<baseline>TCTROM-PROJECT</baseline>
+</project>
+<project>
+	<name>genericapp_APP3/SmartTv</name>
+	<branch>refs/heads/SmartTv_TCTROM_dev</branch>
+	<baseline>TCTROM-PROJECT</baseline>
+</project>
+<project>
+        <name>genericapp_APP3/Fota</name>
+        <branch>refs/heads/Fota_TCTROM_01_mp</branch>
+        <baseline>TCTROM-PROJECT</baseline>
+</project>
+<project>
+        <name>genericapp_APP3/UserCare</name>
+        <branch>refs/heads/UserCare_TCTROM_02</branch>
+        <baseline>TCTROM-PROJECT</baseline>
+</project>
+<project>
+	<name>genericapp_APP3/TCLHome</name>
+	<branch>refs/heads/TCLHome_TCTROM_dev</branch>
+	<baseline>TCTROM-PROJECT</baseline>
+</project>
+<project>
+       <name>genericapp_APP3/IR_Control</name>
+       <branch>refs/heads/IR_Control_Rel1_dev</branch>
+       <baseline>SWD-PROJECT</baseline>
+</project>
+<project>
+       <name>genericapp_APP3/Filemanager</name>
+       <branch>refs/heads/FileManager_RelQ_dev</branch>
+       <baseline>SWD-PROJECT</baseline>
+</project>
+</projects>
+

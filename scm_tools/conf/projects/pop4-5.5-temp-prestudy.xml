@@ -1,0 +1,1684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6735/libcore</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/dalvik</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/build</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/vendor</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-VENDOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/device</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/system</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/ndk</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/abi</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/hardware</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/bionic</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/cts</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/frameworks</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/development</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/sdk</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/kernel</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/modem</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MODEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/art</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ART-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/md32</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MD32-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jhead</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libffi</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/svox</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/srec</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/proguard</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jdiff</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/apache-http</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tremolo</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/strace</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/dhcpcd</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/webp</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mtpd</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/skia</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/bouncycastle</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libyuv</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libpng</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/clang</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/apache-xml</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/android-mock</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/liblzf</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/qemu</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/guava</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/dnsmasq</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/stlport</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jpeg</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ipsec-tools</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/netcat</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/blktrace</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/antlr</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/neven</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jsr305</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ppp</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libpcap</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libphonenumber</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/junit</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/embunit</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/wpa_supplicant_8</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/yaffs2</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/opencv</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jsilver</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/llvm</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/zlib</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/speex</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/srtp</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mksh</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/genext2fs</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/eyes-free</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/nist-sip</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/safe-iop</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/kernel-headers</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/qemu-pc-bios</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mesa3d</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/bzip2</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libgsm</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/iproute2</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libxml2</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/oauth</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/bison</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/webrtc</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/protobuf</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/emma</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/apache-harmony</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libvpx</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/google-diff-match-patch</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/gtest</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tinyxml</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/expat</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/doclava</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/netperf</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/sqlite</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/fdlibm</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tcpdump</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/freetype</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/bsdiff</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/bluetooth</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/giflib</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libnfc-nxp</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tinyalsa</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tagsoup</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/openssl</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/sonivox</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/flac</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/markdown</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/javassist</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/iptables</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/oprofile</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/e2fsprogs</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mockwebserver</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/easymock</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/esd</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/javasqlite</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/elfutils</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/fsck_msdos</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/valgrind</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/xmlwriter</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/replicaisland</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/aac</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/checkpolicy</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/chromium-trace</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/compiler-rt</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/dexmaker</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/eclipse-basebuilder</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ganymed-ssh2</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/gcc-demangle</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jmdns</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jmonkeyengine</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libmtp</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libselinux</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libsepol</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libunwind</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libusb</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libusb-compat</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/linux-tools-perf</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/littlemock</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mdnsresponder</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/openfst</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/hamcrest</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/regex-re2</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/sepolicy</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/smali</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/zxing</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ant-glob</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/arduino</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libnfc-nci</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libogg</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libppp</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libvorbis</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mp4parser</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/naver-fonts</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/okhttp</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/stressapptest</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tinyxml2</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libcap-ng</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/xmp_toolkit</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/eigen</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/harfbuzz_ng</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/lzma</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/robolectric</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/droiddriver</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/android-clat</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/roboto-fonts</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/owasp</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-OWASP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/nanopb-c</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/timezonepicker-support</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libexif</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jsoncpp</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JSONCPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/scrypt</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ceres-solver</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/noto-fonts</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/icu</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ICU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/zopfli</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jetty</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JETTY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/glide</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GLIDE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/nfacct</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NFACCT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/pixman</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/open-vcdiff</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jline</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JLINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libcxx</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBCXX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/f2fs-tools</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libutf</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBUTF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/smack</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SMACK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libcxxabi</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jsmn</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JSMN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/iputils</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libedit</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libhevc</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ksoap2</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-KSOAP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/nanohttpd</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/vixl</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-VIXL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libopus</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/pdfium</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PDFIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jemalloc</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/sfntly</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/marisa-trie</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/lldb</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LLDB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/cmockery</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/fonttools</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libnl</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBNL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/libvterm</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/chromium-libpac</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/ltrace</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/google-tv-pairing-protocol</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/deqp</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DEQP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/tinycompress</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/objenesis</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/mockito</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/jarjar</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JARJAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/chromium_org</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/conscrypt</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/google-fonts</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/fio</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-FIO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/nist-pkits</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/lohit-fonts</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LOHIT-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/pcre</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PCRE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/libnativehelper</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/pdk</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/bootable</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/experimental</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/MediaProvider</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/providers/TvProvider</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/Basic</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Browser</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/CertInstaller</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Music</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Calculator</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Contacts</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Gallery</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/SpareParts</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/KeyChain</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Protips</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Tag</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Stk</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-STK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Nfc</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Launcher2</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/MusicFX</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Provision</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Mms</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Email</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Calendar</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Settings</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Bluetooth</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Exchange</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/DeskClock</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/screensavers/Basic</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/screensavers/WebView</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Gallery2</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/OMA-DM</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-OMA-DM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Dialer</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Camera2</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Launcher3</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/TvSettings</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Camera</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/ManagedProvisioning</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/Terminal</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TERMINAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/InCallUI</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/packages/services</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SERVICES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/android-emulator</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/devtools</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/eclipse</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gradle-plugin</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/libs</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LIBS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/maven_repo</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/misc</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MISC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/ndk</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/python</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-PYTHON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/qemu-kernel</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/runtime</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-RUNTIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/sdk</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/tools</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/clang/darwin-x86</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/clang/linux-x86</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/darwin-x86/aarch64</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-AARCH64-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/darwin-x86/arm</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ARM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/darwin-x86/host</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-HOST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/darwin-x86/mips</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/darwin-x86/x86</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/linux-x86/aarch64</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-AARCH64-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/linux-x86/arm</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-ARM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/linux-x86/host</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-HOST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/linux-x86/mips</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/prebuilts/gcc/linux-x86/x86</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/tools</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/developers</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/docs</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdMMITest</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/mtk6735_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/mtk6735_wimdata_ng/wlanguage</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/mtk6735_wimdata_ng/wcustores</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdApp2SDCard</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDAPP2SDCARD-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdGuestMode</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDGUESTMODE-P1.0</baseline>
+</project>
+
+<project>
+    <name>tcl/packages/apps/UrlReservedApps</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdElabel</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDELABEL-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/O2Ideas</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdContainer</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDCONTAINER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSdcardUpgrade</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/JrdTest</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDTEST-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/TclTest</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TCLTEST-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdTorch</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDTORCH-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/FotaTools</name>
+    <branch>refs/heads/pixi3-4.5-4g-androidl-v1.0-dint</branch>
+    <baseline>POP455-TEMP-FOTATOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/JrdLogger</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDLOGGER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdPlugger</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/TctWifiDisplayShortcut</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-TCTWIFIDISPLAYSHORTCUT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6735/external/dta</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-DTA-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdEmail</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdFindMyPhone</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-JRDFINDMYPHONE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/SyncMLClient</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/QuickTranslate</name>
+    <branch>refs/heads/pop4-5.5-temp-prestudy</branch>
+    <baseline>POP455-TEMP-QUICKTRANSLATE-P1.0</baseline>
+</project>
+</projects>

@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/liv</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wcustores</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wplmn</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WPLMN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wtheme</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WTHEME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wtime</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WTIME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bionic</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bootable</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/build</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/cts</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/dalvik</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/libcore</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/development</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/device</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/apache-http</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/astl</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-ASTL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bison</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blisrc</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BLISRC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blktrace</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/bluez</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BLUETOOTH-BLUEZ-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/glib</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BLUETOOTH-GLIB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/hcidump</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BLUETOOTH-HCIDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bouncycastle</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bsdiff</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bzip2</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/chromium</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/clearsilver</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CLEARSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dbus</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dhcpcd</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dnsmasq</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dropbear</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/e2fsprogs</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/easymock</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfcopy</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-ELFCOPY-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfutils</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/embunit</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/emma</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/esd</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-esd-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/expat</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fdlibm</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fsck_msdos</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/genext2fs</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/giflib</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/grub</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-GRUB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/gtest</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/guava</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/icu4c</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-ICU4C-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iproute2</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ipsec-tools</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iptables</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jdiff</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jhead</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jpeg</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jsr305</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/junit</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/kernel-headers</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libffi</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libgsm</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libnfc-nxp</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpcap</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpng</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libvpx</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-libvpx-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libxml2</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/mtpd</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netcat</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netperf</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/neven</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/nist-sip</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oauth</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/opencore</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-OPENCORE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/openssl</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-OPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oprofile</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-OPROFILE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ping</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-PING-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ppp</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/proguard</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/protobuf</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/qemu</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/safe-iop</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia_asm</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SKIA_ASM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sonivox</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-sonivox-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/speex</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-speex-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sqlite</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/srec</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SREC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/stlport</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-STLPORT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/strace</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/svox</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tagsoup</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-tagsoup-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tcpdump</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-tcpdump-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tinyxml</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-tinyxml-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tremolo</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/v8</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-V8-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/webkit</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WEBKIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WPA_SUPPLICANT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant_6</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WPA_SUPPLICANT_6-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/xmlwriter</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/yaffs2</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-YAFFS2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/zlib</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-ZLIB-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/frameworks1</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/hardware</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/kernel</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mediatek</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/ndk</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-NDK-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/AccountsAndSyncSettings</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-ACCOUNTSANDSYNCSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Bluetooth</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BLUETOOTH-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/Browser</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calculator</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calendar</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Camera</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CameraOpen</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CAMERAOPEN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CellConnService</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CELLCONNSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CertInstaller</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Contacts</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DeskClock</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Email</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery3D</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-GALLERY3D-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-HTMLViewer-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Launcher2</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-Launcher2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Mms</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Music</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Phone</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Protips</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Provision</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-Provision-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Settings</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Stk</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-STK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Tag</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-VOICEDIALER-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/experimental</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DrmProvider</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-GOOGLECONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/MediaProvider</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/Basic</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/Basic</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WALLPAPERS_GLES20-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/LivePicker</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WALLPAPERS_GLES20-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MagicSmoke</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WALLPAPERS_GLES20-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MusicVisualization</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-WALLPAPERS_GLES20-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MMITest</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-MMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdLauncher</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JRDLAUNCHER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JRDEMAILFEEDBACK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdFota</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JRDTCLHELP-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/TrafficManager</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-TRAFFICMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/NotePad2</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdContainer  </name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-JRDCONTAINER-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/APKInstallerHelper </name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-APKINSTALLERHELPER-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DRMAGENTPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DrmUtility</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DRMUTILITY-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/drmagent</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-DRMAGENT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SecureClock</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SECURECLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MusicWidget</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-TCLWATCHDOG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/O2Ideas</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/prebuilt</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-PREBUILT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/sdk</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/system</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/vendor</name>
+	<branch>refs/heads/beetlelite-cu-v1.0-dint</branch>
+	<baseline>BEETLELITE-CU-VENDOR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/modem_mt6575m</name>
+	<branch>refs/heads/beetlelite-cu-V39_F2_HSPA_L4</branch>
+	<baseline>BEETLELITE-CU-MODEM_MT6575M-P1.0</baseline>
+</project>
+</projects>

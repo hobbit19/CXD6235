@@ -1,0 +1,3808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>alps/version_babyd</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VERSION_BABYD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/art</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ART-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/bionic</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BIONIC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/bootable/bootloader/lk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/bootable/recovery</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-RECOVERY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/blueprint</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BLUEPRINT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/kati</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-KATI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/make</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MAKE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/soong</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SOONG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/compatibility/cdd</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CDD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/cts</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CTS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/dalvik</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DALVIK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/developers/build</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BUILD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/developers/demos</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DEMOS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/developers/samples/android</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SAMPLES-ANDROID-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/development</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DEVELOPMENT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/common</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DEVICE-COMMON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/arm64</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ARM64-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ARMV7-A-NEON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/car</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GENERIC-CAR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/common</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GENERIC-COMMON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/goldfish</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOLDFISH-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOLDFISH-OPENGL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/lionhead</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIONHEAD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MINI-EMULATOR-ARM64-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MINI-EMULATOR-ARMV7-A-NEON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MINI-EMULATOR-X86-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MINI-EMULATOR-X86_64-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/qemu</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QEMU-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/uml</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-UML-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/x86</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-X86-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/x86_64</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-X86_64-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/accessory/arduino</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ARDUINO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/accessory/demokit</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DEMOKIT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/atv</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ATV-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/contexthub</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CONTEXTHUB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/muskie</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MUSKIE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/taimen</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TAIMEN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/vrservices</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VRSERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/wahoo</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WAHOO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/wahoo-kernel</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WAHOO-KERNEL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/jrdcom</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DEVICE-JRDCOM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/apq8098_latv</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APQ8098_LATV-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/common</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCOM-COMMON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8909</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MSM8909-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8909go</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MSM8909GO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8937_32</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MSM8937_32-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8937_32go</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MSM8937_32GO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8937_64</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MSM8937_64-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8953_32</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MSM8953_32-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8953_64</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MSM8953_64-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8996</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MSM8996-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8998</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MSM8998-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/qssi</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QSSI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/sdm660_32</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SDM660_32-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/sdm660_64</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SDM660_64-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/sepolicy</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCOM-SEPOLICY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/wlan</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCOM-WLAN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/sample</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SAMPLE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ImageMagick</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-IMAGEMAGICK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/Microsoft-GSL</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MICROSOFT-GSL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/aac</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-AAC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/abi-compliance-checker</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ABI-COMPLIANCE-CHECKER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/abi-dumper</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ABI-DUMPER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/adhd</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ADHD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/android-clat</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ANDROID-CLAT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/androidplot</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ANDROIDPLOT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/annotation-tools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ANNOTATION-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-glob</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ANT-GLOB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ANT_NATIVE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ANT_SERVICE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/antlr</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ANTLR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-commons-math</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APACHE-COMMONS-MATH-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-harmony</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APACHE-HARMONY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-http</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APACHE-HTTP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-xml</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APACHE-XML-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/archive-patcher</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ARCHIVE-PATCHER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/arm-optimized-routines</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ARM-OPTIMIZED-ROUTINES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/autotest</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-AUTOTEST-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/avb</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-AVB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bart</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BART-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/blktrace</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BLKTRACE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/boringssl</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BORINGSSL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bouncycastle</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BOUNCYCASTLE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/brotli</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BROTLI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bsdiff</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BSDIFF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bzip2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BZIP2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/caliper</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CALIPER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/capstone</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CAPSTONE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/cblas</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CBLAS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-libpac</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CHROMIUM-LIBPAC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-trace</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CHROMIUM-TRACE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-webview</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CHROMIUM-WEBVIEW-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/clang</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CLANG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/cmockery</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CMOCKERY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/cn-cbor</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CN-CBOR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/compiler-rt</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-COMPILER-RT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/conscrypt</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CONSCRYPT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/crcalc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CRCALC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/cros/system_api</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SYSTEM_API-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/curl</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CURL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dagger2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DAGGER2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/deqp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EXTERNAL-DEQP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/desugar</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DESUGAR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/devlib</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DEVLIB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dexmaker</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DEXMAKER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DHCPCD-6.8.2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dlmalloc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DLMALLOC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dng_sdk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DNG_SDK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dnsmasq</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DNSMASQ-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/doclava</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DOCLAVA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/donuts</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DONUTS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/drm_gralloc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DRM_GRALLOC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/drm_hwcomposer</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DRM_HWCOMPOSER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/droiddriver</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DROIDDRIVER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/drrickorang</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DRRICKORANG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dtc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DTC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/e2fsprogs</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-E2FSPROGS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/easymock</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EASYMOCK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/eigen</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EIGEN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/elfutils</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ELFUTILS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/emma</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EMMA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/error_prone</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ERROR_PRONE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/esd</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ESD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/expat</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EXPAT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/eyes-free</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EYES-FREE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/f2fs-tools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-F2FS-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fdlibm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FDLIBM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fec</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FEC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fio</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FIO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/flac</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FLAC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/flatbuffers</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FLATBUFFERS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fmtlib</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FMTLIB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fonttools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FONTTOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/freetype</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FREETYPE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fsck_msdos</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FSCK_MSDOS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/gemmlowp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GEMMLOWP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/gflags</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GFLAGS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/giflib</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GIFLIB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/glide</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GLIDE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/golang-protobuf</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOLANG-PROTOBUF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-api-services-storage</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-API-SERVICES-STORAGE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-benchmark</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-BENCHMARK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-breakpad</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-BREAKPAD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CARROIS-GOTHIC-SC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-COMING-SOON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CUTIVE-MONO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DANCING-SCRIPT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-styleguide</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-STYLEGUIDE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-TV-PAIRING-PROTOCOL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/googletest</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLETEST-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/gptfdisk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GPTFDISK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/guava</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GUAVA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/guice</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GUICE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/hamcrest</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HAMCREST-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/harfbuzz_ng</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HARFBUZZ_NG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/honggfuzz</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HONGGFUZZ-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/hyphenation-patterns</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HYPHENATION-PATTERNS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/icu</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ICU-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ims</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EXTERNAL-IMS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iproute2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-IPROUTE2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ipsec-tools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-IPSEC-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iptables</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-IPTABLES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iputils</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-IPUTILS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iw</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-IW-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jacoco</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JACOCO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jarjar</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JARJAR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/javaparser</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JAVAPARSER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/javasqlite</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JAVASQLITE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/javassist</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JAVASSIST-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jcommander</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JCOMMANDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jdiff</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JDIFF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jemalloc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JEMALLOC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jline</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JLINE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jmdns</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JMDNS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsilver</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JSILVER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsmn</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JSMN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/json-c</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JSON-C-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsoncpp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JSONCPP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsr305</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JSR305-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsr330</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JSR330-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/junit</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JUNIT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/junit-params</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JUNIT-PARAMS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/kernel-headers</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-KERNEL-HEADERS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/kmod</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-KMOD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/kotlinc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-KOTLINC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ksoap2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-KSOAP2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libavc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBAVC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libbackup</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBBACKUP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libbrillo</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBBRILLO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcap</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBCAP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcap-ng</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBCAP-NG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libchrome</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBCHROME-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libconstrainedcrypto</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBCONSTRAINEDCRYPTO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcups</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBCUPS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcxx</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBCXX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcxxabi</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBCXXABI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdaemon</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBDAEMON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdivsufsort</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBDIVSUFSORT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdrm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBDRM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libedit</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EXTERNAL-LIBEDIT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libese</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBESE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libevent</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBEVENT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libexif</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBEXIF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libffi</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBFFI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libgsm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBGSM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libhevc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBHEVC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libjpeg-turbo</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBJPEG-TURBO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libldac</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBLDAC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/liblzf</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBLZF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmicrohttpd</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBMICROHTTPD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmojo</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBMOJO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmpeg2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBMPEG2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmtp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBMTP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBNETFILTER_CONNTRACK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnfnetlink</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBNFNETLINK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnl</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBNL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libogg</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBOGG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libopus</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBOPUS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libpcap</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBPCAP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libphonenumber</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBPHONENUMBER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libpng</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBPNG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libtextclassifier</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBTEXTCLASSIFIER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libunwind</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBUNWIND-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libunwind_llvm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBUNWIND_LLVM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libusb</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBUSB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libusb-compat</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBUSB-COMPAT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvncserver</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBVNCSERVER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvorbis</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBVORBIS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvpx</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBVPX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvterm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBVTERM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libxaac</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBXAAC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libxcam</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBXCAM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libxkbcommon</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBXKBCOMMON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libxml2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBXML2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libyuv</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBYUV-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/linux-kselftest</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LINUX-KSELFTEST-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lisa</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LISA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/littlemock</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LITTLEMOCK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lld</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LLD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/llvm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LLVM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lmfit</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LMFIT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ltp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LTP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lz4</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LZ4-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lzma</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LZMA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/markdown</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MARKDOWN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mdnsresponder</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MDNSRESPONDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mesa3d</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MESA3D-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/messageformat</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MESSAGEFORMAT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/minijail</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MINIJAIL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mksh</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MKSH-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mmc-utils</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EXTERNAL-MMC-UTILS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockftpserver</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MOCKFTPSERVER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockito</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MOCKITO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockwebserver</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MOCKWEBSERVER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/modp_b64</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MODP_B64-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mp4parser</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MP4PARSER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mtpd</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MTPD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nanohttpd</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NANOHTTPD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nanopb-c</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NANOPB-C-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/naver-fonts</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NAVER-FONTS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/netcat</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NETCAT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/neven</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NEVEN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nfacct</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NFACCT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nist-pkits</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NIST-PKITS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nist-sip</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NIST-SIP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nos/host/android</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HOST-ANDROID-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nos/host/generic</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GENERIC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nos/test/system-test-harness</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SYSTEM-TEST-HARNESS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/noto-fonts</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NOTO-FONTS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/oauth</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OAUTH-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/objenesis</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OBJENESIS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/oj-libjdwp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OJ-LIBJDWP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/okhttp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OKHTTP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/one-true-awk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ONE-TRUE-AWK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/opencv</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENCV-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/openssh</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENSSH-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/owasp/sanitizer</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SANITIZER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/parameter-framework</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PARAMETER-FRAMEWORK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/pcre</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PCRE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/pdfium</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PDFIUM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/perf_data_converter</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PERF_DATA_CONVERTER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/perfetto</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PERFETTO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/piex</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PIEX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ply</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EXTERNAL-PLY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ppp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PPP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/proguard</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROGUARD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/protobuf</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EXTERNAL-PROTOBUF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/puffin</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PUFFIN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/Pillow</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PILLOW-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/appdirs</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APPDIRS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/cachetools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CACHETOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/cpython2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CPYTHON2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/cpython3</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CPYTHON3-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/dill</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DILL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/enum</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ENUM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/enum34</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ENUM34-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/future</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FUTURE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/futures</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FUTURES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/gapic-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GAPIC-GOOGLE-CLOUD-PUBSUB-V1-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-api-python-client</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-API-PYTHON-CLIENT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-auth</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-AUTH-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-auth-httplib2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-AUTH-HTTPLIB2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-cloud-core</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-CLOUD-CORE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-cloud-pubsub</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-CLOUD-PUBSUB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-gax</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-GAX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/googleapis</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLEAPIS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/grpc-google-iam-v1</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GRPC-GOOGLE-IAM-V1-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/grpcio</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GRPCIO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/httplib2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HTTPLIB2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/matplotlib</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MATPLOTLIB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/numpy</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NUMPY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/oauth2client</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OAUTH2CLIENT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/olefile</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OLEFILE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/packaging</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PACKAGING-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/parse</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PARSE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/ply</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PYTHON-PLY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/proto-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROTO-GOOGLE-CLOUD-PUBSUB-V1-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/protobuf</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PYTHON-PROTOBUF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/pyasn1</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PYASN1-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/pyasn1-modules</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PYASN1-MODULES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/pyparsing</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PYPARSING-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/requests</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-REQUESTS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/rsa</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-RSA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/scipy</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SCIPY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/setuptools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SETUPTOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/six</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SIX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/uritemplates</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-URITEMPLATES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/rappor</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-RAPPOR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/replicaisland</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-REPLICAISLAND-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/rmi4utils</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-RMI4UTILS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/robolectric</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ROBOLECTRIC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/robolectric-shadows</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ROBOLECTRIC-SHADOWS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/roboto-fonts</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ROBOTO-FONTS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/rootdev</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ROOTDEV-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/safe-iop</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SAFE-IOP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/scapy</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SCAPY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/scrypt</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SCRYPT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/seccomp-tests</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SECCOMP-TESTS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/selinux</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SELINUX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sfntly</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SFNTLY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/shaderc/spirv-headers</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SPIRV-HEADERS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/shflags</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SHFLAGS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/skia</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SKIA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sl4a</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SL4A-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/slf4j</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SLF4J-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/smali</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SMALI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/snakeyaml</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SNAKEYAML-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sonic</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SONIC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sonivox</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SONIVOX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/speex</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SPEEX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/spirv-llvm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SPIRV-LLVM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sqlite</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SQLITE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/squashfs-tools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SQUASHFS-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/strace</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-STRACE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/stressapptest</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-STRESSAPPTEST-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/swiftshader</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SWIFTSHADER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/syslinux</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SYSLINUX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tagsoup</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TAGSOUP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tcpdump</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TCPDUMP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tensorflow</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TENSORFLOW-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/testng</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TESTNG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/timezonepicker-support</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TIMEZONEPICKER-SUPPORT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyalsa</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TINYALSA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinycompress</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TINYCOMPRESS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyxml</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TINYXML-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyxml2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TINYXML2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/toybox</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TOYBOX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tpm2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TPM2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/trappy</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TRAPPY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tremolo</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TREMOLO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/turbine</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TURBINE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/unicode</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-UNICODE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/universal-tween-engine</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-UNIVERSAL-TWEEN-ENGINE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/v4l2_codec2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-V4L2_CODEC2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/v8</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-V8-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/valgrind</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VALGRIND-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vboot_reference</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VBOOT_REFERENCE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vixl</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VIXL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vogar</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VOGAR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/volley</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VOLLEY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vulkan-validation-layers</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VULKAN-VALIDATION-LAYERS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/walt</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WALT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/wayland</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WAYLAND-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/wayland-protocols</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WAYLAND-PROTOCOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/webp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WEBP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/webrtc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WEBRTC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/webview_support_interfaces</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WEBVIEW_SUPPORT_INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/wpa_supplicant_8</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WPA_SUPPLICANT_8-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/wycheproof</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WYCHEPROOF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/x264</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-X264-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmlrpcpp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-XMLRPCPP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmlwriter</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-XMLWRITER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmp_toolkit</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-XMP_TOOLKIT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xz-embedded</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-XZ-EMBEDDED-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/zlib</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ZLIB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/zopfli</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ZOPFLI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/zxing</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ZXING-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/av</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FRAMEWORKS-AV-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/base</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BASE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/libbcc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBBCC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/mclinker</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MCLINKER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/slang</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SLANG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/data-binding</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DATA-BINDING-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/ex</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HARDWARE-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/layoutlib</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LAYOUTLIB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/minikin</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MINIKIN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/ml</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ML-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/multidex</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MULTIDEX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/native</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NATIVE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/bitmap</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BITMAP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/calendar</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPT-CALENDAR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/car/services</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/car/setupwizard</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CAR-SETUPWIZARD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/chips</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CHIPS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-COLORPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DATETIMEPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/inputconnectioncommon</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-INPUTCONNECTIONCOMMON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/inputmethodcommon</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-INPUTMETHODCOMMON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ETHERNET-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/ims</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NET-IMS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/lowpan</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LOWPAN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/voip</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VOIP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WIFI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PHOTOVIEWER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPT-SETUPWIZARD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/telephony</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPT-TELEPHONY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TIMEZONEPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/vcard</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VCARD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/rs</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-RS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/support</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SUPPORT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/wilhelm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WILHELM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/akm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-AKM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/google/apf</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/google/av</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-AV-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/google/easel</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EASEL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/google/interfaces</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/interfaces</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HARDWARE-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/invensense</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-INVENSENSE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/libhardware</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBHARDWARE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/libhardware_legacy</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBHARDWARE_LEGACY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/nxp/nfc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NXP-NFC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/nxp/secure_element</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SECURE_ELEMENT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/audio</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCOM-AUDIO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BOOTCTRL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/bt</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCOM-BT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/camera</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/display</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCOM-DISPLAY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/gps</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCOM-GPS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/media</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCOM-MEDIA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/vr</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/wlan</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCOM-WLAN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/ril</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-RIL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/kernel/configs</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CONFIGS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/kernel/msm-4.9</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MSM-4.9-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/libcore</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBCORE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/libnativehelper</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBNATIVEHELPER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/nonhlos</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NONHLOS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BASICSMSRECEIVER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Bluetooth</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APPS-BLUETOOTH-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Browser2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BROWSER2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CMFileManager</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CMFILEMANAGER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Calendar</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APPS-CALENDAR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Camera2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CAMERA2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CAR-DIALER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HVAC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CAR-LATINIME-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Launcher</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LAUNCHER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LENSPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LOCALMEDIAPLAYER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Media</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CAR-MEDIA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MESSENGER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Overview</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OVERVIEW-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Radio</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-RADIO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Settings</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CAR-SETTINGS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Stream</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-STREAM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SYSTEMUPDATER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/UserManagement</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-USERMANAGEMENT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/libs</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CARRIERCONFIG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CELLBROADCASTRECEIVER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CertInstaller</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CERTINSTALLER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Contacts</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CONTACTS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DeskClock</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DESKCLOCK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DevCamera</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DEVCAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Dialer</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APPS-DIALER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DOCUMENTSUI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Email</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EMAIL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EMERGENCYINFO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EXACTCALCULATOR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Exchange</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EXCHANGE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Gallery</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GALLERY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Gallery2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GALLERY2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HTMLVIEWER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/KeyChain</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-KEYCHAIN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Launcher2</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LAUNCHER2-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Launcher3</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LAUNCHER3-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LEGACYCAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MANAGEDPROVISIONING-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Messaging</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MESSAGING-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Mms</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APPS-MMS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Music</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MUSIC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/MusicFX</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MUSICFX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Nfc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APPS-NFC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ONETIMEINITIALIZER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PACKAGEINSTALLER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PHONECOMMON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Protips</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROTIPS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Provision</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROVISION-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QUICKSEARCHBOX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SAFETYREGULATORYINFO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SecureElement</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SECUREELEMENT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Settings</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APPS-SETTINGS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SettingsIntelligence</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SETTINGSINTELLIGENCE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SmartCardService</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APPS-SMARTCARDSERVICE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SNAPDRAGONCAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonGallery</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SNAPDRAGONGALLERY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonMusic</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SNAPDRAGONMUSIC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SOUNDRECORDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SpareParts</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SPAREPARTS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Stk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-STK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/StorageManager</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-STORAGEMANAGER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TV</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TV-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Tag</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TAG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Terminal</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TERMINAL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TEST-CONNECTIVITY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TIMEZONEDATA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TIMEZONEUPDATER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Traceur</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TRACEUR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TvSettings</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TVSETTINGS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-UNIFIEDEMAIL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WALLPAPERPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/experimental</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EXPERIMENTAL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-INPUTMETHODS-LATINIME-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENWNN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APPLICATIONSPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BLOCKEDNUMBERPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BOOKMARKPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CALENDARPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CALLLOGPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CONTACTSPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DOWNLOADPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/MediaProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MEDIAPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PARTNERBOOKMARKSPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TELEPHONYPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/TvProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TVPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-USERDICTIONARYPROVIDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/Basic</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BASIC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PHOTOTABLE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/WebView</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WEBVIEW-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BUILTINPRINTSERVICE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Car</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SERVICES-CAR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Mms</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SERVICES-MMS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/NetworkRecommendation</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NETWORKRECOMMENDATION-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Rcs</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-RCS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Telecomm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TELECOMM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Telephony</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SERVICES-TELEPHONY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIVEPICKER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/pdk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PDK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/platform_testing</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PLATFORM_TESTING-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ABI-DUMPS-NDK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ABI-DUMPS-VNDK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/android-emulator</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ANDROID-EMULATOR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/build-tools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BUILD-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/checkcolor</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CHECKCOLOR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/checkstyle</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CHECKSTYLE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/clang-tools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CLANG-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HOST-LINUX-X86-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/deqp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PREBUILTS-DEQP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/devtools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DEVTOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-AARCH64-LINUX-ANDROID-4.9-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ARM-EABI-4.8-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ARM-LINUX-ANDROIDEABI-4.9-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-X86_64-LINUX-GLIBC2.15-4.8-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-X86_64-W64-MINGW32-4.8-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-X86_64-LINUX-ANDROID-4.9-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GDB-LINUX-X86-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GO-LINUX-X86-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GRADLE-PLUGIN-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JDK8-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/jdk/jdk9</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JDK9-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/libs/libedit</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBS-LIBEDIT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MAVEN_REPO-ANDROID-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BUMPTECH-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/misc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MISC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/ndk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PREBUILTS-NDK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-2.7.5-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QEMU-KERNEL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/r8</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-R8-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/sdk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PREBUILTS-SDK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/tools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PREBUILTS-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/vndk/v27</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-V27-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/sdk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SDK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/shortcut-fe</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SHORTCUT-FE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/bt</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SYSTEM-BT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/ca-certificates</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CA-CERTIFICATES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/chre</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CHRE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/connectivity/wificond</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WIFICOND-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/connectivity/wifilogd</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WIFILOGD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/core</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SYSTEM-CORE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/extras</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-EXTRAS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/gatekeeper</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GATEKEEPER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/hardware/interfaces</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HARDWARE-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/hwservicemanager</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HWSERVICEMANAGER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/iot/attestation</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ATTESTATION-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/keymaster</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-KEYMASTER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libfmq</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBFMQ-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libhidl</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBHIDL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libhwbinder</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBHWBINDER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libufdt</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBUFDT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libvintf</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBVINTF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/media</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SYSTEM-MEDIA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/netd</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NETD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/nfc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SYSTEM-NFC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/nvram</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NVRAM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/security</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SYSTEM-SECURITY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/sepolicy</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SYSTEM-SEPOLICY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/timezone</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TIMEZONE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/tools/aidl</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-AIDL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/tools/hidl</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HIDL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/tpm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TPM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/update_engine</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-UPDATE_ENGINE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/vold</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VOLD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/framework</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FRAMEWORK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/sts</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-STS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/suite_harness</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SUITE_HARNESS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vti/alert</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ALERT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vti/dashboard</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DASHBOARD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vti/fuzz_test_serving</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FUZZ_TEST_SERVING-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vti/test_serving</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TEST_SERVING-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VTS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FUZZ-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/hal</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HAL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HAL-TRACE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/kernel</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-KERNEL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/nbu</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NBU-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/performance</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PERFORMANCE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/security</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VTS-TESTCASE-SECURITY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/vndk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VTS-TESTCASE-VNDK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/toolchain/binutils</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BINUTILS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/toolchain/pgo-profiles</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PGO-PROFILES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/acloud</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ACLOUD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/apksig</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APKSIG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/apkzlib</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APKZLIB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/dexter</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DEXTER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/external/fat32lib</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FAT32LIB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/external/gradle</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GRADLE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/loganalysis</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LOGANALYSIS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/metalava</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-METALAVA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/repohooks</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-REPOHOOKS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/test/connectivity</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TEST-CONNECTIVITY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/tradefederation/contrib</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CONTRIB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/tradefederation/core</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TRADEFEDERATION-CORE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/vendor/google_prebuilts/arc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ARC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/codeaurora/commonsys/packages/apps/Dialer</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APPS-DIALER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/codeaurora/commonsys/telephony</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-COMMONSYS-TELEPHONY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/google_easel</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE_EASEL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/google_paintbox</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-GOOGLE_PAINTBOX-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/jrdcom</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VENDOR-JRDCOM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/jrdtools</name>
+	<branch>refs/heads/qct-sdm429-la.um.6.6.2.r1-watt-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-JRDTOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/commonsys/external/libnfc-nci</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LIBNFC-NCI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/commonsys/frameworks</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FRAMEWORKS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/commonsys/packages/apps/Nfc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-APPS-NFC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/halimpl</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HALIMPL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/hidlimpl</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HIDLIMPL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/interfaces/nfc</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-INTERFACES-NFC-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/audio</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENSOURCE-AUDIO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/audio-kernel</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-AUDIO-KERNEL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/bluetooth</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-COMMONSYS-BLUETOOTH-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/bluetooth_ext</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BLUETOOTH_EXT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/cryptfs_hw</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CRYPTFS_HW-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/dataservices</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-COMMONSYS-DATASERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/dpm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-COMMONSYS-DPM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/fm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-COMMONSYS-FM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/system/bt</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SYSTEM-BT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/core-modules</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CORE-MODULES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/core-utils</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CORE-UTILS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/data-ipa-cfg-mgr</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DATA-IPA-CFG-MGR-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/dataservices</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENSOURCE-DATASERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/dpm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENSOURCE-DPM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/fm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENSOURCE-FM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/fst-manager</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FST-MANAGER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/healthd-ext</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-HEALTHD-EXT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/interfaces</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENSOURCE-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/location</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LOCATION-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/mmc-utils</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENSOURCE-MMC-UTILS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/power</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-POWER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/recovery-ext</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-RECOVERY-EXT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/softap</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SOFTAP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/thermal-engine</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENSOURCE-THERMAL-ENGINE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/thermal-hal</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-THERMAL-HAL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/time-services</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENSOURCE-TIME-SERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/tools</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENSOURCE-TOOLS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/usb</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-USB-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wigig</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-OPENSOURCE-WIGIG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wlan/prima</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PRIMA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SIGMA-DUT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/PowerOffAlarm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-POWEROFFALARM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/SecProtect</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SECPROTECT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/SmartCardService</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-SMARTCARDSERVICE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/android-perf</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ANDROID-PERF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/biometrics</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-BIOMETRICS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/bluetooth</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-BLUETOOTH-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/bt</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-BT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/cne</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CNE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/common</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-COMMON-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/commonsys</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-COMMONSYS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/commonsys-intf</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-COMMONSYS-INTF-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/csm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-CSM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/data</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DATA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/diag</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-DIAG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/display</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-DISPLAY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/dpm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-DPM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fastcv</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FASTCV-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fastmmi</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FASTMMI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-FM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ftm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-FTM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/gps</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-GPS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ims-ship</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-IMS-SHIP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/interfaces</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-INTERFACES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/llvm-arm-toolchain-ship</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-LLVM-ARM-TOOLCHAIN-SHIP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mdm-helper</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MDM-HELPER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-audio</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MM-AUDIO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-audio-cal</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MM-AUDIO-CAL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-audio-external</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MM-AUDIO-EXTERNAL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-camera</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MM-CAMERA-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-camerasdk</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MM-CAMERASDK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-core</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MM-CORE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-osal</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MM-OSAL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-parser</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MM-PARSER-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-still</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MM-STILL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-video</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MM-VIDEO-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-video-utils</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MM-VIDEO-UTILS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/modem-apis</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-MODEM-APIS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/nqnfc-firmware</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-NQNFC-FIRMWARE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/prebuilt_HY11</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PREBUILT_HY11-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCRIL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-data-hal</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCRIL-DATA-HAL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-hal</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCRIL-HAL-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-qmi-services</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCRIL-QMI-SERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-qmi-services-headers</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QCRIL-QMI-SERVICES-HEADERS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qdssagent</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QDSSAGENT-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qmi</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QMI-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qmi-framework</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QMI-FRAMEWORK-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qrdplus</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-QRDPLUS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/remotefs</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-REMOTEFS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/resource-overlay</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-RESOURCE-OVERLAY-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/scve</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SCVE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/securemsm</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SECUREMSM-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/sensors</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SENSORS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ss-restart</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SS-RESTART-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ss-services</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-SS-SERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/telephony-apps</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-TELEPHONY-APPS-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/thermal-engine</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-THERMAL-ENGINE-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/time-services</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-TIME-SERVICES-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ultrasound</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-ULTRASOUND-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/vpp</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-VPP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wfd</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-WFD-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wigig</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-WIGIG-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wlan</name>
+	<branch>refs/heads/qm215-p-seoul-v0.1-bsp</branch>
+	<baseline>QM215-SEOUL-BSP-PROPRIETARY-WLAN-P0.1</baseline>
+</project>
+</projects>

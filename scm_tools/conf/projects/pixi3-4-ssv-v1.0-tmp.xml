@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>sdd1/mtk6572/abi</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-ABI-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/docs</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DOCS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/gdk</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-GDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/libnativehelper</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-LIBNATIVEHELPER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/bionic</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BIONIC-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/bootable</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BOOTABLE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/build</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BUILD-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/cts</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-CTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/libcore</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-LIBCORE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/dalvik</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DALVIK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/development</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DEVELOPMENT-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/device</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DEVICE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/apache-http</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-APACHE-HTTP-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/astl</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-ASTL-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bison</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BISON-P2.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/external/blktrace</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BLKTRACE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bluetooth</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BLUETOOTH-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bouncycastle</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BOUNCYCASTLE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bsdiff</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BSDIFF-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bzip2</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BZIP2-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/chromium</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-CHROMIUM-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dbus</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DBUS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dhcpcd</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DHCPCD-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dnsmasq</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DNSMASQ-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dropbear</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DROPBEAR-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/e2fsprogs</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-E2FSPROGS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/easymock</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-EASYMOCK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/elfutils</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-ELFUTILS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/embunit</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-EMBUNIT-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/emma</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-EMMA-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/esd</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-esd-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/expat</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-EXPAT-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/fdlibm</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-FDLIBM-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/freetype</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-FREETYPE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/fsck_msdos</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-FSCK_MSDOS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/genext2fs</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-GENEXT2FS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/giflib</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-GIFLIB-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/grub</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-GRUB-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/gtest</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-GTEST-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/guava</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-GUAVA-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/icu4c</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-ICU4C-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/iproute2</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-IPROUTE2-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/ipsec-tools</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-IPSEC-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/freetype</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-FREETYPE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/iptables</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-IPTABLES-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jdiff</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JDIFF-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jhead</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JHEAD-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jpeg</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JPEG-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jsr305</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JSR305-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/junit</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JUNIT-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/kernel-headers</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-KERNEL-HEADERS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libffi</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-LIBFFI-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libgsm</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-LIBGSM-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libnfc-nxp</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-LIBNFC-NXP-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libpcap</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-LIBPCAP-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libpng</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-LIBPNG-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libvpx</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-libvpx-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libxml2</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-LIBXML2-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/mtpd</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-MTPD-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/netcat</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-NETCAT-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/netperf</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-NETPERF-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/neven</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-NEVEN-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/nist-sip</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-NIST-SIP-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/oauth</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-OAUTH-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/openssl</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-OPENSSL-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/oprofile</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-OPROFILE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/ping</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-PING-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/ppp</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-PPP-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/proguard</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-PROGUARD-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/protobuf</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-PROTOBUF-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/qemu</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-QEMU-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/safe-iop</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SAFE-IOP-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/skia</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SKIA-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/sonivox</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-sonivox-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/speex</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-speex-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/sqlite</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SQLITE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/srec</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SREC-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/stlport</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-STLPORT-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/strace</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-STRACE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/svox</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SVOX-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tagsoup</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-tagsoup-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tcpdump</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-tcpdump-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tinyxml</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-tinyxml-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tremolo</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-TREMOLO-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/v8</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-V8-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/webkit</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-WEBKIT-P2.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/external/wpa_supplicant_6</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-WPA_SUPPLICANT_6-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/xmlwriter</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-XMLWRITER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/yaffs2</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-YAFFS2-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/aac</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-AAC-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/android-mock</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-ANDROID-MOCK-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/ant-glob</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-ANT-GLOB-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/antlr</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-ANTLR-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/apache-harmony</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-APACHE-HARMONY-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/apache-xml</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-APACHE-XML-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/arduino</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-ARDUINO-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/checkpolicy</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-CHECKPOLICY-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/chromium-trace</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-CHROMIUM-TRACE-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/cibu-fonts</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-CIBU-FONTS-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/clang</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-CLANG-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/compiler-rt</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-COMPILER-RT-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/dexmaker</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-DEXMAKER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/doclava</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-DOCLAVA-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/eclipse-basebuilder</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-ECLIPSE-BASEBUILDER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/eclipse-windowbuilder</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-ECLIPSE-WINDOWBUILDER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/eyes-free</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-EYES-FREE-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/flac</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-FLAC-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/ganymed-ssh2</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-GANYMED-SSH2-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/gcc-demangle</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-GCC-DEMANGLE-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/google-diff-match-patch</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-GOOGLE-DIFF-MATCH-PATCH-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/hamcrest</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-HAMCREST-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/harfbuzz</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-HARFBUZZ-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/hyphenation</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-HYPHENATION-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/javasqlite</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-JAVASQLITE-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/javassist</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-JAVASSIST-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/jmdns</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-JMDNS-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/jmonkeyengine</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-JMONKEYENGINE-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/jsilver</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-JSILVER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libcap-ng</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBCAP-NG-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libifaddrs</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBIFADDRS-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/liblzf</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBLZF-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libmtp</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBMTP-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libnfc-nci</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBNFC-NCI-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libnfc-opennfc</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBNFC-OPENNFC-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libnl-headers</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBNL-HEADERS-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libogg</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBOGG-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libphonenumber</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBPHONENUMBER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libppp</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBPPP-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libselinux</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBSELINUX-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libsepol</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBSEPOL-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libunwind</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBUNWIND-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libusb-compat</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBUSB-COMPAT-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libvorbis</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBVORBIS-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libxslt</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBXSLT-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libyuv</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LIBYUV-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/linux-tools-perf</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LINUX-TOOLS-PERF-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/littlemock</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LITTLEMOCK-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/llvm</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LLVM-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/lohit-fonts</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LOHIT-FONTS-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/markdown</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-MARKDOWN-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mdnsresponder</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-MDNSRESPONDER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mesa3d</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-MESA3D-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mksh</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-MKSH-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mockwebserver</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-MOCKWEBSERVER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mp4parser</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-MP4PARSER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/naver-fonts</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-NAVER-FONTS-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/okhttp</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-OKHTTP-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/opencv</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-OPENCV-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/openfst</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-OPENFST-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/openssh</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-OPENSSH-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/ping6</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-PING6-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/qemu-pc-bios</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-QEMU-PC-BIOS-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/regex-re2</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-REGEX-RE2-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/replicaisland</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-REPLICAISLAND-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/sepolicy</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-SEPOLICY-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/smali</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-SMALI-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/srtp</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-SRTP-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/stressapptest</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-STRESSAPPTEST-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/tinyalsa</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-TINYALSA-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/tinyxml2</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-TINYXML2-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/valgrind</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-VALGRIND-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/webp</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-WEBP-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/webrtc</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-WEBRTC-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/wide-dhcpv6</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-WIDE-DHCPV6-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/xmp_toolkit</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-XMP_TOOLKIT-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/zxing</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-ZXING-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/wpa_supplicant_8</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-WPA_SUPPLICANT_8-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/zlib</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-ZLIB-P2.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/frameworks</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-FRAMEWORKS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/hardware</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-HARDWARE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/kernel</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-KERNEL-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mediatek</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-MEDIATEK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/ndk</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-NDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Bluetooth</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BLUETOOTH-P2.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/packages/apps/Browser</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BROWSER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Calculator</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-CALCULATOR-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Calendar</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-CALENDAR-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Camera</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-CAMERA-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/CertInstaller</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-CERTINSTALLER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Contacts</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-CONTACTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-CONTACTSCOMMON-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/DeskClock</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DESKCLOCK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Email</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-EMAIL-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Gallery</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-GALLERY-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-HTMLViewer-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Launcher2</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-Launcher2-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Mms</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-MMS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Music</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-MUSIC-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-PACKAGEINSTALLER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Phone</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-PHONE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Protips</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-PROTIPS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Provision</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-Provision-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-QUICKSEARCHBOX-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Settings</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SETTINGS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SOUNDRECORDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SPEECHRECORDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Stk</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-STK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Tag</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-TAG-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/services/Telephony</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-Telephony-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/experimental</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-EXPERIMENTAL-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-LATINIME-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-OPENWNN-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-APPLICATIONSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-CALENDARPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-CONTACTSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DOWNLOADPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/DrmProvider</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DRMPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-GOOGLECONTACTSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/MediaProvider</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-MEDIAPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-TELEPHONYPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-USERDICTIONARYPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/Basic</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-BASIC-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-LIVEPICKER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-MAGICSMOKE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-MUSICVISUALIZATION-P2.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/jrd/packages/apps/JrdMMITest</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDMMITEST-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/APKInstallerHelper</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-APKINSTALLERHELPER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DRMAGENTPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/DrmUtility</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DRMUTILITY-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/drmagent</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DRMAGENT-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/inbidi</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-INBIDI-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/eigen</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-EIGEN-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/SecureClock</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SECURECLOCK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDEMAILFEEDBACK-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/CellBroadcastReceiver</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-CELLBROADCASTRECEIVER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/inputmethods/PinyinIME</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-PINYINIME-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/BasicSmsReceiver</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-BASICSMSRECEIVER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/Exchange</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-EXCHANGE-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/Gallery2</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-GALLERY2-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/KeyChain</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-KEYCHAIN-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/LegacyCamera</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-LEGACYCAMERA-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/MusicFX</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-MUSICFX-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/Nfc</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-NFC-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/SDKGallery</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-SDKGALLERY-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/SpareParts</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-SPAREPARTS-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/VideoEditor</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-VIDEOEDITOR-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/providers/PartnerBookmarksProvider</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-PARTNERBOOKMARKSPROVIDER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/screensavers/Basic</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-BASIC-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/screensavers/PhotoTable</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-PHOTOTABLE-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/screensavers/WebView</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-WEBVIEW-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/Galaxy4</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-GALAXY4-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/HoloSpiral</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-HOLOSPIRAL-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/NoiseField</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-NOISEFIELD-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/PhaseBeam</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-PHASEBEAM-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/pdk</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-PDK-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/tools</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-TOOLS-P2.0</baseline>
+</project>
+
+
+<project>
+	<name>sdd1/mtk6572/prebuilts</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-PREBUILTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/sdk</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/system</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SYSTEM-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/vendor</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-VENDOR-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/modem</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-MODEM-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/liv</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-LIV-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/wcustores</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-WCUSTORES-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-WLANGUAGE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-WPROCEDURES-P2.0</baseline>
+</project>
+
+<project>
+        <name>sdd1/tcl/packages/apps/JrdFileManagerEx</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-JRDFILEMANAGEREX-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/jrd/packages/apps/JrdUserCard</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-JRDUSERCARD-P2.0</baseline>
+</project>
+
+<project>
+        <name>sdd1/jrd/packages/apps/JrdUserCardService</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-JRDUSERCARDSERVICE-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/tcl/packages/apps/JrdLauncher</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-JRDLAUNCHER-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/tcl/packages/apps/JrdCamera</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-JRDCAMERA-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/tcl/packages/apps/JrdGallery</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-JRDGALLERY-P2.0</baseline>
+</project>
+<project>
+        <name>sdd1/jrd/packages/apps/UrlReservedApps</name>
+        <branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+        <baseline>PIXI3-4-SSV-URLRESERVEDAPPS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdSalesTracker</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDSALESTRACKER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/MusicWidget</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-MUSICWIDGET-P2.0</baseline>
+</project>
+
+
+<project>
+	<name>sdd1/tcl/packages/apps/JrdWorldClock</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDWORLDCLOCK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDPOWERSAVER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDSETUPWIZARD-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDTCLHELP-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDALCATELHELP-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/TrafficManager</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-TRAFFICMANAGER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/NotePad2</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-NOTEPAD2-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/O2Ideas</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-O2IDEAS-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-VOICEDIALER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-SYNCMLCLIENT-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdFota</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDFOTA-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSdcardUpgrade</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDSDCARDUPGRADE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdContainer</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDCONTAINER-P2.0</baseline>
+</project> 
+<project>
+	<name>sdd1/tcl/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDEMAILFEEDBACK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-TCLWATCHDOG-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdApp2SDCard</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDAPP2SDCARD-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTorch</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDTORCH-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdDigitalClock</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDDIGITALCLOCK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTethering</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDTETHERING-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdDeskClock</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDDESKCLOCK-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdElabel</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDELABEL-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdWeather</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDWEATHER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTimeTool</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDTIMETOOL-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/FrequentContactsWidget</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-FREQUENTCONTACTSWIDGET-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/AnalogClockWidget</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-ANALOGCLOCKWIDGET-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/DigitalClockWidget</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-DIGITALCLOCKWIDGET-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSuperMode</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDSUPERMODE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/FrequentAppsWidget</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-FREQUENTAPPSWIDGET-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDPLUGGER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdUserCenter</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDUSERCENTER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdUserCenterService</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDUSERCENTERSERVICE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/PanasonicSalesTracker</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-PANASONICSALESTRACKER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdWifiTransfer</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDWIFITRANSFER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSoundRecorder</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDSOUNDRECORDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTest</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDTEST-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/AudioSafetyWarningReciever</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-AUDIOSAFETYWARRECIEVER-P2.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/tcl/packages/apps/JrdGuestMode</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDGUESTMODE-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdLockscreen</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDLOCKSCREEN-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdWifiP2PTransfer</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDWIFIP2PTRANSFER-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdCBWidget</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDCBWIDGET-P2.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdWrapper</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDWRAPPER-P2.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/alps/version_babyd</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-VERSION_BABYD-P2.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/jrd/packages/apps/JrdTimeTool</name>
+	<branch>refs/heads/pixi3-4-ssv-v1.0-tmp</branch>
+	<baseline>PIXI3-4-SSV-JRDTIMETOOL-P2.0</baseline>
+</project>
+
+
+</projects>

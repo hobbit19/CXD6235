@@ -1,0 +1,1828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6753/dalvik</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DALVIK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdMMITest</name>
+        <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+        <baseline>MICKEY6T-JRDMMITEST-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/ReliabilityTest</name>
+        <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+        <baseline>MICKEY6T-RELIABLITYTEST-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/providers/FingerprintProvider</name>
+        <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+        <baseline>MICKEY6T-FINGERPRINTPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/build</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BUILD-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/libcore</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBCORE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/arkamys</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ARKAMYS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/dolby</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DOLBY-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/jrdchz</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JRDCHZ-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/mediatek</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MEDIATEK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/device</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DEVICE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/system</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SYSTEM-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/ndk</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NDK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/abi</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ABI-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/hardware</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-HARDWARE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/bionic</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BIONIC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/cts</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CTS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/frameworks</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-FRAMEWORKS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/development</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DEVELOPMENT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/sdk</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SDK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/kernel</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-KERNEL-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/modem/LWTG</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LWTG-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/modem/C2K</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-C2K-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/art</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ART-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/libnativehelper</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBNATIVEHELPER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/pdk</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PDK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/bootable</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BOOTABLE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/experimental</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-EXPERIMENTAL-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PARTNERBOOKMARKSPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-USERDICTIONARYPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-APPLICATIONSPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CALENDARPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DOWNLOADPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CONTACTSPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/MediaProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MEDIAPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TELEPHONYPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/TvProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TVPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIVEPICKER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LATINIME-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-OPENWNN-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CELLBROADCASTRECEIVER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BASICSMSRECEIVER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/CertInstaller</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CERTINSTALLER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-QUICKSEARCHBOX-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Music</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MUSIC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Calculator</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CALCULATOR-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Contacts</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CONTACTS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PACKAGEINSTALLER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Gallery</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GALLERY-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/SpareParts</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SPAREPARTS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/KeyChain</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-KEYCHAIN-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-HTMLVIEWER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Protips</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PROTIPS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Tag</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TAG-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Stk</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-STK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Nfc</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NFC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SOUNDRECORDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Launcher2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LAUNCHER2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/MusicFX</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MUSICFX-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Provision</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PROVISION-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Email</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-EMAIL-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Calendar</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CALENDAR-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Settings</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SETTINGS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Bluetooth</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BLUETOOTH-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SPEECHRECORDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LEGACYCAMERA-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/DeskClock</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DESKCLOCK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/screensavers/Basic</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BASIC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PHOTOTABLE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/screensavers/WebView</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-WEBVIEW-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Gallery2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GALLERY2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Dialer</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DIALER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Camera2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CAMERA2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Launcher3</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LAUNCHER3-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ONETIMEINITIALIZER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/TvSettings</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TVSETTINGS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CONTACTSCOMMON-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/ManagedProvisioning</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MANAGEDPROVISIONING-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PHONECOMMON-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Terminal</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TERMINAL-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/BlockedNumberProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BLOCKEDNUMBERPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Test</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TEST-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Browser2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BROWSER2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/DevCamera</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DEVCAMERA-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/EmergencyInfo</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-EMERGENCYINFO-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/services</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SERVICES-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/CarrierConfig</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CARRIERCONFIG-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/ExactCalculator</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-EXACTCALCULATOR-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/Messaging</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MESSAGING-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/BookmarkProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BOOKMARKPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/providers/CallLogProvider</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CALLLOGPROVIDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/platform_testing</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PLATFORM_TESTING-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/android-emulator</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ANDROID-EMULATOR-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/devtools</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DEVTOOLS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/eclipse</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ECLIPSE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gradle-plugin</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GRADLE-PLUGIN-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/libs</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/maven_repo</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MAVEN_REPO-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/misc</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MISC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/ndk</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NDK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/python</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PYTHON-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/qemu-kernel</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-QEMU-KERNEL-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/sdk</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SDK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/tools</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TOOLS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/clang/darwin-x86</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DARWIN-X86-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/clang/linux-x86</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LINUX-X86-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/aarch64</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-AARCH64-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/arm</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ARM-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/host</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-HOST-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/mips</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MIPS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/darwin-x86/x86</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-X86-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/aarch64</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-AARCH64-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/arm</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ARM-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/host</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-HOST-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/mips</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MIPS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gcc/linux-x86/x86</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-X86-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/go</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GO-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/gdb</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GDB-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/clang</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CLANG-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/deqp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DEQP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/prebuilts/ninja</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NINJA-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/toolchain</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TOOLCHAIN-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/tools</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TOOLS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/developers</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DEVELOPERS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/docs</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DOCS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-commons-math</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-APACHE-COMMONS-MATH-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/boringssl</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BORINGSSL-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/cblas</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CBLAS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/chromium-webview</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CHROMIUM-WEBVIEW-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/crcalc</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CRCALC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/drm_gralloc</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DRM_GRALLOC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/drm_hwcomposer</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DRM_HWCOMPOSER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-breakpad</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GOOGLE-BREAKPAD-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gptfdisk</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GPTFDISK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/hyphenation-patterns</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-HYPHENATION-PATTERNS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libavc</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBAVC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libdrm</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBDRM-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libmpeg2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBMPEG2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvncserver</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBVNCSERVER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/lz4</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LZ4-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mockftpserver</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MOCKFTPSERVER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/parameter-framework</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PARAMETER-FRAMEWORK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/selinux</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SELINUX-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/slf4j</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SLF4J-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sonic</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SONIC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/squashfs-tools</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SQUASHFS-TOOLS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/toybox</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TOYBOX-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vboot_reference</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-VBOOT_REFERENCE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vogar</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-VOGAR-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/v8</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-V8-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/androidplot</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ANDROIDPLOT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jetty</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JETTY-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/messageformat</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MESSAGEFORMAT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/roboto-fonts</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ROBOTO-FONTS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/aac</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-AAC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jhead</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JHEAD-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/svox</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SVOX-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/proguard</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PROGUARD-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jdiff</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JDIFF-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-http</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-APACHE-HTTP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tremolo</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TREMOLO-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/strace</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-STRACE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/webp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-WEBP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mtpd</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MTPD-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/skia</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SKIA-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bouncycastle</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BOUNCYCASTLE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libyuv</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBYUV-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libpng</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBPNG-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/clang</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CLANG-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-xml</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-APACHE-XML-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/liblzf</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBLZF-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/guava</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GUAVA-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dnsmasq</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DNSMASQ-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ipsec-tools</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-IPSEC-TOOLS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/netcat</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NETCAT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/blktrace</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BLKTRACE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/antlr</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ANTLR-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/neven</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NEVEN-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsr305</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JSR305-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ppp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PPP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libpcap</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBPCAP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libphonenumber</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBPHONENUMBER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/junit</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JUNIT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/wpa_supplicant_8</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-WPA_SUPPLICANT_8-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/opencv</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-OPENCV-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsilver</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JSILVER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/llvm</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LLVM-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/zlib</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ZLIB-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/speex</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SPEEX-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/srtp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SRTP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mksh</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MKSH-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eyes-free</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-EYES-FREE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nist-sip</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NIST-SIP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/safe-iop</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SAFE-IOP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/kernel-headers</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-KERNEL-HEADERS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mesa3d</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MESA3D-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bzip2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BZIP2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libgsm</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBGSM-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iproute2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-IPROUTE2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libxml2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBXML2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/oauth</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-OAUTH-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bison</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BISON-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/webrtc</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-WEBRTC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/protobuf</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PROTOBUF-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/emma</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-EMMA-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/apache-harmony</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-APACHE-HARMONY-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvpx</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBVPX-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gtest</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GTEST-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinyxml</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TINYXML-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/expat</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-EXPAT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/doclava</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DOCLAVA-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/netperf</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NETPERF-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sqlite</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SQLITE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fdlibm</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-FDLIBM-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tcpdump</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TCPDUMP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/freetype</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-FREETYPE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/bsdiff</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-BSDIFF-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/giflib</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GIFLIB-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libnfc-nxp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBNFC-NXP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinyalsa</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TINYALSA-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tagsoup</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TAGSOUP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sonivox</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SONIVOX-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/flac</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-FLAC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/markdown</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MARKDOWN-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/javassist</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JAVASSIST-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iptables</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-IPTABLES-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/e2fsprogs</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-E2FSPROGS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mockwebserver</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MOCKWEBSERVER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/easymock</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-EASYMOCK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/esd</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ESD-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/javasqlite</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JAVASQLITE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/elfutils</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ELFUTILS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fsck_msdos</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-FSCK_MSDOS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/valgrind</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-VALGRIND-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/xmlwriter</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-XMLWRITER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/replicaisland</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-REPLICAISLAND-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/chromium-trace</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CHROMIUM-TRACE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/compiler-rt</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-COMPILER-RT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dexmaker</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DEXMAKER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eclipse-basebuilder</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ECLIPSE-BASEBUILDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ECLIPSE-WINDOWBUILDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jmdns</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JMDNS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libmtp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBMTP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libselinux</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBSELINUX-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libunwind</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBUNWIND-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libusb</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBUSB-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libusb-compat</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBUSB-COMPAT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/littlemock</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LITTLEMOCK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mdnsresponder</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MDNSRESPONDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/hamcrest</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-HAMCREST-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/regex-re2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-REGEX-RE2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/smali</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SMALI-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/zxing</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ZXING-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ant-glob</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ANT-GLOB-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libnfc-nci</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBNFC-NCI-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libogg</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBOGG-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvorbis</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBVORBIS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mp4parser</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MP4PARSER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/naver-fonts</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NAVER-FONTS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/okhttp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-OKHTTP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinyxml2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TINYXML2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcap-ng</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBCAP-NG-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/xmp_toolkit</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-XMP_TOOLKIT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/eigen</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-EIGEN-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/harfbuzz_ng</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-HARFBUZZ_NG-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/lzma</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LZMA-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/robolectric</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ROBOLECTRIC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/droiddriver</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DROIDDRIVER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/android-clat</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ANDROID-CLAT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/owasp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-OWASP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nanopb-c</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NANOPB-C-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/timezonepicker-support</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TIMEZONEPICKER-SUPPORT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libexif</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBEXIF-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsoncpp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JSONCPP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/scrypt</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SCRYPT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ceres-solver</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CERES-SOLVER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/noto-fonts</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NOTO-FONTS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/icu</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ICU-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/zopfli</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ZOPFLI-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/glide</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GLIDE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nfacct</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NFACCT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcxx</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBCXX-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/f2fs-tools</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-F2FS-TOOLS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libutf</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBUTF-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcxxabi</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBCXXABI-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsmn</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JSMN-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iputils</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-IPUTILS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libedit</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBEDIT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libhevc</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBHEVC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ksoap2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-KSOAP2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nanohttpd</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NANOHTTPD-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vixl</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-VIXL-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libopus</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBOPUS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/pdfium</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PDFIUM-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jemalloc</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JEMALLOC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sfntly</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SFNTLY-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/cmockery</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CMOCKERY-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fonttools</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-FONTTOOLS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libnl</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBNL-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/chromium-libpac</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CHROMIUM-LIBPAC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/ltrace</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LTRACE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-tv-pairing-protocol</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GOOGLE-TV-PAIRING-PROTOCOL-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/deqp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DEQP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tinycompress</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TINYCOMPRESS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/objenesis</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-OBJENESIS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mockito</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MOCKITO-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jarjar</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JARJAR-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/conscrypt</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CONSCRYPT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-fonts</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GOOGLE-FONTS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fio</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-FIO-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/nist-pkits</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-NIST-PKITS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libvterm</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBVTERM-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/pcre</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PCRE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/autotest</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-AUTOTEST-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/iw</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-IW-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/unicode</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-UNICODE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dbus</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DBUS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dbus-binding-generator</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DBUS-BINDING-GENERATOR-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/rootdev</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-ROOTDEV-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jcommander</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JCOMMANDER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/rmi4utils</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-RMI4UTILS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/google-benchmark</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GOOGLE-BENCHMARK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tlsdate</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TLSDATE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libbrillo</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBBRILLO-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/snakeyaml</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SNAKEYAML-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/caliper</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CALIPER-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jsr330</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JSR330-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/testng</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TESTNG-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/modp_b64</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MODP_B64-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libdaemon</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBDAEMON-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/piex</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-PIEX-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/mmc-utils</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MMC-UTILS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libcap</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBCAP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/curl</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CURL-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libjpeg-turbo</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBJPEG-TURBO-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/guice</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GUICE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gemmlowp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GEMMLOWP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/opencv3</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-OPENCV3-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dlmalloc</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DLMALLOC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/sl4a</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SL4A-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/gmock</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GMOCK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/vulkan-validation-layers</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-VULKAN-VALIDATION-LAYERS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libweave</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBWEAVE-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libdivsufsort</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBDIVSUFSORT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libevent</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBEVENT-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dagger2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DAGGER2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/xmlrpcpp</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-XMLRPCPP-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/c-ares</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-C-ARES-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/jacoco</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JACOCO-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libunwind_llvm</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBUNWIND_LLVM-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dng_sdk</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DNG_SDK-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libmicrohttpd</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBMICROHTTPD-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/minijail</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MINIJAIL-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/fec</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-FEC-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/avahi</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-AVAHI-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/dhcpcd-6.8.2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-DHCPCD-6.8.2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/shflags</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-SHFLAGS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/tpm2</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-TPM2-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/cros</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-CROS-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/external/libchrome</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-LIBCHROME-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/mtk6737_53_wimdata_ng/wcustores</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-WCUSTORES-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/mtk6737_53_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-WPROCEDURES-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/jrdcom</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-JRDCOM-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/makeperso</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-MAKEPERSO-DRIVERONLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/vendor/google</name>
+    <branch>refs/heads/mtk6737_53-n-v1.0-driveronly</branch>
+    <baseline>MICKEY6T-GOOGLE-DRIVERONLY-P1.0</baseline>
+</project>
+</projects>

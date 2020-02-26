@@ -1,0 +1,1638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6580/abi</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ABI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/art</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ART-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/bionic</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BIONIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/bootable</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BOOTABLE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/build</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BUILD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/cts</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/dalvik</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DALVIK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/developers</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DEVELOPERS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/development</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DEVELOPMENT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/device</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DEVICE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/docs</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DOCS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/aac</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-AAC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/android-clat</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ANDROID-CLAT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/android-mock</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ANDROID-MOCK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/androidplot</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ANDROIDPLOT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ant-glob</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ANT-GLOB-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/antlr</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ANTLR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-commons-math</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-APACHE-COMMONS-MATH-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-harmony</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-APACHE-HARMONY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-http</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-APACHE-HTTP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-xml</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-APACHE-XML-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bison</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BISON-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/blktrace</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BLKTRACE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/boringssl</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BORINGSSL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bouncycastle</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BOUNCYCASTLE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bsdiff</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BSDIFF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bzip2</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BZIP2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/cblas</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CBLAS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ceres-solver</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CERES-SOLVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-libpac</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CHROMIUM-LIBPAC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-trace</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CHROMIUM-TRACE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-webview</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CHROMIUM-WEBVIEW-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/clang</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CLANG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/cmockery</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CMOCKERY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/compiler-rt</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-COMPILER-RT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/conscrypt</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CONSCRYPT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/crcalc</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CRCALC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/deqp</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DEQP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dexmaker</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DEXMAKER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dhcpcd</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DHCPCD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dnsmasq</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DNSMASQ-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/doclava</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DOCLAVA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/donuts</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DONUTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/drm_gralloc</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DRM_GRALLOC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/drm_hwcomposer</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DRM_HWCOMPOSER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/droiddriver</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DROIDDRIVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/e2fsprogs</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-E2FSPROGS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/easymock</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-EASYMOCK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eclipse-basebuilder</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ECLIPSE-BASEBUILDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ECLIPSE-WINDOWBUILDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eigen</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-EIGEN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/elfutils</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ELFUTILS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/embunit</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-EMBUNIT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/emma</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-EMMA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/esd</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ESD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/expat</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-EXPAT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eyes-free</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-EYES-FREE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/f2fs-tools</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-F2FS-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fdlibm</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-FDLIBM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fio</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-FIO-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/flac</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-FLAC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fonttools</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-FONTTOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/freetype</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-FREETYPE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fsck_msdos</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-FSCK_MSDOS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/giflib</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GIFLIB-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/glide</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GLIDE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-breakpad</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GOOGLE-BREAKPAD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GOOGLE-FONTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GOOGLE-TV-PAIRING-PROTOCOL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/gptfdisk</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GPTFDISK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/gtest</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GTEST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/guava</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GUAVA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/hamcrest</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-HAMCREST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/harfbuzz_ng</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-HARFBUZZ_NG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/hyphenation-patterns</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-HYPHENATION-PATTERNS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/icu</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ICU-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iproute2</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-IPROUTE2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ipsec-tools</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-IPSEC-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iptables</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-IPTABLES-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iputils</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-IPUTILS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jack</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JACK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jarjar</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JARJAR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/javasqlite</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JAVASQLITE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/javassist</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JAVASSIST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jdiff</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JDIFF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jemalloc</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JEMALLOC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jetty</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JETTY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jhead</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JHEAD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jmdns</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JMDNS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jmonkeyengine</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JMONKEYENGINE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jpeg</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JPEG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsilver</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JSILVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsmn</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JSMN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsoncpp</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JSONCPP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsr305</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JSR305-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/junit</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-JUNIT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/kernel-headers</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-KERNEL-HEADERS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ksoap2</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-KSOAP2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libavc</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBAVC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcap-ng</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBCAP-NG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcxx</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBCXX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcxxabi</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBCXXABI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libdrm</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBDRM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libedit</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBEDIT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libexif</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBEXIF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libgsm</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBGSM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libhevc</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBHEVC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/liblzf</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBLZF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libmpeg2</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBMPEG2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libmtp</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBMTP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnfc-nci</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBNFC-NCI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnfc-nxp</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBNFC-NXP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnl</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBNL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libogg</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBOGG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libopus</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBOPUS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libpcap</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBPCAP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libphonenumber</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBPHONENUMBER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libpng</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBPNG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libseccomp-helper</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBSECCOMP-HELPER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libselinux</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBSELINUX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libssh2</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBSSH2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libunwind</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBUNWIND-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libusb</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBUSB-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libusb-compat</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBUSB-COMPAT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libutf</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBUTF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvncserver</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBVNCSERVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvorbis</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBVORBIS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvpx</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBVPX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvterm</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBVTERM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libxml2</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBXML2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libyuv</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBYUV-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/linux-tools-perf</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LINUX-TOOLS-PERF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/littlemock</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LITTLEMOCK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lld</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LLD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lldb</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LLDB-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/llvm</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LLVM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ltrace</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LTRACE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lz4</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LZ4-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lzma</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LZMA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/marisa-trie</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MARISA-TRIE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/markdown</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MARKDOWN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mdnsresponder</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MDNSRESPONDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mesa3d</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MESA3D-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/messageformat</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MESSAGEFORMAT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mksh</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MKSH-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockftpserver</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MOCKFTPSERVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockito</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MOCKITO-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockwebserver</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MOCKWEBSERVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mp4parser</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MP4PARSER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mtpd</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MTPD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nanohttpd</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NANOHTTPD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nanopb-c</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NANOPB-C-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/naver-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NAVER-FONTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/netcat</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NETCAT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/netperf</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NETPERF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/neven</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NEVEN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nfacct</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NFACCT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nist-pkits</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NIST-PKITS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nist-sip</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NIST-SIP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/noto-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NOTO-FONTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/oauth</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-OAUTH-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/objenesis</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-OBJENESIS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/okhttp</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-OKHTTP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/opencv</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-OPENCV-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/openfst</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-OPENFST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/openssh</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-OPENSSH-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/owasp</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-OWASP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/parameter-framework</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PARAMETER-FRAMEWORK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/pcre</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PCRE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/pdfium</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PDFIUM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ppp</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PPP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/proguard</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PROGUARD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/protobuf</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PROTOBUF-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/regex-re2</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-REGEX-RE2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/replicaisland</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-REPLICAISLAND-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/robolectric</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ROBOLECTRIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/roboto-fonts</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ROBOTO-FONTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/safe-iop</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SAFE-IOP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/scrypt</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SCRYPT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/selinux</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SELINUX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sepolicy</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SEPOLICY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sfntly</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SFNTLY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/skia</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SKIA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/slf4j</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SLF4J-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/smali</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SMALI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sonic</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SONIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sonivox</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SONIVOX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/speex</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SPEEX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sqlite</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SQLITE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/squashfs-tools</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SQUASHFS-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/srtp</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SRTP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/strace</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-STRACE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/svox</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SVOX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tagsoup</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TAGSOUP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tcpdump</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TCPDUMP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/timezonepicker-support</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TIMEZONEPICKER-SUPPORT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyalsa</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TINYALSA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinycompress</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TINYCOMPRESS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyxml</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TINYXML-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyxml2</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TINYXML2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/toybox</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TOYBOX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tremolo</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TREMOLO-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/v8</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-V8-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/valgrind</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-VALGRIND-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vboot_reference</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-VBOOT_REFERENCE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vixl</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-VIXL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vogar</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-VOGAR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/webp</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-WEBP-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/webrtc</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-WEBRTC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/wpa_supplicant_8</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-WPA_SUPPLICANT_8-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/xmlwriter</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-XMLWRITER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/xmp_toolkit</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-XMP_TOOLKIT-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zlib</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ZLIB-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zopfli</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ZOPFLI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zxing</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ZXING-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/frameworks</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-FRAMEWORKS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/hardware</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-HARDWARE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/kernel</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-KERNEL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/libcore</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBCORE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/libnativehelper</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBNATIVEHELPER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/modem</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MODEM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/ndk</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NDK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BASICSMSRECEIVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Bluetooth</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BLUETOOTH-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Browser</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BROWSER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Calculator</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CALCULATOR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Calendar</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CALENDAR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Camera</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CAMERA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Camera2</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CAMERA2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CARRIERCONFIG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CELLBROADCASTRECEIVER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CertInstaller</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CERTINSTALLER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Contacts</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CONTACTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CONTACTSCOMMON-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/DeskClock</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DESKCLOCK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Dialer</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DIALER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Email</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-EMAIL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-EXACTCALCULATOR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Exchange</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-EXCHANGE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/FMRadio</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-FMRADIO-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Gallery</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GALLERY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Gallery2</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GALLERY2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-HTMLVIEWER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/InCallUI</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-INCALLUI-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/KeyChain</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-KEYCHAIN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Launcher2</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LAUNCHER2-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Launcher3</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LAUNCHER3-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LEGACYCAMERA-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MANAGEDPROVISIONING-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Messaging</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MESSAGING-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Music</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MUSIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/MusicFX</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MUSICFX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Nfc</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NFC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ONETIMEINITIALIZER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PACKAGEINSTALLER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Phone</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PHONE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PHONECOMMON-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Protips</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PROTIPS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Provision</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PROVISION-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-QUICKSEARCHBOX-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Settings</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SETTINGS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SmartCardService</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SMARTCARDSERVICE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SOUNDRECORDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SpareParts</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SPAREPARTS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SPEECHRECORDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Stk</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-STK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Tag</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TAG-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Terminal</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TERMINAL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/TvSettings</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TVSETTINGS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-UNIFIEDEMAIL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/experimental</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-EXPERIMENTAL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LATINIME-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-OPENWNN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-APPLICATIONSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-BOOKMARKPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CALENDARPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CALLLOGPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-CONTACTSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DOWNLOADPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/MediaProvider</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MEDIAPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PARTNERBOOKMARKSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TELEPHONYPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/TvProvider</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TVPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-USERDICTIONARYPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/Basic</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SCREENSAVERS-BASIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PHOTOTABLE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/WebView</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-WEBVIEW-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/services</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SERVICES-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/Basic</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-WALLPAPERS-BASIC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GALAXY4-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-HOLOSPIRAL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIVEPICKER-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MAGICSMOKE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MUSICVISUALIZATION-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-NOISEFIELD-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PHASEBEAM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/pdk</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PDK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/platform_testing</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PLATFORM_TESTING-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/android-emulator</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ANDROID-EMULATOR-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DARWIN-X86-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LINUX-X86-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/devtools</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DEVTOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/eclipse</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-ECLIPSE-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DARWIN-X86-AARCH64-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DARWIN-X86-ARM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DARWIN-X86-HOST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DARWIN-X86-MIPS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-DARWIN-X86-X86-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LINUX-X86-AARCH64-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LINUX-X86-ARM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LINUX-X86-HOST-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LINUX-X86-MIPS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LINUX-X86-X86-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-GRADLE-PLUGIN-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/libs</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-LIBS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/maven_repo</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MAVEN_REPO-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/misc</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-MISC-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/ndk</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PREBUILTS-NDK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/python</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PYTHON-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-QEMU-KERNEL-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/sdk</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PREBUILTS-SDK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/tools</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-PREBUILTS-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/sdk</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SDK-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/system</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-SYSTEM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/tools</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/trusty</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-TRUSTY-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6580/vendor</name>
+	<branch>refs/heads/pixi4-4_3g-v2.0-driveronly</branch>
+	<baseline>PIXI4-4-DRIVERONLY-VENDOR-P2.0</baseline>
+</project>
+</projects>

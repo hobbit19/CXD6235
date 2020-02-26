@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6582/art</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ART-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/dalvik</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/build</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/libcore</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/vendor</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-VENDOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/device</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/system</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/ndk</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/abi</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/hardware</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/bionic</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/cts</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/frameworks</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/development</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/developers</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/sdk</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/mediatek</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/kernel</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/tools</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/modem</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MODEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jhead</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libffi</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/svox</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/srec</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/proguard</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jdiff</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-http</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/harfbuzz</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tremolo</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/strace</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dhcpcd</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/webp</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mtpd</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/skia</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bouncycastle</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dropbear</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libyuv</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libpng</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/clang</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-xml</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/android-mock</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/liblzf</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/qemu</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/guava</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dnsmasq</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/stlport</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jpeg</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ipsec-tools</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/netcat</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/blktrace</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/antlr</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/neven</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jsr305</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/v8</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-V8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ppp</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libpcap</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libphonenumber</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/junit</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/embunit</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/hyphenation</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/wpa_supplicant_8</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/yaffs2</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/opencv</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jsilver</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/llvm</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/zlib</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/speex</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/srtp</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mksh</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/genext2fs</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eyes-free</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/nist-sip</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/safe-iop</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/kernel-headers</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/qemu-pc-bios</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mesa3d</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bzip2</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libgsm</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iproute2</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/grub</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-GRUB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libxml2</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnl-headers</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/oauth</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bison</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/icu4c</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ICU4C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/webrtc</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libxslt</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/protobuf</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/emma</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-harmony</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libvpx</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/google-diff-match-patch</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/gtest</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyxml</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/expat</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/doclava</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/netperf</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sqlite</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/fdlibm</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tcpdump</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/freetype</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bsdiff</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bluetooth</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/giflib</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnfc-nxp</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyalsa</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tagsoup</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openssl</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sonivox</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/flac</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/markdown</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/javassist</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iptables</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/oprofile</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/e2fsprogs</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mockwebserver</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/easymock</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/esd</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/javasqlite</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/elfutils</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/fsck_msdos</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/valgrind</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/xmlwriter</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/replicaisland</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/aac</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/checkpolicy</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium-trace</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/compiler-rt</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dexmaker</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eclipse-basebuilder</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ganymed-ssh2</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/gcc-demangle</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jmdns</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jmonkeyengine</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libmtp</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libselinux</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libsepol</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libusb</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libusb-compat</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/linux-tools-perf</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/littlemock</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mdnsresponder</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openfst</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openssh</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/hamcrest</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/regex-re2</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sepolicy</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/smali</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/zxing</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libifaddrs</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBIFADDRS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/wide-dhcpv6</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-WIDE-DHCPV6-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ant-glob</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/arduino</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnfc-nci</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libogg</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libppp</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libvorbis</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mp4parser</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/naver-fonts</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/okhttp</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/stressapptest</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyxml2</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libcap-ng</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/xmp_toolkit</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eigen</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium-libpac</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium_org</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/droiddriver</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/harfbuzz_ng</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iputils</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/LaunchPPPoe</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LAUNCHPPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/lzma</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mockito</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/nist-pkits</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/noto-fonts</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/objenesis</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/open-vcdiff</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/pixman</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/pppoe</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/robolectric</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/scrypt</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sfntly</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sil-fonts</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SIL-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/smack</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SMACK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/timezonepicker-support</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinycompress</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ceres-solver</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/libnativehelper</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/pdk</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/prebuilts</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/docs</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/bootable</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/experimental</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/DrmProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/MediaProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/Basic</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/PinyinIME</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PINYINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Browser</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/CertInstaller</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Music</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Calculator</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Contacts</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Gallery</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SpareParts</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/KeyChain</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Protips</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Tag</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Stk</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-STK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Nfc</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Launcher2</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/MusicFX</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Provision</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Mms</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Email</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Calendar</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/VideoEditor</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Settings</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Bluetooth</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Exchange</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Camera</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Gallery2</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/DeskClock</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/DeviceTestApp</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DEVICETESTAPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/Basic</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/WebView</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Camera2</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Dialer</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/InCallUI</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Launcher3</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/services</name>
+    <branch>refs/heads/mtk6582-v1.0-BSPonly</branch>
+    <baseline>MTK6582-BSPONLY-SERVICES-P1.0</baseline>
+</project>
+</projects>

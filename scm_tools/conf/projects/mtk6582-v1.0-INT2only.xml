@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6582/art</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ART-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/dalvik</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/build</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/libcore</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/vendor</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-VENDOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/device</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/system</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/ndk</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/abi</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/hardware</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/bionic</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/cts</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/frameworks</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/development</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/developers</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/sdk</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/mediatek</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/kernel</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/tools</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/modem</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MODEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jhead</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libffi</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/svox</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/srec</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/proguard</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jdiff</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-http</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/harfbuzz</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tremolo</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/strace</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dhcpcd</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/webp</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mtpd</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/skia</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bouncycastle</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dropbear</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libyuv</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libpng</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/clang</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-xml</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/android-mock</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/liblzf</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/qemu</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/guava</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dnsmasq</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/stlport</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jpeg</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ipsec-tools</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/netcat</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/blktrace</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/antlr</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/neven</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jsr305</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/v8</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-V8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ppp</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libpcap</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libphonenumber</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/junit</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/embunit</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/hyphenation</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/wpa_supplicant_8</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/yaffs2</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/opencv</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jsilver</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/llvm</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/zlib</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/speex</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/srtp</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mksh</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/genext2fs</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eyes-free</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/nist-sip</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/safe-iop</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/kernel-headers</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/qemu-pc-bios</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mesa3d</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bzip2</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libgsm</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iproute2</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/grub</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-GRUB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libxml2</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnl-headers</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/oauth</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bison</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/icu4c</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ICU4C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/webrtc</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libxslt</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/protobuf</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/emma</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/apache-harmony</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libvpx</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/google-diff-match-patch</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/gtest</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyxml</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/expat</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/doclava</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/netperf</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sqlite</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/fdlibm</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tcpdump</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/freetype</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bsdiff</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/bluetooth</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/giflib</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnfc-nxp</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyalsa</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tagsoup</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openssl</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sonivox</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/flac</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/markdown</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/javassist</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iptables</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/oprofile</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/e2fsprogs</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mockwebserver</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/easymock</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/esd</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/javasqlite</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/elfutils</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/fsck_msdos</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/valgrind</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/xmlwriter</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/replicaisland</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/aac</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/checkpolicy</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium-trace</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/compiler-rt</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/dexmaker</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eclipse-basebuilder</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ganymed-ssh2</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/gcc-demangle</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jmdns</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/jmonkeyengine</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libmtp</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libselinux</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libsepol</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libusb</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libusb-compat</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/linux-tools-perf</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/littlemock</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mdnsresponder</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openfst</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/openssh</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/hamcrest</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/regex-re2</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sepolicy</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/smali</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/zxing</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libifaddrs</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBIFADDRS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/wide-dhcpv6</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-WIDE-DHCPV6-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ant-glob</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/arduino</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libnfc-nci</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libogg</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libppp</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libvorbis</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mp4parser</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/naver-fonts</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/okhttp</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/stressapptest</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinyxml2</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/libcap-ng</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/xmp_toolkit</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/eigen</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium-libpac</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/chromium_org</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/droiddriver</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/harfbuzz_ng</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/iputils</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/LaunchPPPoe</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LAUNCHPPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/lzma</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/mockito</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/nist-pkits</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/noto-fonts</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/objenesis</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/open-vcdiff</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/pixman</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/pppoe</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PPPOE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/robolectric</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/scrypt</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sfntly</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/sil-fonts</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SIL-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/smack</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SMACK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/timezonepicker-support</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/tinycompress</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/external/ceres-solver</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/libnativehelper</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/pdk</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/prebuilts</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/docs</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/bootable</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/experimental</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/DrmProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/MediaProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/Basic</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/PinyinIME</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PINYINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Browser</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/CertInstaller</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Music</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Calculator</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Contacts</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Gallery</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SpareParts</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/KeyChain</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Protips</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Tag</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Stk</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-STK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Nfc</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Launcher2</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/MusicFX</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Provision</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Mms</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Email</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Calendar</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/VideoEditor</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Settings</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Bluetooth</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Exchange</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Camera</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Gallery2</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/DeskClock</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/DeviceTestApp</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DEVICETESTAPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/Basic</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/screensavers/WebView</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Camera2</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Dialer</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/InCallUI</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/Launcher3</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/packages/apps/services</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-SERVICES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/mtk6582_wimdata_ng/wcustores</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/mtk6582_wimdata_ng/wlanguage</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/mtk6582_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6582/mtk6582_wimdata_ng/liv</name>
+    <branch>refs/heads/mtk6582-v1.0-INT2only</branch>
+    <baseline>MTK6582-INT2ONLY-LIV-P1.0</baseline>
+</project>
+</projects>

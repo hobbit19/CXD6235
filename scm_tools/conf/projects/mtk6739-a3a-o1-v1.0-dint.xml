@@ -1,0 +1,2033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>alps/version_babyd</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-VERSION_BABYD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/art</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ART-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/bionic</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/bootable</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/build</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/ccu_tool</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CCU_TOOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/compatibility</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-COMPATIBILITY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/cts</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/dalvik</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/development</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/device</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/docs</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ImageMagick</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-IMAGEMAGICK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/Microsoft-GSL</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MICROSOFT-GSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/aac</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/abi-compliance-checker</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ABI-COMPLIANCE-CHECKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/abi-dumper</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ABI-DUMPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/android-clat</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/androidplot</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ant-glob</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/antlr</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/apache-commons-math</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/apache-harmony</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/apache-http</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/apache-xml</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/archive-patcher</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ARCHIVE-PATCHER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/autotest</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-AUTOTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/avb</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-AVB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bart</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BART-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bison</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/blktrace</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/boringssl</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bouncycastle</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/brotli</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BROTLI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bsdiff</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bzip2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/c-ares</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-C-ARES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/caliper</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CALIPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/cblas</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/chromium-libpac</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/chromium-trace</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/chromium-webview</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/clang</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EXTERNAL-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/cmockery</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/compiler-rt</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/conscrypt</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/crcalc</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/cros</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CROS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/curl</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CURL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dagger2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DAGGER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/deqp</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EXTERNAL-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/desugar</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DESUGAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/devlib</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DEVLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dexmaker</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DHCPCD-6.8.2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dlmalloc</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DLMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dng_sdk</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DNG_SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dnsmasq</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/doclava</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/donuts</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DONUTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/drm_hwcomposer</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/droiddriver</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/drrickorang</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DRRICKORANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dtc</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DTC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/e2fsprogs</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/easymock</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/eigen</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/elfutils</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/emma</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/esd</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/expat</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/eyes-free</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/f2fs-tools</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fdlibm</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fec</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-FEC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fio</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/flac</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/flatbuffers</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-FLATBUFFERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fmtlib</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-FMTLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fonttools</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/freetype</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fsck_msdos</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/gemmlowp</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GEMMLOWP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/giflib</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/glide</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/google-api-services-storage</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GOOGLE-API-SERVICES-STORAGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/google-benchmark</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GOOGLE-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/google-breakpad</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/google-fonts</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/googletest</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GOOGLETEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/gptfdisk</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/guava</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/guice</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GUICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/hamcrest</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/harfbuzz_ng</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/hyphenation-patterns</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/icu</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ims</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/iproute2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ipsec-tools</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/iptables</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/iputils</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/iw</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-IW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jacoco</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JACOCO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jarjar</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/javasqlite</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/javassist</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jcommander</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JCOMMANDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jdiff</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jemalloc</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jline</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JLINE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jmdns</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsilver</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsmn</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsoncpp</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsr305</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsr330</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JSR330-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/junit</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/junit-params</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JUNIT-PARAMS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/kernel-headers</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/kmod</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-KMOD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ksoap2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libavc</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libbackup</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBBACKUP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libbrillo</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBBRILLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcap</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcap-ng</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libchrome</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBCHROME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libconstrainedcrypto</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBCONSTRAINEDCRYPTO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcups</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBCUPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcxx</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcxxabi</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libdaemon</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBDAEMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libdivsufsort</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBDIVSUFSORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libdrm</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libedit</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libese</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBESE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libevent</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBEVENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libexif</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libgsm</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libhevc</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libjpeg-turbo</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBJPEG-TURBO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libldac</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBLDAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/liblzf</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libmicrohttpd</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBMICROHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libmojo</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBMOJO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libmpeg2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libmtp</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBNETFILTER_CONNTRACK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libnfnetlink</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBNFNETLINK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libnl</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libogg</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libopus</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libpcap</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libphonenumber</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libpng</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libtextclassifier</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBTEXTCLASSIFIER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libunwind</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libunwind_llvm</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libusb</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libusb-compat</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libutf</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libvncserver</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libvorbis</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libvpx</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libvterm</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libxml2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libyuv</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/linux-kselftest</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LINUX-KSELFTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/lisa</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LISA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/littlemock</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/lld</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LLD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/llvm</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/lmfit</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LMFIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ltp</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/lz4</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/lzma</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/markdown</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mdnsresponder</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mesa3d</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/messageformat</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/minijail</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MINIJAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mksh</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mmc-utils</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mockftpserver</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mockito</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mockwebserver</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/modp_b64</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MODP_B64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mp4parser</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mtpd</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nanohttpd</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nanopb-c</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/naver-fonts</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/netcat</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/netperf</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/neven</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nfacct</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nist-pkits</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nist-sip</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/noto-fonts</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/oauth</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/objenesis</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/okhttp</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/opencv</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/openssh</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/owasp</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-OWASP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/parameter-framework</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/pcre</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/pdfium</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/piex</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PIEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ply</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PLY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ppp</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/proguard</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/protobuf</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/python</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EXTERNAL-PYTHON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/r8</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-R8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/regex-re2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/replicaisland</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/rmi4utils</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-RMI4UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/robolectric</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/roboto-fonts</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/rootdev</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ROOTDEV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/safe-iop</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/scrypt</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/seccomp-tests</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SECCOMP-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/selinux</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sfntly</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/shflags</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SHFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/skia</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sl4a</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SL4A-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/slf4j</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/smali</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/snakeyaml</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SNAKEYAML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sonic</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sonivox</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/speex</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/spirv-llvm</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SPIRV-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sqlite</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/squashfs-tools</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/strace</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/stressapptest</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/svox</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/swiftshader</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SWIFTSHADER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/syslinux</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SYSLINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tagsoup</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tcpdump</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/testng</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TESTNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/timezonepicker-support</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinyalsa</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinycompress</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinyxml</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinyxml2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/toybox</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tpm2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TPM2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/trappy</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TRAPPY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tremolo</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/unicode</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-UNICODE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/v4l2_codec2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-V4L2_CODEC2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/v8</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/valgrind</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/vboot_reference</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/vixl</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/vogar</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/volley</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-VOLLEY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/vulkan-validation-layers</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-VULKAN-VALIDATION-LAYERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/walt</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-WALT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/webp</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/webrtc</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/wpa_supplicant_8</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/wycheproof</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-WYCHEPROOF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/x264</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-X264-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/xmlrpcpp</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-XMLRPCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/xmlwriter</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/xmp_toolkit</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/xz-embedded</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-XZ-EMBEDDED-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/zlib</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/zopfli</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/zxing</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/frameworks</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/hardware</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/kernel-4.4</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-KERNEL-4.4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/kernel_modules-4.4</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-KERNEL_MODULES-4.4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/libcore</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/libnativehelper</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/modem/LWTG</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LWTG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Bluetooth</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Browser2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BROWSER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Calendar</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Camera2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Car</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/CertInstaller</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Contacts</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/DeskClock</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/DevCamera</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DEVCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Dialer</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DOCUMENTSUI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Email</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EMERGENCYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Gallery</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Gallery2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/KeyChain</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Launcher2</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Launcher3</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Messaging</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Music</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/MusicFX</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Nfc</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Protips</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Provision</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SAFETYREGULATORYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Settings</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/SpareParts</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Stk</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/StorageManager</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-STORAGEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Tag</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Terminal</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Test</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-APPS-TEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TIMEZONEDATA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TIMEZONEUPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/TvSettings</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-WALLPAPERPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BLOCKEDNUMBERPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/MediaProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/TvProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/screensavers/Basic</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/screensavers/WebView</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/services</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/pdk</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/platform_testing</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/abi-dumps</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ABI-DUMPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/android-emulator</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/build-tools</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-BUILD-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/checkcolor</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CHECKCOLOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/checkstyle</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CHECKSTYLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/clang</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PREBUILTS-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/deqp</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PREBUILTS-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/devtools</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DARWIN-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DARWIN-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DARWIN-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DARWIN-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-DARWIN-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LINUX-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LINUX-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LINUX-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LINUX-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LINUX-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/go</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/jdk</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/libs</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/maven_repo</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/misc</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/ndk</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/python</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PREBUILTS-PYTHON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/sdk</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/tools</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/sdk</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/system</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/test</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/toolchain</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TOOLCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/tools</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/trusty/app/gatekeeper</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GATEKEEPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/trusty/app/keymaster</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/trusty/app/sample</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-SAMPLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/trusty/app/storage</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-STORAGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/trusty/device</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TRUSTY-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/trusty/external/headers</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/trusty/external/lk</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-EXTERNAL-LK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/trusty/lib</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-LIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/trusty/lk</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-TRUSTY-LK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/trusty/vendor/google</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GOOGLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/trusty/vendor/mediatek</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-VENDOR-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/vendor/csr</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-CSR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/vendor/google_tradefederation</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GOOGLE_TRADEFEDERATION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/vendor/google_vts</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-GOOGLE_VTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/vendor/mediatek</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-VENDOR-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdMMITest</name>
+	<branch>refs/heads/mtk6739-a3a-o1-v1.0-dint</branch>
+	<baseline>MTK6739-A3A-JRDMMITEST-P1.0</baseline>
+</project>
+</projects>

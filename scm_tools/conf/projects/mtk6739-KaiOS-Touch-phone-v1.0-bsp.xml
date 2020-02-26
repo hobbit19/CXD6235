@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6739/abi</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/art</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ART-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/bionic</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/bootable</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/build</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/cts</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/dalvik</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/developers</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/development</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/device</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/docs</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/aac</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/android-clat</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/android-mock</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ant-glob</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/antlr</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/apache-harmony</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/apache-http</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/apache-xml</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/arduino</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ARDUINO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bison</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/blktrace</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bluetooth</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-EXTERNAL-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bouncycastle</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bsdiff</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bzip2</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ceres-solver</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/checkpolicy</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/chromium</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/chromium-libpac</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/chromium-trace</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/chromium_org</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/clang</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-EXTERNAL-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/compiler-rt</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dexmaker</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dhcpcd</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dnsmasq</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/doclava</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/droiddriver</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dropbear</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/e2fsprogs</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/easymock</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/eclipse-basebuilder</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/eigen</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/elfutils</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/embunit</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/emma</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/esd</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/expat</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/eyes-free</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fdlibm</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/flac</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/freetype</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fsck_msdos</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ganymed-ssh2</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/gcc-demangle</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/genext2fs</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/giflib</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/google-diff-match-patch</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/grub</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-GRUB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/gtest</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/guava</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/hamcrest</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/harfbuzz</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/harfbuzz_ng</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/hyphenation</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/icu4c</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ICU4C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/iproute2</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ipsec-tools</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/iptables</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/iputils</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/javasqlite</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/javassist</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jdiff</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jemalloc</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jhead</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jmdns</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jmonkeyengine</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jpeg</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsilver</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsr305</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/junit</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/kernel-headers</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcap-ng</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcxx</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcxxabi</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libdrm</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libffi</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libgsm</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/liblzf</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libmtp</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libnfc-nci</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libnfc-nxp</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libnl-headers</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libogg</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libpcap</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libphonenumber</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libpng</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libppp</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBPPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libselinux</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libsepol</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libunwind_llvm</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libusb</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libusb-compat</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libvorbis</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libvpx</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libxml2</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libxslt</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libyuv</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/linux-tools-perf</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/littlemock</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/llvm</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/lzma</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/marisa-trie</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/markdown</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mdnsresponder</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mesa3d</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mksh</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mockito</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mockwebserver</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mp4parser</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mtpd</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/naver-fonts</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/netcat</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/netperf</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/neven</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nist-pkits</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nist-sip</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/noto-fonts</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/oauth</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/objenesis</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/okhttp</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/open-vcdiff</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/opencv</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/openfst</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-OPENFST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/openssh</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/openssl</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-OPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/oprofile</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-OPROFILE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/pixman</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PIXMAN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ppp</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/proguard</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/protobuf</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/qemu</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/qemu-pc-bios</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/regex-re2</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/replicaisland</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/robolectric</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/safe-iop</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/scrypt</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sepolicy</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sfntly</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sil-fonts</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SIL-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/skia</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/smack</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SMACK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/smali</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sonivox</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/speex</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sqlite</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/srec</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SREC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/srtp</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SRTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/stlport</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-STLPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/strace</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/stressapptest</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/svox</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tagsoup</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tcpdump</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/timezonepicker-support</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinyalsa</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinycompress</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinyxml</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinyxml2</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tremolo</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/v8</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/valgrind</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/webp</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/webrtc</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/wpa_supplicant_8</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/xmlwriter</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/xmp_toolkit</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/yaffs2</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-YAFFS2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/zlib</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/zxing</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/frameworks</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/hardware</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/kernel-4.4</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-KERNEL-4.4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/libcore</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/libnativehelper</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/ndk</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Bluetooth</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-APPS-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Browser</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Calculator</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Calendar</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Camera</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Camera2</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/CertInstaller</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Contacts</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/DeskClock</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Dialer</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Email</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Exchange</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Gallery</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Gallery2</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/InCallUI</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-INCALLUI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/KeyChain</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Launcher2</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Launcher3</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Mms</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Music</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/MusicFX</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Nfc</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Protips</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Provision</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Settings</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/SpareParts</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Stk</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Tag</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/VideoEditor</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/experimental</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/inputmethods/PinyinIME</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PINYINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/MediaProvider</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/screensavers/Basic</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SCREENSAVERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/screensavers/WebView</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/services</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/wallpapers/Basic</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-WALLPAPERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-GALAXY4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/pdk</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/clang</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PREBUILTS-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/devtools</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/eclipse</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DARWIN-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DARWIN-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DARWIN-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-DARWIN-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LINUX-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LINUX-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LINUX-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-LINUX-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/misc</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/ndk</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/python</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PYTHON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/runtime</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-RUNTIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/sdk</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/tools</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/sdk</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/system</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/tools</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/vendor/mediatek</name>
+	<branch>refs/heads/mtk6739-KaiOS-Touch-phone-v1.0-bsp</branch>
+	<baseline>MT6739-KOS-TOUCH-PHONE-BSP-MEDIATEK-P1.0</baseline>
+</project>
+</projects>

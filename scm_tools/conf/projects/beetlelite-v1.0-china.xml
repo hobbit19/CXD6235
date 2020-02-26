@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/liv</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wcustores</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wplmn</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WPLMN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wtheme</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WTHEME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wtime</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WTIME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bionic</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bootable</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/build</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/cts</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/dalvik</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/libcore</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/development</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/device</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/apache-http</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/astl</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-ASTL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bison</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blisrc</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BLISRC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blktrace</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/bluez</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BLUETOOTH-BLUEZ-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/glib</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BLUETOOTH-GLIB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/hcidump</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BLUETOOTH-HCIDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bouncycastle</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bsdiff</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bzip2</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/chromium</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/clearsilver</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CLEARSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dbus</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dhcpcd</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dnsmasq</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dropbear</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/e2fsprogs</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/easymock</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfcopy</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-ELFCOPY-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfutils</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/embunit</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/emma</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/esd</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-esd-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/expat</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fdlibm</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fsck_msdos</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/genext2fs</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/giflib</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/grub</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-GRUB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/gtest</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/guava</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/icu4c</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-ICU4C-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iproute2</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ipsec-tools</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iptables</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jdiff</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jhead</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jpeg</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jsr305</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/junit</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/kernel-headers</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libffi</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libgsm</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libnfc-nxp</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpcap</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpng</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libvpx</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-libvpx-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libxml2</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/mtpd</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netcat</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netperf</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/neven</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/nist-sip</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oauth</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/opencore</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-OPENCORE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/openssl</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-OPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oprofile</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-OPROFILE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ping</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-PING-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ppp</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/proguard</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/protobuf</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/qemu</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/safe-iop</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia_asm</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SKIA_ASM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sonivox</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-sonivox-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/speex</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-speex-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sqlite</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/srec</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SREC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/stlport</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-STLPORT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/strace</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/svox</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tagsoup</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-tagsoup-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tcpdump</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-tcpdump-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tinyxml</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-tinyxml-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tremolo</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/v8</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-V8-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/webkit</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WEBKIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WPA_SUPPLICANT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant_6</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WPA_SUPPLICANT_6-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/xmlwriter</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/yaffs2</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-YAFFS2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/zlib</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-ZLIB-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/frameworks</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/hardware</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/kernel</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mediatek</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/ndk</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-NDK-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/AccountsAndSyncSettings</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-ACCOUNTSANDSYNCSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Bluetooth</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BLUETOOTH-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/Browser</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calculator</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calendar</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Camera</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CameraOpen</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CAMERAOPEN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CellConnService</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CELLCONNSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CertInstaller</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Contacts</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DeskClock</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Email</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery3D</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-GALLERY3D-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-HTMLViewer-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Launcher2</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-Launcher2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Mms</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Music</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Phone</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Protips</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Provision</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-Provision-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Settings</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Stk</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-STK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Tag</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-VOICEDIALER-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/experimental</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DrmProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-GOOGLECONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/MediaProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/Basic</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/Basic</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WALLPAPERS_GLES20-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/LivePicker</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WALLPAPERS_GLES20-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MagicSmoke</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WALLPAPERS_GLES20-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MusicVisualization</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-WALLPAPERS_GLES20-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MMITest</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-MMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdLauncher</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JRDLAUNCHER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JRDEMAILFEEDBACK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdFota</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JRDTCLHELP-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/TrafficManager</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-TRAFFICMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/NotePad2</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdContainer  </name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JRDCONTAINER-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/APKInstallerHelper </name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-APKINSTALLERHELPER-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DRMAGENTPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DrmUtility</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DRMUTILITY-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/drmagent</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-DRMAGENT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SecureClock</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SECURECLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MusicWidget</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-TCLWATCHDOG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-JRDEMAILFEEDBACK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/prebuilt</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-PREBUILT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/sdk</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/system</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/vendor</name>
+	<branch>refs/heads/beetlelite-v1.0-china</branch>
+	<baseline>BEETLELITE-CHINA-VENDOR-P1.0</baseline>
+</project>
+</projects>

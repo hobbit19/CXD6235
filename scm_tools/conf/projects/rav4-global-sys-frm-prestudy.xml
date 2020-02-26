@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6589/rav4_wimdata_ng/liv</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/rav4_wimdata_ng/wcustores</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/rav4_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/rav4_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/dalvik</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/build</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/libcore</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/vendor</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-VENDOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/device</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/system</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/ndk</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/abi</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/hardware</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/bionic</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/cts</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/frameworks</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/development</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/sdk</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/mediatek</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/kernel</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/tools</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/jhead</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libffi</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/svox</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/srec</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SREC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/proguard</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/jdiff</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/apache-http</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/harfbuzz</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/tremolo</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/strace</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/dhcpcd</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/webp</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/mtpd</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/skia</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/bouncycastle</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/dropbear</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libyuv</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libpng</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/clang</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/apache-xml</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/android-mock</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/liblzf</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/qemu</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/guava</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/dnsmasq</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/stlport</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-STLPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/jpeg</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/ipsec-tools</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/netcat</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/blktrace</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/antlr</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/neven</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/jsr305</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/lohit-fonts</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LOHIT-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/v8</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/ppp</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libpcap</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBPCAP-P1.0</baseline>
+</project>f
+<project>
+	<name>mtk6589/external/libphonenumber</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/junit</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/embunit</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/hyphenation</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/wpa_supplicant_8</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/yaffs2</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-YAFFS2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/opencv</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/jsilver</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/llvm</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/zlib</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/speex</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/srtp</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SRTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/mksh</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/genext2fs</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/eyes-free</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/nist-sip</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/safe-iop</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/kernel-headers</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/qemu-pc-bios</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/chromium</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/mesa3d</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/bzip2</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libgsm</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/iproute2</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/grub</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GRUB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libxml2</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libnl-headers</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/oauth</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/bison</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/icu4c</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ICU4C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/webrtc</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libxslt</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/protobuf</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/emma</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/apache-harmony</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libvpx</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/astl</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ASTL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/google-diff-match-patch</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/gtest</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/tinyxml</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/expat</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/doclava</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/netperf</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/webkit</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-WEBKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/sqlite</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/fdlibm</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/tcpdump</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/wpa_supplicant_6</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-WPA_SUPPLICANT_6-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/freetype</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/bsdiff</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/bluetooth</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/giflib</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libnfc-nxp</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/tinyalsa</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/tagsoup</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/openssl</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-OPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/sonivox</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/flac</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/dbus</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/markdown</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/javassist</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/iptables</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/oprofile</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-OPROFILE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/e2fsprogs</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/mockwebserver</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/easymock</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/esd</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/javasqlite</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/elfutils</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/fsck_msdos</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/valgrind</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/ping</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/xmlwriter</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/ping6</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PING6-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/replicaisland</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/aac</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/checkpolicy</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/chromium-trace</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/cibu-fonts</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CIBU-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/compiler-rt</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/dexmaker</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/eclipse-basebuilder</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/ganymed-ssh2</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/gcc-demangle</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/jmdns</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/jmonkeyengine</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libmtp</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libselinux</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libsepol</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libunwind</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libusb</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libusb-compat</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/linux-tools-perf</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/littlemock</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/mdnsresponder</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/openfst</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-OPENFST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/openssh</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/hamcrest</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/regex-re2</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/sepolicy</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/smali</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/zxing</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libifaddrs</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBIFADDRS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/wide-dhcpv6</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-WIDE-DHCPV6-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/ant-glob</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/arduino</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-ARDUINO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libnfc-nci</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libnfc-opennfc</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBNFC-OPENNFC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libogg</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libppp</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBPPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libvorbis</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/mp4parser</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/naver-fonts</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/okhttp</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/stressapptest</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/tinyxml2</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/libcap-ng</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/external/xmp_toolkit</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/gdk</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/libnativehelper</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/pdk</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/prebuilts</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PREBUILTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/docs</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/bootable</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/experimental</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/providers/DrmProvider</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/providers/MediaProvider</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GALAXY4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/wallpapers/Basic</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/inputmethods/PinyinIME</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PINYINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Browser</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/CertInstaller</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Music</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Calculator</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Contacts</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Gallery</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Gallery2</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/SpareParts</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/KeyChain</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Protips</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Tag</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Stk</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Nfc</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Launcher2</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/MusicFX</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Camera</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Provision</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Mms</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Email</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Calendar</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/VideoEditor</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Phone</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/DeskClock</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Settings</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Bluetooth</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-APPS-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/Exchange</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/SDKGallery</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SDKGALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/apps/MMITest</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/screensavers/Basic</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SCREENSAVERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/packages/screensavers/WebView</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/MusicWidget</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-TCLWATCHDOG-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdSalesTracker</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDSALESTRACKER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTorch</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDTORCH-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/NotePad2</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdContainer</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDCONTAINER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdWorldClock</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDWORLDCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTethering</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDTETHERING-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdWeather</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDWEATHER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdFota</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdSdcardUpgrade</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdLauncher</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDLAUNCHER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDTCLHELP-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdMemo</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDMEMO-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/O2Ideas</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdWrapper</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-JRDWRAPPER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/version_babyd</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-VERSION_BABYD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6589/modem</name>
+	<branch>refs/heads/rav4-global-sys-frm-prestudy</branch>
+	<baseline>RAV4-GLOBAL-SYS-FRM-PRESTUDY-MODEM-P1.0</baseline>
+</project>
+</projects>

@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6750t/abi</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ABI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/art</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ART-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/bionic</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BIONIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/bootable</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BOOTABLE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/build</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BUILD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/compatibility</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-COMPATIBILITY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/cts</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/dalvik</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DALVIK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/development</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DEVELOPMENT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/device</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DEVICE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/docs</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DOCS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/aac</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-AAC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/android-clat</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ANDROID-CLAT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/android-mock</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ANDROID-MOCK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/androidplot</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ANDROIDPLOT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ant-glob</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ANT-GLOB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/antlr</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ANTLR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-commons-math</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-APACHE-COMMONS-MATH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-harmony</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-APACHE-HARMONY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-http</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-APACHE-HTTP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/apache-xml</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-APACHE-XML-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/autotest</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-AUTOTEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/avahi</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-AVAHI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bison</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BISON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/blktrace</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BLKTRACE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/boringssl</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BORINGSSL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bouncycastle</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BOUNCYCASTLE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bsdiff</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BSDIFF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/bzip2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BZIP2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/c-ares</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-C-ARES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/caliper</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CALIPER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cblas</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CBLAS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ceres-solver</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CERES-SOLVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-libpac</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CHROMIUM-LIBPAC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-trace</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CHROMIUM-TRACE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/chromium-webview</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CHROMIUM-WEBVIEW-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/clang</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CLANG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cmockery</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CMOCKERY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/compiler-rt</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-COMPILER-RT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/conscrypt</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CONSCRYPT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/crcalc</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CRCALC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/cros</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CROS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/curl</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CURL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dagger2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DAGGER2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dbus</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DBUS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dbus-binding-generator</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DBUS-BINDING-GENERATOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/deqp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-EXTERNAL-DEQP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dexmaker</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DEXMAKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DHCPCD-6.8.2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dlmalloc</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DLMALLOC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dng_sdk</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DNG_SDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/dnsmasq</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DNSMASQ-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/doclava</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DOCLAVA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/donuts</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DONUTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/drm_gralloc</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DRM_GRALLOC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/drm_hwcomposer</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DRM_HWCOMPOSER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/droiddriver</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DROIDDRIVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/e2fsprogs</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-E2FSPROGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/easymock</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-EASYMOCK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eclipse-basebuilder</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ECLIPSE-BASEBUILDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ECLIPSE-WINDOWBUILDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eigen</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-EIGEN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/elfutils</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ELFUTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/embunit</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-EMBUNIT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/emma</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-EMMA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/esd</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ESD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/expat</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-EXPAT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/eyes-free</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-EYES-FREE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/f2fs-tools</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-F2FS-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fdlibm</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-FDLIBM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fec</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-FEC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fio</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-FIO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/flac</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-FLAC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fonttools</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-FONTTOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/freetype</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-FREETYPE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/fsck_msdos</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-FSCK_MSDOS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gemmlowp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GEMMLOWP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/giflib</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GIFLIB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/glide</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GLIDE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gmock</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GMOCK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-benchmark</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GOOGLE-BENCHMARK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-breakpad</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GOOGLE-BREAKPAD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-fonts</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GOOGLE-FONTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GOOGLE-TV-PAIRING-PROTOCOL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gptfdisk</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GPTFDISK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/gtest</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GTEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/guava</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GUAVA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/guice</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GUICE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/hamcrest</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-HAMCREST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/harfbuzz_ng</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-HARFBUZZ_NG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/hyphenation-patterns</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-HYPHENATION-PATTERNS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/icu</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ICU-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iproute2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-IPROUTE2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ipsec-tools</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-IPSEC-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iptables</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-IPTABLES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iputils</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-IPUTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/iw</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-IW-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jacoco</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JACOCO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jarjar</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JARJAR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/javasqlite</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JAVASQLITE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/javassist</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JAVASSIST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jcommander</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JCOMMANDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jdiff</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JDIFF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jemalloc</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JEMALLOC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jetty</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JETTY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jhead</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JHEAD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jmdns</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JMDNS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jmonkeyengine</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JMONKEYENGINE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsilver</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JSILVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsmn</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JSMN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsoncpp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JSONCPP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsr305</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JSR305-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/jsr330</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JSR330-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/junit</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JUNIT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/kernel-headers</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-KERNEL-HEADERS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ksoap2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-KSOAP2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libavc</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBAVC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libbrillo</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBBRILLO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcap</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBCAP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcap-ng</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBCAP-NG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libchrome</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBCHROME-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcxx</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBCXX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libcxxabi</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBCXXABI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdaemon</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBDAEMON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdivsufsort</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBDIVSUFSORT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libdrm</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBDRM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libedit</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBEDIT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libevent</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBEVENT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libexif</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBEXIF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libgsm</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBGSM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libhevc</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBHEVC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libjpeg-turbo</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBJPEG-TURBO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/liblzf</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBLZF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmicrohttpd</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBMICROHTTPD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmpeg2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBMPEG2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libmtp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBMTP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnfc-nci</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBNFC-NCI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnfc-nxp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBNFC-NXP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libnl</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBNL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libogg</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBOGG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libopus</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBOPUS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libpcap</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBPCAP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libphonenumber</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBPHONENUMBER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libpng</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBPNG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libselinux</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBSELINUX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libunwind</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBUNWIND-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libunwind_llvm</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBUNWIND_LLVM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libusb</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBUSB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libusb-compat</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBUSB-COMPAT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libutf</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBUTF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvncserver</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBVNCSERVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvorbis</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBVORBIS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvpx</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBVPX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libvterm</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBVTERM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libweave</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBWEAVE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libxml2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBXML2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/libyuv</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBYUV-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/littlemock</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LITTLEMOCK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lld</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LLD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lldb</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LLDB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/llvm</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LLVM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ltrace</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LTRACE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lz4</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LZ4-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/lzma</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LZMA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/marisa-trie</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MARISA-TRIE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/markdown</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MARKDOWN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mdnsresponder</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MDNSRESPONDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mesa3d</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MESA3D-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/messageformat</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MESSAGEFORMAT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/minijail</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MINIJAIL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mksh</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MKSH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mmc-utils</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MMC-UTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockftpserver</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MOCKFTPSERVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockito</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MOCKITO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mockwebserver</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MOCKWEBSERVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/modp_b64</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MODP_B64-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mp4parser</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MP4PARSER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/mtpd</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MTPD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nanohttpd</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NANOHTTPD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nanopb-c</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NANOPB-C-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/naver-fonts</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NAVER-FONTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/netcat</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NETCAT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/netperf</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NETPERF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/neven</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NEVEN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nfacct</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NFACCT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nist-pkits</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NIST-PKITS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/nist-sip</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NIST-SIP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/noto-fonts</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NOTO-FONTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/oauth</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-OAUTH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/objenesis</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-OBJENESIS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/okhttp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-OKHTTP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/opencv</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-OPENCV-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/opencv3</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-OPENCV3-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/openfst</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-OPENFST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/openssh</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-OPENSSH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/owasp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-OWASP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/parameter-framework</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PARAMETER-FRAMEWORK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/pcre</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PCRE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/pdfium</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PDFIUM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/piex</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PIEX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/ppp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PPP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/proguard</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PROGUARD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/protobuf</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PROTOBUF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/regex-re2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-REGEX-RE2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/replicaisland</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-REPLICAISLAND-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/rmi4utils</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-RMI4UTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/robolectric</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ROBOLECTRIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/roboto-fonts</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ROBOTO-FONTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/rootdev</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ROOTDEV-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/safe-iop</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SAFE-IOP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/scrypt</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SCRYPT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/selinux</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SELINUX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sfntly</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SFNTLY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/shflags</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SHFLAGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/skia</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SKIA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sl4a</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SL4A-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/slf4j</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SLF4J-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/smali</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SMALI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/snakeyaml</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SNAKEYAML-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sonic</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SONIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sonivox</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SONIVOX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/speex</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SPEEX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/sqlite</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SQLITE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/squashfs-tools</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SQUASHFS-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/srtp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SRTP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/strace</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-STRACE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/svox</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SVOX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tagsoup</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TAGSOUP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tcpdump</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TCPDUMP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/testng</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TESTNG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/timezonepicker-support</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TIMEZONEPICKER-SUPPORT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyalsa</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TINYALSA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinycompress</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TINYCOMPRESS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyxml</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TINYXML-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tinyxml2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TINYXML2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tlsdate</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TLSDATE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/toybox</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TOYBOX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tpm2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TPM2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/tremolo</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TREMOLO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/unicode</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-UNICODE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/v8</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-V8-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/valgrind</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-VALGRIND-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vboot_reference</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-VBOOT_REFERENCE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vixl</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-VIXL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vogar</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-VOGAR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/vulkan-validation-layers</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-VULKAN-VALIDATION-LAYERS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/webp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-WEBP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/webrtc</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-WEBRTC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/wpa_supplicant_8</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-WPA_SUPPLICANT_8-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmlrpcpp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-XMLRPCPP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmlwriter</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-XMLWRITER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/xmp_toolkit</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-XMP_TOOLKIT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zlib</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ZLIB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zopfli</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ZOPFLI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/external/zxing</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ZXING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/frameworks</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-FRAMEWORKS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/hardware</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-HARDWARE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/kernel</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-KERNEL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/libcore</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBCORE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/libnativehelper</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBNATIVEHELPER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/modem</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MODEM-P2.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/ndk</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BASICSMSRECEIVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Bluetooth</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BLUETOOTH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Browser2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BROWSER2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Calculator</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CALCULATOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Calendar</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CALENDAR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Camera2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CAMERA2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CARRIERCONFIG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CELLBROADCASTRECEIVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/CertInstaller</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CERTINSTALLER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Contacts</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CONTACTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CONTACTSCOMMON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/DeskClock</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DESKCLOCK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/DevCamera</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DEVCAMERA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Dialer</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DIALER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Email</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-EMAIL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-EMERGENCYINFO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-EXACTCALCULATOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Gallery</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GALLERY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Gallery2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GALLERY2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-HTMLVIEWER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/KeyChain</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-KEYCHAIN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Launcher2</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LAUNCHER2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Launcher3</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LAUNCHER3-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LEGACYCAMERA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MANAGEDPROVISIONING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Messaging</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MESSAGING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Music</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MUSIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/MusicFX</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MUSICFX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Nfc</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NFC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ONETIMEINITIALIZER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PACKAGEINSTALLER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Phone</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PHONE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PHONECOMMON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Protips</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PROTIPS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Provision</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PROVISION-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-QUICKSEARCHBOX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Settings</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SETTINGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SOUNDRECORDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SpareParts</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SPAREPARTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SPEECHRECORDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Stk</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-STK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Tag</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TAG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Terminal</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TERMINAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/Test</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-APPS-TEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/TvSettings</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TVSETTINGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-UNIFIEDEMAIL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LATINIME-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-OPENWNN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-APPLICATIONSPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BLOCKEDNUMBERPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-BOOKMARKPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CALENDARPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CALLLOGPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CONTACTSPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DOWNLOADPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/MediaProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MEDIAPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PARTNERBOOKMARKSPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TELEPHONYPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/TvProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TVPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-USERDICTIONARYPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/Basic</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SCREENSAVERS-BASIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PHOTOTABLE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/screensavers/WebView</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-WEBVIEW-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/services</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SERVICES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/Basic</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-WALLPAPERS-BASIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GALAXY4-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-HOLOSPIRAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIVEPICKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MAGICSMOKE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NOISEFIELD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PHASEBEAM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/pdk</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/platform_testing</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PLATFORM_TESTING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/android-emulator</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ANDROID-EMULATOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DARWIN-X86-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/host</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-CLANG-HOST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LINUX-X86-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/deqp</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PREBUILTS-DEQP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/devtools</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DEVTOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/eclipse</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ECLIPSE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DARWIN-X86-AARCH64-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DARWIN-X86-ARM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DARWIN-X86-HOST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DARWIN-X86-MIPS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DARWIN-X86-X86-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LINUX-X86-AARCH64-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LINUX-X86-ARM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LINUX-X86-HOST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LINUX-X86-MIPS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LINUX-X86-X86-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GRADLE-PLUGIN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/libs</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIBS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/maven_repo</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MAVEN_REPO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/misc</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MISC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/ndk</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PREBUILTS-NDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/ninja</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-NINJA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/python</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PYTHON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-QEMU-KERNEL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/sdk</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PREBUILTS-SDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/tools</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-PREBUILTS-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/sdk</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/system</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SYSTEM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/test</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/tools</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/trusty</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TRUSTY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/vendor</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-VENDOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/liv</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIV-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/wcustores</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-WCUSTORES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-WLANGUAGE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/mtk6750_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-WPROCEDURES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdMMITest_N</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JRDMMITEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/providers/ChromeCustomizations</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-CHROMECUSTOMIZATIONS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-URLRESERVEDAPPS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/MagicLock</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MAGICLOCK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdContainer</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JRDCONTAINER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdCustomizedUssd</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JRDCUSTOMIZEDUSSD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/ScreenshotEdit</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-SCREENSHOTEDIT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-JRDPLUGGER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/ReliabilityTest</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-RELIBILITYTEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/providers/FingerprintProvider</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-FINGERPRINTPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/Arkamys</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-ARKAMYS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/developers</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-DEVELOPERS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/packages/experimental</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-EXPERIMENTAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/gdb</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GDB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/prebuilts/go</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-GO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/toolchain</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-TOOLCHAIN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/makeperso</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-MAKEPERSO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6750t/genericapp/DiracTune</name>
+	<branch>refs/heads/DiracTune_00</branch>
+	<baseline>DiracTune_00-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/LifeTime</name>
+	<branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+	<baseline>MTK6750T-N-ELSA6P-LIFETIME-CTS-P1.0</baseline>
+</project>
+<project>
+       <name>tcl/packages/apps/SmartCardService</name>
+       <branch>refs/heads/elsa6p-n-v1.0-GoogleCertificate</branch>
+       <baseline>MTK6750T-N-ELSA6P-SMARTCARDSERVICE-CTS-P1.0</baseline>
+</project>
+</projects>

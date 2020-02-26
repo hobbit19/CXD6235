@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6572/abi</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-ABI-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/docs</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DOCS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/gdk</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-GDK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/libnativehelper</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-LIBNATIVEHELPER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/bionic</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BIONIC-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/bootable</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BOOTABLE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/build</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BUILD-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/cts</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-CTS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/libcore</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-LIBCORE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/dalvik</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DALVIK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/development</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DEVELOPMENT-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/device</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DEVICE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/apache-http</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-APACHE-HTTP-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/astl</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-ASTL-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/bison</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BISON-STUDY-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6572/external/blktrace</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BLKTRACE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/bluetooth</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BLUETOOTH-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/bouncycastle</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BOUNCYCASTLE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/bsdiff</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BSDIFF-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/bzip2</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BZIP2-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/chromium</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-CHROMIUM-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/dbus</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DBUS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/dhcpcd</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DHCPCD-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/dnsmasq</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DNSMASQ-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/dropbear</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DROPBEAR-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/e2fsprogs</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-E2FSPROGS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/easymock</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-EASYMOCK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/elfutils</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-ELFUTILS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/embunit</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-EMBUNIT-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/emma</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-EMMA-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/esd</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-esd-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/expat</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-EXPAT-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/fdlibm</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-FDLIBM-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/freetype</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-FREETYPE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/fsck_msdos</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-FSCK_MSDOS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/genext2fs</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-GENEXT2FS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/giflib</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-GIFLIB-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/grub</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-GRUB-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/gtest</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-GTEST-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/guava</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-GUAVA-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/icu4c</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-ICU4C-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/iproute2</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-IPROUTE2-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/ipsec-tools</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-IPSEC-TOOLS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/iptables</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-IPTABLES-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/jdiff</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JDIFF-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/jhead</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JHEAD-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/jpeg</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JPEG-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/jsr305</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JSR305-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/junit</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JUNIT-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/kernel-headers</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-KERNEL-HEADERS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libffi</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-LIBFFI-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libgsm</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-LIBGSM-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libnfc-nxp</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-LIBNFC-NXP-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libpcap</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-LIBPCAP-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libpng</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-LIBPNG-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libvpx</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-libvpx-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/libxml2</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-LIBXML2-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/mtpd</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-MTPD-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/netcat</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-NETCAT-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/netperf</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-NETPERF-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/neven</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-NEVEN-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/nist-sip</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-NIST-SIP-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/oauth</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-OAUTH-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/openssl</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-OPENSSL-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/oprofile</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-OPROFILE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/ping</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-PING-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/ppp</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-PPP-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/proguard</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-PROGUARD-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/protobuf</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-PROTOBUF-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/qemu</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-QEMU-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/safe-iop</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SAFE-IOP-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/skia</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SKIA-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/sonivox</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-sonivox-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/speex</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-speex-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/sqlite</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SQLITE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/srec</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SREC-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/stlport</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-STLPORT-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/strace</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-STRACE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/svox</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SVOX-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/tagsoup</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-tagsoup-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/tcpdump</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-tcpdump-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/tinyxml</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-tinyxml-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/tremolo</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-TREMOLO-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/v8</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-V8-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/webkit</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-WEBKIT-STUDY-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6572/external/wpa_supplicant_6</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-WPA_SUPPLICANT_6-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/xmlwriter</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-XMLWRITER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/yaffs2</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-YAFFS2-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/aac</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-AAC-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/android-mock</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-ANDROID-MOCK-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/ant-glob</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-ANT-GLOB-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/antlr</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-ANTLR-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/apache-harmony</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-APACHE-HARMONY-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/apache-xml</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-APACHE-XML-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/arduino</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-ARDUINO-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/checkpolicy</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-CHECKPOLICY-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/chromium-trace</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-CHROMIUM-TRACE-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/cibu-fonts</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-CIBU-FONTS-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/clang</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-CLANG-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/compiler-rt</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-COMPILER-RT-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/dexmaker</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-DEXMAKER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/doclava</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-DOCLAVA-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/eclipse-basebuilder</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-ECLIPSE-BASEBUILDER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/eclipse-windowbuilder</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-ECLIPSE-WINDOWBUILDER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/eyes-free</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-EYES-FREE-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/flac</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-FLAC-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/ganymed-ssh2</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-GANYMED-SSH2-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/gcc-demangle</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-GCC-DEMANGLE-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/google-diff-match-patch</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-GOOGLE-DIFF-MATCH-PATCH-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/hamcrest</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-HAMCREST-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/harfbuzz</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-HARFBUZZ-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/hyphenation</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-HYPHENATION-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/javasqlite</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-JAVASQLITE-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/javassist</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-JAVASSIST-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/jmdns</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-JMDNS-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/jmonkeyengine</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-JMONKEYENGINE-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/jsilver</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-JSILVER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libcap-ng</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBCAP-NG-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libifaddrs</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBIFADDRS-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/liblzf</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBLZF-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libmtp</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBMTP-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libnfc-nci</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBNFC-NCI-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libnfc-opennfc</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBNFC-OPENNFC-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libnl-headers</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBNL-HEADERS-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libogg</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBOGG-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libphonenumber</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBPHONENUMBER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libppp</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBPPP-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libselinux</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBSELINUX-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libsepol</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBSEPOL-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libunwind</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBUNWIND-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libusb-compat</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBUSB-COMPAT-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libvorbis</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBVORBIS-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libxslt</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBXSLT-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/libyuv</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LIBYUV-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/linux-tools-perf</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LINUX-TOOLS-PERF-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/littlemock</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LITTLEMOCK-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/llvm</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LLVM-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/lohit-fonts</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LOHIT-FONTS-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/markdown</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-MARKDOWN-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/mdnsresponder</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-MDNSRESPONDER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/mesa3d</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-MESA3D-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/mksh</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-MKSH-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/mockwebserver</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-MOCKWEBSERVER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/mp4parser</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-MP4PARSER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/naver-fonts</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-NAVER-FONTS-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/okhttp</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-OKHTTP-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/opencv</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-OPENCV-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/openfst</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-OPENFST-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/openssh</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-OPENSSH-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/ping6</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-PING6-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/qemu-pc-bios</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-QEMU-PC-BIOS-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/regex-re2</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-REGEX-RE2-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/replicaisland</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-REPLICAISLAND-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/sepolicy</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-SEPOLICY-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/smali</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-SMALI-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/srtp</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-SRTP-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/stressapptest</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-STRESSAPPTEST-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/tinyalsa</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-TINYALSA-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/tinyxml2</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-TINYXML2-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/valgrind</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-VALGRIND-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/webp</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-WEBP-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/webrtc</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-WEBRTC-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/wide-dhcpv6</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-WIDE-DHCPV6-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/xmp_toolkit</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-XMP_TOOLKIT-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/zxing</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-ZXING-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/wpa_supplicant_8</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-WPA_SUPPLICANT_8-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/external/zlib</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-ZLIB-STUDY-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6572/frameworks</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-FRAMEWORKS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/hardware</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-HARDWARE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/kernel</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-KERNEL-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/mediatek</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-MEDIATEK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/ndk</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-NDK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Bluetooth</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BLUETOOTH-STUDY-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6572/packages/apps/Browser</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BROWSER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Calculator</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-CALCULATOR-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Calendar</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-CALENDAR-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Camera</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-CAMERA-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/CertInstaller</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-CERTINSTALLER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Contacts</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-CONTACTS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/DeskClock</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DESKCLOCK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Email</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-EMAIL-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Gallery</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-GALLERY-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-HTMLViewer-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Launcher2</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-Launcher2-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Mms</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-MMS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Music</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-MUSIC-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-PACKAGEINSTALLER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Phone</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-PHONE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Protips</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-PROTIPS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Provision</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-Provision-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-QUICKSEARCHBOX-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Settings</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SETTINGS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SOUNDRECORDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SPEECHRECORDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Stk</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-STK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/Tag</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-TAG-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/experimental</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-EXPERIMENTAL-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-LATINIME-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-OPENWNN-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-APPLICATIONSPROVIDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-CALENDARPROVIDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-CONTACTSPROVIDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DOWNLOADPROVIDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/DrmProvider</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DRMPROVIDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-GOOGLECONTACTSPROVIDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/MediaProvider</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-MEDIAPROVIDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-TELEPHONYPROVIDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-USERDICTIONARYPROVIDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/wallpapers/Basic</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-BASIC-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-LIVEPICKER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-MAGICSMOKE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-MUSICVISUALIZATION-STUDY-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6572/packages/apps/MMITest</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-MMITEST-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/APKInstallerHelper</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-APKINSTALLERHELPER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DRMAGENTPROVIDER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/DrmUtility</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DRMUTILITY-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/drmagent</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DRMAGENT-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/inbidi</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-INBIDI-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/external/eigen</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-EIGEN-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/SecureClock</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SECURECLOCK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDEMAILFEEDBACK-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/CellBroadcastReceiver</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-CELLBROADCASTRECEIVER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/inputmethods/PinyinIME</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-PINYINIME-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/BasicSmsReceiver</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-BASICSMSRECEIVER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/Exchange</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-EXCHANGE-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/Gallery2</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-GALLERY2-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/KeyChain</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-KEYCHAIN-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/LegacyCamera</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-LEGACYCAMERA-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/MusicFX</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-MUSICFX-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/Nfc</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-NFC-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/SDKGallery</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-SDKGALLERY-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/SpareParts</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-SPAREPARTS-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/apps/VideoEditor</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-VIDEOEDITOR-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/providers/PartnerBookmarksProvider</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-PARTNERBOOKMARKSPROVIDER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/screensavers/Basic</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-BASIC-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/screensavers/PhotoTable</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-PHOTOTABLE-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/screensavers/WebView</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-WEBVIEW-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/wallpapers/Galaxy4</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-GALAXY4-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/wallpapers/HoloSpiral</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-HOLOSPIRAL-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/wallpapers/NoiseField</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-NOISEFIELD-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/packages/wallpapers/PhaseBeam</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-PHASEBEAM-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/pdk</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-PDK-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6572/tools</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-TOOLS-STUDY-P1.0</baseline>
+</project>
+
+
+<project>
+	<name>mtk6572/prebuilts</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-PREBUILTS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/sdk</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SDK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/system</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SYSTEM-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/vendor</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-VENDOR-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/modem</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-MODEM-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/mtk6572_wimdata_ng/liv</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-LIV-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/mtk6572_wimdata_ng/wcustores</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-WCUSTORES-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/mtk6572_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-WLANGUAGE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6572/mtk6572_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-WPROCEDURES-STUDY-P1.0</baseline>
+</project>
+
+<project>
+        <name>tcl/packages/apps/JrdFileManagerEx</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-JRDFILEMANAGEREX-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdUserCardService</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-JRDUSERCARDSERVICE-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdUserCard</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-JRDUSERCARD-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdLauncher</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-JRDLAUNCHER-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdCamera</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-JRDCAMERA-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdGallery</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-JRDGALLERY-STUDY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/UrlReservedApps</name>
+        <branch>refs/heads/yarism-v1.0-dint-study</branch>
+        <baseline>MTK6572-URLRESERVEDAPPS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdSalesTracker</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDSALESTRACKER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/MusicWidget</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-MUSICWIDGET-STUDY-P1.0</baseline>
+</project>
+
+
+<project>
+	<name>tcl/packages/apps/JrdWorldClock</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDWORLDCLOCK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDPOWERSAVER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDSETUPWIZARD-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDTCLHELP-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDALCATELHELP-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/TrafficManager</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-TRAFFICMANAGER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/NotePad2</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-NOTEPAD2-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/O2Ideas</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-O2IDEAS-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-VOICEDIALER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-SYNCMLCLIENT-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdFota</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDFOTA-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdSdcardUpgrade</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDSDCARDUPGRADE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdContainer</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDCONTAINER-STUDY-P1.0</baseline>
+</project> 
+<project>
+	<name>tcl/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDEMAILFEEDBACK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdApp2SDCard</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDAPP2SDCARD-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTorch</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDTORCH-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdDigitalClock</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDDIGITALCLOCK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTethering</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDTETHERING-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdDeskClock</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDDESKCLOCK-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdElabel</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDELABEL-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdWeather</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDWEATHER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdTimeTool</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDTIMETOOL-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/FrequentContactsWidget</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-FREQUENTCONTACTSWIDGET-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/AnalogClockWidget</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-ANALOGCLOCKWIDGET-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/DigitalClockWidget</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-DIGITALCLOCKWIDGET-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-TCLWATCHDOG-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdSuperMode</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDSUPERMODE-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/FrequentAppsWidget</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-FREQUENTAPPSWIDGET-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch>
+	<baseline>MTK6572-JRDPLUGGER-STUDY-P1.0</baseline>
+</project>
+<project>
+	<name>alps/version_babyd</name>
+	<branch>refs/heads/yarism-v1.0-dint-study</branch> 
+	<baseline>YARISM-STUDY-STUDY-P1.0</baseline>
+</project>
+</projects>

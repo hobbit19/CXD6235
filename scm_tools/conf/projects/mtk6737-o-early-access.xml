@@ -1,0 +1,1958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+       <name>mtk6753/dalvik</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DALVIK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/build</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BUILD-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/libcore</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBCORE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/vendor/mediatek</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/vendor/google_tradefederation</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GOOGLE_TRADEFEDERATION-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/vendor/google_vts</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GOOGLE_VTS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/vendor/tcl</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TCL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/device</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DEVICE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/system</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SYSTEM-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/hardware</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-HARDWARE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/bionic</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BIONIC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/cts</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CTS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/frameworks</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/development</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/sdk</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SDK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/kernel</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-KERNEL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/art</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ART-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/libnativehelper</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/pdk</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PDK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/bootable</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/PartnerBookmarksProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/UserDictionaryProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/ApplicationsProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+      <baseline>MTK6737_O_EARLY-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/CalendarProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/DownloadProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/ContactsProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/MediaProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/TelephonyProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/TvProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/wallpapers/LivePicker</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/inputmethods/LatinIME</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LATINIME-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/inputmethods/OpenWnn</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-OPENWNN-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/CellBroadcastReceiver</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/BasicSmsReceiver</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/CertInstaller</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/QuickSearchBox</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Music</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MUSIC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Contacts</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CONTACTS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/PackageInstaller</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Gallery</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GALLERY-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/SpareParts</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/KeyChain</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/HTMLViewer</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Protips</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PROTIPS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Tag</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TAG-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Stk</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-STK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Nfc</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NFC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/SoundRecorder</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Launcher2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/MusicFX</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MUSICFX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Provision</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PROVISION-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Email</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-EMAIL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Calendar</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CALENDAR-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Settings</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SETTINGS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Bluetooth</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/SpeechRecorder</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/LegacyCamera</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/DeskClock</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/screensavers/Basic</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BASIC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/screensavers/PhotoTable</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/screensavers/WebView</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Gallery2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GALLERY2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Dialer</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DIALER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Camera2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CAMERA2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Launcher3</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/OneTimeInitializer</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/TvSettings</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/ManagedProvisioning</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/PhoneCommon</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Terminal</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TERMINAL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/BlockedNumberProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BLOCKEDNUMBERPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Test</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TEST-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Browser2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BROWSER2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/DevCamera</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DEVCAMERA-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/EmergencyInfo</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-EMERGENCYINFO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/services</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SERVICES-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/CarrierConfig</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/ExactCalculator</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Messaging</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MESSAGING-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/BookmarkProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/providers/CallLogProvider</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/platform_testing</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/android-emulator</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/devtools</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/eclipse</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/gradle-plugin</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/libs</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/maven_repo</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/misc</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MISC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/ndk</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NDK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/python</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PYTHON-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/qemu-kernel</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/sdk</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SDK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/tools</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TOOLS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/clang/linux-x86</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/gcc/darwin-x86/aarch64</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-AARCH64-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/gcc/darwin-x86/arm</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ARM-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/gcc/darwin-x86/host</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-HOST-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/gcc/darwin-x86/mips</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MIPS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/gcc/darwin-x86/x86</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-X86-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/gcc/linux-x86/aarch64</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-AARCH64-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/gcc/linux-x86/arm</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ARM-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/gcc/linux-x86/host</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-HOST-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/gcc/linux-x86/mips</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MIPS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/gcc/linux-x86/x86</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-X86-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/go</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/clang</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CLANG-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/deqp</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DEQP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/build-tools</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BUILD-TOOLS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/checkstyle</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CHECKSTYLE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/prebuilts/OpenJDK</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-OPENJDK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/toolchain</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TOOLCHAIN-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/tools</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TOOLS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/docs</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DOCS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/apache-commons-math</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/boringssl</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/cblas</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CBLAS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/chromium-webview</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/crcalc</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CRCALC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/drm_gralloc</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/drm_hwcomposer</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/google-breakpad</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/gptfdisk</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/hyphenation-patterns</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libavc</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBAVC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libdrm</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBDRM-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libmpeg2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libvncserver</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/lz4</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LZ4-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/mockftpserver</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/parameter-framework</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/selinux</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SELINUX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/slf4j</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SLF4J-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/sonic</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SONIC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/squashfs-tools</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/toybox</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TOYBOX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/vboot_reference</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/vogar</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-VOGAR-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/v8</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-V8-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/androidplot</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/messageformat</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/roboto-fonts</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/aac</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-AAC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/svox</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SVOX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/proguard</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PROGUARD-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jdiff</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JDIFF-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/apache-http</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/tremolo</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TREMOLO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/strace</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-STRACE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/webp</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-WEBP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/mtpd</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MTPD-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/skia</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SKIA-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/bouncycastle</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libyuv</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBYUV-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libpng</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBPNG-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/clang</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CLANG-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/apache-xml</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/liblzf</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBLZF-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/guava</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GUAVA-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/dnsmasq</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/ipsec-tools</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/netcat</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NETCAT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/blktrace</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/antlr</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ANTLR-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/neven</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NEVEN-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jsr305</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JSR305-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/ppp</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PPP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libpcap</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libphonenumber</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/junit</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JUNIT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/wpa_supplicant_8</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/opencv</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-OPENCV-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jsilver</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JSILVER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/llvm</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LLVM-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/zlib</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ZLIB-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/speex</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SPEEX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/mksh</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MKSH-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/eyes-free</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/nist-sip</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/safe-iop</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/kernel-headers</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/mesa3d</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MESA3D-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/bzip2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BZIP2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libgsm</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBGSM-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/iproute2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libxml2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBXML2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/oauth</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-OAUTH-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/bison</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BISON-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/webrtc</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-WEBRTC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/protobuf</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/emma</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-EMMA-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/apache-harmony</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libvpx</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBVPX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/tinyxml</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TINYXML-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/expat</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-EXPAT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/doclava</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/netperf</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NETPERF-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/sqlite</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SQLITE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/fdlibm</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-FDLIBM-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/tcpdump</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/freetype</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-FREETYPE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/bsdiff</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-BSDIFF-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/giflib</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GIFLIB-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/tinyalsa</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TINYALSA-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/tagsoup</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/sonivox</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SONIVOX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/flac</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-FLAC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/markdown</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/javassist</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/iptables</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-IPTABLES-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/e2fsprogs</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/mockwebserver</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/easymock</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/esd</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ESD-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/javasqlite</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/elfutils</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/fsck_msdos</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/valgrind</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-VALGRIND-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/xmlwriter</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/replicaisland</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/chromium-trace</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/compiler-rt</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/dexmaker</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/eclipse-basebuilder</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/eclipse-windowbuilder</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jmdns</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JMDNS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libmtp</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBMTP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libunwind</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libusb</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBUSB-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libusb-compat</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/mdnsresponder</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/hamcrest</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-HAMCREST-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/regex-re2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/smali</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SMALI-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/zxing</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ZXING-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/ant-glob</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libogg</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBOGG-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libvorbis</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/mp4parser</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/naver-fonts</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/okhttp</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-OKHTTP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/tinyxml2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TINYXML2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libcap-ng</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/xmp_toolkit</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/eigen</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-EIGEN-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/harfbuzz_ng</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/lzma</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LZMA-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/robolectric</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/droiddriver</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/android-clat</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/owasp</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-OWASP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/nanopb-c</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/timezonepicker-support</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libexif</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jsoncpp</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JSONCPP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/scrypt</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SCRYPT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/noto-fonts</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/icu</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ICU-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/zopfli</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/glide</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GLIDE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/nfacct</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NFACCT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libcxx</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBCXX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/f2fs-tools</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libutf</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBUTF-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libcxxabi</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jsmn</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JSMN-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/iputils</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-IPUTILS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libedit</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libhevc</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/ksoap2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-KSOAP2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/nanohttpd</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/vixl</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-VIXL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libopus</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/pdfium</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PDFIUM-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jemalloc</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/sfntly</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SFNTLY-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/cmockery</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/fonttools</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libnl</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBNL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/chromium-libpac</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/google-tv-pairing-protocol</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/deqp</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DEQP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/tinycompress</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/objenesis</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/mockito</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MOCKITO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jarjar</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JARJAR-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/conscrypt</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/google-fonts</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+      <name>mtk6753/external/fio</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-FIO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/nist-pkits</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libvterm</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/pcre</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PCRE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/autotest</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-AUTOTEST-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/iw</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-IW-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/unicode</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-UNICODE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/rootdev</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ROOTDEV-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jcommander</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JCOMMANDER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/rmi4utils</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-RMI4UTILS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/google-benchmark</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GOOGLE-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libbrillo</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBBRILLO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/snakeyaml</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SNAKEYAML-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/caliper</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CALIPER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jsr330</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JSR330-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/testng</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TESTNG-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/modp_b64</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MODP_B64-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libdaemon</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBDAEMON-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/piex</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-PIEX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/mmc-utils</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libcap</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBCAP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/curl</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CURL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libjpeg-turbo</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBJPEG-TURBO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/guice</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GUICE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/gemmlowp</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GEMMLOWP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/dlmalloc</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DLMALLOC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/sl4a</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SL4A-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/vulkan-validation-layers</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-VULKAN-VALIDATION-LAYERS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libweave</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBWEAVE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libdivsufsort</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBDIVSUFSORT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libevent</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBEVENT-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/dagger2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DAGGER2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/xmlrpcpp</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-XMLRPCPP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/c-ares</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-C-ARES-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jacoco</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JACOCO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libunwind_llvm</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/dng_sdk</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DNG_SDK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libmicrohttpd</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBMICROHTTPD-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/minijail</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MINIJAIL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/fec</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-FEC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/dhcpcd-6.8.2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DHCPCD-6.8.2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/shflags</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SHFLAGS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/tpm2</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-TPM2-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/cros</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CROS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libchrome</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBCHROME-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/Car</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-CAR-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/DocumentsUI</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DOCUMENTSUI-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/StorageManager</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-STORAGEMANAGER-P1.0</baseline>
+</project>
+<project>
+      <name>mtk6753/packages/apps/SafetyRegulatoryInfo</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SAFETYREGULATORYINFO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/UnifiedEmail</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/packages/apps/WallpaperPicker</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-WALLPAPERPICKER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/ImageMagick</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-IMAGEMAGICK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/abi-compliance-checker</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ABI-COMPLIANCE-CHECKER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/abi-dumper</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ABI-DUMPER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/archive-patcher</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-ARCHIVE-PATCHER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/avb</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-AVB-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/desugar</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DESUGAR-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/dtc</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DTC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/flatbuffers</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-FLATBUFFERS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/fmtlib</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-FMTLIB-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/googletest</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GOOGLETEST-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/ims</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-IMS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/jline</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JLINE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/junit-params</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-JUNIT-PARAMS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/kmod</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-KMOD-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libconstrainedcrypto</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBCONSTRAINEDCRYPTO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libcups</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBCUPS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libese</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBESE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libgdx</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBGDX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libldac</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBLDAC-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libmojo</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBMOJO-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libnetfilter_conntrack</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBNETFILTER_CONNTRACK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libnfnetlink</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBNFNETLINK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/libtextclassifier</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIBTEXTCLASSIFIER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/linux-kselftest</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LINUX-KSELFTEST-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/ltp</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LTP-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/openssh</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-OPENSSH-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/seccomp-tests</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SECCOMP-TESTS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/stressapptest</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/swiftshader</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SWIFTSHADER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/syslinux</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SYSLINUX-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/volley</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-VOLLEY-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/wycheproof</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-WYCHEPROOF-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/external/x264</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-X264-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/trusty/app/gatekeeper</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GATEKEEPER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/trusty/app/keymaster</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/trusty/app/sample</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-SAMPLE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/trusty/app/storage</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-STORAGE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/trusty/device</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-DEVICE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/trusty/external/headers</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-HEADERS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/trusty/external/lk</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/trusty/lib</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LIB-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/trusty/lk</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-LK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/trusty/vendor/google</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-GOOGLE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/trusty/vendor/mediatek</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/test/vts</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-VTS-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/test/vts-testcase</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-VTS-TESTCASE-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/compatibility</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_EARLY-COMPATIBILITY-P1.0</baseline>
+</project>
+<project>
+       <name>mtk6753/modem/LWTG</name>
+       <branch>refs/heads/mtk6737-o-early-access</branch>
+       <baseline>MTK6737_O_MODEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/mtk6737_53_wimdata_ng/wcustores</name>
+    <branch>refs/heads/mtk6737-o-early-access</branch>
+    <baseline>MTK6737_O-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/mtk6737_53_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/mtk6737-o-early-access</branch>
+    <baseline>MTK6737_O-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/makeperso</name>
+    <branch>refs/heads/mtk6737-o-early-access</branch>
+    <baseline>MTK6737_O-MAKEPERSO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6753/packages/apps/RetailDemo</name>
+    <branch>refs/heads/mtk6737-o-early-access</branch>
+    <baseline>MTK6737_O-RETAILDEMO-P1.0</baseline>
+</project>
+</projects>

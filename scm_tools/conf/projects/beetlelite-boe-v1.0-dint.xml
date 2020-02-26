@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/liv</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wcustores</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wplmn</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WPLMN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wtheme</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WTHEME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wtime</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WTIME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bionic</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bootable</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/build</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/cts</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/dalvik</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/libcore</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/development</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/device</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/apache-http</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/astl</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-ASTL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bison</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blisrc</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BLISRC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blktrace</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/bluez</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BLUETOOTH-BLUEZ-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/glib</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BLUETOOTH-GLIB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/hcidump</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BLUETOOTH-HCIDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bouncycastle</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bsdiff</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bzip2</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/chromium</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/clearsilver</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CLEARSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dbus</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dhcpcd</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dnsmasq</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dropbear</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/e2fsprogs</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/easymock</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfcopy</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-ELFCOPY-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfutils</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/embunit</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/emma</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/esd</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-esd-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/expat</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fdlibm</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fsck_msdos</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/genext2fs</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/giflib</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/grub</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-GRUB-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/gtest</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/guava</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/icu4c</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-ICU4C-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iproute2</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ipsec-tools</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iptables</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jdiff</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jhead</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jpeg</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jsr305</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/junit</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/kernel-headers</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libffi</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libgsm</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libnfc-nxp</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpcap</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpng</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libvpx</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-libvpx-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libxml2</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/mtpd</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netcat</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netperf</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/neven</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/nist-sip</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oauth</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/opencore</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-OPENCORE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/openssl</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-OPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oprofile</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-OPROFILE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ping</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-PING-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ppp</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/proguard</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/protobuf</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/qemu</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/safe-iop</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia_asm</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SKIA_ASM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sonivox</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-sonivox-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/speex</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-speex-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sqlite</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/srec</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SREC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/stlport</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-STLPORT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/strace</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/svox</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tagsoup</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-tagsoup-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tcpdump</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-tcpdump-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tinyxml</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-tinyxml-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tremolo</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/v8</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-V8-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/webkit</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WEBKIT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WPA_SUPPLICANT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant_6</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WPA_SUPPLICANT_6-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/xmlwriter</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/yaffs2</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-YAFFS2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/zlib</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-ZLIB-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/frameworks1</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/hardware</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/kernel</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mediatek</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/ndk</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-NDK-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/AccountsAndSyncSettings</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-ACCOUNTSANDSYNCSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Bluetooth</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BLUETOOTH-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/Browser</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calculator</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calendar</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Camera</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CameraOpen</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CAMERAOPEN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CellConnService</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CELLCONNSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CertInstaller</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Contacts</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DeskClock</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Email</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery3D</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-GALLERY3D-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-HTMLViewer-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Launcher2</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-Launcher2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Mms</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Music</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Phone</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Protips</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Provision</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-Provision-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Settings</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Stk</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-STK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Tag</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/WorldClock</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WORLDCLOCK-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/experimental</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DrmProvider</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-GOOGLECONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/MediaProvider</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/Basic</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/Basic</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WALLPAPERS_GLES20-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/LivePicker</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WALLPAPERS_GLES20-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MagicSmoke</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WALLPAPERS_GLES20-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MusicVisualization</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-WALLPAPERS_GLES20-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MMITest</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-MMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdLauncher</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JRDLAUNCHER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JRDEMAILFEEDBACK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdFota</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JRDTCLHELP-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/TrafficManager</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-TRAFFICMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/NotePad2</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdContainer  </name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-JRDCONTAINER-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/APKInstallerHelper </name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-APKINSTALLERHELPER-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DRMAGENTPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DrmUtility</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DRMUTILITY-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/drmagent</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-DRMAGENT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SecureClock</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SECURECLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MusicWidget</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-TCLWATCHDOG-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/O2Ideas</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/prebuilt</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-PREBUILT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/sdk</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>alps/system</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>alps/vendor</name>
+	<branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+	<baseline>BEETLELITE-BOE-VENDOR-P1.0</baseline>
+</project>
+<project>
+        <name>alps/packages/inputmethods/PinyinIME</name>
+        <branch>refs/heads/beetlelite-boe-v1.0-dint</branch>
+        <baseline>BEETLELITE-BOE-PINYINIME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/modem_mt6575m</name>
+	<branch>refs/heads/beetlelite-boe-V39_F3_HSPA_L4</branch>
+	<baseline>BEETLELITE-BOE-MODEM_MT6575M-P1.0</baseline>
+</project>
+</projects>

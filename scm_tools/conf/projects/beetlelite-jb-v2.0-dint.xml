@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6575_hz/diablo_wimdata_ng/liv</name> 
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/diablo_wimdata_ng/wcustores</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JB-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/diablo_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/diablo_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/mtk6575M_wimdata_ng/wtheme</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-WTHEME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/mtk6575M_wimdata_ng/wtime</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-WTIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/bionic</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/bootable</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/build</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/cts</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/dalvik</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/libcore</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/development</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/device</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/apache-http</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/astl</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-ASTL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/bison</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/blisrc</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BLISRC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/blktrace</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/bluetooth/bluez</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BLUETOOTH-BLUEZ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/bluetooth/glib</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BLUETOOTH-GLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/bluetooth/hcidump</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BLUETOOTH-HCIDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/bouncycastle</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/bsdiff</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/bzip2</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/chromium</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/clearsilver</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CLEARSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/dbus</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/dhcpcd</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/dnsmasq</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/dropbear</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/e2fsprogs</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/easymock</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/elfcopy</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-ELFCOPY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/elfutils</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/embunit</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/emma</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/esd</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-esd-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/expat</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/fdlibm</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/freetype</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/fsck_msdos</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/genext2fs</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/giflib</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/grub</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-GRUB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/gtest</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/guava</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/icu4c</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-ICU4C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/iproute2</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/ipsec-tools</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/freetype</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/iptables</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/jdiff</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/jhead</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/jpeg</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/jsr305</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/junit</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/kernel-headers</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/libffi</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-LIBFFI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/libgsm</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/libnfc-nxp</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/libpcap</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/libpng</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/libvpx</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-libvpx-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/libxml2</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/mtpd</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/netcat</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/netperf</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/neven</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/nist-sip</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/oauth</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/opencore</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-OPENCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/openssl</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-OPENSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/oprofile</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-OPROFILE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/ping</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-PING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/ppp</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/proguard</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/protobuf</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/qemu</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/safe-iop</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/skia</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/skia_asm</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SKIA_ASM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/sonivox</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-sonivox-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/speex</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-speex-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/sqlite</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/srec</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SREC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/stlport</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-STLPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/strace</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575/external/svox</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/tagsoup</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-tagsoup-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/tcpdump</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-tcpdump-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/tinyxml</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-tinyxml-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/tremolo</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/v8</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/webkit</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-WEBKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/wpa_supplicant</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-WPA_SUPPLICANT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/wpa_supplicant_6</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-WPA_SUPPLICANT_6-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/xmlwriter</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/yaffs2</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-YAFFS2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/zlib</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-ZLIB-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6575_hz/frameworks</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/hardware</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/kernel</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/mediatek</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/ndk</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-NDK-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6575_hz/packages/apps/AccountsAndSyncSettings</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-ACCOUNTSANDSYNCSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Bluetooth</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BLUETOOTH-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6575_hz/packages/apps/Browser</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Calculator</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Calendar</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Camera</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/CameraOpen</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CAMERAOPEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/CellConnService</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CELLCONNSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/CertInstaller</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Contacts</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/DeskClock</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Email</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Gallery</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Gallery3D</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-GALLERY3D-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-HTMLViewer-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Launcher2</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-Launcher2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Mms</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Music</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Phone</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Protips</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Provision</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-Provision-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Settings</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Stk</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/Tag</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-VOICEDIALER-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6575_hz/packages/experimental</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/providers/DrmProvider</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DRMPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-GOOGLECONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/providers/MediaProvider</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/wallpapers/Basic</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/wallpapers_gles20/Basic</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-WALLPAPERS_GLES20-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/wallpapers_gles20/LivePicker</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-WALLPAPERS_GLES20-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/wallpapers_gles20/MagicSmoke</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-WALLPAPERS_GLES20-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/wallpapers_gles20/MusicVisualization</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-WALLPAPERS_GLES20-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/MMITest</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-MMITEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/JrdLauncher</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JRDLAUNCHER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JRDEMAILFEEDBACK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/JrdFota</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6575_hz/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JRDTCLHELP-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6575_hz/packages/apps/TrafficManager</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-TRAFFICMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/NotePad2</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/JrdContainer  </name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JRDCONTAINER-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6575_hz/packages/apps/APKInstallerHelper </name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-APKINSTALLERHELPER-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6575_hz/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+
+<project>
+	<name>mtk6575_hz/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DRMAGENTPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/DrmUtility</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DRMUTILITY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/external/drmagent</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-DRMAGENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/SecureClock</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SECURECLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/MusicWidget</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-MUSICWIDGET-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-TCLWATCHDOG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/O2Ideas</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-JRDEMAILFEEDBACK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/prebuilt</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-PREBUILT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/sdk</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/system</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6575_hz/vendor</name>
+	<branch>refs/heads/beetlelite-jb-v2.0-dint</branch>
+	<baseline>BEETLELITE-JB-VENDOR-P1.0</baseline>
+</project>
+</projects>

@@ -1,0 +1,3253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>sdm450/amss_2016_la3.0.1</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-AMSS_2016_LA3.0.1-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/art</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ART-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/bionic</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BIONIC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/bootable/bootloader/lk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/bootable/recovery</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-RECOVERY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/blueprint</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BLUEPRINT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/kati</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-KATI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/make</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MAKE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/build/soong</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SOONG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/compatibility/cdd</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CDD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/cts</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CTS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/dalvik</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DALVIK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/developers/build</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BUILD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/developers/demos</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DEMOS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/developers/samples/android</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SAMPLES-ANDROID-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/development</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DEVELOPMENT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/common</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DEVICE-COMMON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/arm64</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ARM64-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ARMV7-A-NEON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/car</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GENERIC-CAR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/common</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GENERIC-COMMON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/goldfish</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GOLDFISH-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GOLDFISH-OPENGL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MINI-EMULATOR-ARM64-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MINI-EMULATOR-ARMV7-A-NEON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MINI-EMULATOR-X86-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MINI-EMULATOR-X86_64-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/qemu</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QEMU-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/uml</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-UML-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/x86</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-X86-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/x86_64</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-X86_64-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/accessory/arduino</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ARDUINO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/accessory/demokit</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DEMOKIT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/atv</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ATV-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/contexthub</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CONTEXTHUB-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/vrservices</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VRSERVICES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/common</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCOM-COMMON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8937_32</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MSM8937_32-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8937_32go</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MSM8937_32GO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8937_64</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MSM8937_64-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8953_32</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MSM8953_32-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8953_64</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MSM8953_64-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8996</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MSM8996-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/sepolicy</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCOM-SEPOLICY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/device/sample</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SAMPLE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/docs/source.android.com</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SOURCE.ANDROID.COM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ImageMagick</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-IMAGEMAGICK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/Microsoft-GSL</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MICROSOFT-GSL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/aac</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-AAC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/abi-compliance-checker</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ABI-COMPLIANCE-CHECKER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/abi-dumper</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ABI-DUMPER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/android-clat</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ANDROID-CLAT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/androidplot</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ANDROIDPLOT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-glob</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ANT-GLOB-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ANT_NATIVE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ANT_SERVICE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/antlr</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ANTLR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-commons-math</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APACHE-COMMONS-MATH-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-harmony</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APACHE-HARMONY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-http</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APACHE-HTTP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-xml</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APACHE-XML-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/archive-patcher</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ARCHIVE-PATCHER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/arm-neon-tests</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ARM-NEON-TESTS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/autotest</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-AUTOTEST-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/avb</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-AVB-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bart</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BART-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bison</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BISON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/blktrace</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BLKTRACE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/boringssl</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BORINGSSL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bouncycastle</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BOUNCYCASTLE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/brctl</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BRCTL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/brotli</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BROTLI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bsdiff</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BSDIFF-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/bzip2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BZIP2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/c-ares</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-C-ARES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/caliper</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CALIPER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/cblas</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CBLAS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-libpac</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CHROMIUM-LIBPAC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-trace</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CHROMIUM-TRACE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-webview</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CHROMIUM-WEBVIEW-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/clang</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CLANG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/cmockery</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CMOCKERY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/compiler-rt</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-COMPILER-RT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/conscrypt</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CONSCRYPT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/crcalc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CRCALC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/cros/system_api</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SYSTEM_API-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/curl</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CURL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dagger2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DAGGER2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/deqp</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EXTERNAL-DEQP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/desugar</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DESUGAR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/devlib</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DEVLIB-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dexmaker</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DEXMAKER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DHCPCD-6.8.2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dlmalloc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DLMALLOC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dng_sdk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DNG_SDK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dnsmasq</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DNSMASQ-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/doclava</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DOCLAVA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/donuts</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DONUTS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/drm_gralloc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DRM_GRALLOC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/drm_hwcomposer</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DRM_HWCOMPOSER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/droiddriver</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DROIDDRIVER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/drrickorang</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DRRICKORANG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/dtc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DTC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/e2fsprogs</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-E2FSPROGS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/easymock</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EASYMOCK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ebtables</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EBTABLES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/eclipse-basebuilder</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ECLIPSE-BASEBUILDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ECLIPSE-WINDOWBUILDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/eigen</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EIGEN-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/elfutils</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ELFUTILS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/emma</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EMMA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/esd</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ESD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/expat</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EXPAT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/eyes-free</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EYES-FREE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/f2fs-tools</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-F2FS-TOOLS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fdlibm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FDLIBM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fec</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FEC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fio</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FIO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/flac</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FLAC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/flatbuffers</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FLATBUFFERS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fmtlib</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FMTLIB-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fonttools</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FONTTOOLS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/freetype</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FREETYPE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/fsck_msdos</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FSCK_MSDOS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/gemmlowp</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GEMMLOWP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/giflib</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GIFLIB-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/glide</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GLIDE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-api-services-storage</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GOOGLE-API-SERVICES-STORAGE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-benchmark</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GOOGLE-BENCHMARK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-breakpad</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GOOGLE-BREAKPAD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CARROIS-GOTHIC-SC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-COMING-SOON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CUTIVE-MONO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DANCING-SCRIPT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GOOGLE-TV-PAIRING-PROTOCOL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/googletest</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GOOGLETEST-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/gptfdisk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GPTFDISK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/guava</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GUAVA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/guice</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GUICE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/hamcrest</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HAMCREST-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/harfbuzz_ng</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HARFBUZZ_NG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/hyphenation-patterns</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HYPHENATION-PATTERNS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/icu</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ICU-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ims</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EXTERNAL-IMS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iproute2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-IPROUTE2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ipsec-tools</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-IPSEC-TOOLS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iptables</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-IPTABLES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iputils</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-IPUTILS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/iw</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-IW-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jacoco</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JACOCO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jarjar</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JARJAR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/javasqlite</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JAVASQLITE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/javassist</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JAVASSIST-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jcommander</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JCOMMANDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jdiff</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JDIFF-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jemalloc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JEMALLOC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jline</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JLINE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jmdns</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JMDNS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsilver</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JSILVER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsmn</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JSMN-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/json-c</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JSON-C-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsoncpp</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JSONCPP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsr305</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JSR305-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsr330</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JSR330-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/junit</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JUNIT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/junit-params</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JUNIT-PARAMS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/kernel-headers</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-KERNEL-HEADERS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/kmod</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-KMOD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ksoap2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-KSOAP2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libavc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBAVC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libbackup</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBBACKUP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libbrillo</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBBRILLO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcap</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBCAP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcap-ng</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBCAP-NG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libchrome</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBCHROME-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libconstrainedcrypto</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBCONSTRAINEDCRYPTO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcups</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBCUPS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcxx</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBCXX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcxxabi</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBCXXABI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdaemon</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBDAEMON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdivsufsort</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBDIVSUFSORT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdrm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBDRM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libedit</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EXTERNAL-LIBEDIT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libese</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBESE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libevent</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBEVENT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libexif</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBEXIF-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libgdx</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBGDX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libgsm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBGSM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libhevc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBHEVC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libjpeg-turbo</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBJPEG-TURBO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libldac</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBLDAC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/liblzf</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBLZF-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmicrohttpd</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBMICROHTTPD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmojo</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBMOJO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmpeg2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBMPEG2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmtp</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBMTP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBNETFILTER_CONNTRACK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnfnetlink</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBNFNETLINK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnl</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBNL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libogg</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBOGG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libopus</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBOPUS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libpcap</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBPCAP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libphonenumber</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBPHONENUMBER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libpng</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBPNG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libtextclassifier</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBTEXTCLASSIFIER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libunwind</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBUNWIND-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libunwind_llvm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBUNWIND_LLVM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libusb</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBUSB-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libusb-compat</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBUSB-COMPAT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvncserver</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBVNCSERVER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvorbis</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBVORBIS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvpx</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBVPX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvterm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBVTERM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libweave</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBWEAVE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libxml2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBXML2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/libyuv</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBYUV-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/linux-kselftest</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LINUX-KSELFTEST-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lisa</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LISA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/littlemock</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LITTLEMOCK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lld</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LLD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/llvm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LLVM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lmfit</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LMFIT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ltp</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LTP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lz4</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LZ4-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/lzma</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LZMA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/markdown</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MARKDOWN-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mdnsresponder</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MDNSRESPONDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mesa3d</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MESA3D-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/messageformat</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MESSAGEFORMAT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/minijail</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MINIJAIL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mksh</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MKSH-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mm-dash</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MM-DASH-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mmc-utils</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EXTERNAL-MMC-UTILS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockftpserver</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MOCKFTPSERVER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockito</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MOCKITO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockwebserver</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MOCKWEBSERVER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/modp_b64</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MODP_B64-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mp4parser</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MP4PARSER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/mtpd</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MTPD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nanohttpd</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NANOHTTPD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nanopb-c</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NANOPB-C-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/naver-fonts</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NAVER-FONTS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/netcat</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NETCAT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/netperf</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NETPERF-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/neven</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NEVEN-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nfacct</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NFACCT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nist-pkits</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NIST-PKITS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/nist-sip</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NIST-SIP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/noto-fonts</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NOTO-FONTS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/oauth</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OAUTH-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/objenesis</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OBJENESIS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/okhttp</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OKHTTP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/opencv</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENCV-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/openssh</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENSSH-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/owasp/sanitizer</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SANITIZER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/parameter-framework</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PARAMETER-FRAMEWORK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/pcre</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PCRE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/pdfium</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PDFIUM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/piex</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PIEX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ply</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PLY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/ppp</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PPP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/proguard</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROGUARD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/protobuf</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROTOBUF-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/cpython2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CPYTHON2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/cpython3</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CPYTHON3-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/r8</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-R8-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/regex-re2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-REGEX-RE2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/replicaisland</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-REPLICAISLAND-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/rmi4utils</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-RMI4UTILS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/robolectric</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ROBOLECTRIC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/roboto-fonts</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ROBOTO-FONTS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/rootdev</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ROOTDEV-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/safe-iop</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SAFE-IOP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/scrypt</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SCRYPT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/seccomp-tests</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SECCOMP-TESTS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/selinux</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SELINUX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sfntly</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SFNTLY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/shflags</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SHFLAGS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/skia</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SKIA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sl4a</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SL4A-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/slf4j</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SLF4J-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/smali</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SMALI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/snakeyaml</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SNAKEYAML-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sonic</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SONIC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sonivox</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SONIVOX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/speex</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SPEEX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/spirv-llvm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SPIRV-LLVM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/sqlite</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SQLITE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/squashfs-tools</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SQUASHFS-TOOLS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/strace</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-STRACE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/stressapptest</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-STRESSAPPTEST-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/svox</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SVOX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/swiftshader</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SWIFTSHADER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/syslinux</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SYSLINUX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tagsoup</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TAGSOUP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tcpdump</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TCPDUMP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/testng</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TESTNG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/timezonepicker-support</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TIMEZONEPICKER-SUPPORT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyalsa</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TINYALSA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinycompress</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TINYCOMPRESS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyxml</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TINYXML-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyxml2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TINYXML2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/toolchain-utils</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TOOLCHAIN-UTILS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/toybox</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TOYBOX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tpm2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TPM2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/trappy</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TRAPPY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/tremolo</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TREMOLO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/unicode</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-UNICODE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/universal-tween-engine</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-UNIVERSAL-TWEEN-ENGINE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/v4l2_codec2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-V4L2_CODEC2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/v8</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-V8-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/valgrind</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VALGRIND-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vboot_reference</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VBOOT_REFERENCE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vixl</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VIXL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vogar</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VOGAR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/volley</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VOLLEY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/vulkan-validation-layers</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VULKAN-VALIDATION-LAYERS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/walt</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WALT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/webp</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WEBP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/webrtc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WEBRTC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/wpa_supplicant_8</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WPA_SUPPLICANT_8-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/wycheproof</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WYCHEPROOF-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/x264</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-X264-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmlrpcpp</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-XMLRPCPP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmlwriter</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-XMLWRITER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmp_toolkit</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-XMP_TOOLKIT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/xz-embedded</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-XZ-EMBEDDED-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/zlib</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ZLIB-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/zopfli</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ZOPFLI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/external/zxing</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ZXING-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/av</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-AV-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/base</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BASE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/libbcc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBBCC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/mclinker</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MCLINKER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/slang</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SLANG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/data-binding</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DATA-BINDING-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/ex</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HARDWARE-INTERFACES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/layoutlib</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LAYOUTLIB-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/minikin</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MINIKIN-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/ml</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ML-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/multidex</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MULTIDEX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/native</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NATIVE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/bitmap</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BITMAP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/bluetooth</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPT-BLUETOOTH-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/calendar</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPT-CALENDAR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/chips</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CHIPS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-COLORPICKER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DATETIMEPICKER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/emoji</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EMOJI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/inputconnectioncommon</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-INPUTCONNECTIONCOMMON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/inputmethodcommon</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-INPUTMETHODCOMMON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ETHERNET-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/ims</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NET-IMS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/lowpan</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LOWPAN-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/voip</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VOIP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WIFI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PHOTOVIEWER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SETUPWIZARD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/telephony</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPT-TELEPHONY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TIMEZONEPICKER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/vcard</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VCARD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/rs</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-RS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/support</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SUPPORT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/webview</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FRAMEWORKS-WEBVIEW-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/wilhelm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WILHELM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/akm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-AKM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/broadcom/libbt</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBBT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/broadcom/wlan</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BROADCOM-WLAN-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/google/apf</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APF-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/interfaces</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HARDWARE-INTERFACES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/invensense</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-INVENSENSE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/libhardware</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBHARDWARE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/libhardware_legacy</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBHARDWARE_LEGACY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/audio</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-AUDIO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BOOTCTRL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/bt</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCOM-BT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/camera</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CAMERA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/display</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCOM-DISPLAY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/gps</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCOM-GPS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/media</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCOM-MEDIA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/sensors</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCOM-SENSORS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/thermal</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-THERMAL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/vr</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/wlan</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCOM-WLAN-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/ril</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-RIL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/kernel/msm-3.18</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MSM-3.18-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/libcore</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBCORE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/libnativehelper</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBNATIVEHELPER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BASICSMSRECEIVER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Bluetooth</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APPS-BLUETOOTH-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Browser2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BROWSER2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CMFileManager</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CMFILEMANAGER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Calendar</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APPS-CALENDAR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Camera2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CAMERA2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CAR-DIALER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HVAC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CAR-LATINIME-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LENSPICKER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LOCALMEDIAPLAYER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Media</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CAR-MEDIA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MESSENGER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Overview</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OVERVIEW-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Radio</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-RADIO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Settings</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CAR-SETTINGS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Stream</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-STREAM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SYSTEMUPDATER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/UserManagement</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-USERMANAGEMENT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/libs</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CARRIERCONFIG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CELLBROADCASTRECEIVER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CertInstaller</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CERTINSTALLER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Contacts</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CONTACTS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DeskClock</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DESKCLOCK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DevCamera</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DEVCAMERA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Dialer</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APPS-DIALER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DOCUMENTSUI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Email</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EMAIL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EMERGENCYINFO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EXACTCALCULATOR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Exchange</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EXCHANGE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Gallery</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GALLERY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Gallery2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GALLERY2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HTMLVIEWER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/KeyChain</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-KEYCHAIN-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Launcher2</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LAUNCHER2-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Launcher3</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LAUNCHER3-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LEGACYCAMERA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MANAGEDPROVISIONING-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Messaging</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MESSAGING-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Mms</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APPS-MMS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Music</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MUSIC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/MusicFX</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MUSICFX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Nfc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APPS-NFC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ONETIMEINITIALIZER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PACKAGEINSTALLER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Phone</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PHONE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PHONECOMMON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Protips</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROTIPS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Provision</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROVISION-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QUICKSEARCHBOX-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/RetailDemo</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-RETAILDEMO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SAFETYREGULATORYINFO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Settings</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APPS-SETTINGS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SmartCardService</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APPS-SMARTCARDSERVICE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SNAPDRAGONCAMERA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonGallery</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SNAPDRAGONGALLERY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonMusic</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SNAPDRAGONMUSIC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SOUNDRECORDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SpareParts</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SPAREPARTS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SPEECHRECORDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Stk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-STK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/StorageManager</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-STORAGEMANAGER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TV</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TV-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Tag</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TAG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Terminal</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TERMINAL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TEST-CONNECTIVITY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TIMEZONEDATA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TIMEZONEUPDATER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TvSettings</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TVSETTINGS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-UNIFIEDEMAIL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WALLPAPERPICKER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/experimental</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EXPERIMENTAL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-INPUTMETHODS-LATINIME-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENWNN-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APPLICATIONSPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BLOCKEDNUMBERPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BOOKMARKPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CALENDARPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CALLLOGPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CONTACTSPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DOWNLOADPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/MediaProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MEDIAPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PARTNERBOOKMARKSPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TELEPHONYPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/TvProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TVPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-USERDICTIONARYPROVIDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/Basic</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BASIC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PHOTOTABLE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/WebView</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SCREENSAVERS-WEBVIEW-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BUILTINPRINTSERVICE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Car</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SERVICES-CAR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Mms</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SERVICES-MMS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/NetworkRecommendation</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NETWORKRECOMMENDATION-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Telecomm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TELECOMM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Telephony</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SERVICES-TELEPHONY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIVEPICKER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/pdk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PDK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/platform_testing</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PLATFORM_TESTING-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ABI-DUMPS-NDK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ABI-DUMPS-VNDK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/android-emulator</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ANDROID-EMULATOR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/build-tools</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BUILD-TOOLS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/checkcolor</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CHECKCOLOR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/checkstyle</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CHECKSTYLE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HOST-LINUX-X86-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/deqp</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PREBUILTS-DEQP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/devtools</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DEVTOOLS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/eclipse</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ECLIPSE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ARM-ARM-EABI-4.8-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-AARCH64-LINUX-ANDROID-4.9-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ARM-ARM-EABI-4.8-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ARM-LINUX-ANDROIDEABI-4.9-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-X86_64-LINUX-GLIBC2.11-4.8-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-X86_64-LINUX-GLIBC2.15-4.8-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-X86_64-W64-MINGW32-4.8-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-X86_64-LINUX-ANDROID-4.9-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GDB-LINUX-X86-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GO-LINUX-X86-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GRADLE-PLUGIN-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-JDK8-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/libs/libedit</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBS-LIBEDIT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MAVEN_REPO-ANDROID-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BUMPTECH-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/misc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MISC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/ndk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PREBUILTS-NDK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-2.7.5-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QEMU-KERNEL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/sdk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PREBUILTS-SDK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/tools</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PREBUILTS-TOOLS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/sdk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SDK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/shortcut-fe</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SHORTCUT-FE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/bt</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SYSTEM-BT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/ca-certificates</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CA-CERTIFICATES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/chre</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CHRE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/connectivity/wificond</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WIFICOND-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/connectivity/wifilogd</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WIFILOGD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/core</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SYSTEM-CORE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/extras</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-EXTRAS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/gatekeeper</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GATEKEEPER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/hardware/interfaces</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HARDWARE-INTERFACES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/hwservicemanager</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HWSERVICEMANAGER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/keymaster</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-KEYMASTER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libfmq</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBFMQ-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libhidl</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBHIDL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libhwbinder</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBHWBINDER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libufdt</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBUFDT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/libvintf</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBVINTF-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/media</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SYSTEM-MEDIA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/netd</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NETD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/nfc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SYSTEM-NFC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/nvram</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NVRAM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/security</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SYSTEM-SECURITY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/sepolicy</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SYSTEM-SEPOLICY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/timezone</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TIMEZONE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/tools/aidl</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-AIDL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/tools/hidl</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HIDL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/tpm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TPM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/update_engine</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-UPDATE_ENGINE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/system/vold</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VOLD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VTS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FUZZ-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/hal</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HAL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-HAL-TRACE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/kernel</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-KERNEL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/performance</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PERFORMANCE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/security</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VTS-TESTCASE-SECURITY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/vndk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VTS-TESTCASE-VNDK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/toolchain/binutils</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BINUTILS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/apksig</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APKSIG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/external/fat32lib</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FAT32LIB-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/external/gradle</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-GRADLE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/loganalysis</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LOGANALYSIS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/repohooks</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-REPOHOOKS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/test/connectivity</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TEST-CONNECTIVITY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/tradefederation/contrib</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CONTRIB-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/tools/tradefederation/core</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TRADEFEDERATION-CORE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/codeaurora/telephony</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CODEAURORA-TELEPHONY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/interfaces/opensource/nfc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENSOURCE-NFC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/external/libnfc-nci</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LIBNFC-NCI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/frameworks</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FRAMEWORKS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/packages/apps/Nfc</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-APPS-NFC-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/bluetooth</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENSOURCE-BLUETOOTH-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/bluetooth_ext</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BLUETOOTH_EXT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/data-ipa-cfg-mgr</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DATA-IPA-CFG-MGR-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/dataservices</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DATASERVICES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/dpm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENSOURCE-DPM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/fm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENSOURCE-FM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/interfaces</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENSOURCE-INTERFACES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/location</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LOCATION-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/mmc-utils</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENSOURCE-MMC-UTILS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/rcs-service</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-RCS-SERVICE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/softap</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SOFTAP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/time-services</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENSOURCE-TIME-SERVICES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/tools</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENSOURCE-TOOLS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wigig</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-OPENSOURCE-WIGIG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wlan/prima</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PRIMA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wlan/qcacld-2.0</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCACLD-2.0-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SIGMA-DUT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/SecProtect</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SECPROTECT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/SmartCardService</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-SMARTCARDSERVICE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/android-perf</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ANDROID-PERF-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/biometrics</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-BIOMETRICS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/bluetooth</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-BLUETOOTH-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/bt</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-BT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/cne</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CNE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/common</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-COMMON-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/csm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-CSM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/data</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DATA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/diag</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-DIAG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/display</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-DISPLAY-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/dpm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-DPM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fastcv</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FASTCV-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fastmmi</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FASTMMI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-FM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ftm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-FTM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/gps</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-GPS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ims-ship</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-IMS-SHIP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/interfaces</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-INTERFACES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/llvm-arm-toolchain-ship</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-LLVM-ARM-TOOLCHAIN-SHIP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mdm-helper</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MDM-HELPER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-audio</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MM-AUDIO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-camera</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MM-CAMERA-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-camerasdk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MM-CAMERASDK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-core</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MM-CORE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-osal</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MM-OSAL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-parser</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MM-PARSER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-still</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MM-STILL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-video</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MM-VIDEO-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-video-utils</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MM-VIDEO-UTILS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/modem-apis</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-MODEM-APIS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/nqnfc-firmware</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-NQNFC-FIRMWARE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/prebuilt_HY11</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PREBUILT_HY11-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCRIL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-data-hal</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCRIL-DATA-HAL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-hal</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCRIL-HAL-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-qmi-services</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCRIL-QMI-SERVICES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcrilOemHook</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QCRILOEMHOOK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qdssagent</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QDSSAGENT-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qmi</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QMI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qmi-framework</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QMI-FRAMEWORK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qrdplus</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-QRDPLUS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/remotefs</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-REMOTEFS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/scve</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SCVE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/securemsm</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SECUREMSM-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/sensors</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-SENSORS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ss-restart</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SS-RESTART-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ss-services</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-SS-SERVICES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/telephony-apps</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TELEPHONY-APPS-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/telephony-fwk</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-TELEPHONY-FWK-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/thermal-engine</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-THERMAL-ENGINE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/time-services</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-TIME-SERVICES-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ui</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-UI-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/uim_remote_service</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-UIM_REMOTE_SERVICE-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ultrasound</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-ULTRASOUND-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/vpp</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-VPP-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wfd</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WFD-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wigig</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-WIGIG-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wipower</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-WIPOWER-BSP-P0.1</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wlan</name>
+	<branch>refs/heads/sdm450-watt-v0.1-bsp</branch>
+	<baseline>SDM450-O-WATT-PROPRIETARY-WLAN-BSP-P0.1</baseline>
+</project>
+</projects>

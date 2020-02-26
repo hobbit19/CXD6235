@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>jrd_sdd1/packages/apps/Arkamys</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>MT6580-M-PIXI4-4-TF-ARKAMYS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/QuickTranslate</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>MT6580-M-PIXI4-4-TF-QUICKTRANSLATE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JRDPLUGGER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SYNCMLCLIENT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdContainer</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JRDCONTAINER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdMMITest</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JRDMMITEST-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdCustomizedUssd</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JRDCUSTOMIZEDUSSD-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/providers/ChromeCustomizations</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CHROMECUSTOMIZATIONS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-URLRESERVEDAPPS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdElabel</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JRDELABEL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdFota</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JRDFOTA-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/JrdSdcardUpgrade</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JRDSDCARDUPGRADE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/Notes</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JRDNOTES-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>jrd_sdd1/packages/apps/OMADM</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-OMADM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Mms</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MMS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/abi</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ABI-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/art</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ART-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/bionic</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BIONIC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/bootable</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BOOTABLE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/build</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BUILD-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/cts</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CTS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/dalvik</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DALVIK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/developers</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DEVELOPERS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/development</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DEVELOPMENT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/device</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DEVICE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/docs</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DOCS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvisidon_facebeauty</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-FACEBEAUTY-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/aac</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-AAC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/android-clat</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ANDROID-CLAT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/android-mock</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ANDROID-MOCK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/androidplot</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ANDROIDPLOT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ant-glob</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ANT-GLOB-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/antlr</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ANTLR-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-commons-math</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-APACHE-COMMONS-MATH-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-harmony</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-APACHE-HARMONY-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-http</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-APACHE-HTTP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/apache-xml</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-APACHE-XML-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bison</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BISON-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/blktrace</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BLKTRACE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/boringssl</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BORINGSSL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bouncycastle</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BOUNCYCASTLE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bsdiff</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BSDIFF-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/bzip2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BZIP2-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/cblas</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CBLAS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ceres-solver</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CERES-SOLVER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-libpac</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CHROMIUM-LIBPAC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-trace</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CHROMIUM-TRACE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/chromium-webview</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CHROMIUM-WEBVIEW-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/clang</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CLANG-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/cmockery</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CMOCKERY-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/compiler-rt</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-COMPILER-RT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/conscrypt</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CONSCRYPT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/crcalc</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CRCALC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/deqp</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DEQP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dexmaker</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DEXMAKER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dhcpcd</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DHCPCD-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/dnsmasq</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DNSMASQ-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/doclava</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DOCLAVA-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/donuts</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DONUTS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/drm_gralloc</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DRM_GRALLOC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/drm_hwcomposer</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DRM_HWCOMPOSER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/droiddriver</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DROIDDRIVER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/e2fsprogs</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-E2FSPROGS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/easymock</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-EASYMOCK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eclipse-basebuilder</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ECLIPSE-BASEBUILDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ECLIPSE-WINDOWBUILDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eigen</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-EIGEN-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/elfutils</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ELFUTILS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/embunit</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-EMBUNIT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/emma</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-EMMA-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/esd</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ESD-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/expat</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-EXPAT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/eyes-free</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-EYES-FREE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/f2fs-tools</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-F2FS-TOOLS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fdlibm</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-FDLIBM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fio</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-FIO-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/flac</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-FLAC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fonttools</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-FONTTOOLS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/freetype</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-FREETYPE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/fsck_msdos</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-FSCK_MSDOS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/giflib</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GIFLIB-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/glide</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GLIDE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-breakpad</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GOOGLE-BREAKPAD-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-fonts</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GOOGLE-FONTS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GOOGLE-TV-PAIRING-PROTOCOL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/gptfdisk</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GPTFDISK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/gtest</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GTEST-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/guava</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GUAVA-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/hamcrest</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-HAMCREST-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/harfbuzz_ng</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-HARFBUZZ_NG-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/hyphenation-patterns</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-HYPHENATION-PATTERNS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/icu</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ICU-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iproute2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-IPROUTE2-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ipsec-tools</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-IPSEC-TOOLS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iptables</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-IPTABLES-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/iputils</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-IPUTILS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jack</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JACK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jarjar</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JARJAR-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/javasqlite</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JAVASQLITE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/javassist</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JAVASSIST-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jdiff</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JDIFF-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jemalloc</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JEMALLOC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jetty</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JETTY-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jhead</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JHEAD-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jmdns</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JMDNS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jmonkeyengine</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JMONKEYENGINE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jpeg</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JPEG-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsilver</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JSILVER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsmn</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JSMN-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsoncpp</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JSONCPP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/jsr305</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JSR305-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/junit</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-JUNIT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/kernel-headers</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-KERNEL-HEADERS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ksoap2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-KSOAP2-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libavc</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBAVC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcap-ng</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBCAP-NG-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcxx</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBCXX-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libcxxabi</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBCXXABI-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libdrm</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBDRM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libedit</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBEDIT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libexif</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBEXIF-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libgsm</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBGSM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libhevc</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBHEVC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/liblzf</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBLZF-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libmpeg2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBMPEG2-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libmtp</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBMTP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnfc-nci</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBNFC-NCI-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnfc-nxp</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBNFC-NXP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libnl</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBNL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libogg</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBOGG-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libopus</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBOPUS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libpcap</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBPCAP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libphonenumber</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBPHONENUMBER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libpng</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBPNG-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libseccomp-helper</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBSECCOMP-HELPER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libselinux</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBSELINUX-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libssh2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBSSH2-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libunwind</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBUNWIND-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libusb</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBUSB-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libusb-compat</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBUSB-COMPAT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libutf</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBUTF-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvncserver</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBVNCSERVER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvorbis</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBVORBIS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvpx</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBVPX-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libvterm</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBVTERM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libxml2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBXML2-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/libyuv</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBYUV-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/linux-tools-perf</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LINUX-TOOLS-PERF-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/littlemock</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LITTLEMOCK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lld</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LLD-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lldb</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LLDB-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/llvm</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LLVM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ltrace</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LTRACE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lz4</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LZ4-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/lzma</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LZMA-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/marisa-trie</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MARISA-TRIE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/markdown</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MARKDOWN-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mdnsresponder</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MDNSRESPONDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mesa3d</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MESA3D-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/messageformat</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MESSAGEFORMAT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mksh</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MKSH-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockftpserver</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MOCKFTPSERVER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockito</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MOCKITO-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mockwebserver</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MOCKWEBSERVER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mp4parser</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MP4PARSER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/mtpd</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MTPD-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nanohttpd</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NANOHTTPD-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nanopb-c</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NANOPB-C-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/naver-fonts</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NAVER-FONTS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/netcat</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NETCAT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/netperf</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NETPERF-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/neven</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NEVEN-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nfacct</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NFACCT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nist-pkits</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NIST-PKITS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/nist-sip</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NIST-SIP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/noto-fonts</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NOTO-FONTS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/oauth</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-OAUTH-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/objenesis</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-OBJENESIS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/okhttp</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-OKHTTP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/opencv</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-OPENCV-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/openfst</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-OPENFST-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/openssh</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-OPENSSH-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/owasp</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-OWASP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/parameter-framework</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PARAMETER-FRAMEWORK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/pcre</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PCRE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/pdfium</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PDFIUM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/ppp</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PPP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/proguard</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PROGUARD-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/protobuf</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PROTOBUF-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/regex-re2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-REGEX-RE2-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/replicaisland</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-REPLICAISLAND-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/robolectric</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ROBOLECTRIC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/roboto-fonts</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ROBOTO-FONTS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/safe-iop</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SAFE-IOP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/scrypt</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SCRYPT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/selinux</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SELINUX-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sepolicy</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SEPOLICY-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sfntly</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SFNTLY-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/skia</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SKIA-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/slf4j</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SLF4J-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/smali</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SMALI-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sonic</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SONIC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sonivox</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SONIVOX-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/speex</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SPEEX-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/sqlite</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SQLITE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/squashfs-tools</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SQUASHFS-TOOLS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/srtp</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SRTP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/strace</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-STRACE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/svox</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SVOX-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tagsoup</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TAGSOUP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tcpdump</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TCPDUMP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/timezonepicker-support</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TIMEZONEPICKER-SUPPORT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyalsa</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TINYALSA-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinycompress</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TINYCOMPRESS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyxml</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TINYXML-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tinyxml2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TINYXML2-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/toybox</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TOYBOX-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/tremolo</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TREMOLO-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/v8</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-V8-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/valgrind</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-VALGRIND-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vboot_reference</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-VBOOT_REFERENCE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vixl</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-VIXL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/vogar</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-VOGAR-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/webp</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-WEBP-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/webrtc</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-WEBRTC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/wpa_supplicant_8</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-WPA_SUPPLICANT_8-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/xmlwriter</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-XMLWRITER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/xmp_toolkit</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-XMP_TOOLKIT-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zlib</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ZLIB-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zopfli</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ZOPFLI-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/external/zxing</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ZXING-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/frameworks</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-FRAMEWORKS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/hardware</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-HARDWARE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/kernel</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-KERNEL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/libcore</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBCORE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/libnativehelper</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBNATIVEHELPER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/modem</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MODEM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/liv</name>
+	<branch>refs/heads/pixi4-4-v1.0-dint</branch>
+	<baseline>PIXI4-4-V1.0-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wcustores2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-WCUSTORES-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/pixi4-4_3g-v1.0-dint</branch>
+	<baseline>PIXI4-4-V1.0-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/mtk6580_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-WPROCEDURES-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>sdd1/alps/version_babyd</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-VERSION_MTK6580-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/ndk</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NDK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BASICSMSRECEIVER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Bluetooth</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BLUETOOTH-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Browser</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BROWSER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Calculator</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CALCULATOR-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Calendar</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CALENDAR-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Camera</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CAMERA-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Camera2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CAMERA2-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CARRIERCONFIG-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CELLBROADCASTRECEIVER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/CertInstaller</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CERTINSTALLER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Contacts</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CONTACTS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CONTACTSCOMMON-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/DeskClock</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DESKCLOCK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Dialer</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DIALER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Email</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-EMAIL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-EXACTCALCULATOR-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Exchange</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-EXCHANGE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/FMRadio</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-FMRADIO-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Gallery</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GALLERY-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Gallery2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GALLERY2-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-HTMLVIEWER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/InCallUI</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-INCALLUI-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/KeyChain</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-KEYCHAIN-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Launcher2</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LAUNCHER2-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Launcher3</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LAUNCHER3-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LEGACYCAMERA-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MANAGEDPROVISIONING-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Messaging</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MESSAGING-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Music</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MUSIC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/MusicFX</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MUSICFX-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Nfc</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NFC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ONETIMEINITIALIZER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PACKAGEINSTALLER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Phone</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PHONE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PHONECOMMON-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Protips</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PROTIPS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Provision</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PROVISION-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-QUICKSEARCHBOX-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Settings</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SETTINGS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SmartCardService</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SMARTCARDSERVICE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SOUNDRECORDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SpareParts</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SPAREPARTS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SPEECHRECORDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Stk</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-STK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Tag</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TAG-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/Terminal</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TERMINAL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/TvSettings</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TVSETTINGS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-UNIFIEDEMAIL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/experimental</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-EXPERIMENTAL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LATINIME-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-OPENWNN-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-APPLICATIONSPROVIDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-BOOKMARKPROVIDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CALENDARPROVIDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CALLLOGPROVIDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-CONTACTSPROVIDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DOWNLOADPROVIDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/MediaProvider</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MEDIAPROVIDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PARTNERBOOKMARKSPROVIDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TELEPHONYPROVIDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/TvProvider</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TVPROVIDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-USERDICTIONARYPROVIDER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/Basic</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SCREENSAVERS-BASIC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PHOTOTABLE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/screensavers/WebView</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-WEBVIEW-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/services</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SERVICES-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/Basic</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-WALLPAPERS-BASIC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GALAXY4-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-HOLOSPIRAL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIVEPICKER-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MAGICSMOKE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MUSICVISUALIZATION-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-NOISEFIELD-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PHASEBEAM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/pdk</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PDK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/platform_testing</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PLATFORM_TESTING-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/android-emulator</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ANDROID-EMULATOR-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DARWIN-X86-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LINUX-X86-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/devtools</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DEVTOOLS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/eclipse</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-ECLIPSE-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DARWIN-X86-AARCH64-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DARWIN-X86-ARM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DARWIN-X86-HOST-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DARWIN-X86-MIPS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-DARWIN-X86-X86-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LINUX-X86-AARCH64-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LINUX-X86-ARM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LINUX-X86-HOST-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LINUX-X86-MIPS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LINUX-X86-X86-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-GRADLE-PLUGIN-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/libs</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-LIBS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/maven_repo</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MAVEN_REPO-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/misc</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-MISC-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/ndk</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PREBUILTS-NDK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/python</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PYTHON-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-QEMU-KERNEL-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/sdk</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PREBUILTS-SDK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/prebuilts/tools</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-PREBUILTS-TOOLS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/sdk</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SDK-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/system</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-SYSTEM-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/tools</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TOOLS-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/trusty</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-TRUSTY-MODEM-TMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6580/vendor</name>
+	<branch>refs/heads/pixi4-4-tf-modem-moveout-tmp</branch>
+	<baseline>PIXI4-4-TF-VENDOR-MODEM-TMP-P1.0</baseline>
+</project>
+</projects>

@@ -1,0 +1,4208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>TCTROM/apps</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/proprietary</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/aio_custom</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-AIO_CUSTOM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/bluetooth</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TCL-BLUETOOTH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/build</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TCL-BUILD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/focd</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FOCD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/frameworks</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TCL-FRAMEWORKS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/hardware</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HARDWARE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/nfc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TCL-NFC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/overlay</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OVERLAY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/packages</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PACKAGES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/qualcomm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QUALCOMM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/system</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TCL-SYSTEM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/vendor/partner_gms</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PARTNER_GMS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qcom/version_babyd</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VERSION_BABYD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/SPF2020/amss_nicobar_la2.0</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-AMSS_NICOBAR_LA2.0-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/abl/tianocore/edk2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EDK2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/amlogic/yukawa</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-YUKAWA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/amlogic/yukawa-kernel</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-YUKAWA-KERNEL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/common</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DEVICE-COMMON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/arm64</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ARM64-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ARMV7-A-NEON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/car</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GENERIC-CAR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/common</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GENERIC-COMMON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/goldfish</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOLDFISH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOLDFISH-OPENGL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MINI-EMULATOR-ARM64-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MINI-EMULATOR-ARMV7-A-NEON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MINI-EMULATOR-X86-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MINI-EMULATOR-X86_64-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/opengl-transport</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OPENGL-TRANSPORT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/qemu</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QEMU-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/trusty</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TRUSTY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/uml</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-UML-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/x86</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-X86-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/x86_64</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-X86_64-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/atv</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ATV-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/contexthub</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CONTEXTHUB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CUTTLEFISH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_common</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CUTTLEFISH_COMMON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_kernel</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CUTTLEFISH_KERNEL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_vmm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CUTTLEFISH_VMM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/vrservices</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VRSERVICES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/linaro/poplar</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-POPLAR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/linaro/poplar-kernel</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-POPLAR-KERNEL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/qcom/common</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-COMMON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/qcom/qssi</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QSSI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/qcom/sepolicy</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-SEPOLICY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/sample</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SAMPLE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/jrd/vendor/aio_resources</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-AIO_RESOURCES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/jrd/vendor/foc_resource</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FOC_RESOURCE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/configs</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CONFIGS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/msm-4.14</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MSM-4.14-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/tests</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-KERNEL-TESTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/art</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ART-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/bionic</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BIONIC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/bootable/recovery</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RECOVERY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PLATFORM-BUILD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/blueprint</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BLUEPRINT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/kati</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-KATI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/soong</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SOONG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/cts</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/dalvik</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DALVIK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/developers/build</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DEVELOPERS-BUILD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/developers/demos</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DEMOS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/developers/samples/android</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SAMPLES-ANDROID-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/development</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DEVELOPMENT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ARMComputeLibrary</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ARMCOMPUTELIBRARY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ImageMagick</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IMAGEMAGICK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/Microsoft-GSL</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MICROSOFT-GSL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/Reactive-Extensions/RxCpp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RXCPP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/aac</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-AAC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/adeb</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ADEB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/adhd</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ADHD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/android-clat</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ANDROID-CLAT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/androidplot</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ANDROIDPLOT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-glob</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ANT-GLOB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ANT_NATIVE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ANT_SERVICE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/antlr</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ANTLR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-bcel</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-COMMONS-BCEL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-compress</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-COMMONS-COMPRESS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-math</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-COMMONS-MATH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-harmony</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-HARMONY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-http</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-HTTP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-xml</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APACHE-XML-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/archive-patcher</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ARCHIVE-PATCHER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/arm-neon-tests</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ARM-NEON-TESTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/arm-optimized-routines</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ARM-OPTIMIZED-ROUTINES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/autotest</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-AUTOTEST-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/avb</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-AVB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bcc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BCC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/blktrace</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BLKTRACE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/boringssl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BORINGSSL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bouncycastle</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BOUNCYCASTLE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/brotli</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BROTLI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bsdiff</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BSDIFF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bzip2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BZIP2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/caliper</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CALIPER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/capstone</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CAPSTONE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/catch2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CATCH2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cblas</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CBLAS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-libpac</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CHROMIUM-LIBPAC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-trace</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CHROMIUM-TRACE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-webview</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CHROMIUM-WEBVIEW-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/clang</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CLANG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cldr</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CLDR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cmockery</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CMOCKERY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cn-cbor</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CN-CBOR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/compiler-rt</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-COMPILER-RT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/conscrypt</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CONSCRYPT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/crcalc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CRCALC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cros/system_api</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM_API-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/curl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CURL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dagger2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DAGGER2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DEQP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/SPIRV-Headers</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DEQP-DEPS-SPIRV-HEADERS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/SPIRV-Tools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SPIRV-TOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/glslang</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GLSLANG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/desugar</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DESUGAR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dexmaker</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DEXMAKER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dlmalloc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DLMALLOC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dng_sdk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DNG_SDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dnsmasq</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DNSMASQ-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/doclava</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DOCLAVA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dokka</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DOKKA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/drm_hwcomposer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DRM_HWCOMPOSER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/droiddriver</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DROIDDRIVER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/drrickorang</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DRRICKORANG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dtc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DTC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dynamic_depth</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DYNAMIC_DEPTH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/e2fsprogs</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-E2FSPROGS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/easymock</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EASYMOCK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/eigen</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EIGEN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/elfutils</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ELFUTILS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/emma</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EMMA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/epid-sdk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EPID-SDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/error_prone</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ERROR_PRONE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/expat</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EXPAT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/f2fs-tools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-F2FS-TOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fdlibm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FDLIBM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fec</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FEC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/flac</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FLAC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/flatbuffers</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FLATBUFFERS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fonttools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FONTTOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/freetype</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FREETYPE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fsck_msdos</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FSCK_MSDOS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fsverity-utils</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FSVERITY-UTILS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gemmlowp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GEMMLOWP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gflags</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GFLAGS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/giflib</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GIFLIB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/glide</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GLIDE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/golang-protobuf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOLANG-PROTOBUF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-benchmark</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-BENCHMARK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-breakpad</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-BREAKPAD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/arbutus-slab</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ARBUTUS-SLAB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/arvo</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ARVO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CARROIS-GOTHIC-SC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-COMING-SOON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CUTIVE-MONO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DANCING-SCRIPT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/lato</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LATO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/rubik</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RUBIK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/source-sans-pro</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SOURCE-SANS-PRO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/zilla-slab</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ZILLA-SLAB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fruit</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-FRUIT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-styleguide</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-STYLEGUIDE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/googletest</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLETEST-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gptfdisk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GPTFDISK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/grpc-grpc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GRPC-GRPC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/grpc-grpc-java</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GRPC-GRPC-JAVA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/guava</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GUAVA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/guice</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GUICE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/hamcrest</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HAMCREST-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/harfbuzz_ng</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HARFBUZZ_NG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/honggfuzz</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HONGGFUZZ-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/hyphenation-patterns</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HYPHENATION-PATTERNS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/icu</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ICU-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/image_io</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IMAGE_IO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ims</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EXTERNAL-IMS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iperf3</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IPERF3-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iproute2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IPROUTE2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ipsec-tools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IPSEC-TOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iptables</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IPTABLES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iputils</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IPUTILS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iw</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IW-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jacoco</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JACOCO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jarjar</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JARJAR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javaparser</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JAVAPARSER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javapoet</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JAVAPOET-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javasqlite</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JAVASQLITE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jcommander</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JCOMMANDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jdiff</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JDIFF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jemalloc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JEMALLOC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jemalloc_new</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JEMALLOC_NEW-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jline</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JLINE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsilver</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JSILVER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsmn</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JSMN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/json-c</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JSON-C-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsoncpp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JSONCPP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsr305</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JSR305-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsr330</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JSR330-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/junit</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JUNIT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/junit-params</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JUNIT-PARAMS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kernel-headers</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-KERNEL-HEADERS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kmod</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-KMOD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kotlinc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-KOTLINC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ksoap2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-KSOAP2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libaom</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBAOM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libavc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBAVC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libbackup</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBBACKUP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libbrillo</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBBRILLO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcap</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBCAP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcap-ng</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBCAP-NG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libchrome</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBCHROME-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcups</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBCUPS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcxx</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBCXX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcxxabi</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBCXXABI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdaemon</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBDAEMON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdivsufsort</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBDIVSUFSORT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdrm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBDRM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libese</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBESE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libevent</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBEVENT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libexif</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBEXIF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libffi</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBFFI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libgsm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBGSM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libhevc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBHEVC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libjpeg-turbo</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBJPEG-TURBO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libkmsxx</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBKMSXX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libldac</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBLDAC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libmpeg2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBMPEG2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libmtp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBMTP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBNETFILTER_CONNTRACK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnfnetlink</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBNFNETLINK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBNL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libogg</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBOGG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libopus</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBOPUS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libpcap</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBPCAP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libphonenumber</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBPHONENUMBER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libpng</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBPNG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libprotobuf-mutator</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBPROTOBUF-MUTATOR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libtextclassifier</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBTEXTCLASSIFIER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libunwind</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBUNWIND-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libunwind_llvm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBUNWIND_LLVM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libusb</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBUSB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libusb-compat</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBUSB-COMPAT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libutf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBUTF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libvpx</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBVPX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libvterm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBVTERM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxaac</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBXAAC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxcam</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBXCAM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxkbcommon</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBXKBCOMMON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxml2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBXML2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libyuv</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBYUV-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/linux-kselftest</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LINUX-KSELFTEST-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/llvm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LLVM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lmfit</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LMFIT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ltp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LTP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lua</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LUA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lz4</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LZ4-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lzma</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LZMA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/markdown</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MARKDOWN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mdnsresponder</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MDNSRESPONDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mesa3d</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MESA3D-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/minigbm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MINIGBM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/minijail</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MINIJAIL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mksh</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MKSH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockftpserver</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MOCKFTPSERVER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockito</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MOCKITO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockwebserver</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MOCKWEBSERVER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/modp_b64</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MODP_B64-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mp4parser</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MP4PARSER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mtpd</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MTPD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nanohttpd</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NANOHTTPD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nanopb-c</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NANOPB-C-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/naver-fonts</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NAVER-FONTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/neon_2_sse</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NEON_2_SSE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/neven</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NEVEN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/newfs_msdos</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NEWFS_MSDOS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nfacct</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NFACCT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nist-pkits</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NIST-PKITS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nist-sip</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NIST-SIP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nos/host/android</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HOST-ANDROID-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nos/host/generic</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GENERIC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nos/test/system-test-harness</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-TEST-HARNESS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/noto-fonts</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NOTO-FONTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/oauth</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OAUTH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/objenesis</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OBJENESIS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/oj-libjdwp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OJ-LIBJDWP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/okhttp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OKHTTP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/one-true-awk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ONE-TRUE-AWK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/opencensus-java</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OPENCENSUS-JAVA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/openssh</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OPENSSH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/owasp/sanitizer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SANITIZER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/parameter-framework</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PARAMETER-FRAMEWORK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/pcre</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PCRE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/pdfium</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PDFIUM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/perf_data_converter</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PERF_DATA_CONVERTER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/perfetto</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PERFETTO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/piex</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PIEX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ply</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EXTERNAL-PLY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ppp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PPP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/proguard</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROGUARD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/protobuf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EXTERNAL-PROTOBUF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/protobuf-javalite</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROTOBUF-JAVALITE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/puffin</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PUFFIN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/Pillow</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PILLOW-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/apitools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APITOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/appdirs</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPDIRS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/asn1crypto</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ASN1CRYPTO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/atomicwrites</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ATOMICWRITES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/attrs</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ATTRS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cachetools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CACHETOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cffi</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CFFI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cpython2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CPYTHON2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cpython3</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CPYTHON3-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cryptography</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CRYPTOGRAPHY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/dateutil</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DATEUTIL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/dill</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DILL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/enum</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ENUM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/enum34</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ENUM34-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/funcsigs</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FUNCSIGS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/future</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FUTURE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/futures</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FUTURES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/gapic-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GAPIC-GOOGLE-CLOUD-PUBSUB-V1-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-api-python-client</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-API-PYTHON-CLIENT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-auth</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-AUTH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-auth-httplib2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-AUTH-HTTPLIB2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-cloud-core</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-CLOUD-CORE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-cloud-pubsub</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-CLOUD-PUBSUB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-gax</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-GAX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/googleapis</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLEAPIS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/grpc-google-iam-v1</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GRPC-GOOGLE-IAM-V1-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/grpcio</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GRPCIO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/httplib2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HTTPLIB2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/matplotlib</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MATPLOTLIB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/mock</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MOCK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/more-itertools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MORE-ITERTOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/numpy</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NUMPY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/oauth2client</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OAUTH2CLIENT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/olefile</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OLEFILE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/packaging</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PACKAGING-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/parse</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PARSE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pluggy</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PLUGGY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/ply</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PYTHON-PLY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/proto-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROTO-GOOGLE-CLOUD-PUBSUB-V1-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/protobuf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PYTHON-PROTOBUF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/py</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyasn1</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PYASN1-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyasn1-modules</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PYASN1-MODULES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pycparser</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PYCPARSER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyopenssl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PYOPENSSL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyparsing</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PYPARSING-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pytest</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PYTEST-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/requests</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-REQUESTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/rsa</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RSA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/scipy</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SCIPY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/setuptools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SETUPTOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/six</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SIX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/uritemplates</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-URITEMPLATES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rapidjson</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RAPIDJSON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rappor</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RAPPOR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/replicaisland</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-REPLICAISLAND-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rmi4utils</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RMI4UTILS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/robolectric</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ROBOLECTRIC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/robolectric-shadows</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ROBOLECTRIC-SHADOWS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/roboto-fonts</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ROBOTO-FONTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rootdev</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ROOTDEV-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/scapy</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SCAPY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/scrypt</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SCRYPT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/seccomp-tests</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SECCOMP-TESTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/selinux</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SELINUX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/setupcompat</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SETUPCOMPAT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/setupdesign</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SETUPDESIGN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sfntly</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SFNTLY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/shaderc/spirv-headers</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SHADERC-SPIRV-HEADERS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/shflags</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SHFLAGS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/skia</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SKIA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/skqp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SKQP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sl4a</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SL4A-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/slf4j</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SLF4J-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/smali</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SMALI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/snakeyaml</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SNAKEYAML-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sonic</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SONIC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sonivox</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SONIVOX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/speex</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SPEEX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/spirv-llvm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SPIRV-LLVM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sqlite</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SQLITE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/squashfs-tools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SQUASHFS-TOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/strace</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-STRACE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/stressapptest</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-STRESSAPPTEST-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/subsampling-scale-image-view</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SUBSAMPLING-SCALE-IMAGE-VIEW-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/swiftshader</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SWIFTSHADER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/syzkaller</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SYZKALLER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tagsoup</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TAGSOUP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tcpdump</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TCPDUMP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tensorflow</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TENSORFLOW-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/testng</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TESTNG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyalsa</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TINYALSA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinycompress</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TINYCOMPRESS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyxml</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TINYXML-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyxml2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TINYXML2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/toolchain-utils</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TOOLCHAIN-UTILS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/toybox</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TOYBOX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tremolo</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TREMOLO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/turbine</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TURBINE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/u-boot</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-U-BOOT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ukey2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-UKEY2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/unicode</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-UNICODE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/universal-tween-engine</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-UNIVERSAL-TWEEN-ENGINE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/v4l2_codec2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-V4L2_CODEC2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/v8</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-V8-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vboot_reference</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VBOOT_REFERENCE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/virglrenderer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VIRGLRENDERER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vixl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VIXL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vogar</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VOGAR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/volley</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VOLLEY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vulkan-headers</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VULKAN-HEADERS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vulkan-validation-layers</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VULKAN-VALIDATION-LAYERS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/walt</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WALT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wayland</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WAYLAND-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wayland-protocols</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WAYLAND-PROTOCOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/webp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WEBP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/webrtc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WEBRTC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wpa_supplicant_8</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WPA_SUPPLICANT_8-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wycheproof</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WYCHEPROOF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xmp_toolkit</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-XMP_TOOLKIT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xz-embedded</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-XZ-EMBEDDED-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xz-java</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-XZ-JAVA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/yapf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-YAPF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zlib</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ZLIB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zopfli</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ZOPFLI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zxing</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ZXING-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/av</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FRAMEWORKS-AV-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/base</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BASE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/libbcc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBBCC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/mclinker</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MCLINKER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/slang</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SLANG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/ex</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HARDWARE-INTERFACES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/layoutlib</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LAYOUTLIB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/minikin</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MINIKIN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/ml</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ML-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/multidex</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MULTIDEX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/native</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NATIVE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/bitmap</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BITMAP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/calendar</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OPT-CALENDAR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/car/services</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SERVICES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/car/setupwizard</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CAR-SETUPWIZARD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/chips</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CHIPS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-COLORPICKER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DATETIMEPICKER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/gamesdk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GAMESDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ETHERNET-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ike</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IKE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ims</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NET-IMS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/voip</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VOIP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WIFI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PHOTOVIEWER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OPT-SETUPWIZARD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/telephony</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OPT-TELEPHONY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TIMEZONEPICKER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/vcard</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VCARD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/rs</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/wilhelm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WILHELM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/apf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/av</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-AV-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/easel</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EASEL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/interfaces</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-INTERFACES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/pixel</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PIXEL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/interfaces</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HARDWARE-INTERFACES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/invensense</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-INVENSENSE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/libhardware</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBHARDWARE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/libhardware_legacy</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBHARDWARE_LEGACY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/nxp/nfc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NXP-NFC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/nxp/secure_element</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SECURE_ELEMENT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/audio</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-AUDIO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BOOTCTRL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/camera</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CAMERA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/display</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-DISPLAY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/gps</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-GPS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/media</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-MEDIA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/thermal</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-THERMAL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/vr</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/wlan</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-WLAN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/ril</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RIL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/ti/am57x</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-AM57X-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/libcore</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBCORE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/libnativehelper</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBNATIVEHELPER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BASICSMSRECEIVER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Bluetooth</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPS-BLUETOOTH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Browser2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BROWSER2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Calendar</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPS-CALENDAR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Camera2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CAMERA2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Cluster</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CLUSTER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CAR-DIALER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HVAC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CAR-LATINIME-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Launcher</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LAUNCHER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LENSPICKER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LinkViewer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LINKVIEWER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LOCALMEDIAPLAYER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Media</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CAR-MEDIA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MESSENGER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Notification</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NOTIFICATION-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Overview</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OVERVIEW-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Radio</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RADIO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Settings</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CAR-SETTINGS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Stream</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-STREAM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEMUPDATER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/externallibs</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EXTERNALLIBS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/libs</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/tests</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CAR-TESTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/CertInstaller</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CERTINSTALLER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Contacts</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CONTACTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DeskClock</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DESKCLOCK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DevCamera</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DEVCAMERA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Dialer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPS-DIALER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DOCUMENTSUI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Email</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EMAIL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EMERGENCYINFO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Gallery</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GALLERY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Gallery2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GALLERY2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HTMLVIEWER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/KeyChain</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-KEYCHAIN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Launcher3</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LAUNCHER3-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LEGACYCAMERA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MANAGEDPROVISIONING-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Messaging</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MESSAGING-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Mms</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPS-MMS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Music</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MUSIC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/MusicFX</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MUSICFX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Nfc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPS-NFC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ONETIMEINITIALIZER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PACKAGEINSTALLER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PHONECOMMON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Protips</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROTIPS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Provision</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROVISION-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QUICKSEARCHBOX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SAFETYREGULATORYINFO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SampleLocationAttribution</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SAMPLELOCATIONATTRIBUTION-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SecureElement</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SECUREELEMENT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Settings</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPS-SETTINGS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SettingsIntelligence</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SETTINGSINTELLIGENCE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SNAPDRAGONCAMERA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonGallery</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SNAPDRAGONGALLERY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonMusic</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SNAPDRAGONMUSIC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPS-SOUNDRECORDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SpareParts</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SPAREPARTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/StorageManager</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-STORAGEMANAGER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TV</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TV-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Tag</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TAG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Terminal</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TERMINAL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TEST-CONNECTIVITY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/ThemePicker</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-THEMEPICKER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TIMEZONEDATA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TIMEZONEUPDATER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Traceur</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TRACEUR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TvSettings</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TVSETTINGS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-UNIFIEDEMAIL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/UniversalMediaPlayer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-UNIVERSALMEDIAPLAYER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WALLPAPERPICKER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/WallpaperPicker2</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WALLPAPERPICKER2-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-INPUTMETHODS-LATINIME-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/CaptivePortalLogin</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CAPTIVEPORTALLOGIN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/ExtServices</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EXTSERVICES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/ModuleMetadata</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MODULEMETADATA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/NetworkPermissionConfig</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NETWORKPERMISSIONCONFIG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/NetworkStack</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NETWORKSTACK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/TestModule</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TESTMODULE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPLICATIONSPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BLOCKEDNUMBERPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BOOKMARKPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CALENDARPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CALLLOGPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CONTACTSPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DOWNLOADPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/MediaProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MEDIAPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PARTNERBOOKMARKSPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TELEPHONYPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/TvProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TVPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-USERDICTIONARYPROVIDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/screensavers/Basic</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BASIC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PHOTOTABLE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/AlternativeNetworkAccess</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ALTERNATIVENETWORKACCESS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BUILTINPRINTSERVICE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Car</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SERVICES-CAR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Mms</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SERVICES-MMS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Telecomm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TELECOMM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Telephony</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SERVICES-TELEPHONY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIVEPICKER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/pdk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/platform_testing</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PLATFORM_TESTING-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ABI-DUMPS-NDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ABI-DUMPS-VNDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/android-emulator</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ANDROID-EMULATOR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/asuite</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PREBUILTS-ASUITE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/build-tools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BUILD-TOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/bundletool</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BUNDLETOOL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/checkcolor</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CHECKCOLOR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/checkstyle</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CHECKSTYLE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/clang-tools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CLANG-TOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HOST-LINUX-X86-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/devtools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DEVTOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/fuchsia_sdk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FUCHSIA_SDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-AARCH64-LINUX-ANDROID-4.9-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ARM-EABI-4.8-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ARM-LINUX-ANDROIDEABI-4.9-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-X86_64-LINUX-GLIBC2.17-4.8-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-X86_64-W64-MINGW32-4.8-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-X86_64-LINUX-ANDROID-4.9-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GDB-LINUX-X86-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GO-LINUX-X86-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GRADLE-PLUGIN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JDK8-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/jdk/jdk9</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-JDK9-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/ktlint</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-KTLINT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/manifest-merger</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MANIFEST-MERGER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MAVEN_REPO-ANDROID-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BUMPTECH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/maven_repo/google-play-service-client-libraries-3p</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GOOGLE-PLAY-SERVICE-CLIENT-LIBRARIES-3P-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/misc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MISC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/ndk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PREBUILTS-NDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-2.7.5-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QEMU-KERNEL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/r8</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-R8-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/sdk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PREBUILTS-SDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/tools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PREBUILTS-TOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/vndk/v27</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-V27-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/vndk/v28</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-V28-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/q_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WLANGUAGE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/sdk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PLATFORM-SDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/apex</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APEX-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ashmemd</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ASHMEMD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bpf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BPF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bpfprogs</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BPFPROGS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bt</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-BT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ca-certificates</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CA-CERTIFICATES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/chre</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CHRE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/connectivity/wificond</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WIFICOND-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/connectivity/wifilogd</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WIFILOGD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/core</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CORE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/extras</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EXTRAS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/gatekeeper</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GATEKEEPER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/gsid</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GSID-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/hardware/interfaces</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HARDWARE-INTERFACES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/hwservicemanager</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HWSERVICEMANAGER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/iorap</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IORAP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/keymaster</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-KEYMASTER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libfmq</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBFMQ-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libhidl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBHIDL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libhwbinder</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBHWBINDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libsysprop</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBSYSPROP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libufdt</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBUFDT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libvintf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBVINTF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/linkerconfig</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LINKERCONFIG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/media</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-MEDIA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/netd</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NETD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/nfc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-NFC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/nvram</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NVRAM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/qcom</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/security</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-SECURITY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/sepolicy</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-SEPOLICY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/server_configurable_flags</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SERVER_CONFIGURABLE_FLAGS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/testing/gtest_extras</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GTEST_EXTRAS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/timezone</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TIMEZONE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/aidl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-AIDL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/hidl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HIDL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/sysprop</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SYSPROP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/xsdc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-XSDC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ucontainer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-UCONTAINER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/update_engine</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-UPDATE_ENGINE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/vold</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VOLD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/framework</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FRAMEWORK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/mlts/benchmark</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MLTS-BENCHMARK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/mlts/models</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MODELS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/mts</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/suite_harness</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SUITE_HARNESS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/alert</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ALERT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/dashboard</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DASHBOARD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/fuzz_test_serving</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FUZZ_TEST_SERVING-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/test_serving</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TEST_SERVING-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FUZZ-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/hal</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HAL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HAL-TRACE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/kernel</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-KERNEL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/nbu</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NBU-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/performance</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PERFORMANCE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/security</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VTS-TESTCASE-SECURITY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/vndk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VTS-TESTCASE-VNDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/acloud</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ACLOUD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/apksig</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APKSIG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/apkzlib</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APKZLIB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/asuite</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TOOLS-ASUITE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/currysrc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CURRYSRC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/dexter</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DEXTER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/external/fat32lib</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FAT32LIB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/external/gradle</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GRADLE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/external_updater</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-EXTERNAL_UPDATER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/loganalysis</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LOGANALYSIS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/metalava</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-METALAVA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/ndkports</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NDKPORTS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/repohooks</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-REPOHOOKS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/security</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TOOLS-SECURITY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/test/connectivity</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TEST-CONNECTIVITY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/test/graphicsbenchmark</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GRAPHICSBENCHMARK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/tradefederation</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TRADEFEDERATION-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/tradefederation/contrib</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CONTRIB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/trebuchet</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TREBUCHET-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/codeaurora/packages/apps/Dialer</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPS-DIALER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/codeaurora/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPS-SOUNDRECORDER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/codeaurora/telephony</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CODEAURORA-TELEPHONY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/interfaces/opensource/nfc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OPENSOURCE-NFC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/external/libnfc-nci</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LIBNFC-NCI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/frameworks</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-OPENSOURCE-FRAMEWORKS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/halimpl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HALIMPL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/hidlimpl</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HIDLIMPL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/packages/apps/Nfc</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-APPS-NFC-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/opensource/audio-kernel</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-AUDIO-KERNEL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/pixelworks</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PIXELWORKS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/audio</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-AUDIO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/audio-hal/st-hal</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ST-HAL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/bluetooth</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-BLUETOOTH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/bluetooth-commonsys-intf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BLUETOOTH-COMMONSYS-INTF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/bluetooth_ext</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BLUETOOTH_EXT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/core-utils</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CORE-UTILS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/cryptfs_hw</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CRYPTFS_HW-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/data-ipa-cfg-mgr</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DATA-IPA-CFG-MGR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/data-kernel</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DATA-KERNEL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dataservices</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DATASERVICES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dataservices-commonsys</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DATASERVICES-COMMONSYS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/display-commonsys-intf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DISPLAY-COMMONSYS-INTF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dpm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DPM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dpm-commonsys</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DPM-COMMONSYS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/fm-commonsys</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FM-COMMONSYS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/fst-manager</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FST-MANAGER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/healthd-ext</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-HEALTHD-EXT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/interfaces</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-INTERFACES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/location</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LOCATION-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/mmc-utils</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MMC-UTILS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/power</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-POWER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/recovery-ext</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RECOVERY-EXT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/shortcut-fe</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SHORTCUT-FE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/system/bt</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SYSTEM-BT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/thermal-engine</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-THERMAL-ENGINE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/time-services</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-TIME-SERVICES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/tools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-TOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/usb</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-USB-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/vibrator</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VIBRATOR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wfd-commonsys</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WFD-COMMONSYS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wigig</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-OPENSOURCE-WIGIG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/fw-api</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FW-API-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCA-WIFI-HOST-CMN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/qcacld-3.0</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCACLD-3.0-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SIGMA-DUT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/ferrum</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FERRUM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/msm8909go</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MSM8909GO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/msmnile</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MSMNILE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/android-perf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-ANDROID-PERF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/bluetooth</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-BLUETOOTH-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/cne</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CNE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/common</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-COMMON-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/commonsys</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-COMMONSYS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/commonsys-intf</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-COMMONSYS-INTF-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/configstore</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CONFIGSTORE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/coretech-config-vendor</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CORETECH-CONFIG-VENDOR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/cv</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CV-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/data</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DATA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/diag</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DIAG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/display</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-DISPLAY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/dspservices_ship</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DSPSERVICES_SHIP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/fastmmi</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FASTMMI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/fm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ftm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FTM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/fwk-utils</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-FWK-UTILS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/gles</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GLES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/gps</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-GPS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/gps-release</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-GPS-RELEASE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ims-ship</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IMS-SHIP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/interfaces</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-INTERFACES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/llvm-arm-toolchain-ship</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-LLVM-ARM-TOOLCHAIN-SHIP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mdm-helper</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MDM-HELPER-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MM-AUDIO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio-auto</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MM-AUDIO-AUTO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio-auto-cal</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MM-AUDIO-AUTO-CAL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio-cal</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MM-AUDIO-CAL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio-external</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MM-AUDIO-EXTERNAL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-camera</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MM-CAMERA-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-camerasdk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MM-CAMERASDK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-core</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MM-CORE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-still</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MM-STILL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-video</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MM-VIDEO-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-video-utils</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MM-VIDEO-UTILS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/nqnfc-firmware</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-NQNFC-FIRMWARE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/prebuilt_HY11_SM6150</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PREBUILT_HY11_SM6150-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCRIL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-data-hal</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCRIL-DATA-HAL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-hal</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCRIL-HAL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-qmi-services</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCRIL-QMI-SERVICES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-qmi-services-headers</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCRIL-QMI-SERVICES-HEADERS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qdssagent</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QDSSAGENT-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qmi</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QMI-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qmi-framework</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QMI-FRAMEWORK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qrdplus</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QRDPLUS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qrsp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QRSP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/remotefs</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-REMOTEFS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/resource-overlay</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-RESOURCE-OVERLAY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/sectools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SECTOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/securemsm</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SECUREMSM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/sensors-see</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SENSORS-SEE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ss-restart</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SS-RESTART-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ss-services</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SS-SERVICES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/telephony-apps</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TELEPHONY-APPS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/thermal-engine</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-THERMAL-ENGINE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/time-services</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-TIME-SERVICES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/vpp</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-VPP-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/wfd</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WFD-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/wigig</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-WIGIG-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/wlan</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PROPRIETARY-WLAN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/skunk</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-SKUNK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/steppe</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-STEPPE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/thulium</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-THULIUM-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/trinket</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TRINKET-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/trinket_32</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TRINKET_32-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/wlan</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCOM-WLAN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/widevine</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-WIDEVINE-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/toolchain/benchmark</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TOOLCHAIN-BENCHMARK-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/toolchain/pgo-profiles</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PGO-PROFILES-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/3rdparty/apps</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-3RDPARTY-APPS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/DDRTest</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DDRTEST-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/DiagProtector</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-DIAGPROTECTOR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/ImsPlugin</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IMSPLUGIN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/Iris</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-IRIS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/apps/PlayAutoInstall</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-PLAYAUTOINSTALL-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/buildtools</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-BUILDTOOLS-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/cellular</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-CELLULAR-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/mmitest</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-MMITEST-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/qcn</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-QCN-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/security</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TCT-SOURCE-SECURITY-BSP-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/vendor/tct-source/system</name>
+	<branch>refs/heads/sm6125-q-madeleine-driveronly</branch>
+	<baseline>Q6125-PORTOTMO-TCT-SOURCE-SYSTEM-BSP-P1.0</baseline>
+</project>
+</projects>

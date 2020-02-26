@@ -1,0 +1,2194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>aosp/platform/build</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/abi/cpp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CPP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/art</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ART-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/bionic</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/bootable/bootloader/legacy</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LEGACY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/bootable/diskinstaller</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DISKINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/bootable/recovery</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-RECOVERY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/cts</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/dalvik</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/developers/demos</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DEMOS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/developers/docs</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/developers/samples/android</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ANDROID-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/development</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/asus/deb</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DEB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/asus/flo</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-FLO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/asus/flo-kernel</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-FLO-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/asus/grouper</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GROUPER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/asus/tilapia</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TILAPIA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/common</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-COMMON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/armv7-a-neon</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/common</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-COMMON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/goldfish</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GOLDFISH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/mips</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/mini-emulator-armv7-a-neon</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MINI-EMULATOR-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/mini-emulator-mips</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MINI-EMULATOR-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/mini-emulator-x86</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MINI-EMULATOR-X86-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/generic/x86</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-X86-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/google/accessory/arduino</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/google/accessory/demokit</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DEMOKIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/lge/hammerhead</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-HAMMERHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/lge/hammerhead-kernel</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-HAMMERHEAD-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/lge/mako</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MAKO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/lge/mako-kernel</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MAKO-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/sample</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SAMPLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/samsung/manta</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MANTA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/docs/source.android.com</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SOURCE.ANDROID.COM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/aac</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/android-clat</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/android-mock</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ant-glob</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/antlr</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/apache-harmony</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/apache-http</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/apache-qp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-APACHE-QP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/apache-xml</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/arduino</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ARDUINO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/bison</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/blktrace</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/bluetooth/bluedroid</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BLUEDROID-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/bouncycastle</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/bsdiff</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/bzip2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ceres-solver</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/checkpolicy</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CHECKPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CHROMIUM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium-libpac</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium-trace</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CHROMIUM_ORG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/sdch/open-vcdiff</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/testing/gtest</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/WebKit</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-WEBKIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/angle_dx11</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ANGLE_DX11-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BRAILLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/freetype</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/icu</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ICU-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/leveldatabase/src</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/libjingle/source/talk</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TALK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PHONENUMBERS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/libphonenumber/src/resources</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-RESOURCES-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/mesa/src</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/openssl</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/opus/src</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/ots</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/skia/gyp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GYP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/skia/include</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-INCLUDE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/skia/src</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/smhasher/src</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SRC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/third_party/yasm/source/patched-yasm</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PATCHED-YASM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/tools/grit</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GRIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/tools/gyp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GYP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/chromium_org/v8</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-V8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/clang</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/compiler-rt</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/dexmaker</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/dhcpcd</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/dnsmasq</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/doclava</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/dropbear</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DROPBEAR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/droiddriver</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/e2fsprogs</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/easymock</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/eclipse-basebuilder</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/eigen</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/elfutils</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/embunit</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/emma</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/esd</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/expat</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/eyes-free</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/fdlibm</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/flac</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/freetype</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/fsck_msdos</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ganymed-ssh2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GANYMED-SSH2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/gcc-demangle</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GCC-DEMANGLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/genext2fs</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GENEXT2FS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/giflib</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/google-diff-match-patch</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GOOGLE-DIFF-MATCH-PATCH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/grub</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GRUB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/gtest</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/guava</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/hamcrest</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/harfbuzz</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-HARFBUZZ-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/harfbuzz_ng</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/hyphenation</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-HYPHENATION-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/icu4c</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ICU4C-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/iproute2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ipsec-tools</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/iptables</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/iputils</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jack</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-JACK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/javasqlite</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/javassist</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jdiff</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jhead</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jmdns</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jmonkeyengine</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jpeg</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jsilver</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/jsr305</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/junit</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/kernel-headers</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libcap-ng</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libffi</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBFFI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libgsm</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/liblzf</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libmtp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libnfc-nci</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libnfc-nxp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libnl-headers</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBNL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libogg</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libpcap</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libphonenumber</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libpng</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libppp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBPPP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libselinux</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libsepol</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBSEPOL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libusb</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libusb-compat</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libvorbis</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libvpx</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libxml2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libxslt</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBXSLT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/libyuv</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/linux-tools-perf</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/littlemock</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/llvm</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/lzma</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/marisa-trie</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/markdown</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mdnsresponder</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mesa3d</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mksh</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mockito</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mockwebserver</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mp4parser</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/mtpd</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/naver-fonts</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/netcat</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/netperf</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/neven</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/nist-pkits</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/nist-sip</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/noto-fonts</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/oauth</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/objenesis</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/okhttp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/open-vcdiff</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OPEN-VCDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/opencv</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/openfst</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/openssh</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/openssl</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OPENSSL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/oprofile</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OPROFILE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/pixman</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PIXMAN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/ppp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/proguard</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/protobuf</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/qemu</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-QEMU-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/qemu-pc-bios</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-QEMU-PC-BIOS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/regex-re2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/replicaisland</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/robolectric</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/safe-iop</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/scrypt</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/sepolicy</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/sfntly</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/sil-fonts</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SIL-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/skia</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/smack</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SMACK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/smali</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/sonivox</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/speex</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/sqlite</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/srec</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SREC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/srtp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/stlport</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-STLPORT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/strace</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/stressapptest</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/svox</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tagsoup</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tcpdump</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/timezonepicker-support</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tinyalsa</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tinycompress</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tinyxml</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tinyxml2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/tremolo</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/v8</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-V8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/valgrind</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/webp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/webrtc</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/wpa_supplicant_8</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/xmlwriter</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/xmp_toolkit</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/yaffs2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-YAFFS2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/zlib</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/external/zxing</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/av</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-AV-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/base</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BASE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/compile/libbcc</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBBCC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/compile/mclinker</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MCLINKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/compile/slang</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SLANG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/ex</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/mff</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MFF-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/ml</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ML-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/native</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NATIVE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/calendar</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/carddav</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CARDDAV-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/colorpicker</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-COLORPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/datetimepicker</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DATETIMEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/emoji</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EMOJI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/inputmethodcommon</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-INPUTMETHODCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/mailcommon</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MAILCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/mms</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/net/voip</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-VOIP-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/photoviewer</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PHOTOVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/timezonepicker</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TIMEZONEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/telephony</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/opt/vcard</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-VCARD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/rs</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-RS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/support</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/testing</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TESTING-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/uiautomator</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-UIAUTOMATOR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/volley</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-VOLLEY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/webview</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/frameworks/wilhelm</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-WILHELM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/akm</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-AKM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/broadcom/libbt</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBBT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/broadcom/wlan</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-WLAN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/invensense</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-INVENSENSE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/libhardware</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBHARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/libhardware_legacy</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBHARDWARE_LEGACY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/audio</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-AUDIO-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/bt</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/camera</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/display</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DISPLAY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/keymaster</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/media</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MEDIA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/msm8960</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MSM8960-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/msm8x74</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MSM8X74-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/power</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-POWER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/sensors</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SENSORS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/qcom/wlan</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-WLAN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/ril</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-RIL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/samsung_slsi/exynos5</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EXYNOS5-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/ti/omap3</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OMAP3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/ti/omap4xxx</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OMAP4XXX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/ti/wlan</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-WLAN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/hardware/ti/wpan</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-WPAN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/libcore</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/libnativehelper</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/ndk</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Bluetooth</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Browser</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Calculator</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Calendar</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Camera</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Camera2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/CertInstaller</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Contacts</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/DeskClock</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Dialer</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Email</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Exchange</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Gallery</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Gallery2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/InCallUI</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/KeyChain</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Launcher2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Launcher3</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/MMITest</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MMITEST-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Mms</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Music</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/MusicFX</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Nfc</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Phone</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PHONE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Protips</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Provision</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Settings</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/SmartCardService</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/SpareParts</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Stk</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-STK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/Tag</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/UnifiedEmail</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/VideoEditor</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-VIDEOEDITOR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/apps/VoiceDialer</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-VOICEDIALER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/experimental</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/inputmethods/PinyinIME</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PINYINIME-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/MediaProvider</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/screensavers/Basic</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/screensavers/WebView</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/services/Telephony</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/Basic</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/MusicVisualization</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MUSICVISUALIZATION-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/pdk</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/3.1</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.1-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/3.2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/arm/3.3</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/host/3.3</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/mips/3.3</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/darwin-x86/x86/3.3</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/3.1</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.1-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/3.2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.2-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/arm/3.3</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/host/3.3</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/mips/3.3</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/clang/linux-x86/x86/3.3</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-3.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/devtools</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/eclipse</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/eclipse-build-deps</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ECLIPSE-BUILD-DEPS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/eclipse-build-deps-sources</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ECLIPSE-BUILD-DEPS-SOURCES-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ARM-EABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ARM-EABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ARM-LINUX-ANDROIDEABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ARM-LINUX-ANDROIDEABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/host/headers</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-I686-APPLE-DARWIN-4.2.1-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MIPSEL-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MIPSEL-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-I686-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-I686-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-X86_64-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ARM-EABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ARM-EABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ARM-LINUX-ANDROIDEABI-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ARM-LINUX-ANDROIDEABI-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-I686-LINUX-GLIBC2.7-4.4.3-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-I686-LINUX-GLIBC2.7-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-X86_64-LINUX-GLIBC2.7-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MIPSEL-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MIPSEL-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-I686-LINUX-ANDROID-4.6-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-I686-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-X86_64-LINUX-ANDROID-4.7-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/misc</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MISC-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/ndk</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/python/darwin-x86/2.7.5</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-2.7.5-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/python/linux-x86/2.7.5</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-2.7.5-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/qemu-kernel</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/runtime</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-RUNTIME-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/sdk</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/prebuilts/tools</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/sdk</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/core</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CORE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/extras</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EXTRAS-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/media</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MEDIA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/netd</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-NETD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/security</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SECURITY-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/system/vold</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-VOLD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/tools/adt/eclipse</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/tools/adt/idea</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-IDEA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/tools/emulator</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-EMULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/tools/external/fat32lib</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-FAT32LIB-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/tools/external/gradle</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-GRADLE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/tools/idea</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-IDEA-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/tools/motodev</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-MOTODEV-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/tools/studio/cloud</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-CLOUD-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/platform/tools/swt</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-PRESTUDY-SWT-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/device/jrdcom</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDCOM-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/pixo7_wimdata_ng/wlanguage</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-LANGUAGE-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/pixo7_wimdata_ng/wprocedures</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+    <name>aosp/pixo7_wimdata_ng/wcustores</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdUserCenter</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDUSERCENTER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdUserCenterServic</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDUSERCENTERSERVIC-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/TCLWatchDog</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-TCLWATCHDOG-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdPowerSaver</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDPOWERSAVER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdUserCardService</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDUSERCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdUserCard</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDUSERCARD-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/NotePad2</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-NOTEPAD2-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSetupWizard</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDSETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdAlcatelHelp</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDALCATELHELP-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdSalesTracker</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDSALESTRACKER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdDigitalClock</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDDIGITALCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdWorldClock</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDWORLDCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/UrlReservedApps</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-URLRESERVEDAPPS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/O2Ideas</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-O2IDEAS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdContainer</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDCONTAINER-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdFota</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDFOTA-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdElabel</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDELABEL-P1.0</baseline>
+</project>
+
+<project>
+    <name>tcl/packages/apps/JrdSdcardUpgrade</name>
+    <branch>refs/heads/kitkat-v1.0-dint</branch>
+    <baseline>KITKAT-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+</projects>

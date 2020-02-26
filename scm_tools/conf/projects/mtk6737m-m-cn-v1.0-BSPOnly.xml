@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6737/abi</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/art</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ART-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/bionic</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/bootable</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/build</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/cts</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/dalvik</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/developers</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/development</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/device</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/docs</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/android-clat</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/android-mock</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/aac</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/androidplot</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ant-glob</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/antlr</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-commons-math</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-harmony</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-http</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/apache-xml</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bison</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/blktrace</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/boringssl</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bouncycastle</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bsdiff</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/bzip2</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/cblas</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ceres-solver</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/chromium-libpac</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/chromium-trace</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/chromium-webview</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/clang</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/cmockery</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/compiler-rt</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/conscrypt</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/crcalc</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/deqp</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/dexmaker</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/dhcpcd</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DHCPCD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/dnsmasq</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/doclava</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/donuts</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DONUTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/drm_gralloc</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/drm_hwcomposer</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/droiddriver</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/e2fsprogs</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/easymock</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eclipse-basebuilder</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eigen</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/elfutils</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/embunit</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/emma</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/esd</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/expat</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/eyes-free</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/f2fs-tools</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fdlibm</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fio</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/flac</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fonttools</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/freetype</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/fsck_msdos</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/giflib</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/glide</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/google-breakpad</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/google-fonts</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/gptfdisk</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/gtest</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/guava</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/hamcrest</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/harfbuzz_ng</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/hyphenation-patterns</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/icu</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/iproute2</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ipsec-tools</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/iptables</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/iputils</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jack</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JACK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jarjar</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/javasqlite</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/javassist</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jdiff</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jemalloc</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jetty</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JETTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jhead</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jmdns</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jmonkeyengine</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jpeg</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JPEG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsilver</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsmn</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsoncpp</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/jsr305</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/junit</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/kernel-headers</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ksoap2</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libavc</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libcap-ng</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libcxx</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libcxxabi</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libdrm</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libedit</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libexif</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libgsm</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libhevc</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/liblzf</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libmpeg2</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libmtp</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libnfc-nci</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libnfc-nxp</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libnl</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libogg</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libopus</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libpcap</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libphonenumber</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libpng</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libseccomp-helper</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBSECCOMP-HELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libselinux</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libssh2</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBSSH2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libunwind</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libusb</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libusb-compat</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libutf</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvncserver</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvorbis</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvpx</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libvterm</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libxml2</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/libyuv</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/linux-tools-perf</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/littlemock</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lld</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LLD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lldb</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LLDB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/llvm</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ltrace</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lz4</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/lzma</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/marisa-trie</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/markdown</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mdnsresponder</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mesa3d</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/messageformat</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mksh</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mockftpserver</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mockito</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mockwebserver</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mp4parser</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/mtpd</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nanohttpd</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nanopb-c</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/naver-fonts</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/netcat</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/netperf</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/neven</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nfacct</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nist-pkits</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/nist-sip</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/noto-fonts</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/oauth</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/objenesis</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/okhttp</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/opencv</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/openfst</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-OPENFST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/openssh</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/owasp</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-OWASP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/parameter-framework</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/pcre</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/pdfium</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/ppp</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/proguard</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/protobuf</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/regex-re2</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/replicaisland</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/robolectric</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/roboto-fonts</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/safe-iop</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/scrypt</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/selinux</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sepolicy</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sfntly</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/skia</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/slf4j</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/smali</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sonic</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sonivox</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/speex</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/sqlite</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/squashfs-tools</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/srtp</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SRTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/strace</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/svox</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tagsoup</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tcpdump</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/timezonepicker-support</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinyalsa</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinycompress</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinyxml</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tinyxml2</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/toybox</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/tremolo</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/v8</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/valgrind</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/vboot_reference</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/vixl</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/vogar</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/webp</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/webrtc</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/wpa_supplicant_8</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/xmlwriter</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/xmp_toolkit</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/zlib</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/zopfli</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/external/zxing</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/frameworks</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/hardware</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/kernel</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/libcore</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/libnativehelper</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/modem/LWTG</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MODEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/modem/C2K</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MODEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/mtk6737_wimdata_ng/wcustores</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/mtk6737_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/ndk</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MTK6735-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/FMRadio</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-FMRADIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Bluetooth</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Browser</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BROWSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Calculator</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Calendar</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Camera</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Camera2</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/CertInstaller</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Contacts</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/DeskClock</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Dialer</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Email</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Exchange</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Gallery</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Gallery2</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/InCallUI</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-INCALLUI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/KeyChain</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Launcher2</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Launcher3</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Messaging</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Music</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/MusicFX</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Nfc</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Phone</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Protips</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Provision</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Settings</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SmartCardService</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SMARTCARDSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SpareParts</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Stk</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Tag</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/Terminal</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/TvSettings</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/experimental</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/MediaProvider</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/TvProvider</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/screensavers/Basic</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SCREENSAVERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/screensavers/WebView</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/services</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/Basic</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-WALLPAPERS-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/Galaxy4</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GALAXY4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/HoloSpiral</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/NoiseField</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/packages/wallpapers/PhaseBeam</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/pdk</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/platform_testing</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/android-emulator</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/clang/darwin-x86</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/clang/linux-x86</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/devtools</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/eclipse</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DARWIN-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DARWIN-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DARWIN-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DARWIN-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DARWIN-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LINUX-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LINUX-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LINUX-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LINUX-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LINUX-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/libs</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/maven_repo</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/misc</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/ndk</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/python</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PYTHON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/sdk</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/prebuilts/tools</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/sdk</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MTK6735-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/system</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/tools</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MTK6735-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/arkamys</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-ARKAMYS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/cmx</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-CMX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/dolby</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-DOLBY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/google</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-GOOGLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/jrdchz</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JRDCHZ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/jrdcom</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-JRDCOM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6737/vendor/mediatek</name>
+	<branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+	<baseline>MTK6737M-CN-GLOBAL-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+        <name>mtk6737/trusty</name>
+        <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+        <baseline>MTK6737M-CN-GLOBAL-TRUSTY-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdMMITest</name>
+        <branch>refs/heads/mtk6737-m-v1.0-dint</branch>
+        <baseline>MTK6737M-CN-GLOBAL-JRDMMITEST-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdSdcardUpgrade</name>
+        <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+        <baseline>MTK6737M-CN-GLOBAL-JRDSDCARDUPGRADE-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdFindMyPhone</name>
+        <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+        <baseline>MTK6737M-CN-GLOBAL-JRDFINDMYPHONE-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/SyncMLClient</name>
+        <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+        <baseline>MTK6737M-CN-GLOBAL-SYNCMLCLIENT-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/JrdPlugger</name>
+        <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+        <baseline>MTK6737M-CN-GLOBAL-JRDPLUGGER-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/QuickTranslate</name>
+        <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+        <baseline>MTK6737M-CN-GLOBAL-QUICKTRANSLATE-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/AdvancedMobileLocation</name>
+        <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+        <baseline>MTK6737M-CN-GLOBAL-ADVANCEDMOBILELOCATION-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/TclTest</name>
+        <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+        <baseline>MTK6737M-CN-GLOBAL-TCLTEST-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/Mms</name>
+    <branch>refs/heads/androidm-v1.0-cn</branch>
+    <baseline>MTK6737M-CN-MMS-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/JrdScreenShot</name>
+    <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+    <baseline>MTK6737M-CN-JRDSCREENSHOT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6737/external/libvisidon_facebeauty</name>
+    <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+    <baseline>MTK6737M-CN-GLOBAL-LIBVISIDON-FACEBEAUTY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6737/vendor/goodix</name>
+    <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+    <baseline>MTK6737M-CN-GLOBAL-GOODIX-P1.0</baseline>
+</project>
+<project>
+    <name>tcl/packages/apps/ScreenRecorder</name>
+    <branch>refs/heads/mtk6737m-m-cn-v1.0-BSPOnly</branch>
+    <baseline>MTK6737M-CN-GLOBAL-SCREENRECORDER-P1.0</baseline>
+</project>
+</projects>

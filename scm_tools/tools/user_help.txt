@@ -1,0 +1,5 @@
+user@devtest-android:/local/sourcecode/gin2-hebrew$ export USER=shuzhong.cui.hz #bugzilla account
+user@devtest-android:/local/sourcecode/gin2-hebrew$ echo $USER
+SW870 is the software version
+the need delivery BugID saved into bugIDList
+./update_newref.php SW870 -f bugIDList

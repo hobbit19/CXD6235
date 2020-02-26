@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>alps/babyd_wimdata_ng/liv</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wcustores</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wcustores-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wlanguage-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wplmn</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wplmn-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wprocedures-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wtheme</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wtheme-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/wtime</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wtime-P1.0</baseline>
+</project>
+<project>
+	<name>alps/babyd_wimdata_ng/liv</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-LIV-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bionic</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-bionic-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bootable</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-bootable-P1.0</baseline>
+</project>
+<project>
+	<name>alps/build</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-build-P1.0</baseline>
+</project>
+<project>
+	<name>alps/cts</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-cts-P1.0</baseline>
+</project>
+<project>
+	<name>alps/dalvik</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-dalvik-P1.0</baseline>
+</project>
+<project>
+	<name>alps/libcore</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-libcore-P1.0</baseline>
+</project>
+<project>
+	<name>alps/development</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-development-P1.0</baseline>
+</project>
+<project>
+	<name>alps/device</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-device-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/apache-http</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-apache-http-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/astl</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-astl-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bison</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-bison-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blisrc</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-blisrc-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blktrace</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-blktrace-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/bluez</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-bluetooth-bluez-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/glib</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-bluetooth-glib-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/hcidump</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-bluetooth-hcidump-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bouncycastle</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-bouncycastle-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bsdiff</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-bsdiff-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bzip2</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-bzip2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/chromium</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-chromium-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/clearsilver</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-clearsilver-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dbus</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-dbus-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dhcpcd</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-dhcpcd-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dnsmasq</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-dnsmasq-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dropbear</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-dropbear-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/e2fsprogs</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-e2fsprogs-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/easymock</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-easymock-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfcopy</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-elfcopy-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfutils</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-elfutils-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/embunit</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-embunit-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/emma</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-emma-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/esd</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-esd-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/expat</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-expat-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fdlibm</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-fdlibm-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-freetype-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fsck_msdos</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-fsck_msdos-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/genext2fs</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-genext2fs-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/giflib</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-giflib-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/grub</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-grub-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/gtest</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-gtest-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/guava</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-guava-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/icu4c</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-icu4c-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iproute2</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-iproute2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ipsec-tools</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-freetype-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-ipsec-tools-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iptables</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-iptables-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jdiff</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-jdiff-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jhead</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-jhead-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jpeg</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-jpeg-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jsr305</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-jsr305-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/junit</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-junit-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/kernel</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-kernel-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libffi</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-libffi-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libgsm</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-libgsm-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libnfc-nxp</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-libnfc-nxp-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpcap</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-libpcap-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpng</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-libpng-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libvpx</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-libvpx-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libxml2</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-libxml2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/mtpd</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-mtpd-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netcat</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-netcat-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netperf</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-netperf-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/neven</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-neven-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/nist-sip</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-nist-sip-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oauth</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-oauth-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/opencore</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-opencore-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/openssl</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-openssl-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oprofile</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-oprofile-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ping</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-ping-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ppp</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-ppp-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/proguard</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-proguard-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/protobuf</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-protobuf-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/qemu</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-qemu-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/quake</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-quake-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/safe-iop</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-safe-iop-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-skia-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia_asm</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-skia_asm-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sonivox</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-sonivox-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/speex</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-speex-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sqlite</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-sqlite-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/srec</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-srec-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/stlport</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-stlport-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/strace</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-strace-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/svox</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-svox-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tagsoup</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-tagsoup-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tcpdump</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-tcpdump-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tinyxml</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-tinyxml-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tremolo</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-tremolo-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/v8</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-v8-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/webkit</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-webkit-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wpa_supplicant-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant_6</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wpa_supplicant_6-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/xmlwriter</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-xmlwriter-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/yaffs2</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-yaffs2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/zlib</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-zlib-P1.0</baseline>
+</project>
+<project>
+	<name>alps/frameworks</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-frameworks-P1.0</baseline>
+</project>
+<project>
+	<name>alps/kernel</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-kernel-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mediatek</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-mediatek-P1.0</baseline>
+</project>
+<project>
+	<name>alps/ndk</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-ndk-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-JrdTCLHelp-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-JrdAlcatelHelp-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MMITest</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-MMITest-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/AccountsAndSyncSettings</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-AccountsAndSyncSettings-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Bluetooth</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Bluetooth-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-JrdSetupWizard-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-JrdPowerSaver-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/TrafficManager</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-TrafficManager-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Browser</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Browser-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calculator</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Calculator-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calendar</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Calendar-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Camera</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Camera-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CameraOpen</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-CameraOpen-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CellConnService</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-CellConnService-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CertInstaller</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-CertInstaller-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Contacts</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DeskClock</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-DeskClock-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Email</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Email-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Gallery-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery3D</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Gallery3D-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-HTMLViewer-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Launcher2</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Launcher2-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Mms</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Mms-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MtkWallPaper</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-MtkWallPaper-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Music</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Music-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Nfc</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Nfc-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-PackageInstaller-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Phone</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Phone-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Protips</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Protips-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Provision</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Provision-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-QuickSearchBox-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Settings</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Settings-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-SoundRecorder-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-SpeechRecorder-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Stk</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Stk-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Tag</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Tag-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-VoiceDialer-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/LauncherPlus</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-LauncherPlus-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/LeMei</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-LeMei-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CUService</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-CUService-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CUMobServe</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-CUMobServe-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CUWo3G</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-CUWo3G-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/TCLHotLine</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-TCLHotLine-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SpeedDial</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-SpeedDial-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/experimental</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-experimental-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-LatinIME-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-OpenWnn-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-ApplicationsProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-CalendarProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-ContactsProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-DownloadProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DrmProvider</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-DrmProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-GoogleContactsProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/MediaProvider</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-MediaProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-TelephonyProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-UserDictionaryProvider-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/Basic</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-Basic-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-LivePicker-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-MagicSmoke-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-MusicVisualization-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/Basic</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wallpapers_gles20-Basic-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/LivePicker</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wallpapers_gles20-LivePicker-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MagicSmoke</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wallpapers_gles20-MagicSmoke-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MusicVisualization</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-wallpapers_gles20-MusicVisualization-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/BookmarkWidget</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-widgets-BookmarkWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/ContactWidget</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-widgets-ContactWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/MMSWidget</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-widgets-MMSWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/MusicWidget</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-widgets-MusicWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/PhotoWidget</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-widgets-PhotoWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/SystemClockWidget</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-widgets-SystemClockWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/VideoWidget</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-widgets-VideoWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/widgets/WorldClockWidget</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-widgets-WorldClockWidget-P1.0</baseline>
+</project>
+<project>
+	<name>alps/prebuilt</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-prebuilt-P1.0</baseline>
+</project>
+<project>
+	<name>alps/sdk</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-sdk-P1.0</baseline>
+</project>
+<project>
+	<name>alps/system</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-system-P1.0</baseline>
+</project>
+<project>
+	<name>alps/vendor</name>
+	<branch>refs/heads/gin1-tcl-dint-cu</branch>
+	<baseline>GIN-MIX-vendor-P1.0</baseline>
+</project>
+</projects>

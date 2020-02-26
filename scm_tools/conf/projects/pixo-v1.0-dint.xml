@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/liv</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-LIV-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wcustores</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WCUSTORES-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wplmn</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WPLMN-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WPROCEDURES-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wtheme</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WTHEME-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mtk6575M_wimdata_ng/wtime</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WTIME-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bionic</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BIONIC-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/bootable</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BOOTABLE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/build</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BUILD-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/cts</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CTS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/dalvik</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DALVIK-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/libcore</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-LIBCORE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/development</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DEVELOPMENT-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/device</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DEVICE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/apache-http</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-APACHE-HTTP-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/astl</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-ASTL-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bison</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BISON-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blisrc</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BLISRC-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/blktrace</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BLKTRACE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/bluez</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BLUETOOTH-BLUEZ-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/glib</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BLUETOOTH-GLIB-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bluetooth/hcidump</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BLUETOOTH-HCIDUMP-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bouncycastle</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BOUNCYCASTLE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bsdiff</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BSDIFF-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/bzip2</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BZIP2-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/chromium</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CHROMIUM-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/clearsilver</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CLEARSILVER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dbus</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DBUS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dhcpcd</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DHCPCD-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dnsmasq</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DNSMASQ-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/dropbear</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DROPBEAR-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/e2fsprogs</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-E2FSPROGS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/easymock</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-EASYMOCK-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfcopy</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-ELFCOPY-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/elfutils</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-ELFUTILS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/embunit</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-EMBUNIT-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/emma</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-EMMA-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/esd</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-esd-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/expat</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-EXPAT-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fdlibm</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-FDLIBM-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-FREETYPE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/fsck_msdos</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-FSCK_MSDOS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/genext2fs</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-GENEXT2FS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/giflib</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-GIFLIB-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/grub</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-GRUB-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/gtest</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-GTEST-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/guava</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-GUAVA-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/icu4c</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-ICU4C-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iproute2</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-IPROUTE2-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ipsec-tools</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-IPSEC-TOOLS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/freetype</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-FREETYPE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/iptables</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-IPTABLES-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jdiff</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JDIFF-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jhead</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JHEAD-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jpeg</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JPEG-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/jsr305</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JSR305-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/junit</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JUNIT-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/kernel-headers</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-KERNEL-HEADERS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libffi</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-LIBFFI-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libgsm</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-LIBGSM-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libnfc-nxp</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-LIBNFC-NXP-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpcap</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-LIBPCAP-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libpng</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-LIBPNG-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libvpx</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-libvpx-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/libxml2</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-LIBXML2-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/mtpd</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-MTPD-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netcat</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-NETCAT-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/netperf</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-NETPERF-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/neven</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-NEVEN-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/nist-sip</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-NIST-SIP-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oauth</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-OAUTH-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/opencore</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-OPENCORE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/openssl</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-OPENSSL-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/oprofile</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-OPROFILE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ping</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-PING-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/ppp</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-PPP-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/proguard</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-PROGUARD-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/protobuf</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-PROTOBUF-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/qemu</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-QEMU-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/safe-iop</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SAFE-IOP-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SKIA-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/skia_asm</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SKIA_ASM-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sonivox</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-sonivox-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/speex</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-speex-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/sqlite</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SQLITE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/srec</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SREC-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/stlport</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-STLPORT-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/strace</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-STRACE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/svox</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SVOX-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tagsoup</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-tagsoup-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tcpdump</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-tcpdump-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tinyxml</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-tinyxml-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/tremolo</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-TREMOLO-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/v8</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-V8-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/webkit</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WEBKIT-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WPA_SUPPLICANT-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/wpa_supplicant_6</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WPA_SUPPLICANT_6-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/xmlwriter</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-XMLWRITER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/yaffs2</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-YAFFS2-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/zlib</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-ZLIB-DINT-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/frameworks1</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-FRAMEWORKS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/hardware</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-HARDWARE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/kernel</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-KERNEL-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/mediatek</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-MEDIATEK-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/ndk</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-NDK-DINT-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/AccountsAndSyncSettings</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-ACCOUNTSANDSYNCSETTINGS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Bluetooth</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BLUETOOTH-DINT-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/Browser</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BROWSER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calculator</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CALCULATOR-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Calendar</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CALENDAR-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Camera</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CAMERA-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CameraOpen</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CAMERAOPEN-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CellConnService</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CELLCONNSERVICE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/CertInstaller</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CERTINSTALLER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Contacts</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CONTACTS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DeskClock</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DESKCLOCK-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Email</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-EMAIL-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-GALLERY-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Gallery3D</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-GALLERY3D-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-HTMLViewer-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Launcher2</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-Launcher2-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Mms</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-MMS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Music</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-MUSIC-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-PACKAGEINSTALLER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Phone</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-PHONE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Protips</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-PROTIPS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Provision</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-Provision-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-QUICKSEARCHBOX-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Settings</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SETTINGS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SOUNDRECORDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SPEECHRECORDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Stk</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-STK-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/Tag</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-TAG-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-VOICEDIALER-DINT-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/experimental</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-EXPERIMENTAL-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-LATINIME-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-OPENWNN-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-APPLICATIONSPROVIDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CALENDARPROVIDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-CONTACTSPROVIDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DOWNLOADPROVIDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/DrmProvider</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DRMPROVIDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/GoogleContactsProvider</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-GOOGLECONTACTSPROVIDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/MediaProvider</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-MEDIAPROVIDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-TELEPHONYPROVIDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-USERDICTIONARYPROVIDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/Basic</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-BASIC-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-LIVEPICKER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-MAGICSMOKE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-MUSICVISUALIZATION-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/Basic</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WALLPAPERS_GLES20-BASIC-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/LivePicker</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WALLPAPERS_GLES20-LIVEPICKER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MagicSmoke</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WALLPAPERS_GLES20-MAGICSMOKE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/wallpapers_gles20/MusicVisualization</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-WALLPAPERS_GLES20-MUSICVISUALIZATION-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MMITest</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-MMITEST-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDALCATELHELP-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdLauncher</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDLAUNCHER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDEMAILFEEDBACK-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdFota</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDFOTA-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdApp2SDCard</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDAPP2SDCARD-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDPOWERSAVER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDSETUPWIZARD-DINT-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDTCLHELP-DINT-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/TrafficManager</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-TRAFFICMANAGER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/NotePad2</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-NOTEPAD2-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SYNCMLCLIENT-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdContainer</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDCONTAINER-DINT-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/APKInstallerHelper</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-APKINSTALLERHELPER-DINT-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/apps/UrlReservedApps</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-URLRESERVEDAPPS-DINT-P1.0</baseline>
+</project>
+
+<project>
+	<name>alps/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DRMAGENTPROVIDER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/DrmUtility</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DRMUTILITY-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/external/drmagent</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-DRMAGENT-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/SecureClock</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SECURECLOCK-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/MusicWidget</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-MUSICWIDGET-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-TCLWATCHDOG-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/O2Ideas</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-O2IDEAS-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDEMAILFEEDBACK-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/prebuilt</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-PREBUILT-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/sdk</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SDK-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/system</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-SYSTEM-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/vendor</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-VENDOR-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdSalesTracker</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDSALESTRACKER-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>tcl/packages/apps/JrdNotice</name>
+	<branch>refs/heads/pixo-v1.0-dint</branch>
+	<baseline>PIXO-JRDNOTICE-DINT-P1.0</baseline>
+</project>
+<project>
+	<name>alps/modem_mt6575m</name>
+	<branch>refs/heads/pixo-V31_F3_HSPA_L4</branch>
+	<baseline>PIXO-MODEM_MT6575M-DINT-P1.0</baseline>
+</project>
+</projects>

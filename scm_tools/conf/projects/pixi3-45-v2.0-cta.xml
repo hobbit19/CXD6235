@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>sdd1/mtk6572/abi</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-ABI-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/docs</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DOCS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/gdk</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-GDK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/libnativehelper</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LIBNATIVEHELPER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/bionic</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BIONIC-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/bootable</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BOOTABLE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/build</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BUILD-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/cts</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CTS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/libcore</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LIBCORE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/dalvik</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DALVIK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/development</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DEVELOPMENT-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/device</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DEVICE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/apache-http</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-APACHE-HTTP-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/astl</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-ASTL-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bison</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BISON-P3.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/external/blktrace</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BLKTRACE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bluetooth</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BLUETOOTH-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bouncycastle</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BOUNCYCASTLE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bsdiff</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BSDIFF-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/bzip2</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BZIP2-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/chromium</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CHROMIUM-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/chromium_org</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CHROMIUM-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dbus</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DBUS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dhcpcd</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DHCPCD-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dnsmasq</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DNSMASQ-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/dropbear</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DROPBEAR-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/e2fsprogs</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-E2FSPROGS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/easymock</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-EASYMOCK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/elfutils</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-ELFUTILS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/embunit</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-EMBUNIT-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/emma</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-EMMA-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/esd</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-esd-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/expat</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-EXPAT-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/fdlibm</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-FDLIBM-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/freetype</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-FREETYPE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/fsck_msdos</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-FSCK_MSDOS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/genext2fs</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-GENEXT2FS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/giflib</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-GIFLIB-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/grub</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-GRUB-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/gtest</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-GTEST-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/guava</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-GUAVA-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/icu4c</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-ICU4C-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/iproute2</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-IPROUTE2-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/ipsec-tools</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-IPSEC-TOOLS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/freetype</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-FREETYPE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/iptables</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-IPTABLES-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jdiff</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JDIFF-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jhead</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JHEAD-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jpeg</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JPEG-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/jsr305</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JSR305-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/junit</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JUNIT-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/kernel-headers</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-KERNEL-HEADERS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libffi</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LIBFFI-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libgsm</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LIBGSM-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libnfc-nxp</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LIBNFC-NXP-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libpcap</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LIBPCAP-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libpng</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LIBPNG-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libvpx</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-libvpx-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/libxml2</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LIBXML2-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/mtpd</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-MTPD-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/netcat</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-NETCAT-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/netperf</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-NETPERF-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/neven</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-NEVEN-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/nist-sip</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-NIST-SIP-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/oauth</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-OAUTH-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/openssl</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-OPENSSL-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/oprofile</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-OPROFILE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/ping</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-PING-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/ppp</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-PPP-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/proguard</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-PROGUARD-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/protobuf</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-PROTOBUF-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/qemu</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-QEMU-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/safe-iop</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SAFE-IOP-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/skia</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SKIA-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/sonivox</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-sonivox-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/speex</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-speex-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/sqlite</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SQLITE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/srec</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SREC-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/stlport</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-STLPORT-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/strace</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-STRACE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/svox</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SVOX-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tagsoup</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-tagsoup-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tcpdump</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-tcpdump-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tinyxml</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-tinyxml-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/tremolo</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-TREMOLO-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/v8</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-V8-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/webkit</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-WEBKIT-P3.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/external/wpa_supplicant_6</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-WPA_SUPPLICANT_6-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/xmlwriter</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-XMLWRITER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/yaffs2</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-YAFFS2-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/aac</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-AAC-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/android-mock</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-ANDROID-MOCK-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/ant-glob</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-ANT-GLOB-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/antlr</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-ANTLR-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/apache-harmony</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-APACHE-HARMONY-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/apache-xml</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-APACHE-XML-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/arduino</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-ARDUINO-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/checkpolicy</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-CHECKPOLICY-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/chromium-trace</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-CHROMIUM-TRACE-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/cibu-fonts</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-CIBU-FONTS-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/clang</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-CLANG-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/compiler-rt</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-COMPILER-RT-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/dexmaker</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-DEXMAKER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/doclava</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-DOCLAVA-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/eclipse-basebuilder</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-ECLIPSE-BASEBUILDER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/eclipse-windowbuilder</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-ECLIPSE-WINDOWBUILDER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/eyes-free</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-EYES-FREE-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/flac</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-FLAC-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/ganymed-ssh2</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-GANYMED-SSH2-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/gcc-demangle</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-GCC-DEMANGLE-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/google-diff-match-patch</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-GOOGLE-DIFF-MATCH-PATCH-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/hamcrest</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-HAMCREST-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/harfbuzz</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-HARFBUZZ-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/hyphenation</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-HYPHENATION-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/javasqlite</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-JAVASQLITE-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/javassist</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-JAVASSIST-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/jmdns</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-JMDNS-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/jmonkeyengine</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-JMONKEYENGINE-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/jsilver</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-JSILVER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libcap-ng</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBCAP-NG-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libifaddrs</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBIFADDRS-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/liblzf</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBLZF-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libmtp</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBMTP-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libnfc-nci</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBNFC-NCI-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libnfc-opennfc</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBNFC-OPENNFC-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libnl-headers</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBNL-HEADERS-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libogg</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBOGG-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libphonenumber</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBPHONENUMBER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libppp</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBPPP-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libselinux</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBSELINUX-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libsepol</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBSEPOL-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libunwind</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBUNWIND-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libusb-compat</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBUSB-COMPAT-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libvorbis</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBVORBIS-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libxslt</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBXSLT-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/libyuv</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LIBYUV-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/linux-tools-perf</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LINUX-TOOLS-PERF-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/littlemock</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LITTLEMOCK-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/llvm</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LLVM-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/lohit-fonts</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LOHIT-FONTS-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/markdown</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-MARKDOWN-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mdnsresponder</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-MDNSRESPONDER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mesa3d</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-MESA3D-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mksh</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-MKSH-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mockwebserver</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-MOCKWEBSERVER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/mp4parser</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-MP4PARSER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/naver-fonts</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-NAVER-FONTS-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/okhttp</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-OKHTTP-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/opencv</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-OPENCV-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/openfst</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-OPENFST-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/openssh</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-OPENSSH-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/ping6</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-PING6-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/qemu-pc-bios</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-QEMU-PC-BIOS-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/regex-re2</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-REGEX-RE2-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/replicaisland</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-REPLICAISLAND-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/sepolicy</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-SEPOLICY-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/smali</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-SMALI-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/srtp</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-SRTP-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/stressapptest</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-STRESSAPPTEST-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/tinyalsa</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-TINYALSA-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/tinyxml2</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-TINYXML2-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/valgrind</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-VALGRIND-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/webp</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-WEBP-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/webrtc</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-WEBRTC-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/wide-dhcpv6</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-WIDE-DHCPV6-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/xmp_toolkit</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-XMP_TOOLKIT-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/zxing</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-ZXING-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/wpa_supplicant_8</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-WPA_SUPPLICANT_8-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/external/zlib</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-ZLIB-P3.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/frameworks</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-FRAMEWORKS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/hardware</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-HARDWARE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/kernel</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-KERNEL-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mediatek</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-MEDIATEK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/ndk</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-NDK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Bluetooth</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BLUETOOTH-P3.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/packages/apps/Browser</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BROWSER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Calculator</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CALCULATOR-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Calendar</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CALENDAR-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Camera</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CAMERA-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/CertInstaller</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CERTINSTALLER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Contacts</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CONTACTS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CONTACTSCOMMON-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/DeskClock</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DESKCLOCK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/DeskClock</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DESKCLOCK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Email</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-EMAIL-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Gallery</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-GALLERY-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-HTMLViewer-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Launcher2</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-Launcher2-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Mms</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-MMS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Music</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-MUSIC-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-PACKAGEINSTALLER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Phone</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-PHONE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Protips</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-PROTIPS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Provision</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-Provision-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-QUICKSEARCHBOX-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Settings</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SETTINGS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SOUNDRECORDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SPEECHRECORDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Stk</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-STK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Tag</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-TAG-P3.0</baseline>
+</project>
+
+
+<project>
+	<name>sdd1/mtk6572/packages/apps/Camera2</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CAMERA2-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/DeviceTestApp</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DEVICETESTAPP-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Dialer</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DIALER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/InCallUI</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-INCALLUI-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/Launcher3</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LAUNCHER3-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-ONETIMEINITIALIZER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-PHONECOMMON-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-UNIFIEDEMAIL-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/services/Telephony</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-Telephony-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/experimental</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-EXPERIMENTAL-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LATINIME-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-OPENWNN-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-APPLICATIONSPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CALENDARPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-CONTACTSPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DOWNLOADPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/DrmProvider</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DRMPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/MediaProvider</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-MEDIAPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-TELEPHONYPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-USERDICTIONARYPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/Basic</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-BASIC-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LIVEPICKER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/MagicSmoke</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-MAGICSMOKE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/wallpapers/MusicVisualization</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-MUSICVISUALIZATION-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdMMITest</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDMMITEST-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/APKInstallerHelper</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-APKINSTALLERHELPER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/providers/DrmAgentProvider</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DRMAGENTPROVIDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/DrmUtility</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DRMUTILITY-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/drmagent</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DRMAGENT-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/inbidi</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-INBIDI-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/external/eigen</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-EIGEN-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/SecureClock</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SECURECLOCK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDEMAILFEEDBACK-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/CellBroadcastReceiver</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-CELLBROADCASTRECEIVER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/inputmethods/PinyinIME</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-PINYINIME-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/BasicSmsReceiver</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-BASICSMSRECEIVER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/Exchange</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-EXCHANGE-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/Gallery2</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-GALLERY2-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/KeyChain</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-KEYCHAIN-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/LegacyCamera</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-LEGACYCAMERA-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/MusicFX</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-MUSICFX-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/Nfc</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-NFC-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/SDKGallery</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-SDKGALLERY-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/SpareParts</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-SPAREPARTS-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/apps/VideoEditor</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-VIDEOEDITOR-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/providers/PartnerBookmarksProvider</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-PARTNERBOOKMARKSPROVIDER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/screensavers/Basic</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-BASIC-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/screensavers/PhotoTable</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-PHOTOTABLE-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/screensavers/WebView</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-WEBVIEW-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/Galaxy4</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-GALAXY4-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/HoloSpiral</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-HOLOSPIRAL-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/NoiseField</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-NOISEFIELD-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/packages/wallpapers/PhaseBeam</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-PHASEBEAM-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/pdk</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-PDK-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/mtk6572/tools</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-TOOLS-P3.0</baseline>
+</project>
+
+
+<project>
+	<name>sdd1/mtk6572/prebuilts</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-PREBUILTS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/sdk</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SDK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/system</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SYSTEM-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/vendor</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-VENDOR-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/modem</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-MODEM-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/liv</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LIV-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/wcustores</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-WCUSTORES-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-WLANGUAGE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/mtk6572_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-WPROCEDURES-P3.0</baseline>
+</project>
+
+<project>
+        <name>sdd1/tcl/packages/apps/JrdFileManagerEx</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-JRDFILEMANAGEREX-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/jrd/packages/apps/JrdUserCard</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-JRDUSERCARD-P3.0</baseline>
+</project>
+
+<project>
+        <name>sdd1/jrd/packages/apps/JrdUserCardService</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-JRDUSERCARDSERVICE-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/tcl/packages/apps/JrdLauncher</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-JRDLAUNCHER-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/tcl/packages/apps/JrdCamera</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-JRDCAMERA-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/tcl/packages/apps/JrdGallery</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-JRDGALLERY-P3.0</baseline>
+</project>
+<project>
+        <name>sdd1/jrd/packages/apps/UrlReservedApps</name>
+        <branch>refs/heads/pixi3-45-v2.0-cta</branch>
+        <baseline>PIXI3-45-CTA-URLRESERVEDAPPS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdSalesTracker</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDSALESTRACKER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/MusicWidget</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-MUSICWIDGET-P3.0</baseline>
+</project>
+
+
+<project>
+	<name>sdd1/tcl/packages/apps/JrdWorldClock</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDWORLDCLOCK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdPowerSaver</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDPOWERSAVER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSetupWizard</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDSETUPWIZARD-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdTCLHelp</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDTCLHELP-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdAlcatelHelp</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDALCATELHELP-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/TrafficManager</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-TRAFFICMANAGER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/NotePad2</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-NOTEPAD2-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/O2Ideas</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-O2IDEAS-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/mtk6572/packages/apps/VoiceDialer</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-VOICEDIALER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/SyncMLClient</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-SYNCMLCLIENT-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdFota</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDFOTA-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSdcardUpgrade</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDSDCARDUPGRADE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdContainer</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDCONTAINER-P3.0</baseline>
+</project> 
+<project>
+	<name>sdd1/tcl/packages/apps/JrdEmailFeedback</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDEMAILFEEDBACK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/TCLWatchDog</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-TCLWATCHDOG-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdApp2SDCard</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDAPP2SDCARD-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTorch</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDTORCH-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdDigitalClock</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDDIGITALCLOCK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTethering</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDTETHERING-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdDeskClock</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDDESKCLOCK-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdElabel</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDELABEL-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdWeather</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDWEATHER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTimeTool</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDTIMETOOL-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/FrequentContactsWidget</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-FREQUENTCONTACTSWIDGET-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/AnalogClockWidget</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-ANALOGCLOCKWIDGET-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/DigitalClockWidget</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-DIGITALCLOCKWIDGET-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSuperMode</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDSUPERMODE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/FrequentAppsWidget</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-FREQUENTAPPSWIDGET-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdPlugger</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDPLUGGER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdUserCenter</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDUSERCENTER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdUserCenterService</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDUSERCENTERSERVICE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/PanasonicSalesTracker</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-PANASONICSALESTRACKER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdWifiTransfer</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDWIFITRANSFER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdSoundRecorder</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDSOUNDRECORDER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdTest</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDTEST-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/AudioSafetyWarningReciever</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-AUDIOSAFETYWARRECIEVER-P3.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/tcl/packages/apps/JrdGuestMode</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDGUESTMODE-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdLockscreen</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDLOCKSCREEN-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/tcl/packages/apps/JrdWifiP2PTransfer</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDWIFIP2PTRANSFER-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdCBWidget</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDCBWIDGET-P3.0</baseline>
+</project>
+<project>
+	<name>sdd1/jrd/packages/apps/JrdWrapper</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDWRAPPER-P3.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/alps/version_babyd</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-VERSION_BABYD-P3.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/jrd/packages/apps/JrdTimeTool</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-JRDTIMETOOL-P3.0</baseline>
+</project>
+
+<project>
+	<name>sdd1/mtk6572/packages/apps/LinkTo</name>
+	<branch>refs/heads/pixi3-45-v2.0-cta</branch>
+	<baseline>PIXI3-45-CTA-LINKTO-P3.0</baseline>
+</project>
+
+
+</projects>

@@ -1,0 +1,4094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>qualcomm/jrd/vendor/aio_resources</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JRDVENDOR-AIORESOURCES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/jrd/vendor/foc_resource</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JRDVENDOR-FOCRESOURCE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/focd</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-AIO_FOCD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/apps</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/proprietary</name>
+	<branch>refs/heads/TCTROM-Q-CORE</branch>
+	<baseline>QM215-Q-SEOUL-PROPRIETARY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/aio_custom</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-AIO_CUSTOM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/bluetooth</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TCL-BLUETOOTH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/build</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TCL-BUILD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/frameworks</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TCL-FRAMEWORKS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/hardware</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HARDWARE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/nfc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TCL-NFC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/overlay</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OVERLAY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/packages</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PACKAGES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/qualcomm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QUALCOMM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>TCTROM/tcl/system</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SYSTEM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/vendor/partner_gms</name>
+	<branch>refs/heads/aosp-q-v3.0-tctrom</branch>
+	<baseline>QM215-Q-SEOUL-PARTNER_GMS-P3.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/amlogic/yukawa</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-YUKAWA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/amlogic/yukawa-kernel</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-YUKAWA-KERNEL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/common</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DEVICE-COMMON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/arm64</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ARM64-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ARMV7-A-NEON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/car</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GENERIC-CAR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/common</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GENERIC-COMMON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/goldfish</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOLDFISH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOLDFISH-OPENGL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/lionhead</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIONHEAD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MINI-EMULATOR-ARM64-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MINI-EMULATOR-ARMV7-A-NEON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MINI-EMULATOR-X86-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MINI-EMULATOR-X86_64-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/opengl-transport</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OPENGL-TRANSPORT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/qemu</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QEMU-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/trusty</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TRUSTY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/uml</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-UML-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/x86</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-X86-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/generic/x86_64</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-X86_64-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/atv</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ATV-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/contexthub</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CONTEXTHUB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CUTTLEFISH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_common</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CUTTLEFISH_COMMON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_kernel</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CUTTLEFISH_KERNEL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlefish_vmm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CUTTLEFISH_VMM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/cuttlestone</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CUTTLESTONE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/google/vrservices</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VRSERVICES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/linaro/poplar</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-POPLAR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/linaro/poplar-kernel</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-POPLAR-KERNEL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/mediatek/makefile-parser-hooker</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MAKEFILE-PARSER-HOOKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/qcom/common</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-COMMON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/qcom/qssi</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QSSI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/qcom/sepolicy</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-SEPOLICY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/device/sample</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SAMPLE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/OMADM_USCC</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OMADMUSCC-CTS-P1.0</baseline>
+</project>
+
+<project>
+	<name>qualcomm/jrd/packages/apps/FunctionSys</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FUNCTIONSYS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/jrd/packages/apps/MMITest</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MMITEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/jrd/packages/apps/MMIVendor</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MMIVENDOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/jrd/vendor/jrdcom</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JRDCOM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/configs</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CONFIGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/lk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/msm-4.9</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MSM-4.9-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/kernel/tests</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-KERNEL-TESTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/nonhlos_2018_spf2.0</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NONHLOS_2018_SPF2.0-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/art</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ART-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/bionic</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BIONIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/bootable/recovery</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RECOVERY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PLATFORM-BUILD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/blueprint</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BLUEPRINT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/kati</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-KATI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/build/soong</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SOONG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/compatibility/cdd</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CDD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/cts</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/dalvik</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DALVIK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/developers/build</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DEVELOPERS-BUILD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/development</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DEVELOPMENT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ARMComputeLibrary</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ARMCOMPUTELIBRARY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ImageMagick</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-IMAGEMAGICK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/Microsoft-GSL</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MICROSOFT-GSL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/Reactive-Extensions/RxCpp</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RXCPP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/aac</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-AAC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/adeb</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ADEB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/adhd</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ADHD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/adt-infra</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ADT-INFRA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/android-clat</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ANDROID-CLAT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/androidplot</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ANDROIDPLOT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-glob</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ANT-GLOB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ANT_NATIVE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ANT_SERVICE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/antlr</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ANTLR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-bcel</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APACHE-COMMONS-BCEL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-compress</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APACHE-COMMONS-COMPRESS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-commons-math</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APACHE-COMMONS-MATH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-harmony</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APACHE-HARMONY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-http</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APACHE-HTTP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/apache-xml</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APACHE-XML-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/archive-patcher</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ARCHIVE-PATCHER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/arm-optimized-routines</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ARM-OPTIMIZED-ROUTINES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/autotest</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-AUTOTEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/avb</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-AVB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bcc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BCC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/blktrace</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BLKTRACE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/boringssl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BORINGSSL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bouncycastle</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BOUNCYCASTLE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/brotli</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BROTLI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bsdiff</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BSDIFF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/bzip2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BZIP2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/caliper</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CALIPER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/capstone</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CAPSTONE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/catch2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CATCH2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cblas</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CBLAS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-libpac</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CHROMIUM-LIBPAC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-trace</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CHROMIUM-TRACE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/chromium-webview</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CHROMIUM-WEBVIEW-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/clang</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CLANG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cldr</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CLDR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cmockery</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CMOCKERY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cn-cbor</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CN-CBOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/compiler-rt</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-COMPILER-RT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/conscrypt</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CONSCRYPT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/crcalc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CRCALC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/cros/system_api</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SYSTEM_API-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/curl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CURL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dagger2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DAGGER2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DEQP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/SPIRV-Headers</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DEQP-DEPS-SPIRV-HEADERS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/SPIRV-Tools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SPIRV-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/deqp-deps/glslang</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GLSLANG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/desugar</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DESUGAR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dexmaker</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DEXMAKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dlmalloc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DLMALLOC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dng_sdk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DNG_SDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dnsmasq</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DNSMASQ-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/doclava</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DOCLAVA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dokka</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DOKKA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/drm_hwcomposer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DRM_HWCOMPOSER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/droiddriver</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DROIDDRIVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/drrickorang</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DRRICKORANG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dtc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DTC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/dynamic_depth</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DYNAMIC_DEPTH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/e2fsprogs</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-E2FSPROGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/easymock</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EASYMOCK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/eigen</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EIGEN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/elfutils</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ELFUTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/emma</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EMMA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/epid-sdk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EPID-SDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/error_prone</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ERROR_PRONE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/expat</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EXPAT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/f2fs-tools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-F2FS-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fdlibm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FDLIBM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fec</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FEC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/flac</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FLAC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/flatbuffers</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FLATBUFFERS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fonttools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FONTTOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/freetype</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FREETYPE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fsck_msdos</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FSCK_MSDOS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/fsverity-utils</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FSVERITY-UTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gemmlowp</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GEMMLOWP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gflags</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GFLAGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/giflib</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GIFLIB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/glide</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GLIDE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/golang-protobuf</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOLANG-PROTOBUF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-benchmark</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-BENCHMARK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-breakpad</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-BREAKPAD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/arbutus-slab</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ARBUTUS-SLAB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/arvo</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ARVO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CARROIS-GOTHIC-SC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-COMING-SOON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CUTIVE-MONO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DANCING-SCRIPT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/lato</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LATO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/rubik</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RUBIK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/source-sans-pro</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SOURCE-SANS-PRO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fonts/zilla-slab</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ZILLA-SLAB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-fruit</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-FRUIT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/google-styleguide</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-STYLEGUIDE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/googletest</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLETEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/gptfdisk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GPTFDISK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/grpc-grpc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GRPC-GRPC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/grpc-grpc-java</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GRPC-GRPC-JAVA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/guava</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GUAVA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/guice</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GUICE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/hamcrest</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HAMCREST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/harfbuzz_ng</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HARFBUZZ_NG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/honggfuzz</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HONGGFUZZ-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/hyphenation-patterns</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HYPHENATION-PATTERNS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/icu</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ICU-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/image_io</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-IMAGE_IO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ims</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EXTERNAL-IMS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iperf3</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-IPERF3-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iproute2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-IPROUTE2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ipsec-tools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-IPSEC-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iptables</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-IPTABLES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iputils</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-IPUTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/iw</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-IW-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jacoco</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JACOCO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jarjar</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JARJAR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javaparser</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JAVAPARSER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javapoet</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JAVAPOET-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/javasqlite</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JAVASQLITE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jcommander</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JCOMMANDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jdiff</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JDIFF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jemalloc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JEMALLOC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jemalloc_new</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JEMALLOC_NEW-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jline</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JLINE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsilver</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JSILVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsmn</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JSMN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/json-c</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JSON-C-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsoncpp</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JSONCPP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsr305</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JSR305-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/jsr330</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JSR330-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/junit</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JUNIT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/junit-params</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JUNIT-PARAMS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kernel-headers</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-KERNEL-HEADERS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kmod</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-KMOD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/kotlinc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-KOTLINC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ksoap2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-KSOAP2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libaom</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBAOM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libavc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBAVC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libbackup</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBBACKUP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libbrillo</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBBRILLO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcap</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBCAP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcap-ng</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBCAP-NG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libchrome</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBCHROME-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcups</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBCUPS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcxx</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBCXX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libcxxabi</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBCXXABI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdaemon</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBDAEMON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdivsufsort</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBDIVSUFSORT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libdrm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBDRM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libese</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBESE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libevent</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBEVENT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libexif</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBEXIF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libffi</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBFFI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libgsm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBGSM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libhevc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBHEVC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libjpeg-turbo</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBJPEG-TURBO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libkmsxx</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBKMSXX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libldac</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBLDAC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libmpeg2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBMPEG2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libmtp</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBMTP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBNETFILTER_CONNTRACK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnfnetlink</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBNFNETLINK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libnl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBNL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libogg</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBOGG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libopus</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBOPUS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libpcap</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBPCAP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libphonenumber</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBPHONENUMBER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libpng</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBPNG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libprotobuf-mutator</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBPROTOBUF-MUTATOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libtextclassifier</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBTEXTCLASSIFIER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libunwind</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBUNWIND-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libunwind_llvm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBUNWIND_LLVM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libusb</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBUSB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libusb-compat</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBUSB-COMPAT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libutf</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBUTF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libvpx</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBVPX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libvterm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBVTERM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxaac</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBXAAC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxcam</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBXCAM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxkbcommon</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBXKBCOMMON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libxml2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBXML2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/libyuv</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBYUV-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/linux-kselftest</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LINUX-KSELFTEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/llvm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LLVM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lmfit</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LMFIT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ltp</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LTP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lua</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LUA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lz4</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LZ4-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/lzma</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LZMA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/markdown</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MARKDOWN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mdnsresponder</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MDNSRESPONDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mesa3d</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MESA3D-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/minigbm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MINIGBM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/minijail</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MINIJAIL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mksh</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MKSH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockftpserver</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MOCKFTPSERVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockito</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MOCKITO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mockwebserver</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MOCKWEBSERVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/modp_b64</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MODP_B64-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mp4parser</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MP4PARSER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/mtpd</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MTPD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nanohttpd</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NANOHTTPD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nanopb-c</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NANOPB-C-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/naver-fonts</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NAVER-FONTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/neon_2_sse</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NEON_2_SSE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/neven</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NEVEN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/newfs_msdos</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NEWFS_MSDOS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nfacct</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NFACCT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nist-pkits</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NIST-PKITS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/nist-sip</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NIST-SIP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/noto-fonts</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NOTO-FONTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/oauth</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OAUTH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/objenesis</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OBJENESIS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/oj-libjdwp</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OJ-LIBJDWP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/okhttp</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OKHTTP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/one-true-awk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ONE-TRUE-AWK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/opencensus-java</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OPENCENSUS-JAVA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/openssh</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OPENSSH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/owasp/sanitizer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SANITIZER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/parameter-framework</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PARAMETER-FRAMEWORK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/pcre</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PCRE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/pdfium</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PDFIUM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/perf_data_converter</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PERF_DATA_CONVERTER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/perfetto</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PERFETTO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/piex</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PIEX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ply</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EXTERNAL-PLY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ppp</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PPP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/proguard</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROGUARD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/protobuf</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EXTERNAL-PROTOBUF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/protobuf-javalite</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROTOBUF-JAVALITE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/puffin</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PUFFIN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/Pillow</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PILLOW-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/apitools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APITOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/appdirs</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPDIRS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/asn1crypto</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ASN1CRYPTO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/atomicwrites</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ATOMICWRITES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/attrs</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ATTRS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cachetools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CACHETOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cffi</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CFFI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cpython2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CPYTHON2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cpython3</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CPYTHON3-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/cryptography</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CRYPTOGRAPHY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/dateutil</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DATEUTIL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/dill</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DILL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/enum</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ENUM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/enum34</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ENUM34-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/funcsigs</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FUNCSIGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/future</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FUTURE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/futures</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FUTURES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/gapic-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GAPIC-GOOGLE-CLOUD-PUBSUB-V1-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-api-python-client</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-API-PYTHON-CLIENT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-auth</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-AUTH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-auth-httplib2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-AUTH-HTTPLIB2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-cloud-core</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-CLOUD-CORE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-cloud-pubsub</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-CLOUD-PUBSUB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/google-gax</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-GAX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/googleapis</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLEAPIS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/grpc-google-iam-v1</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GRPC-GOOGLE-IAM-V1-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/grpcio</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GRPCIO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/httplib2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HTTPLIB2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/matplotlib</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MATPLOTLIB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/mock</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MOCK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/more-itertools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MORE-ITERTOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/numpy</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NUMPY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/oauth2client</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OAUTH2CLIENT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/olefile</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OLEFILE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/packaging</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PACKAGING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/parse</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PARSE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pluggy</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PLUGGY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/ply</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PYTHON-PLY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/proto-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROTO-GOOGLE-CLOUD-PUBSUB-V1-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/protobuf</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PYTHON-PROTOBUF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/py</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyasn1</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PYASN1-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyasn1-modules</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PYASN1-MODULES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pycparser</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PYCPARSER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyopenssl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PYOPENSSL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pyparsing</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PYPARSING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/pytest</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PYTEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/requests</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-REQUESTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/rsa</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RSA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/scipy</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SCIPY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/setuptools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SETUPTOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/six</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SIX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/python/uritemplates</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-URITEMPLATES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rapidjson</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RAPIDJSON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rappor</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RAPPOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/replicaisland</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-REPLICAISLAND-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rmi4utils</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RMI4UTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/robolectric</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ROBOLECTRIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/robolectric-shadows</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ROBOLECTRIC-SHADOWS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/roboto-fonts</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ROBOTO-FONTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/rootdev</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ROOTDEV-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/scapy</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SCAPY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/scrypt</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SCRYPT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/seccomp-tests</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SECCOMP-TESTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/selinux</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SELINUX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/setupcompat</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SETUPCOMPAT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/setupdesign</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SETUPDESIGN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sfntly</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SFNTLY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/shaderc/spirv-headers</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SHADERC-SPIRV-HEADERS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/shflags</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SHFLAGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/skia</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SKIA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sl4a</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SL4A-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/slf4j</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SLF4J-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/smali</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SMALI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/snakeyaml</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SNAKEYAML-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sonic</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SONIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sonivox</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SONIVOX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/speex</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SPEEX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/spirv-llvm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SPIRV-LLVM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/sqlite</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SQLITE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/squashfs-tools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SQUASHFS-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/strace</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-STRACE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/stressapptest</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-STRESSAPPTEST-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/subsampling-scale-image-view</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SUBSAMPLING-SCALE-IMAGE-VIEW-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/swiftshader</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SWIFTSHADER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/syzkaller</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SYZKALLER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tagsoup</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TAGSOUP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tcpdump</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TCPDUMP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tensorflow</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TENSORFLOW-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/testng</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TESTNG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyalsa</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TINYALSA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinycompress</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TINYCOMPRESS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyxml</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TINYXML-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tinyxml2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TINYXML2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/toybox</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TOYBOX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/tremolo</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TREMOLO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/turbine</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TURBINE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/u-boot</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-U-BOOT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/ukey2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-UKEY2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/unicode</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-UNICODE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/v4l2_codec2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-V4L2_CODEC2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/v8</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-V8-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vboot_reference</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VBOOT_REFERENCE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/virglrenderer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VIRGLRENDERER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vixl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VIXL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vogar</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VOGAR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/volley</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VOLLEY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vulkan-headers</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VULKAN-HEADERS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/vulkan-validation-layers</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VULKAN-VALIDATION-LAYERS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/walt</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WALT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wayland</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WAYLAND-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wayland-protocols</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WAYLAND-PROTOCOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/webp</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WEBP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/webrtc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WEBRTC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wpa_supplicant_8</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WPA_SUPPLICANT_8-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/wycheproof</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WYCHEPROOF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xmp_toolkit</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-XMP_TOOLKIT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xz-embedded</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-XZ-EMBEDDED-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/xz-java</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-XZ-JAVA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/yapf</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-YAPF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zlib</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ZLIB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zopfli</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ZOPFLI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/external/zxing</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ZXING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/av</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FRAMEWORKS-AV-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/base</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BASE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/libbcc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBBCC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/mclinker</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MCLINKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/compile/slang</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SLANG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/ex</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HARDWARE-INTERFACES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/layoutlib</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LAYOUTLIB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/minikin</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MINIKIN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/ml</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ML-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/multidex</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MULTIDEX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/native</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NATIVE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/bitmap</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BITMAP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/calendar</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OPT-CALENDAR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/car/services</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SERVICES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/car/setupwizard</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CAR-SETUPWIZARD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/chips</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CHIPS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-COLORPICKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DATETIMEPICKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ETHERNET-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ike</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-IKE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/ims</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NET-IMS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/voip</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VOIP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WIFI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PHOTOVIEWER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OPT-SETUPWIZARD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/telephony</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OPT-TELEPHONY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TIMEZONEPICKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/opt/vcard</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VCARD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/rs</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/frameworks/wilhelm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WILHELM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/apf</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/av</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-AV-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/easel</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EASEL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/google/interfaces</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE-INTERFACES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/interfaces</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HARDWARE-INTERFACES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/libhardware</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBHARDWARE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/libhardware_legacy</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBHARDWARE_LEGACY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/nxp/nfc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NXP-NFC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/nxp/secure_element</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SECURE_ELEMENT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/audio</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-AUDIO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BOOTCTRL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/camera</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CAMERA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/display</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-DISPLAY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/gps</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-GPS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/media</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-MEDIA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/thermal</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-THERMAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/vr</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/qcom/wlan</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-WLAN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/ril</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RIL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/hardware/ti/am57x</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-AM57X-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/libcore</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBCORE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/libnativehelper</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBNATIVEHELPER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BASICSMSRECEIVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Bluetooth</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPS-BLUETOOTH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Browser2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BROWSER2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Calendar</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPS-CALENDAR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Camera2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CAMERA2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Cluster</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CLUSTER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CAR-DIALER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HVAC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CAR-LATINIME-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Launcher</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LAUNCHER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LENSPICKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LinkViewer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LINKVIEWER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LOCALMEDIAPLAYER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Media</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CAR-MEDIA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MESSENGER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Notification</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NOTIFICATION-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Overview</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OVERVIEW-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Radio</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RADIO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Settings</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CAR-SETTINGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/Stream</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-STREAM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SYSTEMUPDATER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/externallibs</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EXTERNALLIBS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/libs</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Car/tests</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CAR-TESTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CARRIERCONFIG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CELLBROADCASTRECEIVER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/CertInstaller</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CERTINSTALLER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Contacts</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CONTACTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DeskClock</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DESKCLOCK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DevCamera</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DEVCAMERA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Dialer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPS-DIALER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DOCUMENTSUI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Email</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EMAIL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EMERGENCYINFO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Gallery</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GALLERY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Gallery2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GALLERY2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HTMLVIEWER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/KeyChain</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-KEYCHAIN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Launcher3</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LAUNCHER3-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LEGACYCAMERA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MANAGEDPROVISIONING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Messaging</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MESSAGING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Mms</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPS-MMS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Music</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MUSIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/MusicFX</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MUSICFX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Nfc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPS-NFC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ONETIMEINITIALIZER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PACKAGEINSTALLER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PHONECOMMON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Protips</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROTIPS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Provision</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROVISION-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QUICKSEARCHBOX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SAFETYREGULATORYINFO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SampleLocationAttribution</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SAMPLELOCATIONATTRIBUTION-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SecureElement</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SECUREELEMENT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Settings</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPS-SETTINGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SettingsIntelligence</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SETTINGSINTELLIGENCE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SNAPDRAGONCAMERA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonGallery</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SNAPDRAGONGALLERY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SnapdragonMusic</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SNAPDRAGONMUSIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPS-SOUNDRECORDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/SpareParts</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SPAREPARTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Stk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-STK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/StorageManager</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-STORAGEMANAGER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TV</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TV-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Tag</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TAG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Terminal</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TERMINAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TEST-CONNECTIVITY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/ThemePicker</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-THEMEPICKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TIMEZONEDATA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TIMEZONEUPDATER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/Traceur</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TRACEUR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/TvSettings</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TVSETTINGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-UNIFIEDEMAIL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WALLPAPERPICKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/apps/WallpaperPicker2</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WALLPAPERPICKER2-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-INPUTMETHODS-LATINIME-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/CaptivePortalLogin</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CAPTIVEPORTALLOGIN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/ExtServices</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EXTSERVICES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/ModuleMetadata</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MODULEMETADATA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/NetworkPermissionConfig</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NETWORKPERMISSIONCONFIG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/modules/NetworkStack</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NETWORKSTACK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPLICATIONSPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BLOCKEDNUMBERPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BOOKMARKPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CALENDARPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CALLLOGPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CONTACTSPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DOWNLOADPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/MediaProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MEDIAPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PARTNERBOOKMARKSPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TELEPHONYPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/TvProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TVPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-USERDICTIONARYPROVIDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/screensavers/Basic</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BASIC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PHOTOTABLE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/AlternativeNetworkAccess</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ALTERNATIVENETWORKACCESS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BUILTINPRINTSERVICE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Car</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SERVICES-CAR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Mms</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SERVICES-MMS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Telecomm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TELECOMM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/services/Telephony</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SERVICES-TELEPHONY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIVEPICKER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/pdk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/platform_testing</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PLATFORM_TESTING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ABI-DUMPS-NDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ABI-DUMPS-VNDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/android-emulator</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ANDROID-EMULATOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/asuite</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PREBUILTS-ASUITE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/build-tools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BUILD-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/bundletool</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BUNDLETOOL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/checkcolor</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CHECKCOLOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/checkstyle</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CHECKSTYLE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/clang-tools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CLANG-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HOST-LINUX-X86-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/devtools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DEVTOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/fuchsia_sdk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FUCHSIA_SDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-AARCH64-LINUX-ANDROID-4.9-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ARM-EABI-4.8-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ARM-LINUX-ANDROIDEABI-4.9-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-X86_64-LINUX-GLIBC2.17-4.8-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-X86_64-W64-MINGW32-4.8-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-X86_64-LINUX-ANDROID-4.9-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GDB-LINUX-X86-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GO-LINUX-X86-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GRADLE-PLUGIN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JDK8-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/jdk/jdk9</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JDK9-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/ktlint</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-KTLINT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/manifest-merger</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MANIFEST-MERGER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ANDROID-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BUMPTECH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/misc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MISC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/ndk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PREBUILTS-NDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-2.7.5-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QEMU-KERNEL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/r8</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-R8-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/sdk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PREBUILTS-SDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/tools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PREBUILTS-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/vndk/v27</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-V27-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/prebuilts/vndk/v28</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-V28-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/sdk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PLATFORM-SDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/apex</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APEX-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ashmemd</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ASHMEMD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bpf</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BPF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bpfprogs</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BPFPROGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/bt</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SYSTEM-BT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ca-certificates</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CA-CERTIFICATES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/chre</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CHRE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/connectivity/wificond</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WIFICOND-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/connectivity/wifilogd</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WIFILOGD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/core</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CORE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/extras</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-EXTRAS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/gatekeeper</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GATEKEEPER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/gsid</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GSID-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/hardware/interfaces</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HARDWARE-INTERFACES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/hwservicemanager</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HWSERVICEMANAGER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/iorap</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-IORAP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/keymaster</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-KEYMASTER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libfmq</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBFMQ-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libhidl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBHIDL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libhwbinder</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBHWBINDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libsysprop</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBSYSPROP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libufdt</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBUFDT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/libvintf</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBVINTF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/linkerconfig</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LINKERCONFIG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/media</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SYSTEM-MEDIA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/netd</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NETD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/nfc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SYSTEM-NFC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/nvram</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NVRAM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/qcom</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/security</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SYSTEM-SECURITY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/sepolicy</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SYSTEM-SEPOLICY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/server_configurable_flags</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SERVER_CONFIGURABLE_FLAGS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/testing/gtest_extras</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GTEST_EXTRAS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/timezone</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TIMEZONE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/aidl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-AIDL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/hidl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HIDL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/sysprop</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SYSPROP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/tools/xsdc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-XSDC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/ucontainer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-UCONTAINER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/update_engine</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-UPDATE_ENGINE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/system/vold</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VOLD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/framework</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FRAMEWORK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/mlts/benchmark</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BENCHMARK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/mlts/models</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MODELS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/sts</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-STS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/suite_harness</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SUITE_HARNESS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/alert</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ALERT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/dashboard</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DASHBOARD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/fuzz_test_serving</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FUZZ_TEST_SERVING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vti/test_serving</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TEST_SERVING-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FUZZ-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/hal</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HAL-TRACE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/kernel</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-KERNEL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/nbu</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NBU-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/performance</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PERFORMANCE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/security</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VTS-TESTCASE-SECURITY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/test/vts-testcase/vndk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VTS-TESTCASE-VNDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/acloud</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ACLOUD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/apksig</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APKSIG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/apkzlib</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APKZLIB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/asuite</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TOOLS-ASUITE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/currysrc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CURRYSRC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/dexter</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DEXTER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/loganalysis</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LOGANALYSIS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/metalava</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-METALAVA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/ndkports</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NDKPORTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/repohooks</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-REPOHOOKS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/security</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TOOLS-SECURITY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/test/connectivity</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TEST-CONNECTIVITY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/test/graphicsbenchmark</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GRAPHICSBENCHMARK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/tradefederation</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TRADEFEDERATION-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/tradefederation/contrib</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CONTRIB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/trebuchet</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TREBUCHET-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/tools/vendor/google_prebuilts/arc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ARC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/codeaurora/packages/apps/Dialer</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPS-DIALER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/codeaurora/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPS-SOUNDRECORDER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/codeaurora/telephony</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CODEAURORA-TELEPHONY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/google_vts</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GOOGLE_VTS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/jrdtools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-JRDTOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/interfaces/opensource/nfc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OPENSOURCE-NFC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/external/libnfc-nci</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LIBNFC-NCI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/frameworks</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-OPENSOURCE-FRAMEWORKS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/halimpl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HALIMPL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/hidlimpl</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HIDLIMPL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/nxp/opensource/packages/apps/Nfc</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-APPS-NFC-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/opensource/audio-kernel</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-AUDIO-KERNEL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/audio</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-OPENSOURCE-AUDIO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/bluetooth</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-OPENSOURCE-BLUETOOTH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/bluetooth-commonsys-intf</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BLUETOOTH-COMMONSYS-INTF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/bluetooth_ext</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-BLUETOOTH_EXT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/core-utils</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CORE-UTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/cryptfs_hw</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CRYPTFS_HW-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/data-ipa-cfg-mgr</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DATA-IPA-CFG-MGR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dataservices</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DATASERVICES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dataservices-commonsys</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DATASERVICES-COMMONSYS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dpm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DPM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/dpm-commonsys</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DPM-COMMONSYS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/fm-commonsys</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FM-COMMONSYS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/fst-manager</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FST-MANAGER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/healthd-ext</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-HEALTHD-EXT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/interfaces</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-OPENSOURCE-INTERFACES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/location</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LOCATION-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/mmc-utils</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MMC-UTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/power</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-POWER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/recovery-ext</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RECOVERY-EXT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/shortcut-fe</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SHORTCUT-FE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/system/bt</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SYSTEM-BT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/thermal-engine</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-OPENSOURCE-THERMAL-ENGINE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/time-services</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-OPENSOURCE-TIME-SERVICES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/tools</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-OPENSOURCE-TOOLS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/usb</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-USB-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wigig</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-OPENSOURCE-WIGIG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/prima</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PRIMA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom-opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SIGMA-DUT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/ferrum</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FERRUM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/msm8909go</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MSM8909GO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/msm8937_32go</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MSM8937_32GO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/android-perf</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ANDROID-PERF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/bluetooth</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROPRIETARY-BLUETOOTH-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/cne</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CNE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/common</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROPRIETARY-COMMON-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/commonsys</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-COMMONSYS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/commonsys-intf</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-COMMONSYS-INTF-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/configstore</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CONFIGSTORE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/coretech-config-vendor</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CORETECH-CONFIG-VENDOR-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/cv</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-CV-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/data</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DATA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/diag</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DIAG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/display</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROPRIETARY-DISPLAY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/dspservices_ship</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-DSPSERVICES_SHIP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/fastmmi</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FASTMMI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/fm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ftm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FTM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/fwk-utils</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-FWK-UTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/gps</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROPRIETARY-GPS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/gps-release</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-GPS-RELEASE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ims-ship</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-IMS-SHIP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/interfaces</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROPRIETARY-INTERFACES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/llvm-arm-toolchain-ship</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-LLVM-ARM-TOOLCHAIN-SHIP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mdm-helper</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MDM-HELPER-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MM-AUDIO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio-auto-cal</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MM-AUDIO-AUTO-CAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio-cal</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MM-AUDIO-CAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-audio-external</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MM-AUDIO-EXTERNAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-camera</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MM-CAMERA-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-camerasdk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MM-CAMERASDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-core</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MM-CORE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-still</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MM-STILL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-video</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MM-VIDEO-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/mm-video-utils</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-MM-VIDEO-UTILS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/nqnfc-firmware</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-NQNFC-FIRMWARE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/prebuilt_HY11</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PREBUILT_HY11-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCRIL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-data-hal</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCRIL-DATA-HAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-hal</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCRIL-HAL-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-qmi-services</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCRIL-QMI-SERVICES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qcril-qmi-services-headers</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCRIL-QMI-SERVICES-HEADERS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qdssagent</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QDSSAGENT-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qmi</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QMI-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qmi-framework</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QMI-FRAMEWORK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/qrdplus</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QRDPLUS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/remotefs</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-REMOTEFS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/resource-overlay</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-RESOURCE-OVERLAY-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/securemsm</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SECUREMSM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/sensors</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SENSORS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ss-restart</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SS-RESTART-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ss-services</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SS-SERVICES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/telephony-apps</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TELEPHONY-APPS-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/thermal-engine</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROPRIETARY-THERMAL-ENGINE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/time-services</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROPRIETARY-TIME-SERVICES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/ultrasound</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-ULTRASOUND-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/vpp</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VPP-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/wfd</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-WFD-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/wigig</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROPRIETARY-WIGIG-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/proprietary/wlan</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PROPRIETARY-WLAN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/skunk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-SKUNK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/thorium_32</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-THORIUM_32-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/thorium_64</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-THORIUM_64-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/thulium</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-THULIUM-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/titanium_32</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TITANIUM_32-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/titanium_64</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TITANIUM_64-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/platform/vendor/qcom/wlan</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-QCOM-WLAN-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/tct/rom/tct-sdk</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-TCT-SDK-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/toolchain/pgo-profiles</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-PGO-PROFILES-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>qualcomm/version</name>
+	<branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+	<baseline>QM215-Q-SEOUL-VERSION-CTS-P1.0</baseline>
+</project>
+<project>
+        <name>qualcomm/tcl/msm8937_32</name>
+        <branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+        <baseline>QM215-Q-SEOUL-TCL-MSM8937_32-CTS-P1.0</baseline>
+</project>
+<project>
+        <name>tcl/hz_wlanguage</name>
+        <branch>refs/heads/androidhz_Q</branch>
+        <baseline>QM215-Q-HZ-WLANGUAGE-CTS-P1.0</baseline>
+</project>
+<project>
+        <name>qualcomm/platform/vendor/widevine</name>
+        <branch>refs/heads/qm215-q-seoul-v1.0-GoogleCertificate</branch>
+        <baseline>QM215-Q-SEOUL-WIDEVINE-CTS-P1.0</baseline>
+</project>
+</projects>

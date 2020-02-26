@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>mtk6739/vendor/tcl</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-VENDOR-TCL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/abi</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/art</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ART-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/bionic</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/bootable</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/build</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/ccu_tool</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CCU_TOOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/cts</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/dalvik</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/developers</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/development</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/device</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DEVICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/docs</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DOCS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ImageMagick</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-IMAGEMAGICK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/aac</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/android-clat</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/androidplot</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ant-glob</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/antlr</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/apache-commons-math</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/apache-harmony</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/apache-http</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/apache-xml</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/archive-patcher</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ARCHIVE-PATCHER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/autotest</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-AUTOTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/avahi</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-AVAHI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bison</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/blktrace</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/boringssl</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bouncycastle</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bsdiff</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/bzip2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/c-ares</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-C-ARES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/caliper</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CALIPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/cblas</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ceres-solver</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/chromium-libpac</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/chromium-trace</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/chromium-webview</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/clang</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EXTERNAL-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/cmockery</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/compiler-rt</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/conscrypt</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/crcalc</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/cros</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CROS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/curl</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CURL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dagger2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DAGGER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dbus</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DBUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dbus-binding-generator</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DBUS-BINDING-GENERATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/deqp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EXTERNAL-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dexmaker</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DHCPCD-6.8.2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dlmalloc</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DLMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dng_sdk</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DNG_SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/dnsmasq</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/doclava</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/donuts</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DONUTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/drm_gralloc</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DRM_GRALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/drm_hwcomposer</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/droiddriver</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/e2fsprogs</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/easymock</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/eclipse-basebuilder</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/eigen</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/elfutils</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/emma</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/esd</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/expat</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/eyes-free</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/f2fs-tools</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fdlibm</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fec</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-FEC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fio</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/flac</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fonttools</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/freetype</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/fsck_msdos</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/gemmlowp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GEMMLOWP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/giflib</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/glide</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/gmock</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/google-benchmark</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GOOGLE-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/google-breakpad</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/google-fonts</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/gptfdisk</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/gtest</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/guava</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/guice</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GUICE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/hamcrest</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/harfbuzz_ng</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/hyphenation-patterns</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/icu</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ims</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/iproute2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ipsec-tools</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/iptables</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/iputils</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/iw</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-IW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jacoco</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JACOCO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jarjar</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/javasqlite</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/javassist</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jcommander</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JCOMMANDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jdiff</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jemalloc</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jetty</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JETTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jhead</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jmdns</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsilver</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsmn</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsoncpp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsr305</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/jsr330</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JSR330-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/junit</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/kernel-headers</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ksoap2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libavc</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libbrillo</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBBRILLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcap</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcap-ng</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libchrome</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBCHROME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcxx</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libcxxabi</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libdaemon</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBDAEMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libdivsufsort</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBDIVSUFSORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libdrm</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libedit</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libevent</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBEVENT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libexif</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libgdx</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBGDX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libgsm</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libhevc</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libjpeg-turbo</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBJPEG-TURBO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/liblzf</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libmicrohttpd</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBMICROHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libmpeg2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libmtp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libnfc-nci</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libnfc-nxp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libnl</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libogg</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libopus</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libpcap</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libphonenumber</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libpng</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libselinux</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libunwind</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libunwind_llvm</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libusb</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libusb-compat</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libutf</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBUTF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libvisidon_facebeauty</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBVISIDON_FACEBEAUTY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libvncserver</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libvorbis</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libvpx</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libvterm</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libweave</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBWEAVE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libxml2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/libyuv</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/littlemock</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/lld</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LLD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/llvm</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ltrace</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/lz4</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/lzma</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/markdown</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mdnsresponder</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mesa3d</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/messageformat</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/minijail</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MINIJAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mksh</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mmc-utils</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mockftpserver</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mockito</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mockwebserver</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/modp_b64</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MODP_B64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mp4parser</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/mtpd</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nanohttpd</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nanopb-c</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/naver-fonts</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/netcat</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/netperf</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/neven</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nfacct</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nist-pkits</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/nist-sip</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/noto-fonts</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/oauth</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/objenesis</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/okhttp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/opencv</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/owasp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-OWASP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/parameter-framework</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/pcre</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/pdfium</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/piex</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PIEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/ppp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/proguard</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/protobuf</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/regex-re2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/replicaisland</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/rmi4utils</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-RMI4UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/robolectric</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/roboto-fonts</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/rootdev</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ROOTDEV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/safe-iop</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/scrypt</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/selinux</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sfntly</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/shflags</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SHFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/skia</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sl4a</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SL4A-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/slf4j</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/smali</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/snakeyaml</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SNAKEYAML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sonic</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sonivox</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/speex</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/sqlite</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/squashfs-tools</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/srtp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SRTP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/strace</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/svox</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tagsoup</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tcpdump</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/testng</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TESTNG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/timezonepicker-support</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinyalsa</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinycompress</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinyxml</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tinyxml2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tlsdate</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TLSDATE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/toybox</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tpm2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TPM2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/tremolo</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/unicode</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-UNICODE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/universal-tween-engine</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-UNIVERSAL-TWEEN-ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/v8</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-V8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/valgrind</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/vboot_reference</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/vixl</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/vogar</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/vulkan-validation-layers</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-VULKAN-VALIDATION-LAYERS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/webp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/webrtc</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/wpa_supplicant_8</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/xmlrpcpp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-XMLRPCPP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/xmlwriter</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/xmp_toolkit</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/zlib</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/zopfli</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/external/zxing</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/frameworks</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/hardware</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-HARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/kernel-4.4</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-KERNEL-4.4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/kernel_modules-4.4</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-KERNEL_MODULES-4.4-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/libcore</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/libnativehelper</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/AUS6739_66_N1_MOLY.LR12A.R2.MP.V1</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MODEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/ndk</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Bluetooth</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Browser2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BROWSER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Calculator</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Calendar</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Camera2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/CertInstaller</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/ChromeCustomizations</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CHROMECUSTOMIZATIONS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Contacts</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/ContactsCommon</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/DeskClock</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/DevCamera</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DEVCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Dialer</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Email</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/EmailPartnerProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EMAILPARTNERPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EMERGENCYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Gallery</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Gallery2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/GalleryTcl</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GALLERYTCL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/KeyChain</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Launcher2</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Launcher3</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Messaging</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Music</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/MusicFX</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Nfc</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Phone</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PHONE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Protips</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Provision</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SAFETYREGULATORYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Settings</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/SpareParts</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Stk</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-STK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/StorageManager</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-STORAGEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/TV</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TV-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Tag</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Terminal</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/Test</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/TvSettings</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-WALLPAPERPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/fcidtvtest</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-FCIDTVTEST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/apps/tv3</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TV3-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/experimental</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BLOCKEDNUMBERPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/MediaProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/TvProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/screensavers/Basic</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/screensavers/WebView</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/services</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/pdk</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/platform_testing</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/android-emulator</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/clang</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PREBUILTS-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/deqp</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PREBUILTS-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/devtools</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/eclipse</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/aarch64</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DARWIN-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/arm</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DARWIN-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/host</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DARWIN-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/mips</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DARWIN-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/darwin-x86/x86</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-DARWIN-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/aarch64</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LINUX-X86-AARCH64-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/arm</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LINUX-X86-ARM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/host</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LINUX-X86-HOST-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/mips</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LINUX-X86-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gcc/linux-x86/x86</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LINUX-X86-X86-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gdb</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GDB-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/go</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/libs</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/maven_repo</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/misc</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/ndk</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/ninja</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-NINJA-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/python</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PYTHON-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/sdk</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/prebuilts/tools</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-PREBUILTS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/sdk</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/sh_tools</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SH_TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/system</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-SYSTEM-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/toolchain</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TOOLCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/tools</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/vendor/ausshine</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-AUSSHINE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/vendor/branch</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-BRANCH-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/vendor/customer</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-CUSTOMER-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/vendor/google</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-GOOGLE-P1.0</baseline>
+</project>
+<project>
+	<name>mtk6739/vendor/mediatek</name>
+	<branch>refs/heads/mtk6739-a3a-plus-orange-v1.0-dint</branch>
+	<baseline>MT6739-A3A-PLUS-ORANGE-MEDIATEK-P1.0</baseline>
+</project>
+</projects>

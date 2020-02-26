@@ -1,0 +1,25 @@
+将PR 由VERI_SW状态置为DELI状态
+
+1, configure environment
+	$sudo apt-get install php5-cli
+	$sudo apt-get install php-mysql/php5-mysql
+
+
+2, download tools
+	$mkdir -p /local/tools/scm_tools
+	$cd /local/tools/scm_tools
+	$git clone git@10.92.32.10:scm_tools
+
+
+3, create buglist
+	(1)create a new text file, eg: 'buglist' //buglist里保存了需要delivery的bug ID，每个bug id一行
+	(2)query all PRs' number which status is resolved, and copy PRs' number to file 'buglist', one PR number one line
+
+
+4，export USER=shuzhong.cui.hz #导入用户名不能使用默认的系统user
+5, change PR status from 'verify_sw' to 'Delivered'.可以按需求修改脚本里需要修改的PR的状态
+	$cd /local/tools/scm_tools/scm_tools/tool/
+	$./update_newref.php <new ref name> -f <pr list file> [-c] <old ref name>  SW821基于SW820改了那些bug
+	eg: $./update_newref.php SW821 -f buglist -c SW820 //Remove wrong ref SW820,modify it right ref SW821
+	eg: $./update_newref.php SW2CML70 -f buglist #buglist是保存BugID的文件
+user@devtest-android:/local/tools/scm_tools_hz/scm_tools/tools$ ./update_newref.php SWD62 -f vD62 #SWD62 是基于的版本号,vD62是保存bugID的

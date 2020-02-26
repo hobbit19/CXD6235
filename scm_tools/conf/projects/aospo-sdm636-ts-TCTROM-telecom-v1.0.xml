@@ -1,0 +1,3238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>avengers/codeaurora_msm8953/SPF2017/amss_la2.1</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-AMSS_LA2.1-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/tcl</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TCL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/tct-sdk</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TCTSDK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/partner_gms</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PARTNERGMS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/custo_wimdata_ng/wcustores</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-wcustores-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/custo_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-wlanguage-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/custo_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-wprocedures-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/jrdcom</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JRDCOM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/makeperso</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-makeperso-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tcl/apps</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TCLAPPS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/abl/tianocore/edk2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EDK2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/avengers/blackberry/vendor/bbry/seek/packages/services/UiccTerminal</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-UICCTERMINAL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/avengers/codeaurora/blackberry/blackwidow/vendor/google</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GOOGLE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/avengers/codeaurora/blackberry/vendor/bbry/device-config/etc</name>
+	<branch>refs/heads/bb/develop/tcl/jdm/aospo-sdm660-tcl</branch>
+	<baseline>N4-TCTROM-ETC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/common</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DEVICE-COMMON-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/generic/arm64</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ARM64-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ARMV7-A-NEON-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/generic/car</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GENERIC-CAR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/generic/common</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GENERIC-COMMON-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/google/atv</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ATV-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/google/contexthub</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CONTEXTHUB-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/google/vrservices</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VRSERVICES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/qcom/common</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-COMMON-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/qcom/sepolicy</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-SEPOLICY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/sample</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SAMPLE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/device/tct/sdm636</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SDM636-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/kernel/msm-4.4</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MSM-4.4-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/art</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ART-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/bionic</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BIONIC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/bootable/recovery</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-RECOVERY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/build</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BUILD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/build/blueprint</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BLUEPRINT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/build/kati</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-KATI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/build/soong</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SOONG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/compatibility/cdd</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CDD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/cts</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CTS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/dalvik</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DALVIK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/development</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DEVELOPMENT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ImageMagick</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-IMAGEMAGICK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/Microsoft-GSL</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MICROSOFT-GSL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/aac</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-AAC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/abi-compliance-checker</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ABI-COMPLIANCE-CHECKER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/abi-dumper</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ABI-DUMPER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/android-clat</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ANDROID-CLAT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/androidplot</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ANDROIDPLOT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ant-glob</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ANT-GLOB-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ANT_NATIVE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ANT_SERVICE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/antlr</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ANTLR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/apache-commons-math</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APACHE-COMMONS-MATH-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/apache-harmony</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APACHE-HARMONY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/apache-http</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APACHE-HTTP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/apache-xml</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APACHE-XML-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/archive-patcher</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ARCHIVE-PATCHER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/autotest</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-AUTOTEST-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/avb</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-AVB-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/bart</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BART-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/bison</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BISON-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/blktrace</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BLKTRACE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/boringssl</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BORINGSSL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/bouncycastle</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BOUNCYCASTLE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/brctl</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BRCTL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/brotli</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BROTLI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/bsdiff</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BSDIFF-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/bzip2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BZIP2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/c-ares</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-C-ARES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/caliper</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CALIPER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/cblas</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CBLAS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/chromium-libpac</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CHROMIUM-LIBPAC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/chromium-trace</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CHROMIUM-TRACE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/chromium-webview</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CHROMIUM-WEBVIEW-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/clang</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CLANG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/cmockery</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CMOCKERY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/compiler-rt</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-COMPILER-RT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/conscrypt</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CONSCRYPT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/crcalc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CRCALC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/cros/system_api</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SYSTEM_API-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/curl</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CURL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dagger2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DAGGER2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/deqp</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EXTERNAL-DEQP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/desugar</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DESUGAR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/devlib</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DEVLIB-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dexmaker</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DEXMAKER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DHCPCD-6.8.2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dlmalloc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DLMALLOC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dng_sdk</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DNG_SDK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dnsmasq</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DNSMASQ-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/doclava</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DOCLAVA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/donuts</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DONUTS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/drm_gralloc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DRM_GRALLOC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/drm_hwcomposer</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DRM_HWCOMPOSER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/droiddriver</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DROIDDRIVER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/drrickorang</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DRRICKORANG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/dtc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DTC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/e2fsprogs</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-E2FSPROGS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/easymock</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EASYMOCK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ebtables</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EBTABLES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/eclipse-basebuilder</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ECLIPSE-BASEBUILDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/eclipse-windowbuilder</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ECLIPSE-WINDOWBUILDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/eigen</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EIGEN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/elfutils</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ELFUTILS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/emma</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EMMA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/esd</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ESD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/expat</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EXPAT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/eyes-free</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EYES-FREE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/f2fs-tools</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-F2FS-TOOLS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fdlibm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FDLIBM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fec</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FEC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fio</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FIO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/flac</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FLAC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/flatbuffers</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FLATBUFFERS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fmtlib</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FMTLIB-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fonttools</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FONTTOOLS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/freetype</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FREETYPE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/fsck_msdos</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FSCK_MSDOS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/gemmlowp</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GEMMLOWP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/giflib</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GIFLIB-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/glide</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GLIDE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-api-services-storage</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GOOGLE-API-SERVICES-STORAGE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-benchmark</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GOOGLE-BENCHMARK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-breakpad</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GOOGLE-BREAKPAD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CARROIS-GOTHIC-SC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-COMING-SOON-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CUTIVE-MONO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DANCING-SCRIPT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GOOGLE-TV-PAIRING-PROTOCOL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/googletest</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GOOGLETEST-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/gptfdisk</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GPTFDISK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/guava</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GUAVA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/guice</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GUICE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/hamcrest</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HAMCREST-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/harfbuzz_ng</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HARFBUZZ_NG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/hyphenation-patterns</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HYPHENATION-PATTERNS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/icu</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ICU-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ims</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EXTERNAL-IMS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/iproute2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-IPROUTE2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ipsec-tools</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-IPSEC-TOOLS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/iptables</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-IPTABLES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/iputils</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-IPUTILS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/iw</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-IW-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jacoco</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JACOCO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jarjar</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JARJAR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/javasqlite</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JAVASQLITE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/javassist</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JAVASSIST-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jcommander</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JCOMMANDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jdiff</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JDIFF-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jemalloc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JEMALLOC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jline</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JLINE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jmdns</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JMDNS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jsilver</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JSILVER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jsmn</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JSMN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/json-c</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JSON-C-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jsoncpp</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JSONCPP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jsr305</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JSR305-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/jsr330</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JSR330-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/junit</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JUNIT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/junit-params</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JUNIT-PARAMS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/kernel-headers</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-KERNEL-HEADERS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/kmod</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-KMOD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ksoap2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-KSOAP2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libavc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBAVC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libbackup</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBBACKUP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libbrillo</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBBRILLO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libcap</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBCAP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libcap-ng</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBCAP-NG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libchrome</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBCHROME-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libconstrainedcrypto</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBCONSTRAINEDCRYPTO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libcups</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBCUPS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libcxx</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBCXX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libcxxabi</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBCXXABI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libdaemon</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBDAEMON-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libdivsufsort</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBDIVSUFSORT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libdrm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBDRM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libedit</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EXTERNAL-LIBEDIT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libese</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBESE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libevent</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBEVENT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libexif</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBEXIF-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libgdx</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBGDX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libgsm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBGSM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libhevc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBHEVC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libjpeg-turbo</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBJPEG-TURBO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libldac</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBLDAC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/liblzf</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBLZF-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libmicrohttpd</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBMICROHTTPD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libmojo</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBMOJO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libmpeg2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBMPEG2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libmtp</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBMTP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBNETFILTER_CONNTRACK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libnfnetlink</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBNFNETLINK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libnl</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBNL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libogg</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBOGG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libopus</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBOPUS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libpcap</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBPCAP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libphonenumber</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBPHONENUMBER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libpng</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBPNG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libtextclassifier</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBTEXTCLASSIFIER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libunwind</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBUNWIND-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libunwind_llvm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBUNWIND_LLVM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libusb</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBUSB-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libusb-compat</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBUSB-COMPAT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libvncserver</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBVNCSERVER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libvorbis</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBVORBIS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libvpx</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBVPX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libvterm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBVTERM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libweave</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBWEAVE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libxml2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBXML2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/libyuv</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBYUV-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/linux-kselftest</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LINUX-KSELFTEST-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/lisa</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LISA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/littlemock</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LITTLEMOCK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/lld</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LLD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/llvm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LLVM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/lmfit</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LMFIT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ltp</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LTP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/lz4</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LZ4-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/lzma</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LZMA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/markdown</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MARKDOWN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mdnsresponder</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MDNSRESPONDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mesa3d</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MESA3D-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/messageformat</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MESSAGEFORMAT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/minijail</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MINIJAIL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mksh</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MKSH-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mm-dash</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MM-DASH-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mmc-utils</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EXTERNAL-MMC-UTILS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mockftpserver</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MOCKFTPSERVER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mockito</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MOCKITO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mockwebserver</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MOCKWEBSERVER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/modp_b64</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MODP_B64-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mp4parser</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MP4PARSER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/mtpd</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MTPD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/nanohttpd</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NANOHTTPD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/nanopb-c</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NANOPB-C-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/naver-fonts</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NAVER-FONTS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/netcat</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NETCAT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/netperf</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NETPERF-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/neven</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NEVEN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/nfacct</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NFACCT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/nist-pkits</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NIST-PKITS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/nist-sip</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NIST-SIP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/noto-fonts</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NOTO-FONTS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/oauth</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-OAUTH-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/objenesis</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-OBJENESIS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/okhttp</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-OKHTTP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/opencv</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-OPENCV-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/openssh</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-OPENSSH-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/owasp/sanitizer</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SANITIZER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/parameter-framework</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PARAMETER-FRAMEWORK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/pcre</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PCRE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/pdfium</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PDFIUM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/piex</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PIEX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ply</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PLY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/ppp</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PPP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/proguard</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROGUARD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/protobuf</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROTOBUF-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/python/cpython2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CPYTHON2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/python/cpython3</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CPYTHON3-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/r8</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-R8-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/regex-re2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-REGEX-RE2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/replicaisland</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-REPLICAISLAND-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/rmi4utils</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-RMI4UTILS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/robolectric</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ROBOLECTRIC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/roboto-fonts</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ROBOTO-FONTS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/rootdev</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ROOTDEV-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/safe-iop</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SAFE-IOP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/scrypt</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SCRYPT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/seccomp-tests</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SECCOMP-TESTS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/selinux</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SELINUX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/sfntly</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SFNTLY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/shflags</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SHFLAGS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/skia</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SKIA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/sl4a</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SL4A-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/slf4j</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SLF4J-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/smali</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SMALI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/snakeyaml</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SNAKEYAML-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/sonic</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SONIC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/sonivox</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SONIVOX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/speex</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SPEEX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/spirv-llvm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SPIRV-LLVM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/sqlite</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SQLITE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/squashfs-tools</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SQUASHFS-TOOLS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/strace</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-STRACE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/stressapptest</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-STRESSAPPTEST-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/svox</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SVOX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/swiftshader</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SWIFTSHADER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/syslinux</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SYSLINUX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tagsoup</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TAGSOUP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tcpdump</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TCPDUMP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/testng</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TESTNG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/timezonepicker-support</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TIMEZONEPICKER-SUPPORT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tinyalsa</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TINYALSA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tinycompress</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TINYCOMPRESS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tinyxml</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TINYXML-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tinyxml2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TINYXML2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/toolchain-utils</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TOOLCHAIN-UTILS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/toybox</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TOYBOX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tpm2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TPM2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/trappy</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TRAPPY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/tremolo</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TREMOLO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/unicode</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-UNICODE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/universal-tween-engine</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-UNIVERSAL-TWEEN-ENGINE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/v4l2_codec2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-V4L2_CODEC2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/v8</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-V8-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/valgrind</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VALGRIND-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/vboot_reference</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VBOOT_REFERENCE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/vixl</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VIXL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/vogar</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VOGAR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/volley</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VOLLEY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/vulkan-validation-layers</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VULKAN-VALIDATION-LAYERS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/walt</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WALT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/webp</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WEBP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/webrtc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WEBRTC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/wpa_supplicant_8</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WPA_SUPPLICANT_8-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/wycheproof</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WYCHEPROOF-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/x264</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-X264-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/xmlrpcpp</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-XMLRPCPP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/xmlwriter</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-XMLWRITER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/xmp_toolkit</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-XMP_TOOLKIT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/xz-embedded</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-XZ-EMBEDDED-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/zlib</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ZLIB-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/zopfli</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ZOPFLI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/external/zxing</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ZXING-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/av</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-AV-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/base</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BASE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/compile/libbcc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBBCC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/compile/mclinker</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MCLINKER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/compile/slang</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SLANG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/data-binding</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DATA-BINDING-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/ex</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HARDWARE-INTERFACES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/layoutlib</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LAYOUTLIB-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/minikin</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MINIKIN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/ml</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ML-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/multidex</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MULTIDEX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/native</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NATIVE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/bitmap</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BITMAP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/bluetooth</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-OPT-BLUETOOTH-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/calendar</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-OPT-CALENDAR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/chips</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CHIPS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-COLORPICKER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DATETIMEPICKER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/emoji</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EMOJI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/inputconnectioncommon</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-INPUTCONNECTIONCOMMON-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/inputmethodcommon</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-INPUTMETHODCOMMON-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ETHERNET-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/net/ims</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NET-IMS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/net/lowpan</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LOWPAN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/net/voip</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VOIP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WIFI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PHOTOVIEWER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-OPT-SETUPWIZARD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/telephony</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-OPT-TELEPHONY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TIMEZONEPICKER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/opt/vcard</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VCARD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/rs</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-RS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/support</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SUPPORT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/webview</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FRAMEWORKS-WEBVIEW-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/frameworks/wilhelm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WILHELM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/akm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-AKM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/google/apf</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APF-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/interfaces</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HARDWARE-INTERFACES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/invensense</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-INVENSENSE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/libhardware</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBHARDWARE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/libhardware_legacy</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBHARDWARE_LEGACY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/audio</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-AUDIO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BOOTCTRL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/bt</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-BT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/camera</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CAMERA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/display</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-DISPLAY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/gps</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-GPS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/media</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-MEDIA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/thermal</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-THERMAL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/vr</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/qcom/wlan</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-WLAN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/ril</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-RIL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/hardware/stm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-STM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/libcore</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBCORE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/libnativehelper</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBNATIVEHELPER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BASICSMSRECEIVER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Bluetooth</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APPS-BLUETOOTH-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Calendar</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APPS-CALENDAR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DIALER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HVAC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CAR-LATINIME-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LENSPICKER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LOCALMEDIAPLAYER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Media</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CAR-MEDIA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MESSENGER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Overview</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-OVERVIEW-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Radio</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-RADIO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Settings</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CAR-SETTINGS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/Stream</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-STREAM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SYSTEMUPDATER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/UserManagement</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-USERMANAGEMENT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Car/libs</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CARRIERCONFIG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CELLBROADCASTRECEIVER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/CertInstaller</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CERTINSTALLER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Contacts</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CONTACTS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/DeskClock</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DESKCLOCK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DOCUMENTSUI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Email</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EMAIL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EMERGENCYINFO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Exchange</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EXCHANGE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Gallery2</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GALLERY2-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HTMLVIEWER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/KeyChain</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-KEYCHAIN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Launcher3</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LAUNCHER3-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LEGACYCAMERA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MANAGEDPROVISIONING-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Messaging</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MESSAGING-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Mms</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APPS-MMS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ONETIMEINITIALIZER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PACKAGEINSTALLER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Phone</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PHONE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PHONECOMMON-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Protips</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROTIPS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Provision</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROVISION-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QUICKSEARCHBOX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/RetailDemo</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-RETAILDEMO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SAFETYREGULATORYINFO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Settings</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APPS-SETTINGS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SmartCardService</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APPS-SMARTCARDSERVICE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SNAPDRAGONCAMERA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SOUNDRECORDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SpareParts</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SPAREPARTS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/SpeechRecorder</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SPEECHRECORDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Stk</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-STK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/StorageManager</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-STORAGEMANAGER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Tag</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TAG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Terminal</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TERMINAL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TEST-CONNECTIVITY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TIMEZONEDATA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TIMEZONEUPDATER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-UNIFIEDEMAIL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WALLPAPERPICKER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/WapiCertManage</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WAPICERTMANAGE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/WapiCertStore</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WAPICERTSTORE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/apps/WingCamera</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WINGCAMERA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-INPUTMETHODS-LATINIME-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-OPENWNN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APPLICATIONSPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BLOCKEDNUMBERPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CALENDARPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CALLLOGPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CONTACTSPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DOWNLOADPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/MediaProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MEDIAPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PARTNERBOOKMARKSPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/RunningAppInfoProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-RUNNINGAPPINFOPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TELEPHONYPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/TvProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TVPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-USERDICTIONARYPROVIDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/screensavers/Basic</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BASIC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PHOTOTABLE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/screensavers/WebView</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SCREENSAVERS-WEBVIEW-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BUILTINPRINTSERVICE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/Car</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SERVICES-CAR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/Mms</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SERVICES-MMS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/NetworkRecommendation</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NETWORKRECOMMENDATION-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/Telecomm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TELECOMM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/services/Telephony</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SERVICES-TELEPHONY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIVEPICKER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/pdk</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PDK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/platform_testing</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PLATFORM_TESTING-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/build-tools</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BUILD-TOOLS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HOST-LINUX-X86-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/deqp</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PREBUILTS-DEQP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/devtools</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DEVTOOLS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/eclipse</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ECLIPSE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ARM-ARM-EABI-4.8-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-AARCH64-LINUX-ANDROID-4.9-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ARM-ARM-EABI-4.8-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ARM-LINUX-ANDROIDEABI-4.9-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-X86_64-LINUX-GLIBC2.11-4.8-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-X86_64-LINUX-GLIBC2.15-4.8-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-X86_64-W64-MINGW32-4.8-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-X86_64-LINUX-ANDROID-4.9-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GO-LINUX-X86-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-JDK8-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/libs/libedit</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBS-LIBEDIT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ANDROID-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BUMPTECH-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/misc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MISC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/ndk</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NDK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-2.7.5-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/sdk</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PREBUILTS-SDK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/prebuilts/tools</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PREBUILTS-TOOLS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/sdk</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PLATFORM-SDK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/bt</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SYSTEM-BT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/ca-certificates</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CA-CERTIFICATES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/chre</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CHRE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/connectivity/wificond</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WIFICOND-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/connectivity/wifilogd</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WIFILOGD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/core</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CORE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/extras</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-EXTRAS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/gatekeeper</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-GATEKEEPER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/hardware/interfaces</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HARDWARE-INTERFACES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/hwservicemanager</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HWSERVICEMANAGER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/keymaster</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-KEYMASTER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/libfmq</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBFMQ-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/libhidl</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBHIDL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/libhwbinder</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBHWBINDER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/libufdt</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBUFDT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/libvintf</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBVINTF-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/media</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SYSTEM-MEDIA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/netd</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NETD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/nfc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SYSTEM-NFC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/nvram</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NVRAM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/qcom</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/security</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SYSTEM-SECURITY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/sepolicy</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SYSTEM-SEPOLICY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/timezone</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TIMEZONE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/tools/aidl</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-AIDL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/tools/hidl</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HIDL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/tpm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TPM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/update_engine</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-UPDATE_ENGINE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/system/vold</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VOLD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VTS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FUZZ-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/hal</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HAL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-HAL-TRACE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/kernel</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-KERNEL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/performance</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PERFORMANCE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/security</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VTS-TESTCASE-SECURITY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/test/vts-testcase/vndk</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VNDK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/apksig</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APKSIG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/loganalysis</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LOGANALYSIS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/repohooks</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-REPOHOOKS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/test/connectivity</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TEST-CONNECTIVITY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/tradefederation</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TRADEFEDERATION-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/tools/tradefederation/contrib</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CONTRIB-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/codeaurora/telephony</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CODEAURORA-TELEPHONY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/bluetooth</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-OPENSOURCE-BLUETOOTH-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/bluetooth_ext</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BLUETOOTH_EXT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/data-ipa-cfg-mgr</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DATA-IPA-CFG-MGR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/dataservices</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DATASERVICES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/dpm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DPM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/fm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-OPENSOURCE-FM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/fst-manager</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FST-MANAGER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/interfaces</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-OPENSOURCE-INTERFACES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/location</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LOCATION-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/mmc-utils</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-OPENSOURCE-MMC-UTILS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/rcs-service</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-RCS-SERVICE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/shortcut-fe</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SHORTCUT-FE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/time-services</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-OPENSOURCE-TIME-SERVICES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/tools</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-OPENSOURCE-TOOLS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/wigig</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCOM-OPENSOURCE-WIGIG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/wlan/fw-api</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FW-API-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCA-WIFI-HOST-CMN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/wlan/qcacld-3.0</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCACLD-3.0-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom-opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SIGMA-DUT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/falcon_32</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FALCON_32-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/falcon_64</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FALCON_64-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/SecProtect</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SECPROTECT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/SmartCardService</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROPRIETARY-SMARTCARDSERVICE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/android-perf</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ANDROID-PERF-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/avenhancements</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-AVENHANCEMENTS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/biometrics</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-BIOMETRICS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/bluetooth</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROPRIETARY-BLUETOOTH-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/bt</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROPRIETARY-BT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/cne</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CNE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/common</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROPRIETARY-COMMON-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/csm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-CSM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/data</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DATA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/diag</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DIAG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/display</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROPRIETARY-DISPLAY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/fastcv</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FASTCV-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/fastmmi</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FASTMMI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/fm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROPRIETARY-FM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ftm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FTM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/gps</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROPRIETARY-GPS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ims-ship</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-IMS-SHIP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/interfaces</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROPRIETARY-INTERFACES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/llvm-arm-toolchain-ship</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LLVM-ARM-TOOLCHAIN-SHIP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mdm-helper</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MDM-HELPER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-audio</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MM-AUDIO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-camera</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MM-CAMERA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-camerasdk</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MM-CAMERASDK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-core</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MM-CORE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-osal</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MM-OSAL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-parser</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MM-PARSER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-still</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MM-STILL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-video</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MM-VIDEO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/mm-video-utils</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MM-VIDEO-UTILS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/modem-apis</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-MODEM-APIS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/nqnfc-firmware</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NQNFC-FIRMWARE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/prebuilt_HY11_SDM660</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PREBUILT_HY11_SDM660-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qcril</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCRIL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qcril-data-hal</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCRIL-DATA-HAL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qcril-hal</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCRIL-HAL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qcril-qmi-services</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCRIL-QMI-SERVICES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qcrilOemHook</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCRILOEMHOOK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qdssagent</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QDSSAGENT-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qmi</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QMI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qmi-framework</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QMI-FRAMEWORK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/qrdplus</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QRDPLUS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/remotefs</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-REMOTEFS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/scve</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SCVE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/securemsm</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SECUREMSM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/sensors</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SENSORS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ss-restart</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SS-RESTART-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ss-services</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SS-SERVICES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/tango_hal</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TANGO_HAL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/telephony-apps</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TELEPHONY-APPS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/telephony-fwk</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TELEPHONY-FWK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/thermal-engine</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-THERMAL-ENGINE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/time-services</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROPRIETARY-TIME-SERVICES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ui</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-UI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/uim_remote_service</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-UIM_REMOTE_SERVICE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/ultrasound</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ULTRASOUND-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/vpp</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VPP-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/wfd</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WFD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/wigig</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROPRIETARY-WIGIG-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/wipower</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WIPOWER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/qcom/proprietary/wlan</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PROPRIETARY-WLAN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/platform/vendor/widevine</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WIDEVINE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/Compass</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-COMPASS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/FMRadio</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FMRADIO-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/FileManager</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FILEMANAGER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/PersonalCenter</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PERSONALCENTER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/QuickWriteSim</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QUICKWRITESIM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/RegService</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-REGSERVICE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/VideoPlayer</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VIDEOPLAYER-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/WingCalculator</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WINGCALCULATOR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/WingNotepad</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WINGNOTEPAD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/WingSafeMgr</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WINGSAFEMGR-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/WingUserManual</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WINGUSERMANUAL-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/apps/WingUserService</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-WINGUSERSERVICE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/cmdc/prebuilts</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-PREBUILTS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/nxp/nxpnfc/external/libnfc-nci</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-LIBNFC-NCI-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/nxp/nxpnfc/frameworks</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-FRAMEWORKS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/nxp/nxpnfc/hardware/interfaces/nxpnfc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-NXPNFC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/nxp/nxpnfc/packages/apps/Nfc</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APPS-NFC-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/apps/DDRTest</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DDRTEST-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/apps/DataWipe</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-DATAWIPE-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/apps/Onetouchfeedback</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ONETOUCHFEEDBACK-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/apps/Safeguard</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SAFEGUARD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/apps/ScreenshotEx</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SCREENSHOTEX-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/apps/SetupWizard</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-APPS-SETUPWIZARD-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/apps/UserData</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-USERDATA-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/buildtools</name>
+	<branch>refs/heads/bb/develop/tcl/jdm/aospo-sdm660-tcl</branch>
+	<baseline>N4-TCTROM-BUILDTOOLS-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/qcn</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-QCN-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/security</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-TCT-SOURCE-SECURITY-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/system</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-SYSTEM-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tct-source/themes</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-THEMES-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/vendor/tctalone/TctAppPackage/Robust</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-ROBUST-TELECOM-P1.0</baseline>
+</project>
+<project>
+	<name>avengers/codeaurora_msm8953/version</name>
+	<branch>refs/heads/aospo-sdm636-ts-TCTROM-telecom-v1.0</branch>
+	<baseline>N4-TCTROM-VERSION-TELECOM-P1.0</baseline>
+</project>
+</projects>

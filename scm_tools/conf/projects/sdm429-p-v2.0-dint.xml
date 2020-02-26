@@ -1,0 +1,3865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+        <name>sdm450/packages/providers/ChromeCustomizations</name>
+        <branch>refs/heads/sdm429-p-v2.0-dint</branch>
+        <baseline>SDM429-P-CHORMECUSTOMIZATIONS-P2.0</baseline>
+</project>
+
+<project>
+	<name>sdm450/vendor/tct</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VENDORTCT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/widevine</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VENDORwidevine-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tct-sdk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TCTSDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/000/makefile-parser-hooker</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DEVICE000-P2.0</baseline>
+</project>
+
+<project>
+        <name>tcl/packages/apps/JrdMMITest</name>
+        <branch>refs/heads/sdm429-p-v2.0-dint</branch>
+        <baseline>SDM429-P-JRDMMITEST-P2.0</baseline>
+</project>
+<project>
+        <name>tcl/packages/apps/MMIVendor</name>
+        <branch>refs/heads/sdm429-p-v2.0-dint</branch>
+        <baseline>SDM429-P-MMIVERNDOR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/jrdcom</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JRDCOM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/jrdcom</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VENDORJRDCOM-P2.0</baseline>
+</project>
+<project>
+        <name>sdm450/vendor/tcl</name>
+        <branch>refs/heads/sdm429-p-v2.0-dint</branch>
+        <baseline>SDM429-P-VENDORTCL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/art</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ART-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/bionic</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BIONIC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/bootable/bootloader/lk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/bootable/recovery</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-RECOVERY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/build/blueprint</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BLUEPRINT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/build/kati</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-KATI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/build/make</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MAKE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/build/soong</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SOONG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/compatibility/cdd</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CDD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/cts</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/dalvik</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DALVIK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/developers/build</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BUILD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/developers/demos</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DEMOS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/developers/samples/android</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SAMPLES-ANDROID-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/development</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DEVELOPMENT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/common</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DEVICE-COMMON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/arm64</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ARM64-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ARMV7-A-NEON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/car</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GENERIC-CAR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/common</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GENERIC-COMMON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/goldfish</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOLDFISH-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOLDFISH-OPENGL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/lionhead</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIONHEAD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MINI-EMULATOR-ARM64-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MINI-EMULATOR-ARMV7-A-NEON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MINI-EMULATOR-X86-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MINI-EMULATOR-X86_64-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/qemu</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QEMU-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/uml</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-UML-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/x86</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-X86-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/generic/x86_64</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-X86_64-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/accessory/arduino</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ARDUINO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/accessory/demokit</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DEMOKIT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/atv</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ATV-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/contexthub</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CONTEXTHUB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/muskie</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MUSKIE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/taimen</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TAIMEN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/vrservices</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VRSERVICES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/wahoo</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WAHOO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/google/wahoo-kernel</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WAHOO-KERNEL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/wlan</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCOM-WLAN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/apq8098_latv</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APQ8098_LATV-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/common</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCOM-COMMON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8909</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MSM8909-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8909go</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MSM8909GO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8937_32</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MSM8937_32-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8937_32go</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MSM8937_32GO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8937_64</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MSM8937_64-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8953_32</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MSM8953_32-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8953_64</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MSM8953_64-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8996</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MSM8996-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/msm8998</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MSM8998-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/qssi</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QSSI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/sdm660_32</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SDM660_32-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/sdm660_64</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SDM660_64-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/qcom/sepolicy</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCOM-SEPOLICY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/device/sample</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SAMPLE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/ImageMagick</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-IMAGEMAGICK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/Microsoft-GSL</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MICROSOFT-GSL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/aac</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-AAC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/abi-compliance-checker</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ABI-COMPLIANCE-CHECKER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/abi-dumper</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ABI-DUMPER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/adhd</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ADHD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/android-clat</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ANDROID-CLAT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/androidplot</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ANDROIDPLOT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/annotation-tools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ANNOTATION-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-glob</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ANT-GLOB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-wireless/ant_native</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ANT_NATIVE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/ant-wireless/ant_service</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ANT_SERVICE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/antlr</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ANTLR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-commons-math</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APACHE-COMMONS-MATH-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-harmony</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APACHE-HARMONY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-http</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APACHE-HTTP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/apache-xml</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APACHE-XML-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/archive-patcher</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ARCHIVE-PATCHER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/autotest</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-AUTOTEST-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/avb</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-AVB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/bart</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BART-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/blktrace</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BLKTRACE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/boringssl</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BORINGSSL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/bouncycastle</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BOUNCYCASTLE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/brotli</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BROTLI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/bsdiff</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BSDIFF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/bzip2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BZIP2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/caliper</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CALIPER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/capstone</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CAPSTONE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/cblas</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CBLAS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-libpac</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CHROMIUM-LIBPAC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-trace</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CHROMIUM-TRACE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/chromium-webview</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CHROMIUM-WEBVIEW-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/clang</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CLANG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/cmockery</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CMOCKERY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/cn-cbor</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CN-CBOR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/compiler-rt</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-COMPILER-RT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/conscrypt</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CONSCRYPT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/crcalc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CRCALC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/cros/system_api</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SYSTEM_API-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/curl</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CURL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/dagger2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DAGGER2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/deqp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EXTERNAL-DEQP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/desugar</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DESUGAR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/devlib</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DEVLIB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/dexmaker</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DEXMAKER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DHCPCD-6.8.2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/dlmalloc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DLMALLOC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/dng_sdk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DNG_SDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/dnsmasq</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DNSMASQ-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/doclava</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DOCLAVA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/donuts</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DONUTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/drm_gralloc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DRM_GRALLOC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/drm_hwcomposer</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DRM_HWCOMPOSER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/droiddriver</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DROIDDRIVER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/drrickorang</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DRRICKORANG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/dtc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DTC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/e2fsprogs</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-E2FSPROGS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/easymock</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EASYMOCK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/eigen</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EIGEN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/elfutils</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ELFUTILS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/emma</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EMMA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/error_prone</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ERROR_PRONE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/esd</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ESD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/expat</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EXPAT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/eyes-free</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EYES-FREE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/f2fs-tools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-F2FS-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/fdlibm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FDLIBM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/fec</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FEC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/fio</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FIO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/flac</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FLAC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/flatbuffers</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FLATBUFFERS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/fmtlib</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FMTLIB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/fonttools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FONTTOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/freetype</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FREETYPE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/fsck_msdos</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FSCK_MSDOS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/gemmlowp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GEMMLOWP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/gflags</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GFLAGS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/giflib</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GIFLIB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/glide</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GLIDE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/golang-protobuf</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOLANG-PROTOBUF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-api-services-storage</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-API-SERVICES-STORAGE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-benchmark</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-BENCHMARK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-breakpad</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-BREAKPAD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CARROIS-GOTHIC-SC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-COMING-SOON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CUTIVE-MONO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DANCING-SCRIPT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-styleguide</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-STYLEGUIDE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-TV-PAIRING-PROTOCOL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/googletest</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLETEST-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/gptfdisk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GPTFDISK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/guava</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GUAVA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/guice</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GUICE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/hamcrest</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HAMCREST-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/harfbuzz_ng</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HARFBUZZ_NG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/honggfuzz</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HONGGFUZZ-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/hyphenation-patterns</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HYPHENATION-PATTERNS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/icu</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ICU-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/ims</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EXTERNAL-IMS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/iproute2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-IPROUTE2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/ipsec-tools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-IPSEC-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/iptables</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-IPTABLES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/iputils</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-IPUTILS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/iw</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-IW-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jacoco</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JACOCO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jarjar</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JARJAR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/javaparser</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JAVAPARSER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/javasqlite</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JAVASQLITE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/javassist</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JAVASSIST-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jcommander</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JCOMMANDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jdiff</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JDIFF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jemalloc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JEMALLOC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jline</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JLINE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jmdns</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JMDNS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsilver</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JSILVER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsmn</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JSMN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/json-c</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JSON-C-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsoncpp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JSONCPP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsr305</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JSR305-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/jsr330</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JSR330-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/junit</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JUNIT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/junit-params</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JUNIT-PARAMS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/kernel-headers</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-KERNEL-HEADERS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/kmod</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-KMOD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/kotlinc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-KOTLINC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/ksoap2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-KSOAP2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libavc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBAVC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libbackup</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBBACKUP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libbrillo</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBBRILLO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcap</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBCAP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcap-ng</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBCAP-NG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libchrome</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBCHROME-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libconstrainedcrypto</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBCONSTRAINEDCRYPTO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcups</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBCUPS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcxx</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBCXX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libcxxabi</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBCXXABI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdaemon</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBDAEMON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdivsufsort</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBDIVSUFSORT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libdrm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBDRM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libedit</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EXTERNAL-LIBEDIT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libese</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBESE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libevent</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBEVENT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libexif</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBEXIF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libffi</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBFFI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libgsm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBGSM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libhevc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBHEVC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libjpeg-turbo</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBJPEG-TURBO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libldac</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBLDAC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/liblzf</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBLZF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmicrohttpd</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBMICROHTTPD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmojo</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBMOJO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmpeg2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBMPEG2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libmtp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBMTP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBNETFILTER_CONNTRACK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnfnetlink</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBNFNETLINK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libnl</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBNL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libogg</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBOGG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libopus</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBOPUS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libpcap</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBPCAP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libphonenumber</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBPHONENUMBER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libpng</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBPNG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libtextclassifier</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBTEXTCLASSIFIER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libunwind</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBUNWIND-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libunwind_llvm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBUNWIND_LLVM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libusb</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBUSB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libusb-compat</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBUSB-COMPAT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvncserver</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBVNCSERVER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvorbis</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBVORBIS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvpx</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBVPX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libvterm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBVTERM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libxaac</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBXAAC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libxcam</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBXCAM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libxkbcommon</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBXKBCOMMON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libxml2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBXML2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/libyuv</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBYUV-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/linux-kselftest</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LINUX-KSELFTEST-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/lisa</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LISA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/littlemock</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LITTLEMOCK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/lld</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LLD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/llvm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LLVM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/lmfit</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LMFIT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/ltp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LTP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/lz4</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LZ4-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/lzma</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LZMA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/markdown</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MARKDOWN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/mdnsresponder</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MDNSRESPONDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/mesa3d</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MESA3D-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/messageformat</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MESSAGEFORMAT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/minijail</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MINIJAIL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/mksh</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MKSH-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/mmc-utils</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EXTERNAL-MMC-UTILS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockftpserver</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MOCKFTPSERVER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockito</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MOCKITO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/mockwebserver</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MOCKWEBSERVER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/modp_b64</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MODP_B64-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/mp4parser</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MP4PARSER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/mtpd</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MTPD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/nanohttpd</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NANOHTTPD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/nanopb-c</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NANOPB-C-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/naver-fonts</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NAVER-FONTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/netcat</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NETCAT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/netperf</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NETPERF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/neven</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NEVEN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/nfacct</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NFACCT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/nist-pkits</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NIST-PKITS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/nist-sip</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NIST-SIP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/nos/host/android</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HOST-ANDROID-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/nos/host/generic</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GENERIC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/nos/test/system-test-harness</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SYSTEM-TEST-HARNESS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/noto-fonts</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NOTO-FONTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/oauth</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OAUTH-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/objenesis</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OBJENESIS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/oj-libjdwp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OJ-LIBJDWP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/okhttp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OKHTTP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/one-true-awk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ONE-TRUE-AWK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/opencv</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENCV-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/openssh</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENSSH-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/owasp/sanitizer</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SANITIZER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/parameter-framework</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PARAMETER-FRAMEWORK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/pcre</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PCRE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/pdfium</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PDFIUM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/perf_data_converter</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PERF_DATA_CONVERTER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/perfetto</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PERFETTO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/piex</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PIEX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/ply</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EXTERNAL-PLY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/ppp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PPP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/proguard</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROGUARD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/protobuf</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EXTERNAL-PROTOBUF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/puffin</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PUFFIN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/Pillow</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PILLOW-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/appdirs</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APPDIRS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/cachetools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CACHETOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/cpython2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CPYTHON2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/cpython3</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CPYTHON3-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/dill</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DILL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/enum</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ENUM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/enum34</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ENUM34-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/future</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FUTURE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/futures</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FUTURES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/gapic-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GAPIC-GOOGLE-CLOUD-PUBSUB-V1-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-api-python-client</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-API-PYTHON-CLIENT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-auth</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-AUTH-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-auth-httplib2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-AUTH-HTTPLIB2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-cloud-core</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-CLOUD-CORE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-cloud-pubsub</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-CLOUD-PUBSUB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/google-gax</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-GAX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/googleapis</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLEAPIS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/grpc-google-iam-v1</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GRPC-GOOGLE-IAM-V1-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/grpcio</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GRPCIO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/httplib2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HTTPLIB2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/matplotlib</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MATPLOTLIB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/numpy</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NUMPY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/oauth2client</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OAUTH2CLIENT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/olefile</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OLEFILE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/packaging</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PACKAGING-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/parse</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PARSE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/ply</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PYTHON-PLY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/proto-google-cloud-pubsub-v1</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROTO-GOOGLE-CLOUD-PUBSUB-V1-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/protobuf</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PYTHON-PROTOBUF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/pyasn1</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PYASN1-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/pyasn1-modules</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PYASN1-MODULES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/pyparsing</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PYPARSING-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/requests</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-REQUESTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/rsa</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-RSA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/scipy</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SCIPY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/setuptools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SETUPTOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/six</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SIX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/python/uritemplates</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-URITEMPLATES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/rappor</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-RAPPOR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/replicaisland</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-REPLICAISLAND-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/rmi4utils</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-RMI4UTILS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/robolectric</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ROBOLECTRIC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/robolectric-shadows</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ROBOLECTRIC-SHADOWS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/roboto-fonts</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ROBOTO-FONTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/rootdev</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ROOTDEV-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/safe-iop</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SAFE-IOP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/scapy</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SCAPY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/scrypt</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SCRYPT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/seccomp-tests</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SECCOMP-TESTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/selinux</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SELINUX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/sfntly</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SFNTLY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/shaderc/spirv-headers</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SPIRV-HEADERS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/shflags</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SHFLAGS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/skia</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SKIA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/sl4a</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SL4A-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/slf4j</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SLF4J-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/smali</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SMALI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/snakeyaml</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SNAKEYAML-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/sonic</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SONIC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/sonivox</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SONIVOX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/speex</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SPEEX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/spirv-llvm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SPIRV-LLVM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/sqlite</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SQLITE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/squashfs-tools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SQUASHFS-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/strace</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-STRACE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/stressapptest</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-STRESSAPPTEST-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/swiftshader</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SWIFTSHADER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/syslinux</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SYSLINUX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/tagsoup</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TAGSOUP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/tcpdump</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TCPDUMP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/tensorflow</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TENSORFLOW-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/testng</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TESTNG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/timezonepicker-support</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TIMEZONEPICKER-SUPPORT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyalsa</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TINYALSA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinycompress</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TINYCOMPRESS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyxml</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TINYXML-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/tinyxml2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TINYXML2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/toybox</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TOYBOX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/tpm2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TPM2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/trappy</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TRAPPY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/tremolo</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TREMOLO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/turbine</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TURBINE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/unicode</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-UNICODE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/universal-tween-engine</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-UNIVERSAL-TWEEN-ENGINE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/v4l2_codec2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-V4L2_CODEC2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/v8</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-V8-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/valgrind</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VALGRIND-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/vboot_reference</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VBOOT_REFERENCE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/vixl</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VIXL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/vogar</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VOGAR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/volley</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VOLLEY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/vulkan-validation-layers</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VULKAN-VALIDATION-LAYERS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/walt</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WALT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/wayland</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WAYLAND-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/wayland-protocols</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WAYLAND-PROTOCOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/webp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WEBP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/webrtc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WEBRTC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/webview_support_interfaces</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WEBVIEW_SUPPORT_INTERFACES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/wpa_supplicant_8</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WPA_SUPPLICANT_8-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/wycheproof</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WYCHEPROOF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/x264</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-X264-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmlrpcpp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-XMLRPCPP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmlwriter</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-XMLWRITER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/xmp_toolkit</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-XMP_TOOLKIT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/xz-embedded</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-XZ-EMBEDDED-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/zlib</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ZLIB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/zopfli</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ZOPFLI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/external/zxing</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ZXING-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/av</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FRAMEWORKS-AV-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/base</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BASE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/libbcc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBBCC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/mclinker</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MCLINKER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/compile/slang</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SLANG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/data-binding</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DATA-BINDING-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/ex</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HARDWARE-INTERFACES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/layoutlib</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LAYOUTLIB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/minikin</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MINIKIN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/ml</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ML-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/multidex</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MULTIDEX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/native</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NATIVE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/bitmap</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BITMAP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/calendar</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPT-CALENDAR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/car/services</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SERVICES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/car/setupwizard</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CAR-SETUPWIZARD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/chips</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CHIPS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-COLORPICKER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DATETIMEPICKER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/inputconnectioncommon</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-INPUTCONNECTIONCOMMON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/inputmethodcommon</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-INPUTMETHODCOMMON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ETHERNET-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/ims</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NET-IMS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/lowpan</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LOWPAN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/voip</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VOIP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WIFI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PHOTOVIEWER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPT-SETUPWIZARD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/telephony</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPT-TELEPHONY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TIMEZONEPICKER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/opt/vcard</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VCARD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/rs</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-RS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/support</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SUPPORT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/frameworks/wilhelm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WILHELM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/akm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-AKM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/google/apf</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/google/av</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-AV-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/google/easel</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EASEL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/google/interfaces</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE-INTERFACES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/interfaces</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HARDWARE-INTERFACES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/invensense</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-INVENSENSE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/libhardware</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBHARDWARE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/libhardware_legacy</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBHARDWARE_LEGACY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/nxp/nfc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NXP-NFC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/nxp/secure_element</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SECURE_ELEMENT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/audio</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCOM-AUDIO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BOOTCTRL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/bt</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCOM-BT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/camera</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CAMERA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/display</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCOM-DISPLAY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/gps</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCOM-GPS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/media</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCOM-MEDIA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/thermal</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-THERMAL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/vr</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/qcom/wlan</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCOM-WLAN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/hardware/ril</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-RIL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/kernel/configs</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CONFIGS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/kernel/msm-4.9</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MSM-4.9-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/libcore</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBCORE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/libnativehelper</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBNATIVEHELPER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/nonhlos_new</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NONHLOS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BASICSMSRECEIVER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Bluetooth</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APPS-BLUETOOTH-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Browser2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BROWSER2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CMFileManager</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CMFILEMANAGER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Calendar</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APPS-CALENDAR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Camera2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CAMERA2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CAR-DIALER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HVAC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CAR-LATINIME-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Launcher</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LAUNCHER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LENSPICKER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LOCALMEDIAPLAYER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Media</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CAR-MEDIA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MESSENGER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Overview</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OVERVIEW-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Radio</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-RADIO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Settings</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CAR-SETTINGS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/Stream</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-STREAM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SYSTEMUPDATER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/UserManagement</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-USERMANAGEMENT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Car/libs</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CARRIERCONFIG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CELLBROADCASTRECEIVER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/CertInstaller</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CERTINSTALLER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Contacts</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CONTACTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DeskClock</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DESKCLOCK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DevCamera</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DEVCAMERA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Dialer</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APPS-DIALER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DOCUMENTSUI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Email</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EMAIL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EMERGENCYINFO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EXACTCALCULATOR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Exchange</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EXCHANGE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Gallery</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GALLERY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Gallery2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GALLERY2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HTMLVIEWER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/KeyChain</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-KEYCHAIN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Launcher2</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LAUNCHER2-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Launcher3</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LAUNCHER3-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LEGACYCAMERA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MANAGEDPROVISIONING-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Messaging</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MESSAGING-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Mms</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APPS-MMS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Music</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MUSIC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/MusicFX</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MUSICFX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Nfc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APPS-NFC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ONETIMEINITIALIZER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PACKAGEINSTALLER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PHONECOMMON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Protips</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROTIPS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Provision</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROVISION-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QUICKSEARCHBOX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SAFETYREGULATORYINFO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SecureElement</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SECUREELEMENT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Settings</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APPS-SETTINGS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SettingsIntelligence</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SETTINGSINTELLIGENCE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SmartCardService</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APPS-SMARTCARDSERVICE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonCamera</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SNAPDRAGONCAMERA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonGallery</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SNAPDRAGONGALLERY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SnapdragonMusic</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SNAPDRAGONMUSIC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SOUNDRECORDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/SpareParts</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SPAREPARTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Stk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-STK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/StorageManager</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-STORAGEMANAGER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TV</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TV-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Tag</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TAG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Terminal</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TERMINAL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TEST-CONNECTIVITY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TIMEZONEDATA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TIMEZONEUPDATER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/Traceur</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TRACEUR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/TvSettings</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TVSETTINGS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-UNIFIEDEMAIL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WALLPAPERPICKER-P2.0</baseline>
+</project>
+<project>
+        <name>sdm450/packages/apps/FunctionSys</name>
+        <branch>refs/heads/sdm429-p-v2.0-dint</branch>
+        <baseline>SDM429-P-WATTFUNCTIONSYS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/experimental</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EXPERIMENTAL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-INPUTMETHODS-LATINIME-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENWNN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APPLICATIONSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BLOCKEDNUMBERPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BOOKMARKPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CALENDARPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CALLLOGPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CONTACTSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DOWNLOADPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/MediaProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MEDIAPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PARTNERBOOKMARKSPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TELEPHONYPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/TvProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TVPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-USERDICTIONARYPROVIDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/Basic</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BASIC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PHOTOTABLE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/screensavers/WebView</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WEBVIEW-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BUILTINPRINTSERVICE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Car</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SERVICES-CAR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Mms</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SERVICES-MMS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/NetworkRecommendation</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NETWORKRECOMMENDATION-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Rcs</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-RCS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Telecomm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TELECOMM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/services/Telephony</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SERVICES-TELEPHONY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIVEPICKER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/pdk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/platform_testing</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PLATFORM_TESTING-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ABI-DUMPS-NDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ABI-DUMPS-VNDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/android-emulator</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ANDROID-EMULATOR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/build-tools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BUILD-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/checkcolor</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CHECKCOLOR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/checkstyle</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CHECKSTYLE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/clang-tools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CLANG-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HOST-LINUX-X86-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/deqp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PREBUILTS-DEQP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/devtools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DEVTOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-AARCH64-LINUX-ANDROID-4.9-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ARM-EABI-4.8-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ARM-LINUX-ANDROIDEABI-4.9-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-X86_64-LINUX-GLIBC2.15-4.8-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-X86_64-W64-MINGW32-4.8-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-X86_64-LINUX-ANDROID-4.9-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GDB-LINUX-X86-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GO-LINUX-X86-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GRADLE-PLUGIN-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JDK8-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/jdk/jdk9</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-JDK9-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/libs/libedit</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBS-LIBEDIT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MAVEN_REPO-ANDROID-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BUMPTECH-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/misc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MISC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/ndk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PREBUILTS-NDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-2.7.5-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QEMU-KERNEL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/r8</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-R8-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/sdk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PREBUILTS-SDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/tools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PREBUILTS-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/prebuilts/vndk/v27</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-V27-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/sdk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/shortcut-fe</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SHORTCUT-FE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/bt</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SYSTEM-BT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/ca-certificates</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CA-CERTIFICATES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/chre</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CHRE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/connectivity/wificond</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WIFICOND-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/connectivity/wifilogd</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WIFILOGD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/core</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SYSTEM-CORE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/extras</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-EXTRAS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/gatekeeper</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GATEKEEPER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/hardware/interfaces</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HARDWARE-INTERFACES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/hwservicemanager</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HWSERVICEMANAGER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/iot/attestation</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ATTESTATION-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/keymaster</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-KEYMASTER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/libfmq</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBFMQ-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/libhidl</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBHIDL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/libhwbinder</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBHWBINDER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/libufdt</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBUFDT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/libvintf</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBVINTF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/media</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SYSTEM-MEDIA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/netd</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NETD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/nfc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SYSTEM-NFC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/nvram</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NVRAM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/security</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SYSTEM-SECURITY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/sepolicy</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SYSTEM-SEPOLICY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/timezone</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TIMEZONE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/tools/aidl</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-AIDL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/tools/hidl</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HIDL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/tpm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TPM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/update_engine</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-UPDATE_ENGINE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/system/vold</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VOLD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/framework</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FRAMEWORK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/sts</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-STS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/suite_harness</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SUITE_HARNESS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vti/alert</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ALERT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vti/dashboard</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DASHBOARD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vti/fuzz_test_serving</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FUZZ_TEST_SERVING-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vti/test_serving</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TEST_SERVING-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VTS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FUZZ-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/hal</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HAL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HAL-TRACE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/kernel</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-KERNEL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/nbu</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NBU-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/performance</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PERFORMANCE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/security</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VTS-TESTCASE-SECURITY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/test/vts-testcase/vndk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VTS-TESTCASE-VNDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/toolchain/binutils</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BINUTILS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/toolchain/pgo-profiles</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PGO-PROFILES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/acloud</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ACLOUD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/apksig</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APKSIG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/apkzlib</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APKZLIB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/dexter</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DEXTER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/external/fat32lib</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FAT32LIB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/external/gradle</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GRADLE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/loganalysis</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LOGANALYSIS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/metalava</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-METALAVA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/repohooks</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-REPOHOOKS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/test/connectivity</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TEST-CONNECTIVITY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/tradefederation/contrib</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CONTRIB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/tradefederation/core</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TRADEFEDERATION-CORE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/tools/vendor/google_prebuilts/arc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ARC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/codeaurora/commonsys/packages/apps/Dialer</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APPS-DIALER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/codeaurora/commonsys/telephony</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-COMMONSYS-TELEPHONY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/google_easel</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE_EASEL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/google_paintbox</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-GOOGLE_PAINTBOX-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/jrdtools</name>
+	<branch>refs/heads/qct-sdm429-la.um.6.6.2.r1-watt-v0.1-bsp</branch>
+	<baseline>SDM429-P-JRDTOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/commonsys/external/libnfc-nci</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LIBNFC-NCI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/commonsys/frameworks</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FRAMEWORKS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/commonsys/packages/apps/Nfc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-APPS-NFC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/halimpl</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HALIMPL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/hidlimpl</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HIDLIMPL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/nxp/opensource/interfaces/nfc</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-INTERFACES-NFC-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/audio</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENSOURCE-AUDIO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/audio-kernel</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-AUDIO-KERNEL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/bluetooth</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-COMMONSYS-BLUETOOTH-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/bluetooth_ext</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BLUETOOTH_EXT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/cryptfs_hw</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CRYPTFS_HW-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/dataservices</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-COMMONSYS-DATASERVICES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/dpm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-COMMONSYS-DPM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/fm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-COMMONSYS-FM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/commonsys/system/bt</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SYSTEM-BT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/core-modules</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CORE-MODULES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/core-utils</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CORE-UTILS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/data-ipa-cfg-mgr</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DATA-IPA-CFG-MGR-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/dataservices</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENSOURCE-DATASERVICES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/dpm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENSOURCE-DPM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/fm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENSOURCE-FM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/fst-manager</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FST-MANAGER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/healthd-ext</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-HEALTHD-EXT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/interfaces</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENSOURCE-INTERFACES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/location</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LOCATION-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/mmc-utils</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENSOURCE-MMC-UTILS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/power</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-POWER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/recovery-ext</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-RECOVERY-EXT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/softap</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SOFTAP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/thermal-engine</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENSOURCE-THERMAL-ENGINE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/time-services</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENSOURCE-TIME-SERVICES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/tools</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENSOURCE-TOOLS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/usb</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-USB-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wigig</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-OPENSOURCE-WIGIG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wlan/prima</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PRIMA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/opensource/wlan/utils/sigma-dut</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SIGMA-DUT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/PowerOffAlarm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-POWEROFFALARM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/SecProtect</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SECPROTECT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/SmartCardService</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-SMARTCARDSERVICE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/android-perf</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ANDROID-PERF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/biometrics</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-BIOMETRICS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/bluetooth</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-BLUETOOTH-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/bt</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-BT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/cne</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CNE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/common</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-COMMON-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/commonsys</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-COMMONSYS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/commonsys-intf</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-COMMONSYS-INTF-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/csm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-CSM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/data</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DATA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/diag</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-DIAG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/display</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-DISPLAY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/dpm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-DPM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fastcv</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FASTCV-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fastmmi</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FASTMMI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/fm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-FM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ftm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-FTM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/gps</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-GPS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ims-ship</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-IMS-SHIP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/interfaces</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-INTERFACES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/llvm-arm-toolchain-ship</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-LLVM-ARM-TOOLCHAIN-SHIP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mdm-helper</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MDM-HELPER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-audio</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MM-AUDIO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-audio-cal</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MM-AUDIO-CAL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-audio-external</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MM-AUDIO-EXTERNAL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-camera</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MM-CAMERA-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-camerasdk</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MM-CAMERASDK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-core</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MM-CORE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-osal</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MM-OSAL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-parser</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MM-PARSER-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-still</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MM-STILL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-video</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MM-VIDEO-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/mm-video-utils</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MM-VIDEO-UTILS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/modem-apis</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-MODEM-APIS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/nqnfc-firmware</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-NQNFC-FIRMWARE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/prebuilt_HY11</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PREBUILT_HY11-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCRIL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-data-hal</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCRIL-DATA-HAL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-hal</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCRIL-HAL-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qcril-qmi-services</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QCRIL-QMI-SERVICES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qdssagent</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QDSSAGENT-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qmi</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QMI-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qmi-framework</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QMI-FRAMEWORK-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/qrdplus</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-QRDPLUS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/remotefs</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-REMOTEFS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/resource-overlay</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-RESOURCE-OVERLAY-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/scve</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SCVE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/securemsm</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SECUREMSM-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/sensors</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SENSORS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ss-restart</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SS-RESTART-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ss-services</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-SS-SERVICES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/telephony-apps</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-TELEPHONY-APPS-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/thermal-engine</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-THERMAL-ENGINE-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/time-services</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-TIME-SERVICES-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/ultrasound</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-ULTRASOUND-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/vpp</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-VPP-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wfd</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-WFD-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wigig</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-WIGIG-P2.0</baseline>
+</project>
+<project>
+	<name>sdm450/vendor/qcom/proprietary/wlan</name>
+	<branch>refs/heads/sdm429-p-v2.0-dint</branch>
+	<baseline>SDM429-P-PROPRIETARY-WLAN-P2.0</baseline>
+</project>
+<project>
+        <name>sdm450/custo_wimdata_ng/wcustores</name>
+        <branch>refs/heads/sdm429-p-v2.0-dint</branch>
+        <baseline>SDM429-P-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+        <name>sdm450/custo_wimdata_ng/wlanguage</name>
+        <branch>refs/heads/sdm429-p-v2.0-dint</branch>
+        <baseline>SDM429-P-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+        <name>sdm450/custo_wimdata_ng/wprocedures</name>
+        <branch>refs/heads/sdm429-p-v2.0-dint</branch>
+        <baseline>SDM429-P-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+        <name>sdm450/makeperso</name>
+        <branch>refs/heads/sdm429-p-v2.0-dint</branch>
+        <baseline>SDM429-P-MAKEPERSO-P1.0</baseline>
+</project>
+</projects>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>genericapp_FRM/DataHub-Sdk</name>
+	<branch>refs/heads/TCTROM_03</branch>
+	<baseline>ROM-PROJECT</baseline>
+</project>
+<project>
+        <name>genericapp_FRM/DataHub-Demo</name>
+        <branch>refs/heads/TCTROM_03</branch>
+        <baseline>ROM-PROJECT</baseline>
+</project>
+<project>
+        <name>genericapp_FRM/DataHub-Doc</name>
+        <branch>refs/heads/TCTROM_03</branch>
+        <baseline>ROM-PROJECT</baseline>
+</project>
+
+<project>
+	<name>TCTROM/TctSdk</name>
+	<branch>refs/heads/TCTROM_Q_03</branch>
+	<baseline>ROM-PROJECT</baseline>
+</project>
+<project>
+        <name>TCTROM/DataHub-Provider</name>
+        <branch>refs/heads/TCTROM_03</branch>
+        <baseline>ROM-PROJECT</baseline>
+</project>
+<project>
+        <name>TCTROM/DataHub-UploadService</name>
+        <branch>refs/heads/TCTROM_03</branch>
+        <baseline>ROM-PROJECT</baseline>
+</project>
+<project>
+	<name>genericapp_FRM/themejar</name>
+	<branch>refs/heads/themejar_TCTROM_03</branch>
+	<baseline>ROM-PROJECT</baseline>
+</project>
+<project>
+	<name>genericapp_FRM/TctUI</name>
+	<branch>refs/heads/TctUI_TCTROM_03</branch>
+	<baseline>ROM-PROJECT</baseline>
+</project>
+<project>
+        <name>genericapp_FRM/AI_Platform</name>
+        <branch>refs/heads/AI_Platform_SmartAssistant_01</branch>
+        <baseline>ROM-PROJECT</baseline>
+</project>
+<project>
+	<name>TCTROM/Hermes</name>
+	<branch>refs/heads/TCTROM_03</branch>
+	<baseline>ROM-PROJECT</baseline>
+</project>
+<project>
+	<name>TCTROM/VoiceAssistant</name>
+	<branch>refs/heads/TCTROM_03</branch>
+	<baseline>ROM-PROJECT</baseline>
+</project>
+<project>
+	<name>TCTROM/SmartAssistant</name>
+	<branch>refs/heads/TCTROM_03</branch>
+	<baseline>ROM-PROJECT</baseline>
+</project>
+</projects>

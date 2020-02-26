@@ -1,0 +1,1608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+    <name>mtk6755m/dalvik</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DALVIK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/build</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BUILD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/libcore</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBCORE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/vendor/dolby</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DOLBY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/vendor/mediatek</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MEDIATEK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/vendor/jrdchz</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JRDCHZ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/device</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DEVICE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/system</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SYSTEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/ndk</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/abi</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/hardware</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-HARDWARE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/bionic</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BIONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/cts</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/frameworks</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-FRAMEWORKS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/development</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/sdk</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/kernel</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/modem</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MODEM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/art</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ART-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jhead</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JHEAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/svox</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/proguard</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PROGUARD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jdiff</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/apache-http</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/tremolo</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TREMOLO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/strace</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-STRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/dhcpcd</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DHCPCD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/webp</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-WEBP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/mtpd</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/skia</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SKIA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/bouncycastle</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libyuv</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBYUV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libpng</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBPNG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/clang</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CLANG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/apache-xml</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/liblzf</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBLZF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/guava</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GUAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/dnsmasq</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jpeg</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JPEG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/ipsec-tools</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/netcat</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NETCAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/blktrace</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/antlr</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ANTLR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/neven</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NEVEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jsr305</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JSR305-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/ppp</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libpcap</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libphonenumber</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/junit</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/wpa_supplicant_8</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/opencv</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-OPENCV-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jsilver</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JSILVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/llvm</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LLVM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/zlib</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ZLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/speex</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SPEEX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/srtp</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SRTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/mksh</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MKSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/eyes-free</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/nist-sip</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/safe-iop</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/kernel-headers</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/mesa3d</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MESA3D-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/bzip2</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BZIP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libgsm</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBGSM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/iproute2</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libxml2</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/oauth</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-OAUTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/bison</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BISON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/webrtc</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-WEBRTC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/protobuf</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/emma</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-EMMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/apache-harmony</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libvpx</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBVPX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/gtest</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GTEST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/tinyxml</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TINYXML-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/expat</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-EXPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/doclava</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/netperf</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NETPERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/sqlite</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/fdlibm</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-FDLIBM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/tcpdump</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/freetype</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-FREETYPE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/bsdiff</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BSDIFF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/giflib</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GIFLIB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libnfc-nxp</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBNFC-NXP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/tinyalsa</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TINYALSA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/tagsoup</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/sonivox</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SONIVOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/flac</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-FLAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/markdown</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/javassist</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/iptables</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-IPTABLES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/e2fsprogs</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/mockwebserver</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/easymock</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/esd</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ESD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/javasqlite</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/elfutils</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/fsck_msdos</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/valgrind</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-VALGRIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/xmlwriter</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/replicaisland</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/aac</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-AAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/chromium-trace</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/compiler-rt</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/dexmaker</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/eclipse-basebuilder</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ECLIPSE-BASEBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/eclipse-windowbuilder</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ECLIPSE-WINDOWBUILDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jmdns</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JMDNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libmtp</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBMTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libselinux</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBSELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libunwind</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libusb</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBUSB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libusb-compat</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/linux-tools-perf</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LINUX-TOOLS-PERF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/littlemock</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/mdnsresponder</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/hamcrest</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-HAMCREST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/regex-re2</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/sepolicy</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/smali</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SMALI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/zxing</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ZXING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/ant-glob</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libnfc-nci</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBNFC-NCI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libogg</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBOGG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libvorbis</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBVORBIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/mp4parser</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/naver-fonts</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/okhttp</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-OKHTTP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/tinyxml2</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TINYXML2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libcap-ng</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/xmp_toolkit</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/eigen</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-EIGEN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/harfbuzz_ng</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/lzma</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LZMA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/robolectric</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/droiddriver</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/android-clat</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/owasp</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-OWASP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/nanopb-c</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/timezonepicker-support</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libexif</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jsoncpp</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JSONCPP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/scrypt</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/ceres-solver</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CERES-SOLVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/noto-fonts</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/icu</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ICU-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/zopfli</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/glide</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GLIDE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/nfacct</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NFACCT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libcxx</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBCXX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/f2fs-tools</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libutf</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBUTF-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libcxxabi</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jsmn</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JSMN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/iputils</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-IPUTILS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libedit</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libhevc</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/ksoap2</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-KSOAP2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/nanohttpd</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/vixl</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-VIXL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libopus</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/pdfium</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PDFIUM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jemalloc</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/sfntly</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SFNTLY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/lldb</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LLDB-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/cmockery</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/fonttools</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libnl</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBNL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/chromium-libpac</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/ltrace</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LTRACE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/google-tv-pairing-protocol</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/deqp</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DEQP-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/tinycompress</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/objenesis</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/mockito</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MOCKITO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jarjar</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JARJAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/conscrypt</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/google-fonts</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GOOGLE-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/fio</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-FIO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/nist-pkits</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libvterm</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/openfst</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-OPENFST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/pcre</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PCRE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/providers/CallLogProvider</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/providers/BookmarkProvider</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/ExactCalculator</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Messaging</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MESSAGING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/CarrierConfig</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/roboto-fonts</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jmonkeyengine</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JMONKEYENGINE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/boringssl</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/lz4</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LZ4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/jetty</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-JETTY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/parameter-framework</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/marisa-trie</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MARISA-TRIE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/openssh</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-OPENSSH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/mockftpserver</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/toybox</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TOYBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/selinux</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SELINUX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/slf4j</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SLF4J-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/apache-commons-math</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/squashfs-tools</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/chromium-webview</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libdrm</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBDRM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/hyphenation-patterns</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/crcalc</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CRCALC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/android-mock</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ANDROID-MOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/androidplot</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libavc</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBAVC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/sonic</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SONIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libmpeg2</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/embunit</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-EMBUNIT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/libvncserver</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/vogar</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-VOGAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/v8</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-V8-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/gptfdisk</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/cblas</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CBLAS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/messageformat</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/drm_hwcomposer</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DRMHWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/google-breakpad</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GOOGLEBREAKPAD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/vboot_reference</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-VBOOTREFERENCE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/external/drm_gralloc</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DRMGRALLOC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/libnativehelper</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/pdk</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/bootable</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BOOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/providers/PartnerBookmarksProvider</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/providers/UserDictionaryProvider</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/providers/ApplicationsProvider</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/providers/CalendarProvider</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/providers/DownloadProvider</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/providers/ContactsProvider</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/providers/MediaProvider</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/providers/TelephonyProvider</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/providers/TvProvider</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/wallpapers/MagicSmoke</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MAGICSMOKE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/wallpapers/Galaxy4</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GALAXY4-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/wallpapers/PhaseBeam</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PHASEBEAM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/wallpapers/LivePicker</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/wallpapers/Basic</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/wallpapers/HoloSpiral</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-HOLOSPIRAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/wallpapers/NoiseField</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NOISEFIELD-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/inputmethods/LatinIME</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LATINIME-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/inputmethods/OpenWnn</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-OPENWNN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/CellBroadcastReceiver</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/BasicSmsReceiver</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Browser</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BROWSER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/CertInstaller</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/QuickSearchBox</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Music</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MUSIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Calculator</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CALCULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Contacts</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CONTACTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/PackageInstaller</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Gallery</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GALLERY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/SpareParts</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/KeyChain</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/HTMLViewer</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Protips</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PROTIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Tag</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TAG-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Stk</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-STK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Nfc</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NFC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/SoundRecorder</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Launcher2</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/MusicFX</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MUSICFX-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Provision</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PROVISION-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Email</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-EMAIL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Calendar</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CALENDAR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Settings</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Bluetooth</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Exchange</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-EXCHANGE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/SpeechRecorder</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SPEECHRECORDER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/LegacyCamera</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/DeskClock</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/screensavers/Basic</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-BASIC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/screensavers/PhotoTable</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/screensavers/WebView</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Gallery2</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GALLERY2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Dialer</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DIALER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Camera2</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CAMERA2-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Launcher3</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/OneTimeInitializer</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/TvSettings</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Camera</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CAMERA-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/ContactsCommon</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-CONTACTSCOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/ManagedProvisioning</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/InCallUI</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-INCALLUI-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/PhoneCommon</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/Terminal</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TERMINAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/apps/FMRadio</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-FMRADIO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/services</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SERVICES-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/packages/experimental</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/android-emulator</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/devtools</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/eclipse</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ECLIPSE-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/gradle-plugin</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/libs</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LIBS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/maven_repo</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MAVEN_REPO-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/misc</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MISC-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/ndk</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-NDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/python</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-PYTHON-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/qemu-kernel</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/sdk</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-SDK-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/tools</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/clang/darwin-x86</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/clang/linux-x86</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/gcc/darwin-x86/aarch64</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-AARCH64-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/gcc/darwin-x86/arm</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ARM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/gcc/darwin-x86/host</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-HOST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/gcc/darwin-x86/mips</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/gcc/darwin-x86/x86</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/gcc/linux-x86/aarch64</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-AARCH64-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/gcc/linux-x86/arm</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-ARM-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/gcc/linux-x86/host</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-HOST-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/gcc/linux-x86/mips</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-MIPS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/prebuilts/gcc/linux-x86/x86</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-X86-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/docs</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TEMP-DOCS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/trusty</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TRUSTY-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/developers</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-DEVELOPERS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/platform_testing</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-PLATFORM-TESTING-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/tools</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-TOOLS-P1.0</baseline>
+</project>
+<project>
+    <name>mtk6755m/vendor/jrdcom</name>
+    <branch>refs/heads/shine-plus-androidM-v0.6-BSPOnly</branch>
+    <baseline>SHINE-PLUS-ANDROIDM-JRDCOM-P1.0</baseline>
+</project>
+</projects>

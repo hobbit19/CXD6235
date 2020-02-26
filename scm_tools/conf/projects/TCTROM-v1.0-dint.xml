@@ -1,0 +1,3029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+<project>
+	<name>aosp/build/make</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MAKE-P1.0</baseline>
+</project>
+<project>
+	<name>genericapp/custo_wimdata_ng/wcustores</name>
+	<branch>refs/heads/wcustores_TCTROM_01</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WCUSTORES-P1.0</baseline>
+</project>
+<project>
+	<name>genericapp/custo_wimdata_ng/wlanguage</name>
+	<branch>refs/heads/wlanguage_TCTROM_01</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WLANGUAGE-P1.0</baseline>
+</project>
+<project>
+	<name>genericapp/custo_wimdata_ng/wprocedures</name>
+	<branch>refs/heads/wprocedures_TCTROM_01</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WPROCEDURES-P1.0</baseline>
+</project>
+<project>
+	<name>genericapp/jrdcom</name>
+	<branch>refs/heads/jrdcom_TCTROM_01</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JRDCOM-P1.0</baseline>
+</project>
+<project>
+	<name>genericapp/makeperso</name>
+	<branch>refs/heads/makeperso_TCTROM_01</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MAKEPERSO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/vendor/partner_gms</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VENDOR-PARTNER-GMS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/art</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ART-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/bionic</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BIONIC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/bootable/recovery</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-RECOVERY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/build/blueprint</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BLUEPRINT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/build/kati</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-KATI-P1.0</baseline>
+</project>
+
+<project>
+	<name>aosp/build/soong</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SOONG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/compatibility/cdd</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CDD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/cts</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/dalvik</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DALVIK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/developers/build</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DEVELOPERS-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/developers/demos</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DEMOS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/developers/samples/android</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SAMPLES-ANDROID-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/development</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DEVELOPMENT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/asus/fugu</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FUGU-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/asus/fugu-kernel</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FUGU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/common</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DEVICE-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/arm64</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ARM64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/armv7-a-neon</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/car</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GENERIC-CAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/common</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GENERIC-COMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/goldfish</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GOLDFISH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/goldfish-opengl</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GOLDFISH-OPENGL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-arm64</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MINI-EMULATOR-ARM64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-armv7-a-neon</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MINI-EMULATOR-ARMV7-A-NEON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-mips</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MINI-EMULATOR-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-mips64</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MINI-EMULATOR-MIPS64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-x86</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MINI-EMULATOR-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mini-emulator-x86_64</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MINI-EMULATOR-X86_64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mips</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MIPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/mips64</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MIPS64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/qemu</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-QEMU-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/uml</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-UML-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/x86</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/generic/x86_64</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-X86_64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/accessory/arduino</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ARDUINO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/accessory/demokit</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DEMOKIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/atv</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ATV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/contexthub</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CONTEXTHUB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/dragon</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DRAGON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/dragon-kernel</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DRAGON-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/marlin</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MARLIN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/marlin-kernel</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MARLIN-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/muskie</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MUSKIE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/taimen</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TAIMEN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/vrservices</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VRSERVICES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/wahoo</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WAHOO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/google/wahoo-kernel</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WAHOO-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/huawei/angler</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ANGLER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/huawei/angler-kernel</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ANGLER-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/lge/bullhead</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BULLHEAD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/lge/bullhead-kernel</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BULLHEAD-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/bootloader/OpenPlatformPkg</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OPENPLATFORMPKG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/bootloader/arm-trusted-firmware</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ARM-TRUSTED-FIRMWARE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/bootloader/edk2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EDK2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/hikey</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HIKEY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/linaro/hikey-kernel</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HIKEY-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/device/sample</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SAMPLE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/docs/source.android.com</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SOURCE.ANDROID.COM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ImageMagick</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-IMAGEMAGICK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/Microsoft-GSL</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MICROSOFT-GSL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/aac</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-AAC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/abi-compliance-checker</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ABI-COMPLIANCE-CHECKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/abi-dumper</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ABI-DUMPER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/adt-infra</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ADT-INFRA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/android-clat</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ANDROID-CLAT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/androidplot</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ANDROIDPLOT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ant-glob</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ANT-GLOB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/antlr</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ANTLR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-commons-math</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APACHE-COMMONS-MATH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-harmony</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APACHE-HARMONY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-http</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APACHE-HTTP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/apache-xml</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APACHE-XML-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/archive-patcher</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ARCHIVE-PATCHER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/arm-neon-tests</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ARM-NEON-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/autotest</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-AUTOTEST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/avb</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-AVB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bart</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BART-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bison</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BISON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/blktrace</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BLKTRACE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/boringssl</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BORINGSSL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bouncycastle</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BOUNCYCASTLE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/brotli</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BROTLI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bsdiff</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BSDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/bzip2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BZIP2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/c-ares</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-C-ARES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/caliper</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CALIPER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cblas</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CBLAS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/chromium-libpac</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CHROMIUM-LIBPAC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/chromium-trace</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CHROMIUM-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/chromium-webview</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CHROMIUM-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/clang</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CLANG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cmockery</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CMOCKERY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/compiler-rt</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-COMPILER-RT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/conscrypt</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CONSCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/crcalc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CRCALC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/cros/system_api</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SYSTEM_API-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/curl</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CURL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dagger2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DAGGER2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/deqp</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EXTERNAL-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/desugar</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DESUGAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/devlib</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DEVLIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dexmaker</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DEXMAKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dhcpcd-6.8.2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DHCPCD-6.8.2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dlmalloc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DLMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dng_sdk</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DNG_SDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dnsmasq</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DNSMASQ-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/doclava</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DOCLAVA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/donuts</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DONUTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/drm_hwcomposer</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DRM_HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/droiddriver</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DROIDDRIVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/drrickorang</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DRRICKORANG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/dtc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DTC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/e2fsprogs</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-E2FSPROGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/easymock</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EASYMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/eigen</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EIGEN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/elfutils</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ELFUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/emma</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EMMA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/esd</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ESD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/expat</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EXPAT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/eyes-free</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EYES-FREE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/f2fs-tools</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-F2FS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fdlibm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FDLIBM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fec</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FEC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fio</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FIO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/flac</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FLAC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/flatbuffers</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FLATBUFFERS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fmtlib</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FMTLIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fonttools</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FONTTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/freetype</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FREETYPE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/fsck_msdos</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FSCK_MSDOS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/gemmlowp</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GEMMLOWP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/giflib</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GIFLIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/glide</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GLIDE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-api-services-storage</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GOOGLE-API-SERVICES-STORAGE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-benchmark</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GOOGLE-BENCHMARK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-breakpad</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GOOGLE-BREAKPAD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/carrois-gothic-sc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CARROIS-GOTHIC-SC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/coming-soon</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-COMING-SOON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/cutive-mono</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CUTIVE-MONO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-fonts/dancing-script</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DANCING-SCRIPT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/google-tv-pairing-protocol</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GOOGLE-TV-PAIRING-PROTOCOL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/googletest</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GOOGLETEST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/gptfdisk</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GPTFDISK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/guava</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GUAVA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/guice</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GUICE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/hamcrest</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HAMCREST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/harfbuzz_ng</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HARFBUZZ_NG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/hyphenation-patterns</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HYPHENATION-PATTERNS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/icu</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ICU-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ims</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EXTERNAL-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iproute2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-IPROUTE2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ipsec-tools</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-IPSEC-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iptables</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-IPTABLES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iputils</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-IPUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/iw</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-IW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jacoco</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JACOCO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jarjar</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JARJAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/javasqlite</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JAVASQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/javassist</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JAVASSIST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jcommander</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JCOMMANDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jdiff</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JDIFF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jemalloc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JEMALLOC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jline</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JLINE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jmdns</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JMDNS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsilver</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JSILVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsmn</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JSMN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsoncpp</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JSONCPP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsr305</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JSR305-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/jsr330</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JSR330-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/junit</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JUNIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/junit-params</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JUNIT-PARAMS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/kernel-headers</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-KERNEL-HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/kmod</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-KMOD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ksoap2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-KSOAP2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libavc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBAVC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libbackup</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBBACKUP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libbrillo</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBBRILLO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcap</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBCAP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcap-ng</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBCAP-NG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libchrome</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBCHROME-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libconstrainedcrypto</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBCONSTRAINEDCRYPTO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcups</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBCUPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcxx</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBCXX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libcxxabi</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBCXXABI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libdaemon</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBDAEMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libdivsufsort</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBDIVSUFSORT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libdrm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBDRM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libedit</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EXTERNAL-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libese</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBESE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libevent</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBEVENT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libexif</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBEXIF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libgsm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBGSM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libhevc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBHEVC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libjpeg-turbo</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBJPEG-TURBO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libldac</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBLDAC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/liblzf</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBLZF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libmicrohttpd</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBMICROHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libmojo</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBMOJO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libmpeg2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBMPEG2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libmtp</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBMTP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libnetfilter_conntrack</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBNETFILTER_CONNTRACK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libnfnetlink</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBNFNETLINK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libnl</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBNL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libogg</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBOGG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libopus</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBOPUS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libpcap</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBPCAP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libphonenumber</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBPHONENUMBER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libpng</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBPNG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libtextclassifier</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBTEXTCLASSIFIER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libunwind</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBUNWIND-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libunwind_llvm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBUNWIND_LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libusb</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBUSB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libusb-compat</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBUSB-COMPAT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libvncserver</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBVNCSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libvpx</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBVPX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libvterm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBVTERM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libxml2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBXML2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/libyuv</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBYUV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/linux-kselftest</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LINUX-KSELFTEST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lisa</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LISA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/littlemock</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LITTLEMOCK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lld</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LLD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/llvm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lmfit</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LMFIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ltp</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LTP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lz4</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LZ4-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/lzma</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LZMA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/markdown</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MARKDOWN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mdnsresponder</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MDNSRESPONDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mesa3d</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MESA3D-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/messageformat</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MESSAGEFORMAT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/minijail</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MINIJAIL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mksh</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MKSH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mmc-utils</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MMC-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mockftpserver</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MOCKFTPSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mockito</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MOCKITO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mockwebserver</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MOCKWEBSERVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/modp_b64</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MODP_B64-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mp4parser</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MP4PARSER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/mtpd</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MTPD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nanohttpd</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NANOHTTPD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nanopb-c</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NANOPB-C-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/naver-fonts</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NAVER-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/netcat</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NETCAT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/netperf</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NETPERF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/neven</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NEVEN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nfacct</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NFACCT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nist-pkits</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NIST-PKITS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/nist-sip</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NIST-SIP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/noto-fonts</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/oauth</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OAUTH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/objenesis</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OBJENESIS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/okhttp</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OKHTTP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/opencv</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OPENCV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/openssh</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OPENSSH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/owasp/sanitizer</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SANITIZER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/parameter-framework</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PARAMETER-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/pcre</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PCRE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/pdfium</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PDFIUM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/piex</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PIEX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ply</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PLY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/ppp</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PPP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/proguard</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PROGUARD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/protobuf</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PROTOBUF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/cpython2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CPYTHON2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/python/cpython3</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CPYTHON3-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/r8</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-R8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/regex-re2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-REGEX-RE2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/replicaisland</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-REPLICAISLAND-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/rmi4utils</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-RMI4UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/robolectric</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ROBOLECTRIC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/roboto-fonts</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ROBOTO-FONTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/rootdev</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ROOTDEV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/safe-iop</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SAFE-IOP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/scrypt</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SCRYPT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/seccomp-tests</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SECCOMP-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/selinux</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SELINUX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sfntly</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SFNTLY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/shflags</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SHFLAGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/skia</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SKIA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sl4a</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SL4A-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/slf4j</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SLF4J-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/smali</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SMALI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/snakeyaml</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SNAKEYAML-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sonic</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SONIC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sonivox</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SONIVOX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/speex</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SPEEX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/spirv-llvm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SPIRV-LLVM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/sqlite</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SQLITE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/squashfs-tools</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SQUASHFS-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/strace</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-STRACE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/stressapptest</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-STRESSAPPTEST-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/svox</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SVOX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/swiftshader</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SWIFTSHADER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/syslinux</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SYSLINUX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tagsoup</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TAGSOUP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tcpdump</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TCPDUMP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/testng</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TESTNG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/timezonepicker-support</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TIMEZONEPICKER-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinyalsa</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TINYALSA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinycompress</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TINYCOMPRESS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinyxml</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TINYXML-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tinyxml2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TINYXML2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/toolchain-utils</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TOOLCHAIN-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/toybox</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TOYBOX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tpm2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TPM2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/trappy</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TRAPPY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/tremolo</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TREMOLO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/unicode</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-UNICODE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/universal-tween-engine</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-UNIVERSAL-TWEEN-ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/v4l2_codec2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-V4L2_CODEC2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/v8</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-V8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/valgrind</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VALGRIND-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vboot_reference</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VBOOT_REFERENCE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vixl</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VIXL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vogar</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VOGAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/volley</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VOLLEY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/vulkan-validation-layers</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VULKAN-VALIDATION-LAYERS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/walt</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WALT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/webp</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WEBP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/webrtc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WEBRTC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/wpa_supplicant_8</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WPA_SUPPLICANT_8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/wycheproof</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WYCHEPROOF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/x264</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-X264-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/xmlrpcpp</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-XMLRPCPP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/xmlwriter</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-XMLWRITER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/xmp_toolkit</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-XMP_TOOLKIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/xz-embedded</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-XZ-EMBEDDED-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/zlib</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ZLIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/zopfli</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ZOPFLI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/external/zxing</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ZXING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/av</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-AV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/base</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FRAMEWORKS-BASE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/compile/libbcc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBBCC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/compile/mclinker</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MCLINKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/compile/slang</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SLANG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/data-binding</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DATA-BINDING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/ex</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/hardware/interfaces</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/layoutlib</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LAYOUTLIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/minikin</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MINIKIN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/ml</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ML-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/multidex</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MULTIDEX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/native</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NATIVE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/bitmap</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BITMAP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/bluetooth</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OPT-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/calendar</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OPT-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/chips</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CHIPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/colorpicker</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-COLORPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/datetimepicker</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DATETIMEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/inputconnectioncommon</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-INPUTCONNECTIONCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/inputmethodcommon</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-INPUTMETHODCOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/ethernet</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ETHERNET-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/ims</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NET-IMS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/lowpan</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LOWPAN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/voip</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VOIP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/net/wifi</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WIFI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/photoviewer</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PHOTOVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/setupwizard</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SETUPWIZARD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/telephony</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OPT-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/timezonepicker</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TIMEZONEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/opt/vcard</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VCARD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/rs</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-RS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/support</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SUPPORT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/webview</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FRAMEWORKS-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/frameworks/wilhelm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WILHELM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/akm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-AKM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/broadcom/libbt</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBBT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/broadcom/wlan</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BROADCOM-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/google/apf</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/google/easel</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EASEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/audio_media</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-AUDIO_MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/bootstub</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BOOTSTUB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/bd_prov</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BD_PROV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/libmix</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBMIX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/libstagefrighthw</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBSTAGEFRIGHTHW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/libva</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBVA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/libwsbm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBWSBM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/omx-components</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OMX-COMPONENTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/utils</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-UTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/common/wrs_omxil_core</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WRS_OMXIL_CORE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/img/hwcomposer</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HWCOMPOSER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/img/psb_headers</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PSB_HEADERS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/img/psb_video</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PSB_VIDEO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/intel/sensors</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SENSORS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/interfaces</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/invensense</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-INVENSENSE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/libhardware</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBHARDWARE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/libhardware_legacy</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBHARDWARE_LEGACY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/marvell/bt</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MARVELL-BT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/audio</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-AUDIO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/bootctrl</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BOOTCTRL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/bt</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-QCOM-BT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/camera</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/data/ipacfg-mgr</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-IPACFG-MGR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/display</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DISPLAY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/gps</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/keymaster</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-QCOM-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/media</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-QCOM-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8960</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MSM8960-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8994</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MSM8994-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8996</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MSM8996-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8998</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MSM8998-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8x09</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MSM8X09-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8x26</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MSM8X26-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8x27</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MSM8X27-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/msm8x84</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MSM8X84-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/power</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-POWER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/qcom/wlan</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-QCOM-WLAN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/hardware/ril</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-RIL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/kernel/tests</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TESTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/libcore</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBCORE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/libnativehelper</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBNATIVEHELPER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/BasicSmsReceiver</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BASICSMSRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Bluetooth</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APPS-BLUETOOTH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Browser2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BROWSER2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Calendar</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APPS-CALENDAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Camera2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CAMERA2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Dialer</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CAR-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Hvac</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HVAC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/LatinIME</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CAR-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/LensPicker</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LENSPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/LocalMediaPlayer</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LOCALMEDIAPLAYER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Media</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CAR-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Messenger</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MESSENGER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Overview</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OVERVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Radio</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-RADIO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Settings</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CAR-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/Stream</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-STREAM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/SystemUpdater</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SYSTEMUPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/UserManagement</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-USERMANAGEMENT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Car/libs</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/CarrierConfig</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CARRIERCONFIG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/CellBroadcastReceiver</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CELLBROADCASTRECEIVER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/CertInstaller</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CERTINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Contacts</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CONTACTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/DeskClock</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DESKCLOCK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/DevCamera</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DEVCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Dialer</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APPS-DIALER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/DocumentsUI</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DOCUMENTSUI-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Email</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/EmergencyInfo</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EMERGENCYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/ExactCalculator</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EXACTCALCULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Gallery</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GALLERY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Gallery2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GALLERY2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/HTMLViewer</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HTMLVIEWER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/KeyChain</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-KEYCHAIN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Launcher2</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LAUNCHER2-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Launcher3</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LAUNCHER3-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/LegacyCamera</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LEGACYCAMERA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/ManagedProvisioning</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MANAGEDPROVISIONING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Messaging</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MESSAGING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Music</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MUSIC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/MusicFX</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MUSICFX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Nfc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APPS-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/OneTimeInitializer</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ONETIMEINITIALIZER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/PackageInstaller</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PACKAGEINSTALLER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/PhoneCommon</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PHONECOMMON-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Protips</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PROTIPS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Provision</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PROVISION-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/QuickSearchBox</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-QUICKSEARCHBOX-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SafetyRegulatoryInfo</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SAFETYREGULATORYINFO-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Settings</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APPS-SETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SoundRecorder</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SOUNDRECORDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/SpareParts</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SPAREPARTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Stk</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-STK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/StorageManager</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-STORAGEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TV</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Tag</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TAG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Terminal</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TERMINAL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/Test/connectivity</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TEST-CONNECTIVITY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TimeZoneData</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TIMEZONEDATA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TimeZoneUpdater</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TIMEZONEUPDATER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/TvSettings</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TVSETTINGS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/UnifiedEmail</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-UNIFIEDEMAIL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/apps/WallpaperPicker</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WALLPAPERPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/experimental</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EXPERIMENTAL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/inputmethods/LatinIME</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-INPUTMETHODS-LATINIME-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/inputmethods/OpenWnn</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-OPENWNN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/ApplicationsProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APPLICATIONSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/BlockedNumberProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BLOCKEDNUMBERPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/BookmarkProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BOOKMARKPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/CalendarProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CALENDARPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/CallLogProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CALLLOGPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/ContactsProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CONTACTSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/DownloadProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DOWNLOADPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/MediaProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MEDIAPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/PartnerBookmarksProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PARTNERBOOKMARKSPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/TelephonyProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TELEPHONYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/TvProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TVPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/providers/UserDictionaryProvider</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-USERDICTIONARYPROVIDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/screensavers/Basic</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BASIC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/screensavers/PhotoTable</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PHOTOTABLE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/screensavers/WebView</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SCREENSAVERS-WEBVIEW-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/BuiltInPrintService</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BUILTINPRINTSERVICE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Car</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SERVICES-CAR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Mms</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MMS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/NetworkRecommendation</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NETWORKRECOMMENDATION-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Telecomm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TELECOMM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/services/Telephony</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SERVICES-TELEPHONY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/packages/wallpapers/LivePicker</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIVEPICKER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/pdk</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/platform_testing</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PLATFORM_TESTING-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/abi-dumps/ndk</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ABI-DUMPS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/abi-dumps/vndk</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ABI-DUMPS-VNDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/android-emulator</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ANDROID-EMULATOR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/build-tools</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BUILD-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/checkcolor</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CHECKCOLOR-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/checkstyle</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CHECKSTYLE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/clang/host/darwin-x86</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HOST-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/clang/host/linux-x86</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HOST-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/deqp</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PREBUILTS-DEQP-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/devtools</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DEVTOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-AARCH64-AARCH64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ARM-ARM-EABI-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ARM-ARM-LINUX-ANDROIDEABI-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-I686-APPLE-DARWIN-4.2.1-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MIPS-MIPS64EL-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-X86-X86_64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-AARCH64-AARCH64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ARM-ARM-EABI-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ARM-ARM-LINUX-ANDROIDEABI-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-X86_64-LINUX-GLIBC2.11-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-X86_64-LINUX-GLIBC2.15-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-X86_64-W64-MINGW32-4.8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MIPS-MIPS64EL-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-X86-X86_64-LINUX-ANDROID-4.9-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gdb/darwin-x86</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GDB-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gdb/linux-x86</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GDB-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/go/darwin-x86</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GO-DARWIN-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/go/linux-x86</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GO-LINUX-X86-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/gradle-plugin</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GRADLE-PLUGIN-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/jdk/jdk8</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-JDK8-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/libs/libedit</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBS-LIBEDIT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/maven_repo/android</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MAVEN_REPO-ANDROID-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/maven_repo/bumptech</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BUMPTECH-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/misc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MISC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/ndk</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PREBUILTS-NDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/python/darwin-x86/2.7.5</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-DARWIN-X86-2.7.5-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/python/linux-x86/2.7.5</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LINUX-X86-2.7.5-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/qemu-kernel</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-QEMU-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/sdk</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PREBUILTS-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/prebuilts/tools</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TOOLS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/sdk</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/bt</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SYSTEM-BT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/ca-certificates</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CA-CERTIFICATES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/chre</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CHRE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/connectivity/wificond</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WIFICOND-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/connectivity/wifilogd</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-WIFILOGD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/core</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SYSTEM-CORE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/extras</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-EXTRAS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/gatekeeper</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GATEKEEPER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/hardware/interfaces</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HARDWARE-INTERFACES-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/hwservicemanager</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HWSERVICEMANAGER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/keymaster</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SYSTEM-KEYMASTER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libfmq</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBFMQ-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libhidl</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBHIDL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libhwbinder</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBHWBINDER-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libufdt</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBUFDT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/libvintf</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LIBVINTF-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/media</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SYSTEM-MEDIA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/netd</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NETD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/nfc</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SYSTEM-NFC-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/nvram</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-NVRAM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/security</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SYSTEM-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/sepolicy</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SEPOLICY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/timezone</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TIMEZONE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/tools/aidl</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-AIDL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/tools/hidl</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HIDL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/tpm</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TPM-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/update_engine</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-UPDATE_ENGINE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/system/vold</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VOLD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/framework</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FRAMEWORK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/sts</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-STS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VTS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/fuzz</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FUZZ-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/hal</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HAL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/hal-trace</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-HAL-TRACE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/kernel</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-KERNEL-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/performance</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-PERFORMANCE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/security</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VTS-TESTCASE-SECURITY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/test/vts-testcase/vndk</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-VTS-TESTCASE-VNDK-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/toolchain/binutils</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-BINUTILS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/adt/idea</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-ADT-IDEA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/apksig</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-APKSIG-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/base</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TOOLS-BASE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/build</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TOOLS-BUILD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/external/fat32lib</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-FAT32LIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/external/gradle</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-GRADLE-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/idea</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TOOLS-IDEA-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/loganalysis</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-LOGANALYSIS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/motodev</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-MOTODEV-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/repohooks</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-REPOHOOKS-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/studio/cloud</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CLOUD-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/swt</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-SWT-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/test/connectivity</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TEST-CONNECTIVITY-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/tradefederation/contrib</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-CONTRIB-P1.0</baseline>
+</project>
+<project>
+	<name>aosp/tools/tradefederation/core</name>
+	<branch>refs/heads/TCTROM-v1.0-dint</branch>
+	<baseline>ROM-ANDROID-8.1-R33-TRADEFEDERATION-CORE-P1.0</baseline>
+</project>
+</projects>
