@@ -1,0 +1,112 @@
+第三方APK集成, Android.mk的部分宏要求:
+
+GMS根据他们的集成文档．第三方apk, 如果没有特殊要求，请统一按照a的设置方法， 如果出现签名方面的异常情况(比如2.2 没有v1签名只有v2签名的应用)，可以按照a.b.c规则集成．统一按照a集成会丢失v2,v3签名信息.MIBC/ROM-APP2应用需要严格按照：MIBC/ROM-APP2应用集成规范.
+a.只有v1为true
+
+LOCAL_CERTIFICATE:= PRESIGNED
+#must not set LOCAL_REPLACE_PREBUILT_APK_INSTALLED
+
+b. v2,v3其中只要有一个为true, 其中动态库压缩了(defN)
+
+LOCAL_CERTIFICATE:= PRESIGNED
+LOCAL_REPLACE_PREBUILT_APK_INSTALLED := $(LOCAL_PATH)/$(LOCAL_SRC_FILES)
+LOCAL_PREBUILT_JNI_LIBS := lib/$(my_src_arch)/libbarhopper.so
+#TODO patch 
+#LOCAL_PREBUILT_JNI_LIBS := @lib/$(my_src_arch)/libbarhopper.so
+
+c.v2,v3其中只要有一个为true, 其中动态库没有压缩(stor), 或者没有动态库
+
+LOCAL_CERTIFICATE:= PRESIGNED
+LOCAL_REPLACE_PREBUILT_APK_INSTALLED := $(LOCAL_PATH)/$(LOCAL_SRC_FILES)
+
+apk签名及动态库特征判定方法
+v1,v2,v3判断标准:v3为true,是v3签名
+
+apksigner verify -v --print-certs  GalleryN_Global_v8.2.S.0.S091.0_v3_signed_platformkey_alldpi.apk 
+Verifies
+Verified using v1 scheme (JAR signing): true
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Number of signers: 1
+Signer #1 certificate DN: EMAILADDRESS=android@tcl.com, CN=TCL-platform, OU=www.tcl.com, O=TCT, L=Zhongkai-Hi-Tech-Zone, ST=Huizhou, C=CN
+Signer #1 certificate SHA-256 digest: 228b9b34992235ff4efa72f771f79a48ca8db679920fcfd8ae8fe3e25a7a4852
+Signer #1 certificate SHA-1 digest: 514a3d615efaa1dd2f38c6c50ebadd21b9ecef1f
+Signer #1 certificate MD5 digest: 6716825da8cce824ccfff50689018715
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 02f26ad29efe3c505d5096eb10913f5d71b13174845ddbb5d0a6db6785d4dfbc
+Signer #1 public key SHA-1 digest: c31cf8f49383fca5728c8a110a11eeab96f1f004
+Signer #1 public key MD5 digest: 0c2e55949efcf646b6eae27dd9a226c1
+
+没有v1签名只有v2签名的应用
+
+#检测v1签名详细信息
+jarsigner -verify -verbose:summary J7Launcher-0.2.10.916-release.apk
+ 
+        6072 Fri Nov 30 00:00:00 CST 1979 AndroidManifest.xml (and 1126 more)
+          87 Fri Nov 30 00:00:00 CST 1979 META-INF/MANIFEST.MF
+ 
+  s = signature was verified 
+  m = entry is listed in manifest
+  k = at least one certificate was found in keystore
+  i = at least one certificate was found in identity scope
+ 
+jar is unsigned.
+ 
+#Android检测v2,v3签名详细信息
+apksigner verify -v --print-certs  J7Launcher-0.2.10.916-release.apk
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Number of signers: 1
+Signer #1 certificate DN: CN=Build Master, OU=SCM, O=GreatCall, L=San Diego, ST=California, C=US
+Signer #1 certificate SHA-256 digest: a1b024270617761488e7134e75ac00d010003cd979f2bdb38e7571c108022ded
+Signer #1 certificate SHA-1 digest: f6e87bf12b42b30d30fd4a91dd8b91b192f9547c
+Signer #1 certificate MD5 digest: e7f6e5fd17f487eca83011de15fd16aa
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 3d78b1f897bf8f5360051ae4d71ac39a226df67c6753daa562402bdbcf29a34a
+Signer #1 public key SHA-1 digest: ccbcdd8255afc2aa0f2b2bf0852a651bad769a23
+Signer #1 public key MD5 digest: 24c568e6e827ff7f41e6718ec6c6c6a8
+
+应用中动态库是压缩的形式:关键字(defN)
+
+zipinfo Photos_arm64.apk |grep  -e 'lib.*.so$'
+-rw----     2.0 fat  3823360 bl defN 09-Jan-01 00:00 lib/arm64-v8a/libcronet.76.0.3809.21.so
+-rw----     2.0 fat    64824 bl defN 09-Jan-01 00:00 lib/arm64-v8a/libfilterframework_jni.so
+-rw----     2.0 fat    90184 bl defN 09-Jan-01 00:00 lib/arm64-v8a/libflacJNI.so
+-rw----     2.0 fat   246728 bl defN 09-Jan-01 00:00 lib/arm64-v8a/libframesequence.so
+-rw----     2.0 fat 29826584 bl defN 09-Jan-01 00:00 lib/arm64-v8a/libnative.so
+-rw----     2.0 fat    17272 bl defN 09-Jan-01 00:00 lib/arm64-v8a/libphotos_release_alldpi_bytecode.so
+
+应用中动态库是没有压缩:关键字(stor)
+
+zipinfo   Chrome_arm64.apk |grep  -e 'lib.*.so$'
+-rw----     1.0 fat    10696 bx stor 09-Jan-01 00:00 lib/arm64-v8a/libcrashpad_handler_trampoline.so
+-rw----     1.0 fat 60184384 bx stor 09-Jan-01 00:00 lib/arm64-v8a/libmonochrome.so
+-rw----     1.0 fat     5812 bx stor 09-Jan-01 00:00 lib/armeabi-v7a/libcrashpad_handler_trampoline.so
+-rw----     1.0 fat 49485196 bx stor 09-Jan-01 00:00 lib/armeabi-v7a/libmonochrome.so
+
+apksigner 工具下载链接为build-tools, 解压后可以找到29.0.0-rc3/apksigner
+
+
+
+GAPP-AOTA 应用获得platform权限的方案
+
+    Google Android P 平台开始支持签名方案
+    由于历史原因，项目需要支持MIBC/ROM-APP2 需要platform权限的应用获得platform权限。
+
+    原来的实现方式，给framework中的apk签名验证逻辑，加入我们的patch.
+    现在的实现方式，不需要给framework中的apk签名验证逻辑, 加入我们的patch了。而是应用Android P的V3的签名
+
+"'bash repack_apk_so ' + args.infile", 
+"'bash apksigner rotate --out ' + args.outlineage + ' --old-signer --key TCT_releasekeys/platform.pk8 --cert TCT_releasekeys/platform.x509.pem --key-pass file:tct_keyfile --new-signer --key tcl_releasekeys/platform.pk8 --cert tcl_releasekeys/platform.x509.pem --key-pass file:keyfile'", 
+"'bash apksigner sign --v1-signing-enabled --v2-signing-enabled --key TCT_releasekeys/platform.pk8 --cert TCT_releasekeys/platform.x509.pem --key-pass file:tct_keyfile --next-signer --key tcl_releasekeys/platform.pk8 --cert tcl_releasekeys/platform.x509.pem --key-pass file:keyfile --lineage ' + args.outlineage + ' --in ' + args.infile + ' --out ' + args.outfile"
+
+    Note:
+
+    通过以上三步签名的应用，在Android P 之后(包括Android P)的项目(项目的platform key 为 tcl_releasekeys/platform.pk8)中能够获得platform权限。在Android P之前的项目(项目的platform key 为TCT_releasekeys/platform.pk8)也可以获得platform权限.
+    TCT_releasekeys/platform.* 这个为旧的platform key,issuer= /C=CN/ST=Shanghai/L=Zhangjiang-Hi-Tech-Park/O=TCT/OU=www.tcl.com/CN=TCL-platform/emailAddress=android@tcl.com.
+    tcl_releasekeys/platform.* 这个为新的platform key, issuer= /C=CN/ST=Huizhou/L=Zhongkai-Hi-Tech-Zone/O=TCT/OU=www.tcl.com/CN=TCL-platform/emailAddress=android@tcl.com
+    V3 签名的GAPP应用，可以Google Play升级到老的项目，也可以升级到新的项目中．
